@@ -1,0 +1,14 @@
+4/26/26, 6:39 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	       6	   44	                    179	                   214	     1	
+Remaining:       	       6	   44	                    179	                   214	     1	
+Unique:          	       6	   44	                    179	                   214	     1	
+Unique Remaining:	       6	   44	                    179	                   214	     1	
+
+
+Individual File Statistics:
+
+File Name        	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+game_messages.csv	             6	                 6	              6	                        6	         44	             44	          44	                    44	                          179	                              179	                           179	                                     179	                         214	                             214	                          214	                                    214	

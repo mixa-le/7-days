@@ -38,8 +38,7 @@
 ;;;I can't sleep now, I have to get ready for school.;I can't sleep now, I have to get ready for school.;"No puedo descansar ahora, tengo que alistarme
 para la escuela."
 ;;;It used to be full of movies,\. but it's empty.;It used to be full of movies,\. but it's empty.;Solía estar lleno de películas,\. ahora está vacío.
-;;;I guess the only thing that's still here is my lighter.;I guess the only thing that's still here is my lighter.;"Parece que lo único que quedó aquí
-es mi encendedor."
+;;;I guess the only thing that's still here is my lighter.;I guess the only thing that's still here is my lighter.;La única cosa que continua aquí es mi encendedor.
 ;;;Grab it;Grab it;Agarrarlo
 ;;;Leave it;Leave it;Dejarlo
 ;;;I'm already carrying something...;I'm already carrying something ...;Ya estoy llevando algo...
@@ -98,26 +97,23 @@ time again.";
 ;;Bird;Coo?;Coo?;
 ;;Bird;Coo coo;Coo coo;
 ;;;The bird looks at you.;The bird looks at you.;
-;;;Haven;Haven;Haven
-;;Haven;Hi! It's been a while since I've seen you!;Hi! It's been a while since I've seen you!;¡Qué tal! Hace mucho que no te veo.
-;;;Do you have any idea where we are?;Do you have any idea where we are?;¿Sabes dónde estamos?
-;;;I'm not sure;I'm not sure;Creo que no
-;;;Who are you?;Who are you?;¿Quién eres?
-;;Haven;Gee ... you've already forgotten who I am?;Gee ... you've already forgotten who I am?;¿Ah...? ¿Ya te olvidaste de mí?
-;;Haven;Haven! I'm Haven!;Haven! I'm Haven!;¡Vamos, soy Haven!
-;;Haven;Hmmm ...\| This place sure is strange.;Hmmm ...\| This place sure is strange.;Ya veo...\| Este lugar sí que es extraño, ¿no crees?
+;;;Haven;Haven;
+;;Haven;Hi! It's been a while since I've seen you!;Hi! It's been a while since I've seen you!;
+;;;Do you have any idea where we are?;Do you have any idea where we are?;
+;;;I'm not sure;I'm not sure;
+;;;Who are you?;Who are you?;
+;;Haven;Gee ... you've already forgotten who I am?;Gee ... you've already forgotten who I am?;
+;;Haven;Haven! I'm Haven!;Haven! I'm Haven!;
+;;Haven;Hmmm ...\| This place sure is strange.;Hmmm ...\| This place sure is strange.;
 ;;Haven;"It could be worth exploring this area, maybe you
 could find something?";"It could be worth exploring this area, maybe you
-could find something?";"Tal vez podrías explorar un poco este lugar.
-Quién sabe, quizá te traiga algún recuerdo."
+could find something?";
 ;;Haven;"Hey, remember to take things slow ...\|
 I know how you tend to freak out over everything!";"Hey, remember to take things slow ...\|
-I know how you tend to freak out over everything!";"Trata de ir con calma, ¿sí?\|
-Sé que tiendes a alterarte fácilmente."
+I know how you tend to freak out over everything!";
 ;;Haven;"Try not to overthink, and just ...\|
 Maybe \c[1]save\c[0] your thoughts, for now.";"Try not to overthink, and just ...\|
-Maybe \c[1]save\c[0] your thoughts, for now.";"Y si tuvieras miedo de olvidar algún recuerdo,\|
-tranquilo, yo lo puedo \c[1]guardar\c[0] por ti."
+Maybe \c[1]save\c[0] your thoughts, for now.";
 ;;Haven;"Talk with me if you want to be safe again!
 I'll always be here for you.";"Talk with me if you want to be safe again!
 I'll always be here for you.";
@@ -405,16 +401,16 @@ I tried, even when it felt like it wasn’t enough.";
 ;;;Should I call someone?;Should I call someone?;
 ;;;I don't remember anyone's number.;I don't remember anyone's number.;
 ;;;There's nothing on TV.;There's nothing on TV.;
-;;;I take a bite out of the instant ramen noodles.;I take a bite out of the instant ramen noodles.;Le doy un mordisco a los fideos instantáneos.
-;;;...\| it tastes dry.;...\| it tastes dry.;...\| saben demasiado seco.
-;;;An empty plate.;An empty plate.;Un plato vacío.
-;;;I take a bite out of the toast.;I take a bite out of the toast.;Le doy un mordisco a la tostada.
-;;;I take a bite out of a chicken nugget.;I take a bite out of a chicken nugget.;Le doy un mordisco al nugget de pollo.
-;;;I don't feel like eating.;I don't feel like eating.;No tengo ganas de comer.
-;;;I take a sip of the milk.;I take a sip of the milk.;Tomo un sorbo de leche.
-;;;I take a bite out of a grape.;I take a bite out of a grape.;Le doy un mordisco a la uva.
-;;;I take a bite out of the egg.;I take a bite out of the egg.;Le doy un mordisco al huevo.
-;;;...\| it tastes nice.;...\| it tastes nice.;...\| sabe bien.
+;;;I take a bite out of the instant ramen noodles.;I take a bite out of the instant ramen noodles.;
+;;;...\| it tastes dry.;...\| it tastes dry.;
+;;;An empty plate.;An empty plate.;
+;;;I take a bite out of the toast.;I take a bite out of the toast.;
+;;;I take a bite out of a chicken nugget.;I take a bite out of a chicken nugget.;
+;;;I don't feel like eating.;I don't feel like eating.;
+;;;I take a sip of the milk.;I take a sip of the milk.;
+;;;I take a bite out of a grape.;I take a bite out of a grape.;
+;;;I take a bite out of the egg.;I take a bite out of the egg.;
+;;;...\| it tastes nice.;...\| it tastes nice.;
 ;;;Felix;Felix;
 ;;Felix;"I've been getting a lot of weird DMs from some of
 the girls here, they're quite disturbing actually ...";"I've been getting a lot of weird DMs from some of
@@ -854,50 +850,41 @@ but there must be a reason I'm back here.";
 ;;;Maybe this white sheet will help.;Maybe this white sheet will help.;
 ;;;"After I picked out a movie, I lit up and let the haze
 settle in while I watched.";"After I picked out a movie, I lit up and let the haze
-settle in while I watched.";"Luego, le prendí fuego a algunas cosas que había en
-la mesa y me fui a ver la película."
+settle in while I watched.";
 ;;;"I don't remember how much I did, which could mean
 I lost track ...";"I don't remember how much I did, which could mean
-I lost track ...";"No recuerdo mucho de lo que pasó después... es
-como si me hubiera desconectado de todo."
-;;;I haven't had any thoughts in a while.;I haven't had any thoughts in a while.;Mi mente ha estado en blanco últimamente.
+I lost track ...";
+;;;I haven't had any thoughts in a while.;I haven't had any thoughts in a while.;
 ;;;"But now that I am thinking, I can't seem to
 remember anything.";"But now that I am thinking, I can't seem to
-remember anything.";No logro recordar casi nada...
+remember anything.";
 ;;;"However, looking at this shelf, I remember picking
 out a movie to watch.";"However, looking at this shelf, I remember picking
-out a movie to watch.";"Pero, ahora que veo este estante, recuerdo
-escoger una de sus películas."
+out a movie to watch.";
 ;;;"I think it was about a guy who built a time
 machine out of a DeLorean...";"I think it was about a guy who built a time
-machine out of a DeLorean ...";"Era sobre un chico que volvió en el tiempo
-en un DeLorean..."
+machine out of a DeLorean ...";
 ;;;"I think it was about a kid who was left behind
 during the holidays...";"I think it was about a kid who was left behind
-during the holidays ...";"Era sobre un pobre niño que se quedó solo
-en casa..."
+during the holidays ...";
 ;;;"I think it was about a superhero who got their
 powers from a radioactive bug bite...";"I think it was about a superhero who got their
-powers from a radioactive bug bite ...";"Era sobre un chico que fue mordido por una
-araña..."
+powers from a radioactive bug bite ...";
 ;;;"I think it was about a battle in a galaxy far,
 far away...";"I think it was about a battle in a galaxy far,
-far away ...";"Era sobre naves espaciales y armas láser en
-un lugar muy muy lejano."
+far away ...";
 ;;;"I think it was about a guy who started a club with a
 friend about fighting...";"I think it was about a guy who started a club with a
-friend about fighting ...";"Era sobre un hombre y su amigo que inician
-un club de pelea..."
-;;;What input are you using?;What input are you using?;Seleccione un método de entrada:
-;;;Keyboard;Keyboard;Teclado
-;;;Playstation Controller;Playstation Controller;Control de Playstation
-;;;Xbox Controller;Xbox Controller;Control de Xbox
+friend about fighting ...";
+;;;What input are you using?;What input are you using?;
+;;;Keyboard;Keyboard;
+;;;Playstation Controller;Playstation Controller;
+;;;Xbox Controller;Xbox Controller;
 ;;;"You can enable Reduced Cutscenes to reduce the
 speed and lights of some cutscenes.";"You can enable Reduced Cutscenes to reduce the
-speed and lights of some cutscenes.";"¿Habilitar Cinemáticas Reducidas para reducir
-la duración y el brillo de algunas escenas?"
-;;;Enable;Enable;Habilitar
-;;;Disable;Disable;Deshabilitar
+speed and lights of some cutscenes.";
+;;;Enable;Enable;
+;;;Disable;Disable;
 ;;;The air is dry, and sucking the life out of my lungs.;The air is dry, and sucking the life out of my lungs.;"Siento como si me asfixiara cada vez que
 intento inhalar este aire seco."
 ;;;I feel everything at a maximum.;I feel everything at a maximum.;Es como si pudiera sentirlo todo a mi alrededor...
@@ -916,16 +903,15 @@ para siempre."
 time seemed to have slipped away from me.";"The next thing I knew, the movie was over, and
 time seemed to have slipped away from me.";"Cuando al fin reaccioné, la película había terminado
 hace varias horas."
-;;;I wonder what happened to the clock's arms.;I wonder what happened to the clock's arms.;¿Qué les habrá pasado a sus manecillas?
+;;;I wonder what happened to the clock's arms.;I wonder what happened to the clock's arms.;¿Qué les habrá pasado a las manecillas?
 ;;;"Then, I might have gone to bed, and passed out on
 my thoughts.";"Then, I might have gone to bed, and passed out on
 my thoughts.";"Luego, me fui a mi cama y debo haberme quedado
 dormido mientras pensaba."
-;;;Which leads me here, wherever this might be.;Which leads me here, wherever this might be.;Y de alguna forma, acabé aquí tirado.
+;;;Which leads me here, wherever this might be.;Which leads me here, wherever this might be.;
 ;;;"...\| I don't think it's a dream, since I'm clearly
 thinking, and everything feels pretty real.";"...\| I don't think it's a dream, since I'm clearly
-thinking, and everything feels pretty real.";"...\| No creo que todo esto sea un sueño;
-se siente demasiado real para serlo."
+thinking, and everything feels pretty real.";
 ;;;It's a kettle, filled with water.;It's a kettle, filled with water.;
 ;;;Fill the cup;Fill the cup;
 ;;;The basketball is too far away for you to reach.;The basketball is too far away for you to reach.;
@@ -1253,10 +1239,10 @@ iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii";
 ;;;"You're now going to the main game.
 To return, talk to the boy again.";"You're now going to the main game.
 To return, talk to the boy again.";
-;;;tbh;tbh;tbh
-;;tbh;Yippee! Yippee! Yippee! ;Yippee! Yippee! Yippee! ;¡Yupiii!
-;;;This is tbh's special room.;This is tbh's special room.;Esta es la habitación secreta de tbh.
-;;;Good job on finding tbh's special room.;Good job on finding tbh's special room.;¡Qué bueno que la encontraste!
+;;;tbh;tbh;
+;;tbh;Yippee! Yippee! Yippee! ;Yippee! Yippee! Yippee! ;
+;;;This is tbh's special room.;This is tbh's special room.;
+;;;Good job on finding tbh's special room.;Good job on finding tbh's special room.;
 ;;;It's a signed basketball.;It's a signed basketball.;
 ;;;Mr. ???;Mr. ???;
 ;;Mr. ???;"Alright children, are you all ready to listen
