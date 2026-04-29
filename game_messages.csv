@@ -61,21 +61,25 @@ es mi encendedor."
 ;;;This is bad.;This is bad.;Esto se ve mal.
 ;;;"Haven has been breaking my head for years now.\!
 I was obsessed with her.";"Haven has been breaking my head for years now.\!
-I was obsessed with her.";
+I was obsessed with her.";"He estado loco por Haven desde hace años.\!
+Completamente hechizado."
 ;;;"I've tried multiple times to let go, but every
 attempt has failed.";"I've tried multiple times to let go, but every
-attempt has failed.";
-;;;She probably doesn't think about me anymore.;She probably doesn't think about me anymore.;
+attempt has failed.";"He tratado de olvidarla de mil formas,
+pero nada dio resultado."
+;;;She probably doesn't think about me anymore.;She probably doesn't think about me anymore.;Quizá ella ni se acuerde de mí.
 ;;;"And that's a good thing.\!
 I don't want her to remember the party.";"And that's a good thing.\!
-I don't want her to remember the party.";
+I don't want her to remember the party.";"Y eso es un alivio.\!
+Odiaría que aún se acordase de aquella fiesta."
 ;;;"I've been forcing myself to think about our
 memories together.";"I've been forcing myself to think about our
-memories together.";
-;;;I wanted to feel the pain.;I wanted to feel the pain.;
+memories together.";"Últimamente me he obligado a recordar todos los
+momentos que pasamos juntos."
+;;;I wanted to feel the pain.;I wanted to feel the pain.;Quería sentir ese dolor agridulce.
 ;;;But now I'm being confronted for it.;But now I'm being confronted for it.;
-;;;I don't know if I'm ready for this.;I don't know if I'm ready for this.;
-;;;I'm scared.;I'm scared.;
+;;;I don't know if I'm ready for this.;I don't know if I'm ready for this.;No me siento preparado para esto.
+;;;I'm scared.;I'm scared.;Estoy asustado
 ;;;"Haven's been an important part of me for a while.\!
 I'm not sure if looking back at it will help me.";"Haven's been an important part of me for a while.\!
 I'm not sure if looking back at it will help me.";
@@ -94,10 +98,10 @@ time again.";
 ;;;I wanted to, but I refused to let myself think.;I wanted to, but I refused to let myself think.;
 ;;;John.;John.;
 ;;;I should probably chase that cat first ...;I should probably chase that cat first ...;
-;;;Bird;Bird;
-;;Bird;Coo?;Coo?;
-;;Bird;Coo coo;Coo coo;
-;;;The bird looks at you.;The bird looks at you.;
+;;;Bird;Bird;Pájaro
+;;Bird;Coo?;Coo?;Cucú?
+;;Bird;Coo coo;Coo coo;Cuuu cucú
+;;;The bird looks at you.;The bird looks at you.;El pájaro te devuelve la mirada.
 ;;;Haven;Haven;Haven
 ;;Haven;Hi! It's been a while since I've seen you!;Hi! It's been a while since I've seen you!;¡Qué tal! Hace mucho que no te veo.
 ;;;Do you have any idea where we are?;Do you have any idea where we are?;¿Sabes dónde estamos?
@@ -120,25 +124,30 @@ Maybe \c[1]save\c[0] your thoughts, for now.";"Y si tuvieras miedo de olvidar al
 tranquilo, yo lo puedo \c[1]guardar\c[0] por ti."
 ;;Haven;"Talk with me if you want to be safe again!
 I'll always be here for you.";"Talk with me if you want to be safe again!
-I'll always be here for you.";
-;;Haven;Hey, you wanna \c[1]save \c[0]again?;Hey, you wanna \c[1]save \c[0]again?;
-;;;Sure;Sure;
-;;;Not now;Not now;
-;;Haven;I hope you feel safe again!;I hope you feel safe again!;
-;;Haven;That's fine, let me know if you change your mind!;That's fine, let me know if you change your mind!;
-;;Haven;Hi! How are you feeling?;Hi! How are you feeling?;
-;;;I'm okay;I'm okay;
-;;;Not so well;Not so well;
-;;Haven;I'm glad, anything special planned?;I'm glad, anything special planned?;
+I'll always be here for you.";"Puedes venir y hablar conmigo cuando quieras.
+Aquí estaré para ti."
+;;Haven;Hey, you wanna \c[1]save \c[0]again?;Hey, you wanna \c[1]save \c[0]again?;¿Quieres que te \c[1]guarde\c[0] algún recuerdo?
+;;;Sure;Sure;Okay
+;;;Not now;Not now;No
+;;Haven;I hope you feel safe again!;I hope you feel safe again!;¡Espero que ahora te sientas mejor!
+;;Haven;That's fine, let me know if you change your mind!;That's fine, let me know if you change your mind!;Bueno, aquí estaré por si cambias de opinión.
+;;Haven;Hi! How are you feeling?;Hi! How are you feeling?;Y... ¿cómo te estás sintiendo?
+;;;I'm okay;I'm okay;Estoy bien
+;;;Not so well;Not so well;Algo mal
+;;Haven;I'm glad, anything special planned?;I'm glad, anything special planned?;"Me alegra oir eso. ¿Y qué harás ahora?
+¿Quizá algo divertido?"
 ;;Haven;"Sorry to hear that ...\.
 Well, do you have anything fun planned?";"Sorry to hear that ...\.
-Well, do you have anything fun planned?";
-;;;Going to school;Going to school;
-;;;Nothing planned;Nothing planned;
+Well, do you have anything fun planned?";"Oh, de verdad lo siento...\.
+¿Y que tienes pensado hacer ahora?"
+;;;Going to school;Going to school;Ir a la escuela
+;;;Nothing planned;Nothing planned;No, nada
 ;;Haven;"Ah, that's fun!\|
 Well, maybe not fun ...";"Ah, that's fun!\|
-Well, maybe not fun ...";
-;;Haven;But we'll get to see all your friends again!;But we'll get to see all your friends again!;
+Well, maybe not fun ...";"Ah, eso suena divertido!\|
+Bueno, *jeje* quizá no tanto..."
+;;Haven;But we'll get to see all your friends again!;But we'll get to see all your friends again!;"¡Pero lo bueno es que verás a todos tus amigos
+de nuevo!"
 ;;Haven;Are you sure? We're going to school today!;Are you sure? We're going to school today!;
 ;;Haven;That's pretty exciting, right?;That's pretty exciting, right?;
 ;;Haven;Anyways, are you ready to \c[1]save \c[0]your thoughts?;Anyways, are you ready to \c[1]save \c[0]your thoughts?;
@@ -225,34 +234,40 @@ I hope they will help you feel safe.";
 ;;Haven;Good luck!;Good luck!;
 ;;Haven;Alright, don't forget the flags!;Alright, don't forget the flags!;
 ;;;Thank you.;Thank you.;
-;;;Mushroom;Mushroom;
-;;Mushroom;\etalk[44]Yeah! Yeah!;\etalk[44]Yeah! Yeah!;
-;;;You found an old picture.;You found an old picture.;
-;;;I found a lot of peace in the park.;I found a lot of peace in the park.;
+;;;Mushroom;Mushroom;Champiñón
+;;Mushroom;\etalk[44]Yeah! Yeah!;\etalk[44]Yeah! Yeah!;\etalk[44]Yip
+;;;You found an old picture.;You found an old picture.;Encontraste un viejo dibujo.
+;;;I found a lot of peace in the park.;I found a lot of peace in the park.;Me siento tan relajado cuando estoy al parque.
 ;;;"As a child, I'd explore the different paths
 and find relaxing spots.";"As a child, I'd explore the different paths
-and find relaxing spots.";
-;;;It felt exciting, yet it felt right.;It felt exciting, yet it felt right.;
+and find relaxing spots.";"Cuándo era niño, solía explorar cada lugar hasta
+encontrar uno tranquilo donde descansar."
+;;;It felt exciting, yet it felt right.;It felt exciting, yet it felt right.;"Era tan emocionante, y al mismo tiempo,
+satisfactorio."
 ;;;"I used to imagine there were shadows watching
 over me.";"I used to imagine there were shadows watching
-over me.";
+over me.";"Solía imaginarme que era observado de lejos
+por ciertas sombras."
 ;;;"Sometimes, they'd play with me.\!
 But most of the time, I was on my own.";"Sometimes, they'd play with me.\!
-But most of the time, I was on my own.";
+But most of the time, I was on my own.";"A veces ellas incluso jugaban conmigo.\!
+Pero, por lo general, jugaba solo."
 ;;;"I don't remember where they went, as I grew
 older I stopped thinking about them.";"I don't remember where they went, as I grew
-older I stopped thinking about them.";
-;;Mushroom;\etalk[79]Yeah! Yeah!;\etalk[79]Yeah! Yeah!;
-;;Mushroom;Yeah! Yeah!;Yeah! Yeah!;
-;;Mushroom;Yeah, yeah.;Yeah, yeah.;
-;;;Flower Child;Flower Child;
+older I stopped thinking about them.";"No sé en que momento desaparecieron. Y a medida
+que crecí, me fue olvidando de ellas."
+;;Mushroom;\etalk[79]Yeah! Yeah!;\etalk[79]Yeah! Yeah!;\etalk[79]Yiiipi! Yipi! Yupiii!
+;;Mushroom;Yeah! Yeah!;Yeah! Yeah!;Yujuuu!
+;;Mushroom;Yeah, yeah.;Yeah, yeah.;Yay.
+;;;Flower Child;Flower Child;Chico Flor
 ;;Flower Child;"I've been taking care of these little guys for
 a while.";"I've been taking care of these little guys for
-a while.";
-;;Flower Child;We're all best friends and spend the day together.;We're all best friends and spend the day together.;
+a while.";"Estoy cuidando de estos pequeños que ves aquí;
+son mis amigos."
+;;Flower Child;We're all best friends and spend the day together.;We're all best friends and spend the day together.;Decidimos pasar el dia juntos en este lugar.
 ;;Flower Child;"The mushrooms are still sleeping, so I've decided
 to take a breath of fresh air.";"The mushrooms are still sleeping, so I've decided
-to take a breath of fresh air.";
+to take a breath of fresh air.";"Los hongos aún están durmiendo, así que--------------------------------------------"
 ;;Flower Child;"It can really be refreshing to breathe in deeply,
 and feel the wind through your face.";"It can really be refreshing to breathe in deeply,
 and feel the wind through your face.";
@@ -285,34 +300,40 @@ time.";
 ;;Worm;hellooooo ...;hellooooo ...;
 ;;Worm;hiiiiii ...;hiiiiii ...;
 ;;Worm;how are you ...;how are you ...;
-;;;...;...;
-;;;Oakley;Oakley;
-;;Oakley;Hello, sir.;Hello, sir.;
+;;;...;...;...
+;;;Oakley;Oakley;Oakley
+;;Oakley;Hello, sir.;Hello, sir.;Buen día, joven.
 ;;Oakley;"I'm afraid I haven't seen you in this town before.
 Could I help you with something, sir?";"I'm afraid I haven't seen you in this town before.
-Could I help you with something, sir?";
-;;;Where am I?;Where am I?;
-;;;How do I leave?;How do I leave?;
-;;;(Leave);(Leave);
-;;Oakley;...\| You are right here.;...\| You are right here.;
+Could I help you with something, sir?";"Me temo que es la primera vez que lo veo por aquí.
+¿Necesita ayuda con algo en particular?"
+;;;Where am I?;Where am I?;¿Dónde estoy?
+;;;How do I leave?;How do I leave?;¿Cómo salgo de aquí?
+;;;(Leave);(Leave);(Irse)
+;;Oakley;...\| You are right here.;...\| You are right here.;...\| Está justo aquí, joven.
 ;;Oakley;"There's no need to put labels to locations, sir.\.
 We are all just here.";"There's no need to put labels to locations, sir.\.
-We are all just here.";
-;;Oakley;Sometimes, it's better to simply ... be.;Sometimes, it's better to simply ... be.;
-;;Oakley;Ah, I'm just a humble fellow, sir.;Ah, I'm just a humble fellow, sir.;
+We are all just here.";"No hay necesidad de nombrar cada lugar, ¿no cree?\.
+Estamos aquí y punto."
+;;Oakley;Sometimes, it's better to simply ... be.;Sometimes, it's better to simply ... be.;A veces es mejor solo... estar.
+;;Oakley;Ah, I'm just a humble fellow, sir.;Ah, I'm just a humble fellow, sir.;Soy solo alguien más, joven.
 ;;Oakley;"I've been here for a very long time, sir.
 Longer than I care to admit, perhaps.";"I've been here for a very long time, sir.
-Longer than I care to admit, perhaps.";
+Longer than I care to admit, perhaps.";"He estado aquí por muucho tiempo.
+Tal vez más de lo que me gustaría admitir."
 ;;Oakley;"Leave where, sir?
 This is all there is.";"Leave where, sir?
-This is all there is.";
+This is all there is.";"¿Salir? ¿A dónde?
+No existe más que esto, joven."
 ;;Oakley;"There is nowhere to go, and I don't mean that in
 a bad way, sir.";"There is nowhere to go, and I don't mean that in
-a bad way, sir.";
-;;;This is it.;This is it.;
+a bad way, sir.";"No hay ninguna salida. Y no lo digo de mala
+forma o para asustar."
+;;;This is it.;This is it.;Esto es todo lo que hay.
 ;;Oakley;"Hello, sir.
 Could I help you?";"Hello, sir.
-Could I help you?";
+Could I help you?";"¿Qué tal, joven?
+¿Puedo ayudarlo con algo?"
 ;;Oakley;"You have woken up early this morning.
 I wonder what you must be attending to?";"You have woken up early this morning.
 I wonder what you must be attending to?";
@@ -355,14 +376,14 @@ I believe in you.";
 ;;Oakley;"I hope you find a way to overcome whatever is
 scaring you.";"I hope you find a way to overcome whatever is
 scaring you.";
-;;;Flower;Flower;
-;;Flower;The air is soft.;The air is soft.;
-;;Flower;The air is cold.;The air is cold.;
-;;Flower;The air is silent.;The air is silent.;
-;;Flower;The air is wet.;The air is wet.;
-;;Flower;The air is hard.;The air is hard.;
-;;Flower;The air is light.;The air is light.;
-;;;A wooden plank.;A wooden plank.;
+;;;Flower;Flower;Flor
+;;Flower;The air is soft.;The air is soft.;El aire está agradable.
+;;Flower;The air is cold.;The air is cold.;El aire está frío.
+;;Flower;The air is silent.;The air is silent.;El aire está en silencio.
+;;Flower;The air is wet.;The air is wet.;El aire está húmedo.
+;;Flower;The air is hard.;The air is hard.;El aire está cargado.
+;;Flower;The air is light.;The air is light.;El aire está ligero.
+;;;A wooden plank.;A wooden plank.;Una tabla de madera.
 ;;;It seems like the door is locked.;It seems like the door is locked.;
 ;;;Are you ready?;Are you ready?;
 ;;;You unlock the door with your key.;You unlock the door with your key.;
@@ -400,11 +421,11 @@ perspective has changed.";
 I tried, even when it felt like it wasn’t enough.";"I didn’t give up completely.\!
 I tried, even when it felt like it wasn’t enough.";
 ;;;Parts of me still feel trapped in those memories.;Parts of me still feel trapped in those memories.;
-;;;I should probably eat something before going ...;I should probably eat something before going ...;
-;;;A bright lamp.;A bright lamp.;
-;;;Should I call someone?;Should I call someone?;
-;;;I don't remember anyone's number.;I don't remember anyone's number.;
-;;;There's nothing on TV.;There's nothing on TV.;
+;;;I should probably eat something before going ...;I should probably eat something before going ...;Tal vez debería comer algo antes de marcharme.
+;;;A bright lamp.;A bright lamp.;Una lámpara brillante.
+;;;Should I call someone?;Should I call someone?;¿Debería llamar a alguien?
+;;;I don't remember anyone's number.;I don't remember anyone's number.;Pero no recuerdo ningún número.
+;;;There's nothing on TV.;There's nothing on TV.;No hay nada en la pantalla.
 ;;;I take a bite out of the instant ramen noodles.;I take a bite out of the instant ramen noodles.;Le doy un mordisco a los fideos instantáneos.
 ;;;...\| it tastes dry.;...\| it tastes dry.;...\| saben demasiado seco.
 ;;;An empty plate.;An empty plate.;Un plato vacío.
@@ -415,7 +436,7 @@ I tried, even when it felt like it wasn’t enough.";
 ;;;I take a bite out of a grape.;I take a bite out of a grape.;Le doy un mordisco a la uva.
 ;;;I take a bite out of the egg.;I take a bite out of the egg.;Le doy un mordisco al huevo.
 ;;;...\| it tastes nice.;...\| it tastes nice.;...\| sabe bien.
-;;;Felix;Felix;
+;;;Felix;Felix;Felix
 ;;Felix;"I've been getting a lot of weird DMs from some of
 the girls here, they're quite disturbing actually ...";"I've been getting a lot of weird DMs from some of
 the girls here, they're quite disturbing actually ...";
@@ -854,8 +875,8 @@ but there must be a reason I'm back here.";
 ;;;Maybe this white sheet will help.;Maybe this white sheet will help.;
 ;;;"After I picked out a movie, I lit up and let the haze
 settle in while I watched.";"After I picked out a movie, I lit up and let the haze
-settle in while I watched.";"Luego, le prendí fuego a algunas cosas que había en
-la mesa y me fui a ver la película."
+settle in while I watched.";"Luego, encendí un cigarrillo y me quedé observando
+los hilos de humo que se formaban."
 ;;;"I don't remember how much I did, which could mean
 I lost track ...";"I don't remember how much I did, which could mean
 I lost track ...";"No recuerdo mucho de lo que pasó después... es
@@ -1254,7 +1275,7 @@ iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii";
 To return, talk to the boy again.";"You're now going to the main game.
 To return, talk to the boy again.";
 ;;;tbh;tbh;tbh
-;;tbh;Yippee! Yippee! Yippee! ;Yippee! Yippee! Yippee! ;¡Yupiii!
+;;tbh;Yippee! Yippee! Yippee! ;Yippee! Yippee! Yippee! ;¡Yuuupiiii!
 ;;;This is tbh's special room.;This is tbh's special room.;Esta es la habitación secreta de tbh.
 ;;;Good job on finding tbh's special room.;Good job on finding tbh's special room.;¡Qué bueno que la encontraste!
 ;;;It's a signed basketball.;It's a signed basketball.;
