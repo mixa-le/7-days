@@ -49,7 +49,7 @@ es mi encendedor."
 ;;;Or I guess the lighter did.;Or I guess the lighter did.;De hecho, el encendedor lo hizo.
 ;;;The clock lost its arms.;The clock lost its arms.;Un reloj sin manecillas.
 ;;;I guess like I did mine.;I guess like I did mine.;¿Sentirá falta de ellas?
-;;;It's my old backpack.;It's my old backpack.;Mi antigua mochila.
+;;;It's my old backpack.;It's my old backpack.;Es mi antigua mochila.
 ;;;Take it;Take it;Agarrarla
 ;;;It's an old family photo.;It's an old family photo.;Una vieja foto familiar.
 ;;;There's an old key stuck in the frame.;There's an old key stuck in the frame.;Hay una llave atascada en el marco.
@@ -57,7 +57,7 @@ es mi encendedor."
 ;;;It's a flag.;It's a flag.;Una bandera.
 ;;;It's a key.;It's a key.;Una llave.
 ;;;I think my lighter fell out of my pocket...;I think my lighter fell out of my pocket...;Creo que mi encendedor se cayó de mi bolsillo...
-;;;You wait for the bus to arrive.;You wait for the bus to arrive.;Estas esperando a que llegue el bus.
+;;;You wait for the bus to arrive.;You wait for the bus to arrive.;Esperas a que llegue el bus.
 ;;;This is bad.;This is bad.;Esto se ve mal.
 ;;;"Haven has been breaking my head for years now.\!
 I was obsessed with her.";"Haven has been breaking my head for years now.\!
@@ -129,9 +129,9 @@ Aquí estaré para ti."
 ;;Haven;Hey, you wanna \c[1]save \c[0]again?;Hey, you wanna \c[1]save \c[0]again?;¿Quieres que te \c[1]guarde\c[0] algún recuerdo?
 ;;;Sure;Sure;Okay
 ;;;Not now;Not now;No
-;;Haven;I hope you feel safe again!;I hope you feel safe again!;¡Espero que ahora te sientas mejor!
+;;Haven;I hope you feel safe again!;I hope you feel safe again!;¡Espero que te sientas mejor ahora!
 ;;Haven;That's fine, let me know if you change your mind!;That's fine, let me know if you change your mind!;Bueno, aquí estaré por si cambias de opinión.
-;;Haven;Hi! How are you feeling?;Hi! How are you feeling?;Y... ¿cómo te estás sintiendo?
+;;Haven;Hi! How are you feeling?;Hi! How are you feeling?;Y... ¿cómo te sientes hoy?
 ;;;I'm okay;I'm okay;Estoy bien
 ;;;Not so well;Not so well;Algo mal
 ;;Haven;I'm glad, anything special planned?;I'm glad, anything special planned?;"Me alegra oir eso. ¿Y qué harás ahora?
@@ -139,19 +139,19 @@ Aquí estaré para ti."
 ;;Haven;"Sorry to hear that ...\.
 Well, do you have anything fun planned?";"Sorry to hear that ...\.
 Well, do you have anything fun planned?";"Oh, de verdad lo siento...\.
-¿Y que tienes pensado hacer ahora?"
+¿Y qué vas a hacer ahora? ¿Algún plan?"
 ;;;Going to school;Going to school;Ir a la escuela
-;;;Nothing planned;Nothing planned;No, nada
+;;;Nothing planned;Nothing planned;No
 ;;Haven;"Ah, that's fun!\|
 Well, maybe not fun ...";"Ah, that's fun!\|
 Well, maybe not fun ...";"Ah, eso suena divertido!\|
 Bueno, *jeje* quizá no tanto..."
-;;Haven;But we'll get to see all your friends again!;But we'll get to see all your friends again!;"¡Pero lo bueno es que verás a todos tus amigos
+;;Haven;But we'll get to see all your friends again!;But we'll get to see all your friends again!;"¡Pero lo bueno es que veremos a todos tus amigos
 de nuevo!"
 ;;Haven;Are you sure? We're going to school today!;Are you sure? We're going to school today!;
 ;;Haven;That's pretty exciting, right?;That's pretty exciting, right?;
-;;Haven;Anyways, are you ready to \c[1]save \c[0]your thoughts?;Anyways, are you ready to \c[1]save \c[0]your thoughts?;
-;;Haven;You can go ahead, I'll catch up to you!;You can go ahead, I'll catch up to you!;
+;;Haven;Anyways, are you ready to \c[1]save \c[0]your thoughts?;Anyways, are you ready to \c[1]save \c[0]your thoughts?;"Bueno, ¿tienes algún \c[1]recuerdo\c[0] que quieras guardar?"
+;;Haven;You can go ahead, I'll catch up to you!;You can go ahead, I'll catch up to you!;Puedes adelantarte si quieres. Te alcanzo después.
 ;;Haven;"Did that cat just take something from you?\!
 You should probably chase it!";"Did that cat just take something from you?\!
 You should probably chase it!";
@@ -192,7 +192,7 @@ in you.";
 ;;Haven;Hey, you wanna \c[1]save\c[0]?;Hey, you wanna \c[1]save\c[0]?;
 ;;Haven;Alright.;Alright.;
 ;;;Do I want to \c[1]save\c[0]?;Do I want to \c[1]save\c[0]?;
-;;;It's a white sheet.;It's a white sheet.;
+;;;It's a white sheet.;It's a white sheet.;Una manta blanca.
 ;;;The cat took your ball of yarn.;The cat took your ball of yarn.;
 ;;;It's my car,\. but maybe I should talk to Haven first.;It's my car,\. but maybe I should talk to Haven first.;
 ;;;"It's my car.\.
@@ -262,9 +262,8 @@ que crecí, me fue olvidando de ellas."
 ;;;Flower Child;Flower Child;Chico Flor
 ;;Flower Child;"I've been taking care of these little guys for
 a while.";"I've been taking care of these little guys for
-a while.";"Estoy cuidando de estos pequeños que ves aquí;
-son mis amigos."
-;;Flower Child;We're all best friends and spend the day together.;We're all best friends and spend the day together.;Decidimos pasar el dia juntos en este lugar.
+a while.";"Estoy cuidando de estos pequeñines; son mis amigos."
+;;Flower Child;We're all best friends and spend the day together.;We're all best friends and spend the day together.;Decidimos pasar el dia aquí juntos.
 ;;Flower Child;"The mushrooms are still sleeping, so I've decided
 to take a breath of fresh air.";"The mushrooms are still sleeping, so I've decided
 to take a breath of fresh air.";"Los hongos aún están durmiendo, así que--------------------------------------------"
@@ -315,8 +314,9 @@ Could I help you with something, sir?";"Me temo que es la primera vez que lo veo
 We are all just here.";"There's no need to put labels to locations, sir.\.
 We are all just here.";"No hay necesidad de nombrar cada lugar, ¿no cree?\.
 Estamos aquí y punto."
-;;Oakley;Sometimes, it's better to simply ... be.;Sometimes, it's better to simply ... be.;A veces es mejor solo... estar.
-;;Oakley;Ah, I'm just a humble fellow, sir.;Ah, I'm just a humble fellow, sir.;Soy solo alguien más, joven.
+;;Oakley;Sometimes, it's better to simply ... be.;Sometimes, it's better to simply ... be.;"A veces es mejor tan solo 'estar' que
+no estar..."
+;;Oakley;Ah, I'm just a humble fellow, sir.;Ah, I'm just a humble fellow, sir.;Soy solamente alguien, joven.
 ;;Oakley;"I've been here for a very long time, sir.
 Longer than I care to admit, perhaps.";"I've been here for a very long time, sir.
 Longer than I care to admit, perhaps.";"He estado aquí por muucho tiempo.
@@ -336,16 +336,18 @@ Could I help you?";"¿Qué tal, joven?
 ¿Puedo ayudarlo con algo?"
 ;;Oakley;"You have woken up early this morning.
 I wonder what you must be attending to?";"You have woken up early this morning.
-I wonder what you must be attending to?";
-;;;Where do I go?;Where do I go?;
-;;;Who is Haven?;Who is Haven?;
-;;;I need to get out of here;I need to get out of here;
+I wonder what you must be attending to?";"Parece que hoy se levantó bastante temprano.
+Me pregunto adónde se dirige."
+;;;Where do I go?;Where do I go?;¿Adónde voy?
+;;;Who is Haven?;Who is Haven?;¿Quién es Haven?
+;;;I need to get out of here;I need to get out of here;Tengo que salir de aquí.
 ;;Oakley;"Judging by your backpack, I assume you're
 trying to get to school.";"Judging by your backpack, I assume you're
-trying to get to school.";
+trying to get to school.";"A juzgar por su mochila, asumiré que está
+intentando ingresar a la escuela.---------------------------------------------------------------"
 ;;Oakley;"The only way I know is to take the bus.\!
 It's near the big house, sir.";"The only way I know is to take the bus.\!
-It's near the big house, sir.";
+It's near the big house, sir.";""
 ;;Oakley;"Ah, Haven?\!
 She has been in these woods for a while now.";"Ah, Haven?\!
 She has been in these woods for a while now.";
@@ -427,7 +429,7 @@ I tried, even when it felt like it wasn’t enough.";
 ;;;I don't remember anyone's number.;I don't remember anyone's number.;Pero no recuerdo ningún número.
 ;;;There's nothing on TV.;There's nothing on TV.;No hay nada en la pantalla.
 ;;;I take a bite out of the instant ramen noodles.;I take a bite out of the instant ramen noodles.;Le doy un mordisco a los fideos instantáneos.
-;;;...\| it tastes dry.;...\| it tastes dry.;...\| saben demasiado seco.
+;;;...\| it tastes dry.;...\| it tastes dry.;...\| sabe seco.
 ;;;An empty plate.;An empty plate.;Un plato vacío.
 ;;;I take a bite out of the toast.;I take a bite out of the toast.;Le doy un mordisco a la tostada.
 ;;;I take a bite out of a chicken nugget.;I take a bite out of a chicken nugget.;Le doy un mordisco al nugget de pollo.
@@ -471,20 +473,23 @@ Give me a second ...";
 ;;;"This is the women's restroom.\.
 Probably shouldn't enter here...";"This is the women's restroom.\.
 Probably shouldn't enter here ...";
-;;;There's a trumpet in the locker.;There's a trumpet in the locker.;
-;;;The locker is empty.;The locker is empty.;
-;;Haven;Looks like I arrived faster than you did!;Looks like I arrived faster than you did!;
+;;;There's a trumpet in the locker.;There's a trumpet in the locker.;Hay una trompeta en el casillero.
+;;;The locker is empty.;The locker is empty.;El casillero está vacío.
+;;Haven;Looks like I arrived faster than you did!;Looks like I arrived faster than you did!;¡Parece que llegué antes que tú! *Jeje*
 ;;Haven;"Have you talked to the students here? They're
 all so interesting in their own ways ...";"Have you talked to the students here? They're
-all so interesting in their own ways ...";
-;;Haven;...\| Oh! Do you want to \c[1]save\c[0] your thoughts?;...\| Oh! Do you want to \c[1]save\c[0] your thoughts?;
-;;Haven;Alright!;Alright!;
-;;Haven;Okay, let me know if you change your mind.;Okay, let me know if you change your mind.;
+all so interesting in their own ways ...";"¿Y pudiste hablar con algún estudiante?
+Es increíble cómo cada uno de ellos tiene lo suyo."
+;;Haven;...\| Oh! Do you want to \c[1]save\c[0] your thoughts?;...\| Oh! Do you want to \c[1]save\c[0] your thoughts?;...\| ¡Oh! ¿Quieres \c[1]guardar\c[0] algún recuerdo?
+;;Haven;Alright!;Alright!;¡Listo, Calixto!
+;;Haven;Okay, let me know if you change your mind.;Okay, let me know if you change your mind.;Okidoki.
 ;;Haven;"If you happen to get lost here, or don't know
 what to do ...";"If you happen to get lost here, or don't know
-what to do ...";
-;;Haven;Then talk to me, I'll do my best to help you out!;Then talk to me, I'll do my best to help you out!;
-;;Haven;You know I try my best to always help ...;You know I try my best to always help ...;
+what to do ...";"Si te llegas a perder o no sabes muy bien
+qué hacer..."
+;;Haven;Then talk to me, I'll do my best to help you out!;Then talk to me, I'll do my best to help you out!;"Puedes venir y hablar conmigo.
+Eso me haría muy feliz"
+;;Haven;You know I try my best to always help ...;You know I try my best to always help ...;Siempre puedes contar conmigo.
 ;;Haven;Hi! Do you want my help?;Hi! Do you want my help?;
 ;;;\c[1]Save\c[0];\c[1]Save\c[0];
 ;;;What do I do?;What do I do?;
@@ -861,18 +866,19 @@ you're worthy.";
 ;;John;It fills up whenever you complete these challenges.;It fills up whenever you complete these challenges.;
 ;;John;I'll see you tomorrow for the first challenge.;I'll see you tomorrow for the first challenge.;
 ;;John;Ok;Ok;
-;;;Handy;Handy;
+;;;Handy;Handy;Handy
 ;;Handy;"I should probably go to school soon, or I might
 get expelled...";"I should probably go to school soon, or I might
-get expelled ...";
+get expelled ...";"Si falto hoy a clases seré expulsado..."
 ;;Handy;Looks like I didn't get caught.;Looks like I didn't get caught.;
-;;;Here I am again, at school.;Here I am again, at school.;
-;;;Same walls, same air...;Same walls, same air ...;
-;;;...\. and that same feeling.;...\. and that same feeling.;
+;;;Here I am again, at school.;Here I am again, at school.;Bueno, aquí me encuentro... de nuevo.
+;;;Same walls, same air...;Same walls, same air ...;Las mismas paredes, la misma atmósfera...
+;;;...\. and that same feeling.;...\. and that same feeling.;...\. y aquella misma sensación.
 ;;;"I thought I would have left it behind by now,\.
 but there must be a reason I'm back here.";"I thought I would have left it behind by now,\.
-but there must be a reason I'm back here.";
-;;;Maybe this white sheet will help.;Maybe this white sheet will help.;
+but there must be a reason I'm back here.";"Pense que ya lo había superado, pero no.\.
+Debe haber una buena razón para estar aquí de nuevo."
+;;;Maybe this white sheet will help.;Maybe this white sheet will help.;Tal vez esta manta blanca ayude.
 ;;;"After I picked out a movie, I lit up and let the haze
 settle in while I watched.";"After I picked out a movie, I lit up and let the haze
 settle in while I watched.";"Luego, encendí un cigarrillo y me quedé observando
@@ -1047,7 +1053,7 @@ matches I've won I should join the professionals";"\etalk[6]I'm so good at socce
 matches I've won I should join the professionals";
 ;;;Rob;Rob;
 ;;Rob;I\| \{AM\| \{TRYING\| \{MY BEST!;I\| \{AM\| \{TRYING\| \{MY BEST!;
-;;;Trumpeter;Trumpeter;
+;;;Trumpeter;Trumpeter;Trompetista
 ;;Trumpeter;"How could this even happen? I swear I looked
 everywhere.";"How could this even happen? I swear I looked
 everywhere.";
@@ -1070,19 +1076,23 @@ me know.";
 ;;Trumpeter;If you do find it, then be sure to let me know.;If you do find it, then be sure to let me know.;
 ;;;I think I found it;I think I found it;
 ;;Trumpeter;You have?;You have?;
-;;Trumpeter;Oh my god! I can't believe it, my trumpet!;Oh my God! I can't believe it, my trumpet!;
-;;Trumpeter;Dude, thank you so much! I really thought I'd lost it!;Dude, thank you so much! I really thought I'd lost it!;
+;;Trumpeter;Oh my god! I can't believe it, my trumpet!;Oh my God! I can't believe it, my trumpet!;¡Genial! ¡La encontraste!
+;;Trumpeter;Dude, thank you so much! I really thought I'd lost it!;Dude, thank you so much! I really thought I'd lost it!;"Uff, no sabes cuán agradecido estoy.
+Pensé que tendría que comprar otra."
 ;;Trumpeter;"Actually, if you have time, do you wanna have
 a lil jam?";"Actually, if you have time, do you wanna have
-a lil jam?";
+a lil jam?";"Hey, ¿qué tal si hacemos algo de música
+ya que estamos por aquí?"
 ;;Trumpeter;"You hop on the keyboard, and I'll play
 something on my trumpet! ";"You hop on the keyboard, and I'll play
-something on my trumpet! ";
+something on my trumpet! ";"¡Tú le das al teclado y yo te acompaño
+con mi trompeta!"
 ;;Trumpeter;"Yeah, that's a great idea!
 Let me know if you're up!";"Yeah, that's a great idea!
-Let me know if you're up!";
-;;Trumpeter;Hey, is that my trumpet?;Hey, is that my trumpet?;
-;;;Yeah;Yeah;
+Let me know if you're up!";"Es una buena idea, ¿eh?
+Anímate."
+;;Trumpeter;Hey, is that my trumpet?;Hey, is that my trumpet?;¡Mi trompeta!
+;;;Yeah;Yeah;Sip
 ;;Trumpeter;"Hop on the keyboard and we can have a
 jam session!";"Hop on the keyboard and we can have a
 jam session!";
@@ -3560,38 +3570,49 @@ it never felt that way.";
 ";"
 [Common Events]
 ";
-;;;I see you've arrived here.;I see you've arrived here.;
+;;;I see you've arrived here.;I see you've arrived here.;Veo que por fin has llegado.
 ;;;"I know you're confused, but I need you to 
 answer some questions before we begin.";"I know you're confused, but I need you to 
-answer some questions before we begin.";
-;;;How did you handle this new environment?;How did you handle this new environment?;
-;;;I managed;I managed;
-;;;It was hard;It was hard;
-;;;And did you find anything here?;And did you find anything here?;
-;;;...\| I guess you're not ready to answer that yet.;...\| I guess you're not ready to answer that yet.;
+answer some questions before we begin.";"Sé que te sientes confundido, pero necesito
+que primero me respondas algunas preguntas."
+;;;How did you handle this new environment?;How did you handle this new environment?;"¿Cómo te fue en este nuevo entorno?
+¿Dirías que ya te estás adaptando?"
+;;;I managed;I managed;Algo así
+;;;It was hard;It was hard;No
+;;;And did you find anything here?;And did you find anything here?;¿Y encontraste algo?
+;;;...\| I guess you're not ready to answer that yet.;...\| I guess you're not ready to answer that yet.;"...\| Bueno, parece que aún no estás listo
+para responder esa pregunta."
 ;;;"There's a reason you lived the life you did.\.
 Your soul didn't care about it.";"There's a reason you lived the life you did.\.
-Your soul didn't care about it.";
+Your soul didn't care about it.";"Todas aquellas experiencias que viviste...\.
+Fue por una razón, y tú nunca le diste importancia."
 ;;;"When you were growing up, did you always
 feel content?";"When you were growing up, did you always
-feel content?";
-;;;Was everything perfect, just like you wanted?;Was everything perfect, just like you wanted?;
+feel content?";"¿Te acuerdas si eras feliz mientras crecías?"
+;;;Was everything perfect, just like you wanted?;Was everything perfect, just like you wanted?;"¿Si sentías que todo era perfecto
+y tal como querías?"
 ;;;"Did you spend time with your family?
 Play soccer with your friends?";"Did you spend time with your family?
-Play soccer with your friends?";
-;;;Did you feel like you were ...\| complete?;Did you feel like you were ...\| complete?;
-;;;...\| I guess you're not ready to answer that either.;...\| I guess you're not ready to answer that either.;
-;;;Come to your senses, and you will find me again.;Come to your senses, and you will find me again.;
+Play soccer with your friends?";"¿Si pasabas tiempo con tu familia?
+¿O preferías jugar fútbol con tus amigos?"
+;;;Did you feel like you were ...\| complete?;Did you feel like you were ...\| complete?;¿Alguna vez te sentiste...\| completo?
+;;;...\| I guess you're not ready to answer that either.;...\| I guess you're not ready to answer that either.;"...\| Mmm, parece que tampoco estás listo para
+responder esa pregunta."
+;;;Come to your senses, and you will find me again.;Come to your senses, and you will find me again.;"Una vez que recuperes tus sentidos,
+me podrás encontrar de nuevo."
 ;;;"...\| Perhaps there was something more.\|
 A sense of emptiness.";"...\| Perhaps there was something more.\|
-A sense of emptiness.";
+A sense of emptiness.";"...\| Tal vez hubo algo más.\|
+Un vacío emocional."
 ;;;"We're giving you a second chance to see what you
 couldn't.";"We're giving you a second chance to see what you
-couldn't.";
-;;;I hope you'll have answers by the next time.;I hope you'll have answers by the next time.;
-;;;For now, we have brought you something.;For now, we have brought you something.;
-;;;Something to help you look at your past.;Something to help you look at your past.;
-;;;Principal;Principal;
+couldn't.";"Vamos a darte otra oportunidad para ver
+lo que no pudiste."
+;;;I hope you'll have answers by the next time.;I hope you'll have answers by the next time.;"Espero que tengas las respuestas cuando nos
+volvamos a ver."
+;;;For now, we have brought you something.;For now, we have brought you something.;Por ahora, hemos traído algo para ti.
+;;;Something to help you look at your past.;Something to help you look at your past.;Te ayudará a darle un vistazo a tu pasado.
+;;;Principal;Principal;Director
 ;;Principal;"This is your principal,\. reminding you that
 students are NOT allowed in the teacher's lounge!";"This is your principal,\. reminding you that
 students are NOT allowed in the teacher's lounge!";
@@ -4125,7 +4146,7 @@ Stop that this instant!";"\etalk[6]Young man!
 Stop that this instant!";
 ;;Kyle;Hey, could you not?;Hey, could you not?;
 ;;The Twins;\etalk[5]Hell yeah!;\etalk[5]Hell yeah!;
-;;Trumpeter;Huh? Is that my trumpet?;Huh? Is that my trumpet?;
+;;Trumpeter;Huh? Is that my trumpet?;Huh? Is that my trumpet?;¡Mi trompeta!
 ;;Librarian;\etalk[6]Excuse me, could you please stop that?;\etalk[6]Excuse me, could you please stop that?;
 ;;Librarian;\etalk[6]There are people trying to read in peace!;\etalk[6]There are people trying to read in peace!;
 ;;;You think diving deeper makes you brave?;You think diving deeper makes you brave?;
