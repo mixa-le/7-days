@@ -1095,11 +1095,12 @@ Anímate."
 ;;;Yeah;Yeah;Sip
 ;;Trumpeter;"Hop on the keyboard and we can have a
 jam session!";"Hop on the keyboard and we can have a
-jam session!";
-;;Trumpeter;You ready to jam?;You ready to jam?;
+jam session!";¡Vamos, hay que tocar un poco!
+;;Trumpeter;You ready to jam?;You ready to jam?;¿Tas listo?
 ;;Trumpeter;"Alright, key is in C major.
 Bring it on!";"Alright, key is in C major.
-Bring it on!";
+Bring it on!";"Okay, quiero que toques en do mayor.
+¡Vamos, lucete!"
 ;;Trumpeter;That was awesome! Nice job buddy!;That was awesome! Nice job buddy!;
 ;;;"It's a poster of one of my favorite albums as
 a child.";"It's a poster of one of my favorite albums as
@@ -3615,49 +3616,64 @@ volvamos a ver."
 ;;;Principal;Principal;Director
 ;;Principal;"This is your principal,\. reminding you that
 students are NOT allowed in the teacher's lounge!";"This is your principal,\. reminding you that
-students are NOT allowed in the teacher's lounge!";
-;;Principal;It is clearly locked for a reason.;It is clearly locked for a reason.;
+students are NOT allowed in the teacher's lounge!";"Les habla su director.\. Solo quería recordarles
+que está PROHIBIDO entrar en la sala de profesores."
+;;Principal;It is clearly locked for a reason.;It is clearly locked for a reason.;"Si está cerrado es EVIDENTE que no
+tienen por qué entrar."
 ;;Principal;"And whoever keeps stealing the toilet paper,
 please stop. It's getting ridiculous.";"And whoever keeps stealing the toilet paper,
-please stop. It's getting ridiculous.";
+please stop. It's getting ridiculous.";"Y quien sea que esté robándose el papel sanitario
+será sancionado por una semana si es atrapado."
 ;;Principal;"And also, whoever's blasting the music in the 
 courtyard, could you please turn it down?";"And also, whoever's blasting the music in the 
-courtyard, could you please turn it down?";
+courtyard, could you please turn it down?";"Ah, cierto. Hasta aquí escucho esa insoportable
+música. Por favor, ¡BAJEN el volumen!"
 ;;Principal;"This is your principal,\. reminding you that the
 vending machine in the teacher's lounge is broken.";"This is your principal,\. reminding you that the
-vending machine in the teacher's lounge is broken.";
+vending machine in the teacher's lounge is broken.";"Les habla su director.\. La máquina expendedora
+de la sala de profesores está malograda."
 ;;Principal;"Good job, whoever keeps breaking into the
 teacher's lounge, just to buy some soda.";"Good job, whoever keeps breaking into the
-teacher's lounge, just to buy some soda.";
+teacher's lounge, just to buy some soda.";"Al parecer alguien insiste en comprar sus
+bebidas en donde NO debe."
 ;;Principal;"You must have really wanted that soda, because 
 you bought too much.";"You must have really wanted that soda, because 
-you bought too much.";
+you bought too much.";"Y parece que tiene cierta preferencia por la
+Coca-Cola, ya que arrasó con TODAS las que había."
 ;;Principal;"Now that it's broken, maybe you'll leave the 
 teacher's lounge alone!";"Now that it's broken, maybe you'll leave the 
-teacher's lounge alone!";
+teacher's lounge alone!";"Bueno, ahora que está averiada, ¡quizá dejes
+la sala de profesores en paz!"
 ;;Principal;"This is your principal,\. letting you know that the
 repairman we called to fix the machine ...";"This is your principal,\. letting you know that the
-repairman we called to fix the machine ...";
+repairman we called to fix the machine ...";"Les habla su director.\. Llamamos a un técnico
+para que repare la máquina expendedora y..."
 ;;Principal;"...\. Seems to have made things worse.\|
 Much worse.";"...\. Seems to have made things worse.\|
-Much worse.";
+Much worse.";"...\. Parece que lo empeoró todo."
 ;;Principal;"The machine is now dispensing random items,
 including but not limited to: stale crackers,";"The machine is now dispensing random items,
-including but not limited to: stale crackers,";
-;;Principal;Used paper towels ...;Used paper towels ...;
+including but not limited to: stale crackers,";"Ahora está despachando cosas aleatorias como:
+galletas rancias,"
+;;Principal;Used paper towels ...;Used paper towels ...;Toallas de papel mojadas...
 ;;Principal;"And what appears to be a single sock.\|
 We're working on fixing it.";"And what appears to be a single sock.\|
-We're working on fixing it.";
+We're working on fixing it.";"Y lo que parece ser un calcetín izquierdo.\|
+Esperamos poder repararla pronto."
 ;;Principal;"In the meantime, we ask that you please stop
 breaking into the teacher's lounge ...";"In the meantime, we ask that you please stop
-breaking into the teacher's lounge ...";
+breaking into the teacher's lounge ...";"Mientras tanto, les pedimos gentilmente que
+eviten entrar en la sala de profesores..."
 ;;Principal;"This is your principal,\. letting you know that the
 vending machine has disappeared.";"This is your principal,\. letting you know that the
-vending machine has disappeared.";
+vending machine has disappeared.";"Les habla su director.\. Queremos informarles
+que la máquina expendedora desapareció."
 ;;Principal;"No one saw it disappear, it just did.\.
 And I think it took the repairman with it ...";"No one saw it disappear, it just did.\.
-And I think it took the repairman with it ...";
-;;Principal;We'll be hosting a funeral later this week.;We'll be hosting a funeral later this week.;
+And I think it took the repairman with it ...";"Sencillamente se esfumó, y...\.
+creo que se llevó al técnico con ella."
+;;Principal;We'll be hosting a funeral later this week.;We'll be hosting a funeral later this week.;"Bueno, parece que tendremos un funeral esta
+semana..."
 ;;;I guess school is done for today.;I guess school is done for today.;
 ;;;Another day, another horrible memory.;Another day, another horrible memory.;
 ;;;Can you begin to see what is happening here?;Can you begin to see what is happening here?;
