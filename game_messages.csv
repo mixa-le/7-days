@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Change;Excluded;Name;Original;en;es-latam
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Change;Excluded;Name;Original;en;es-latam
 ;;;\etalk[1]I am talking;;
 ;;;\etalk[1]I am talking a lot right now oh yes i am talking;;
 ;;;\etalk[1]Do you agre;;
@@ -127,7 +127,7 @@ I'll always be here for you.";"Talk with me if you want to be safe again!
 I'll always be here for you.";"Puedes venir y hablar conmigo cuando quieras.
 Aquí estaré para ti."
 ;;Haven;Hey, you wanna \c[1]save \c[0]again?;Hey, you wanna \c[1]save \c[0]again?;¿Quieres que te \c[1]guarde\c[0] algún recuerdo?
-;;;Sure;Sure;Okay
+;;;Sure;Sure;Okey
 ;;;Not now;Not now;No
 ;;Haven;I hope you feel safe again!;I hope you feel safe again!;¡Espero que te sientas mejor ahora!
 ;;Haven;That's fine, let me know if you change your mind!;That's fine, let me know if you change your mind!;Bueno, aquí estaré por si cambias de opinión.
@@ -590,153 +590,183 @@ could really catch on.";
 I'm even gonna call myself Panny now!";"\etalk[36]Just wait, you'll see everyone wearing one soon!\.
 I'm even gonna call myself Panny now!";
 ;;Bruno;\etalk[37]Mhmm.\. Sure.;\etalk[37]Mhmm.\. Sure.;
-;;;Mika;Mika;
-;;Mika;\etalk[9]And a little of this, and some of that ...;\etalk[9]And a little of this, and some of that ...;
-;;Mika;\etalk[9]Ugh ...\. that doesn't look right ...;\etalk[9]Ugh ...\. that doesn't look right ...;
-;;;What are you doing?;What are you doing?;
-;;Mika;\etalk[9]Oh, I'm just finishing up something I'm working on.;\etalk[9]Oh, I'm just finishing up something I'm working on.;
-;;;What is it?;What is it?;
-;;;I'll leave you to it;I'll leave you to it;
+;;;Mika;Mika;Mika
+;;Mika;\etalk[9]And a little of this, and some of that ...;\etalk[9]And a little of this, and some of that ...;\etalk[9]Y quizá un poco de esto, y una pizca de...
+;;Mika;\etalk[9]Ugh ...\. that doesn't look right ...;\etalk[9]Ugh ...\. that doesn't look right ...;\etalk[9]Ay...\. No está quedando bien...
+;;;What are you doing?;What are you doing?;¿Qué haces?
+;;Mika;\etalk[9]Oh, I'm just finishing up something I'm working on.;\etalk[9]Oh, I'm just finishing up something I'm working on.;\etalk[9]Mmm, solo trato de terminar esto.
+;;;What is it?;What is it?;¿Y qué es eso?
+;;;I'll leave you to it;I'll leave you to it;Te dejaré terminar
 ;;Mika;"\etalk[9]...\| Don't judge, but I was making my own fan art
 of my favorite K-pop group, Stray Kats ...";"\etalk[9]...\| Don't judge, but I was making my own fan art
-of my favorite K-pop group, Stray Kats ...";
+of my favorite K-pop group, Stray Kats ...";"\etalk[9]Ah...\| Estaba dibujando a las chicas de Blackrose.
+Es mi banda de k-pop favorita."
 ;;Mika;"\etalk[9]Actually\. I could really use some feedback about
 the colors,\. do you think you could help?";"\etalk[9]Actually\. I could really use some feedback about
-the colors,\. do you think you could help?";
-;;Mika;\etalk[9]Really? Thank you so much!;\etalk[9]Really? Thank you so much!;
-;;Mika;\etalk[9]Ah, alright! That's fine!;\etalk[9]Ah, alright! That's fine!;
+the colors,\. do you think you could help?";"\etalk[9]Mmm...\. Quizá me podrías dar una mano con los
+colores.\. ¿Te gustaría?"
+;;Mika;\etalk[9]Really? Thank you so much!;\etalk[9]Really? Thank you so much!;\etalk[9]¡Súper! ¡Ay, esto va a ser tan divertido! 
+;;Mika;\etalk[9]Ah, alright! That's fine!;\etalk[9]Ah, alright! That's fine!;"\etalk[9]Tú tranquilo. Ya casi terminaba de
+todas formas."
 ;;Mika;"\etalk[9]...\| Hey, you don't happen to be a master artist,\.
 right?";"\etalk[9]...\| Hey, you don't happen to be a master artist,\.
-right?";
+right?";"\etalk[9]...\| Hey,\. ¿tienes un minuto, compañero?"
 ;;Mika;"\etalk[9]I'm working on this drawing, but I can't figure out
 what colors to use...";"\etalk[9]I'm working on this drawing, but I can't figure out
-what colors to use ...";
+what colors to use ...";"\etalk[9]Es que necesito algunas sugerencias sobre qué
+colores usar en unos dibujos que hice..."
 ;;Mika;"\etalk[9]It's some fan art about my favorite ...\| K-pop\. group.\|
 Do you think you could help?";"\etalk[9]It's some fan art about my favorite ...\| K-pop\. group.\|
-Do you think you could help?";
+Do you think you could help?";"\etalk[9]Dibujé cada integrante de mi banda favorita.\|
+¿Te gustaría ayudarme con los colores?"
 ;;Mika;"\etalk[9]Do you think you could help me?
 With the colors, you know ...";"\etalk[9]Do you think you could help me?
-With the colors, you know ...";
-;;Mika;\etalk[9]Okay, I'll be here. Suffering.;\etalk[9]Okay, I'll be here. Suffering.;
-;;;She seems too busy, I might talk to her later.;She seems too busy, I might talk to her later.;
+With the colors, you know ...";"\etalk[9]¿Quisieras darme una ayudita con los
+colores?"
+;;Mika;\etalk[9]Okay, I'll be here. Suffering.;\etalk[9]Okay, I'll be here. Suffering.;"\etalk[9]Okey. Debes estar ocupado. Disculpa.
+Yo puedo sola...Creo."
+;;;She seems too busy, I might talk to her later.;She seems too busy, I might talk to her later.;Parece ocupada. Hablaré con ella después.
 ;;Mika;"By the way, Stray Kats like to dye their hair a lot
 and wear different contact lenses.";"By the way, Stray Kats like to dye their hair a lot
-and wear different contact lenses.";
+and wear different contact lenses.";"¿Sabes? A las chicas de Blackrose les encanta
+teñirse el pelo antes de cada show."
 ;;Mika;"Their hair and eyes look different in every
 performance!";"Their hair and eyes look different in every
-performance!";
+performance!";"Siempre aparecen con un color de cabello o de
+ojos distinto."
 ;;Mika;"Here's the first member, Hayden.\.
 She's the main vocalist and lead dancer.";"Here's the first member, Hayden.\.
-She's the main vocalist and lead dancer.";
-;;Mika;Alright, what should her hair and bow color be?;Alright, what should her hair and bow color be?;
-;;;\c[2]Red/Pink;\c[2]Red/Pink;
-;;;\c[1]Yellow;\c[1]Yellow;
-;;;\c[4]Brown;\c[4]Brown;
-;;;\c[3]Cyan;\c[3]Cyan;
+She's the main vocalist and lead dancer.";"Ella es Hayden.\.
+Es la vocalista principal y bailarina líder."
+;;Mika;Alright, what should her hair and bow color be?;Alright, what should her hair and bow color be?;"Entonces, ¿qué color te gustaría que sea su
+cabello y su lazo?"
+;;;\c[2]Red/Pink;\c[2]Red/Pink;\c[2]Rojo
+;;;\c[1]Yellow;\c[1]Yellow;\c[1]Amarillo
+;;;\c[4]Brown;\c[4]Brown;\c[4]Marrón
+;;;\c[3]Cyan;\c[3]Cyan;\c[3]Cian
 ;;Mika;"You're right, this looks great!\.
 The pink really brings out her character!";"You're right, this looks great!\.
-The pink really brings out her character!";
-;;Mika;...\| It's okay.;...\| It's okay.;
+The pink really brings out her character!";"¡Quedó fabuloso!\.
+El rojo sí que resalta su personalidad enérgica."
+;;Mika;...\| It's okay.;...\| It's okay.;...\| Está bien.
 ;;Mika;"You're right, this looks great!\.
 It's her natural hair color, so it makes sense!";"You're right, this looks great!\.
-It's her natural hair color, so it makes sense!";
+It's her natural hair color, so it makes sense!";"¡Oh, se ve tan linda con ese!\.
+De hecho, ese es su color natural; por si no sabías."
 ;;Mika;"You're right, this looks great!\.
 Cyan's one of my favorite colors too, hehe.";"You're right, this looks great!\.
-Cyan's one of my favorite colors too, hehe.";
-;;Mika;Okay, and her eye color?;Okay, and her eye color?;
-;;;\c[6]Blue;\c[6]Blue;
-;;;\c[2]Red;\c[2]Red;
-;;;\c[5]Purple;\c[5]Purple;
-;;Mika;Looks good enough.;Looks good enough.;
+Cyan's one of my favorite colors too, hehe.";"Oye, ¡le quedó fabuloso!\.
+No sé tú, pero yo ¡adooro el cian!"
+;;Mika;Okay, and her eye color?;Okay, and her eye color?;¿Y qué color de ojos sugieres?
+;;;\c[6]Blue;\c[6]Blue;\c[6]Azules
+;;;\c[2]Red;\c[2]Red;\c[2]Rojos
+;;;\c[5]Purple;\c[5]Purple;\c[5]Violetas
+;;Mika;Looks good enough.;Looks good enough.;Va quedando cada vez mejor.
 ;;Mika;"Next up is her outfit, what should the main
 color be?";"Next up is her outfit, what should the main
-color be?";
-;;;\c[7]Blue;\c[7]Blue;
-;;;White;White;
-;;;\c[9]Dark Blue;\c[9]Dark Blue;
+color be?";"Ahora, ¿de qué color debería ser su outfit?"
+;;;\c[7]Blue;\c[7]Blue;\c[7]Azul
+;;;White;White;Blanco
+;;;\c[9]Dark Blue;\c[9]Dark Blue;\c[9]Azul marino
 ;;Mika;"Yes, it's really coming together!\|
 This is one of her more popular outfits!";"Yes, it's really coming together!\|
-This is one of her more popular outfits!";
+This is one of her more popular outfits!";"¡Me gusta como está quedando!\|
+Este es uno de sus outfits más populares."
 ;;Mika;"Yes, it's really coming together!\|
 I really like this specific outfit ...";"Yes, it's really coming together!\|
-I really like this specific outfit ...";
-;;Mika;Yes, it's really coming together!;Yes, it's really coming together!;
+I really like this specific outfit ...";"Oh, se ve tan preciosa en este.\|
+Creo que encontré mi outfit favorito."
+;;Mika;Yes, it's really coming together!;Yes, it's really coming together!;Quedó bastante bien, ¿no crees?
 ;;Mika;"They wore this one on the special anniversary
 show of Stray Kats!";"They wore this one on the special anniversary
-show of Stray Kats!";
+show of Stray Kats!";"Este fue usado en un show especial por su
+aniversario."
 ;;Mika;"I don't think they've worn something like
 this before!";"I don't think they've worn something like
-this before!";
+this before!";"Creo que nunca han usado algo así antes."
 ;;Mika;"And finally, the second color for her outfit!
 What would fit well?";"And finally, the second color for her outfit!
-What would fit well?";
-;;;\c[8]Pink;\c[8]Pink;
-;;;\c[10]Green;\c[10]Green;
-;;Mika;You're right, this looks good!;You're right, this looks good!;
-;;Mika;Oh my god,\. it's perfect!;Oh my god,\. it's perfect!;
+What would fit well?";"Okey, ¿qué otro color le pondrías?"
+;;;\c[8]Pink;\c[8]Pink;\c[8]Rosa
+;;;\c[10]Green;\c[10]Green;\c[8]Verde
+;;Mika;You're right, this looks good!;You're right, this looks good!;Hey, ¡quedó fantástico!
+;;Mika;Oh my god,\. it's perfect!;Oh my god,\. it's perfect!;Caray.\. ¡Está PER-FECTO!
 ;;Mika;"Before we move on, I wanted to say that they
 usually all match each other's outfit and colors!";"Before we move on, I wanted to say that they
-usually all match each other's outfit and colors!";
+usually all match each other's outfit and colors!";"Antes de continuar, quiero decirte que las tres
+llevan usualmente el mismo outfit."
 ;;Mika;"I could re-use the same colors for the
 other two, or we could have three different ones!";"I could re-use the same colors for the
-other two, or we could have three different ones!";
-;;;Different outfits;Different outfits;
-;;;Re-use colors;Re-use colors;
-;;Mika;Okay! Let's get started with Jiyu!;Okay! Let's get started with Jiyu!;
+other two, or we could have three different ones!";"Si quieres, podemos usar los mismos colores
+para las otras, o usar otros. Depende de ti."
+;;;Different outfits;Different outfits;Outfits diferentes
+;;;Re-use colors;Re-use colors;Outfits iguales
+;;Mika;Okay! Let's get started with Jiyu!;Okay! Let's get started with Jiyu!;Vale, comencemos con Jiyu.
 ;;Mika;"Here's my drawing of Jiyu! She's the lead vocalist,
 and the other lead dancer!";"Here's my drawing of Jiyu! She's the lead vocalist,
-and the other lead dancer!";
-;;Mika;Okay, what color should her hair be?;Okay, what color should her hair be?;
-;;Mika;Right, red is a great option!;Right, red is a great option!;
-;;Mika;Right, yellow is a great option!;Right, yellow is a great option!;
-;;Mika;Right, brown is a great option!;Right, brown is a great option!;
-;;Mika;Right, cyan is a great option!;Right, cyan is a great option!;
+and the other lead dancer!";"Esta es Jiyu. Ella es la vocalista,
+Y bailarina líder del grupo."
+;;Mika;Okay, what color should her hair be?;Okay, what color should her hair be?;¿De qué color debería ser su cabello?
+;;Mika;Right, red is a great option!;Right, red is a great option!;Rojo corazón, me agrada.
+;;Mika;Right, yellow is a great option!;Right, yellow is a great option!;Amarillo también le cae bien.
+;;Mika;Right, brown is a great option!;Right, brown is a great option!;Un marrón castaño no está nada mal.
+;;Mika;Right, cyan is a great option!;Right, cyan is a great option!;Cian, ¿eh? Ese sí que me gusta.
 ;;Mika;"That looks great!
 They look so shiny ...";"That looks great!
-They look so shiny ...";
-;;Mika;And now her outfit! What could be the main color?;And now her outfit! What could be the main color?;
-;;Mika;That works!;That works!;
-;;Mika;And finally, the second color for her outfit?;And finally, the second color for her outfit?;
-;;Mika;I'm really happy with how this one turned out!;I'm really happy with how this one turned out!;
-;;Mika;One more member left!;One more member left!;
+They look so shiny ...";"¡Quedó fantástico!
+¡Se ve tan radiante!"
+;;Mika;And now her outfit! What could be the main color?;And now her outfit! What could be the main color?;"Bien, ahora su outfit. ¿Cuál debería ser
+el color principal?"
+;;Mika;That works!;That works!;Perfecto
+;;Mika;And finally, the second color for her outfit?;And finally, the second color for her outfit?;Okey, ¿qué otro color más te gustaría?
+;;Mika;I'm really happy with how this one turned out!;I'm really happy with how this one turned out!;Caramba, qué bien que quedó.
+;;Mika;One more member left!;One more member left!;Solo queda una miembro más.
 ;;Mika;"Here's Haeri. She is the leader of Stray Kats, and
 the main vocalist and rapper!";"Here's Haeri. She is the leader of Stray Kats, and
-the main vocalist and rapper!";
-;;Mika;What color for the hair?;What color for the hair?;
-;;Mika;Yes! That looks good!;Yes! That looks good!;
-;;Mika;Hmm, it looks okay.;Hmm, it looks okay.;
+the main vocalist and rapper!";"Presentando a la vocalista y rapera principal
+de Blackrose: ¡Haeri!"
+;;Mika;What color for the hair?;What color for the hair?;"Bueno, aquí vamos una última vez.
+¿Color de cabello?"
+;;Mika;Yes! That looks good!;Yes! That looks good!;¡Bien, bien! Ay, está quedando hermosa.
+;;Mika;Hmm, it looks okay.;Hmm, it looks okay.;Okey, supongo que está bien.
 ;;Mika;"Not that it's bad, but I think another color
 would have been better!";"Not that it's bad, but I think another color
-would have been better!";
-;;Mika;And now her eye color ...;And now her eye color ...;
-;;Mika;Okay, I like this ...;Okay, I like this ...;
-;;Mika;And the main color of the outfit?;And the main color of the outfit?;
-;;Mika;Yeah, that's good!;Yeah, that's good!;
-;;Mika;And finally! The second color ...;And finally! The second color ...;
-;;Mika;It looks great, I love how she looks here!;It looks great, I love how she looks here!;
-;;Mika;We're finally done!;We're finally done!;
+would have been better!";"No está mal pero... quizá le caería mejor
+otro color."
+;;Mika;And now her eye color ...;And now her eye color ...;¿Color de ojos?
+;;Mika;Okay, I like this ...;Okay, I like this ...;Oh, están lindos...
+;;Mika;And the main color of the outfit?;And the main color of the outfit?;¿Color primario de outfit?
+;;Mika;Yeah, that's good!;Yeah, that's good!;¡Liisto!
+;;Mika;And finally! The second color ...;And finally! The second color ...;Y finalmente, el color secundario...
+;;Mika;It looks great, I love how she looks here!;It looks great, I love how she looks here!;¡Me encanta, me encanta, me encanta!
+;;Mika;We're finally done!;We're finally done!;Uff, finalmente acabamos.
 ;;Mika;"Alright, give me a second to fill in the other
 members ...";"Alright, give me a second to fill in the other
-members ...";
+members ...";"Okey, dame un segundito para pintar a las otras."
 ;;Mika;"\etalk[9]That looks amazing!\.
 Thank you so much for your help!";"\etalk[9]That looks amazing!\.
-Thank you so much for your help!";
-;;Mika;\etalk[9]I want to give you this, as a little thank you!;\etalk[9]I want to give you this, as a little thank you!;
+Thank you so much for your help!";"\etalk[9]¡Quedaron SÚPER increíbles! En serio.\.
+Muchas gracias por ayudarme."
+;;Mika;\etalk[9]I want to give you this, as a little thank you!;\etalk[9]I want to give you this, as a little thank you!;"\etalk[9]Quiero darte esto como agradecimiento."
 ;;Mika;"\etalk[9]It's a CD from Stray Kats, the group I was
 drawing!";"\etalk[9]It's a CD from Stray Kats, the group I was
-drawing!";
-;;Mika;\etalk[9]I'll see ya around!;\etalk[9]I'll see ya around!;
-;;Mika;\etalk[9]Thanks again!;\etalk[9]Thanks again!;
+drawing!";"\etalk[9]Es un CD de música de Blackrose. Escúchalo y luego
+me cuentas qué te pareció."
+;;Mika;\etalk[9]I'll see ya around!;\etalk[9]I'll see ya around!;\etalk[9]Bueno, nos vemos por ahí.
+;;Mika;\etalk[9]Thanks again!;\etalk[9]Thanks again!;"\etalk[9]Y gracias de nuevo por tu ayuda.
+Ahora sí, byyye."
 ;;Mika;"\etalk[9]I was thinking of posting it online, do you
 think Stray Kats might see it?";"\etalk[9]I was thinking of posting it online, do you
-think Stray Kats might see it?";
-;;;The door is locked.;The door is locked.;
+think Stray Kats might see it?";"\etalk[9]Pensaba subirlo a mis redes. ¿Crees que
+alguien de Blackrose lo vería?"
+;;;The door is locked.;The door is locked.;La puerta está cerrada.
 ;;;"I guess they wouldn't want random students
 entering the teacher's lounge.";"I guess they wouldn't want random students
-entering the teacher's lounge.";
+entering the teacher's lounge.";"Parece que no quieren que ningún estudiante
+entre en la sala de profesores."
 ;;;"Despite being really curious about what’s behind
 the door,\. it’s still locked.";"Despite being really curious about what’s behind
-the door,\. it’s still locked.";
+the door,\. it’s still locked.";""
 ;;;Nope, still locked.;Nope, still locked.;
 ;;;You try to open the door.;You try to open the door.;
 ;;;"You’ve given it everything,\. but the door remains
@@ -1077,8 +1107,8 @@ me know.";
 ;;;I think I found it;I think I found it;
 ;;Trumpeter;You have?;You have?;
 ;;Trumpeter;Oh my god! I can't believe it, my trumpet!;Oh my God! I can't believe it, my trumpet!;¡Genial! ¡La encontraste!
-;;Trumpeter;Dude, thank you so much! I really thought I'd lost it!;Dude, thank you so much! I really thought I'd lost it!;"Uff, no sabes cuán agradecido estoy.
-Pensé que tendría que comprar otra."
+;;Trumpeter;Dude, thank you so much! I really thought I'd lost it!;Dude, thank you so much! I really thought I'd lost it!;"Uff. Por un momento pense que tendría que
+comprar otra."
 ;;Trumpeter;"Actually, if you have time, do you wanna have
 a lil jam?";"Actually, if you have time, do you wanna have
 a lil jam?";"Hey, ¿qué tal si hacemos algo de música
@@ -1095,13 +1125,13 @@ Anímate."
 ;;;Yeah;Yeah;Sip
 ;;Trumpeter;"Hop on the keyboard and we can have a
 jam session!";"Hop on the keyboard and we can have a
-jam session!";¡Vamos, hay que tocar un poco!
+jam session!";¿Qué dices? ¿Te animas a tocar el teclado?
 ;;Trumpeter;You ready to jam?;You ready to jam?;¿Tas listo?
 ;;Trumpeter;"Alright, key is in C major.
 Bring it on!";"Alright, key is in C major.
 Bring it on!";"Okay, quiero que toques en do mayor.
 ¡Vamos, lucete!"
-;;Trumpeter;That was awesome! Nice job buddy!;That was awesome! Nice job buddy!;
+;;Trumpeter;That was awesome! Nice job buddy!;That was awesome! Nice job buddy!;¡Bravísimo! ¡Vaya que te luciste ahí, eh!
 ;;;"It's a poster of one of my favorite albums as
 a child.";"It's a poster of one of my favorite albums as
 a child.";
@@ -1289,26 +1319,29 @@ To return, talk to the boy again.";
 ;;tbh;Yippee! Yippee! Yippee! ;Yippee! Yippee! Yippee! ;¡Yuuupiiii!
 ;;;This is tbh's special room.;This is tbh's special room.;Esta es la habitación secreta de tbh.
 ;;;Good job on finding tbh's special room.;Good job on finding tbh's special room.;¡Qué bueno que la encontraste!
-;;;It's a signed basketball.;It's a signed basketball.;
-;;;Mr. ???;Mr. ???;
+;;;It's a signed basketball.;It's a signed basketball.;Es una pelota de baloncesto firmada.
+;;;Mr. ???;Mr. ???;Sr. ¿?
 ;;Mr. ???;"Alright children, are you all ready to listen
 to this?";"Alright children, are you all ready to listen
-to this?";
-;;;Everyone;Everyone;
-;;Everyone;...\| Yeah.;...\| Yeah.;
+to this?";Okey, ¿están todos listos para el show?
+;;;Everyone;Everyone;Todos
+;;Everyone;...\| Yeah.;...\| Yeah.;...\| Sí
 ;;Mr. ???;"Let's give it a spin!\.
 This is one of my favorites!";"Let's give it a spin!\.
-This is one of my favorites!";
-;;;I still remember this song.;I still remember this song.;
-;;;I closed my eyes, trying to take everything in.;I closed my eyes, trying to take everything in.;
+This is one of my favorites!";"Bien, vamos a comenzar entonces.\.
+¡Esta es una de mis favoritas!"
+;;;I still remember this song.;I still remember this song.;Aún recuerdo esa canción.
+;;;I closed my eyes, trying to take everything in.;I closed my eyes, trying to take everything in.;"Cierro los ojos para concentrarme mejor
+en la música."
 ;;;"My teacher once played it for us at the end
 of our music class.";"My teacher once played it for us at the end
-of our music class.";
-;;;It felt so special to me at the time.;It felt so special to me at the time.;
+of our music class.";"Mi profesor alguna vez la tocó al final de
+una de sus clases."
+;;;It felt so special to me at the time.;It felt so special to me at the time.;Y, sinceramente, me pareció bastante especial.
 ;;;"It's a cheap keyboard.
 I only know how to play one song on it.";"It's a cheap keyboard.
-I only know how to play one song on it.";
-;;;???;???;
+I only know how to play one song on it.";""
+;;;???;???;¿?
 ;;???;"I think my dad owns the record Mr. ??? is 
 about to put on.";"I think my dad owns the record Mr. ??? is 
 about to put on.";
@@ -1324,15 +1357,15 @@ old albums?";
 ;;???;"I think we have math for the next hour...\|
 Wait, no! We have English!";"I think we have math for the next hour...\|
 Wait, no! We have English!";
-;;;You found an MP3 file.;You found an MP3 file.;
-;;;You can play this file on your MP3 player.;You can play this file on your MP3 player.;
-;;;You don't see a way of playing the file right now ... ;You don't see a way of playing the file right now ... ;
+;;;You found an MP3 file.;You found an MP3 file.;Encontraste un archivo MP3.
+;;;You can play this file on your MP3 player.;You can play this file on your MP3 player.;Puedes escucharlo en tu reproductor MP3.
+;;;You don't see a way of playing the file right now ... ;You don't see a way of playing the file right now ... ;Pero no tienes en que escucharlo...
 ;;;"Later, when I started taking different drugs,
 this experience only felt greater.";"Later, when I started taking different drugs,
 this experience only felt greater.";
 ;;;"Listening to music would be my only safe
 place.";"Listening to music would be my only safe
-place.";
+place.";La música era mi único escape.
 ;;???;Come out!;Come out!;
 ;;???;"He's such a baby! He can't even stand up
 for himself!";"He's such a baby! He can't even stand up
