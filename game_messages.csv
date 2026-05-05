@@ -262,7 +262,7 @@ que crecí, me fue olvidando de ellas."
 ;;;Flower Child;Flower Child;Chico Flor
 ;;Flower Child;"I've been taking care of these little guys for
 a while.";"I've been taking care of these little guys for
-a while.";"Estoy cuidando de estos pequeñines; son mis amigos."
+a while.";"Estoy cuidando de estos chiquitines; son mis amigos."
 ;;Flower Child;We're all best friends and spend the day together.;We're all best friends and spend the day together.;Decidimos pasar el dia aquí juntos.
 ;;Flower Child;"The mushrooms are still sleeping, so I've decided
 to take a breath of fresh air.";"The mushrooms are still sleeping, so I've decided
@@ -428,15 +428,15 @@ I tried, even when it felt like it wasn’t enough.";
 ;;;Should I call someone?;Should I call someone?;¿Debería llamar a alguien?
 ;;;I don't remember anyone's number.;I don't remember anyone's number.;Pero no recuerdo ningún número.
 ;;;There's nothing on TV.;There's nothing on TV.;No hay nada en la pantalla.
-;;;I take a bite out of the instant ramen noodles.;I take a bite out of the instant ramen noodles.;Le doy un mordisco a los fideos instantáneos.
+;;;I take a bite out of the instant ramen noodles.;I take a bite out of the instant ramen noodles.;Le doy un bocado a los fideos instantáneos.
 ;;;...\| it tastes dry.;...\| it tastes dry.;...\| sabe seco.
 ;;;An empty plate.;An empty plate.;Un plato vacío.
-;;;I take a bite out of the toast.;I take a bite out of the toast.;Le doy un mordisco a la tostada.
-;;;I take a bite out of a chicken nugget.;I take a bite out of a chicken nugget.;Le doy un mordisco al nugget de pollo.
+;;;I take a bite out of the toast.;I take a bite out of the toast.;Le doy un bocado a la tostada.
+;;;I take a bite out of a chicken nugget.;I take a bite out of a chicken nugget.;Le doy un bocado al nugget de pollo.
 ;;;I don't feel like eating.;I don't feel like eating.;No tengo ganas de comer.
-;;;I take a sip of the milk.;I take a sip of the milk.;Tomo un sorbo de leche.
-;;;I take a bite out of a grape.;I take a bite out of a grape.;Le doy un mordisco a la uva.
-;;;I take a bite out of the egg.;I take a bite out of the egg.;Le doy un mordisco al huevo.
+;;;I take a sip of the milk.;I take a sip of the milk.;Bebo un sorbo de leche.
+;;;I take a bite out of a grape.;I take a bite out of a grape.;Pruebo una uva.
+;;;I take a bite out of the egg.;I take a bite out of the egg.;Le doy un bocado al huevo.
 ;;;...\| it tastes nice.;...\| it tastes nice.;...\| sabe bien.
 ;;;Felix;Felix;Felix
 ;;Felix;"I've been getting a lot of weird DMs from some of
@@ -826,38 +826,44 @@ I'm home ...";
 ;;Tripp;"I could stand up anytime I want to, but it just feels
 nice sitting here.";"I could stand up anytime I want to, but it just feels
 nice sitting here.";
-;;;Aria;Aria;
+;;;Aria;Aria;Aria
 ;;Aria;"I hate the stuff they play on the radio, that 'pop'
 stuff is overrated.";"I hate the stuff they play on the radio, that 'pop'
-stuff is overrated.";
+stuff is overrated.";"Detesto cuando ponen esa basura 'pop' en la
+radio TODO el tiempo. ¡Qué desperdicio!"
 ;;Aria;"I've got mixtapes of the best underground bands,
 and unlike the stuff you hear on radio, it's good.";"I've got mixtapes of the best underground bands,
-and unlike the stuff you hear on radio, it's good.";
-;;;I've got something underground;I've got something underground;
+and unlike the stuff you hear on radio, it's good.";"Si quieres, te puedo mostrar algunas joyitas
+poco conocidas, ¿qué dices?"
+;;;I've got something underground;I've got something underground;Traje algunas
 ;;Aria;"Really? It better be something I know, like
 Blue Day.";"Really? It better be something I know, like
-Blue Day.";
+Blue Day.";"¿Ah, de verdad? Pues ponlas. Puntos extra si
+son tipo Blue Day."
 ;;Aria;"K-pop? You call this underground?
 This is gonna suck ...";"K-pop? You call this underground?
-This is gonna suck ...";
-;;Aria;You know what? This doesn't sound terrible ...;You know what? This doesn't sound terrible ...;
-;;Aria;Yeah! I might be into this stuff! K-pop!;Yeah! I might be into this stuff! K-pop!;
-;;Aria;Where did you get this CD?;Where did you get this CD?;
-;;;Mika gave it;Mika gave it;
-;;;I found it;I found it;
+This is gonna suck ...";"¿K-pop? ¿Es en serio? Caray, pensé que pondrías
+algo más underground o algo así..."
+;;Aria;You know what? This doesn't sound terrible ...;You know what? This doesn't sound terrible ...;Mmm... No suena taan mal...
+;;Aria;Yeah! I might be into this stuff! K-pop!;Yeah! I might be into this stuff! K-pop!;Ja. Creo que podría llegar a gustarme.
+;;Aria;Where did you get this CD?;Where did you get this CD?;¿Dónde conseguiste ese CD?
+;;;Mika gave it;Mika gave it;Mika me lo dio
+;;;I found it;I found it;Solo lo encontré
 ;;Aria;"I might have to go talk to her about it!\|
 I mean ...\.\. have a chat with her.";"I might have to go talk to her about it!\|
-I mean ...\.\. have a chat with her.";
-;;Aria;... She seems cool.;... She seems cool.;
-;;Aria;No way, this is like a hidden gem!;No way, this is like a hidden gem!;
-;;Aria;...\| I mean, yeah. It's cool.;...\| I mean, yeah. It's cool.;
-;;Aria;Yeah, this is good music.;Yeah, this is good music.;
-;;Aria;...\. Okay.;...\. Okay.;
-;;;Potato;Potato;
-;;Potato;yes yes yes i am but a small potato boy;yes yes yes i am but a small potato boy;
-;;Potato;yes yes this is some groovy music;yes yes this is some groovy music;
-;;Potato;potato boy enjoys;potato boy enjoys;
-;;Potato;potato boy thinks the trumpet is funny;potato boy thinks the trumpet is funny;
+I mean ...\.\. have a chat with her.";"Mmm...\| Quizá vaya a preguntarle si tiene más...\.
+Digo...\. a conversar sobre nuestros gustos."
+;;Aria;... She seems cool.;... She seems cool.;... Parece buena onda. 
+;;Aria;No way, this is like a hidden gem!;No way, this is like a hidden gem!;"¿En serio? Qué suerte. A veces es difícil
+encontrar joyitas como esta."
+;;Aria;...\| I mean, yeah. It's cool.;...\| I mean, yeah. It's cool.;...\| O sea, creo que no está mal.
+;;Aria;Yeah, this is good music.;Yeah, this is good music.;Sí, está muy buena.
+;;Aria;...\. Okay.;...\. Okay.;...\. Okey.
+;;;Potato;Potato;Papita
+;;Potato;yes yes yes i am but a small potato boy;yes yes yes i am but a small potato boy;ajá, sí, eso, soy un chico papita
+;;Potato;yes yes this is some groovy music;yes yes this is some groovy music;ay, está buenisisísima
+;;Potato;potato boy enjoys;potato boy enjoys;a papita le encanta
+;;Potato;potato boy thinks the trumpet is funny;potato boy thinks the trumpet is funny;papita piensa que la trompeta se oye graciosa
 ;;Potato;haha toot;haha toot;
 ;;;"""Yeahhh!
 Society sucks, love hurts, screw everything!""";"""Yeahhh!
@@ -923,7 +929,7 @@ remember anything.";"But now that I am thinking, I can't seem to
 remember anything.";No logro recordar casi nada...
 ;;;"However, looking at this shelf, I remember picking
 out a movie to watch.";"However, looking at this shelf, I remember picking
-out a movie to watch.";"Pero, ahora que veo este estante, recuerdo
+out a movie to watch.";"Pero, ahora que veo esta estantería, recuerdo
 escoger una de sus películas."
 ;;;"I think it was about a guy who built a time
 machine out of a DeLorean...";"I think it was about a guy who built a time
@@ -989,42 +995,50 @@ se siente demasiado real para serlo."
 ;;;A big closet.;A big closet.;
 ;;Worm;i don't know how i got here ...;i don't know how i got here ...;
 ;;;It's an empty cup.;It's an empty cup.;
-;;;Vinnie;Vinnie;
-;;Vinnie;...\. Why are you looking at me like that?;...\. Why are you looking at me like that?;
+;;;Vinnie;Vinnie;Vinnie
+;;Vinnie;...\. Why are you looking at me like that?;...\. Why are you looking at me like that?;...\. ¿Qué me miras?
 ;;Vinnie;"Hey, you better not snitch on me.
 I know people who can screw you up.";"Hey, you better not snitch on me.
-I know people who can screw you up.";
+I know people who can screw you up.";"¡Hey, no vayas a estar andando de soplón, eh!
+A menos que quieras que te haga la vida imposible."
 ;;Vinnie;"Yeah, I already checked all the stalls for toilet
 paper.";"Yeah, I already checked all the stalls for toilet
-paper.";
-;;;I did my best.;I did my best.;
-;;Vinnie;Thanks for helping out.;Thanks for helping out.;
-;;Vinnie;Why are you playing that in the restroom?;Why are you playing that in the restroom?;
-;;;I don't need to go now.;I don't need to go now.;
-;;;Lucas;Lucas;
-;;Lucas;Hello? Anyone? The toilet paper's gone!;Hello? Anyone? The toilet paper's gone!;
+paper.";"Sí, ya he buscado, pero no encontré más."
+;;;I did my best.;I did my best.;Hice lo que pude.
+;;Vinnie;Thanks for helping out.;Thanks for helping out.;Gracias por ayudar.
+;;Vinnie;Why are you playing that in the restroom?;Why are you playing that in the restroom?;----------------------------------------
+;;;I don't need to go now.;I don't need to go now.;------------------------------------------------
+;;;Lucas;Lucas;Lucas
+;;Lucas;Hello? Anyone? The toilet paper's gone!;Hello? Anyone? The toilet paper's gone!;"¿Hay alguien ahí? Es que se acabó el papel
+de baño."
 ;;Lucas;"Hey! You! Could you please get me some toilet
 paper?";"Hey! You! Could you please get me some toilet
-paper?";
+paper?";"Oye, ¿crees que me podrías traer más papel?
+Por favor."
 ;;Lucas;"Vinnie already checked the other stalls here
 and they're all empty!";"Vinnie already checked the other stalls here
-and they're all empty!";
+and they're all empty!";"Vinnie ya revisó todo el baño y no encontró
+ningún papel."
 ;;Lucas;"Could you please try to get some toilet paper?
 Maybe the women's room has some extra!";"Could you please try to get some toilet paper?
-Maybe the women's room has some extra!";
-;;Lucas;Hey, did you get the toilet paper?;Hey, did you get the toilet paper?;
-;;Lucas;Great, throw it over the door.;Great, throw it over the door.;
-;;Lucas;Thanks man, appreciate it.;Thanks man, appreciate it.;
-;;Lucas;Hey! I can hear you leaving!;Hey! I can hear you leaving!;
-;;;The sink doesn't even work.;The sink doesn't even work.;
+Maybe the women's room has some extra!";"Debe haber más en el baño de mujeres. Por favor,
+te lo ruego. Solo necesito un rollo."
+;;Lucas;Hey, did you get the toilet paper?;Hey, did you get the toilet paper?;¿Lograste conseguir más papel?
+;;Lucas;Great, throw it over the door.;Great, throw it over the door.;"Uf, qué alivio. Pásalo por debajo de
+la puerta porfa."
+;;Lucas;Thanks man, appreciate it.;Thanks man, appreciate it.;"Gracias, amigo. Me salvaste de una buena"
+;;Lucas;Hey! I can hear you leaving!;Hey! I can hear you leaving!;¡Hey! ¡¿Adónde vas?!
+;;;The sink doesn't even work.;The sink doesn't even work.;El lavamanos está averiado.
 ;;Lucas;"Thanks for saving me dude, I've been stuck there
 for a couple of hours now ...";"Thanks for saving me dude, I've been stuck there
-for a couple of hours now ...";
-;;Lucas;Uhhh...;Uhhh ...;
-;;Lucas;Nice?;Nice?;
+for a couple of hours now ...";"No sé cómo agradecerte. Llevaba unas horas
+atrapado ahí. Era una tortura."
+;;Lucas;Uhhh...;Uhhh ...;Ah...
+;;Lucas;Nice?;Nice?;-------------------------------------------------------------
 ;;Lucas;"Thanks for saving me dude, I've been stuck there
 for a couple of hours now...";"Thanks for saving me dude, I've been stuck there
-for a couple of hours now ...";
+for a couple of hours now ...";"No sé cómo agradecerte. Llevaba unas horas
+atrapado ahí. Era una tortura."
 ;;;Coach;Coach;
 ;;Coach;\etalk[3]Wrong! You're doing it wrong!;\etalk[3]Wrong! You're doing it wrong!;
 ;;;Jaxon;Jaxon;
@@ -1235,15 +1249,15 @@ Just follow these simple steps!""";"""Tired of being poor?
 Just follow these simple steps!""";
 ;;;"""Step 1: Have a Million Dollars.""";"""Step 1: Have a Million Dollars.""";
 ;;;You decide to stop reading.;You decide to stop reading.;
-;;;Jeffrey;Jeffrey;
-;;Jeffrey;\etalk[4]Oh, man ...\| I just can't ...\. move ...\. right now ...;\etalk[4]Oh, man ...\| I just can't ...\. move ...\. right now ...;
-;;Jeffrey;\etalk[4]I just need ...\| a break ...;\etalk[4]I just need ...\| a break ...;
-;;Jeffrey;\etalk[4]I ...\| oh god ...;\etalk[4]I ...\| oh god ...;
-;;Jeffrey;\etalk[4]My calming tea ...\| I need water ...;\etalk[4]My calming tea ...\| I need water ...;
-;;Jeffrey;\etalk[4]Could you ...\| go to the janitor's closet ...;\etalk[4]Could you ...\| go to the janitor's closet ...;
-;;;I'll help;I'll help;
-;;;I can't right now;I can't right now;
-;;Jeffrey;\etalk[4]Here's the ...\. key ...;\etalk[4]Here's the ...\. key ...;
+;;;Jeffrey;Jeffrey;Jeffrey
+;;Jeffrey;\etalk[4]Oh, man ...\| I just can't ...\. move ...\. right now ...;\etalk[4]Oh, man ...\| I just can't ...\. move ...\. right now ...;\etalk[4]Dios...\| no consigo...\| moverme...!
+;;Jeffrey;\etalk[4]I just need ...\| a break ...;\etalk[4]I just need ...\| a break ...;\etalk[4]Necesito...\| tranquilizarme...
+;;Jeffrey;\etalk[4]I ...\| oh god ...;\etalk[4]I ...\| oh god ...;\etalk[4]Ay, Dios...\| No pued...
+;;Jeffrey;\etalk[4]My calming tea ...\| I need water ...;\etalk[4]My calming tea ...\| I need water ...;\etalk[4]Mi té relajante...\| ¡Necesito agua...!
+;;Jeffrey;\etalk[4]Could you ...\| go to the janitor's closet ...;\etalk[4]Could you ...\| go to the janitor's closet ...;\etalk[4]¿Podrías...\| ir al cuarto de limpieza?
+;;;I'll help;I'll help;Okey, voy
+;;;I can't right now;I can't right now;No puedo ahora
+;;Jeffrey;\etalk[4]Here's the ...\. key ...;\etalk[4]Here's the ...\. key ...;\etalk[4]Esta es...\. la llave...
 ;;Jeffrey;\etalk[4]Come back ...\. later ...;\etalk[4]Come back ...\. later ...;
 ;;Jeffrey;\etalk[4]Please ...\| be quick ...;\etalk[4]Please ...\| be quick ...;
 ;;Jeffrey;\etalk[4]Did you get i-it?;\etalk[4]Did you get i-it?;
@@ -1372,26 +1386,35 @@ for himself!";"He's such a baby! He can't even stand up
 for himself!";
 ;;;"There was one day where I got chased by some
 kids.";"There was one day where I got chased by some
-kids.";
+kids.";"Recuerdo que un día, unos chicos estaban
+persiguiéndome."
 ;;;"I don't remember why they were chasing me, but
 it was one of the scariest moments in my life.";"I don't remember why they were chasing me, but
-it was one of the scariest moments in my life.";
-;;;I hid in the stalls, but they quickly found me.;I hid in the stalls, but they quickly found me.;
+it was one of the scariest moments in my life.";"No sé exactamente por qué, pero nunca olvidaré
+cuánto miedo sentí en aquel momento."
+;;;I hid in the stalls, but they quickly found me.;I hid in the stalls, but they quickly found me.;"Me encerré en el baño, pero de todas formas
+lograron encontrarme."
 ;;;"They wouldn't leave me alone, no matter how long
 I stayed.";"They wouldn't leave me alone, no matter how long
-I stayed.";
-;;;I must have been there for hours.;I must have been there for hours.;
+I stayed.";"Debo haber estado encerrado ahí por horas."
+;;;I must have been there for hours.;I must have been there for hours.;"Esperando que en algún momento se cansaran
+y se fueran."
 ;;;"I'd silently stood there crying, so they wouldn't
 hear it.";"I'd silently stood there crying, so they wouldn't
-hear it.";
-;;;No one should have to endure that;No one should have to endure that;
-;;;I could never forget this;I could never forget this;
-;;;...\. Staying trapped in that moment won't help.;...\. Staying trapped in that moment won't help.;
+hear it.";"Recuerdo estar apoyado contra la puerta,
+sollozando de impotencia."
+;;;No one should have to endure that;No one should have to endure that;Nadie debería pasar por eso
+;;;I could never forget this;I could never forget this;No puedo olvidarlo
+;;;...\. Staying trapped in that moment won't help.;...\. Staying trapped in that moment won't help.;"...\. Si sigues anclado al pasado, solo te vas
+a lastimar."
 ;;;"I can't change what they did to me, or that other
 people will try to hurt me again...";"I can't change what they did to me, or that other
-people will try to hurt me again ...";
-;;;...\| But I can stop giving them the power to do so.;...\| But I can stop giving them the power to do so.;
-;;;I want to move on.;I want to move on.;
+people will try to hurt me again ...";"No puedo cambiar lo que ellos me hicieron, o
+evitar que otros me lastimen peor..."
+;;;...\| But I can stop giving them the power to do so.;...\| But I can stop giving them the power to do so.;"...\| Pero puedo elegir dejar de
+actuar como un cobarde..."
+;;;I want to move on.;I want to move on.;"Soltar lo que me ata al pasado,\|
+y abrazar mi futuro."
 ;;;...\. I can still feel every second of it.;...\. I can still feel every second of it.;
 ;;;"The sound of their laughter...\!
 The cold air of the restroom...";"The sound of their laughter ...\!
