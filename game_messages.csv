@@ -40,8 +40,8 @@ para la escuela."
 ;;;It used to be full of movies,\. but it's empty.;It used to be full of movies,\. but it's empty.;Solía estar lleno de películas,\. ahora está vacío.
 ;;;I guess the only thing that's still here is my lighter.;I guess the only thing that's still here is my lighter.;"Parece que lo único que quedó aquí
 es mi encendedor."
-;;;Grab it;Grab it;Agarrarlo
-;;;Leave it;Leave it;Dejarlo
+;;;Grab it;Grab it;Agarrar
+;;;Leave it;Leave it;Olvidar
 ;;;I'm already carrying something...;I'm already carrying something ...;Ya estoy llevando algo...
 ;;;An empty table.;An empty table.;Una mesa vacía.
 ;;;A living plant.;A living plant.;Una planta solitaria.
@@ -295,10 +295,10 @@ time.";"It's strange how people can be so different over
 time.";
 ;;Mushroom;\etalk[83]Yeah! Yeah!;\etalk[83]Yeah! Yeah!;
 ;;;The bird is looking at the worm.;The bird is looking at the worm.;
-;;;Worm;Worm;
-;;Worm;hellooooo ...;hellooooo ...;
-;;Worm;hiiiiii ...;hiiiiii ...;
-;;Worm;how are you ...;how are you ...;
+;;;Worm;Worm;Gusano
+;;Worm;hellooooo ...;hellooooo ...;hoolaaa...
+;;Worm;hiiiiii ...;hiiiiii ...;hellooo...
+;;Worm;how are you ...;how are you ...;¿qué tal...?
 ;;;...;...;...
 ;;;Oakley;Oakley;Oakley
 ;;Oakley;Hello, sir.;Hello, sir.;Buen día, joven.
@@ -446,11 +446,12 @@ the girls here, they're quite disturbing actually ...";
 ;;;I probably shouldn't leave while I have school ...;I probably shouldn't leave while I have school ...;
 ;;;"The door is locked.
 I think this is the janitor's closet.";"The door is locked.
-I think this is the janitor's closet.";
-;;;Use key;Use key;
-;;;Not yet;Not yet;
-;;;The locker is locked.;The locker is locked.;
-;;;Hannah;Hannah;
+I think this is the janitor's closet.";"Está cerrado.
+Creo que este es el cuarto de limpieza."
+;;;Use key;Use key;Usar llave
+;;;Not yet;Not yet;No usar
+;;;The locker is locked.;The locker is locked.;El casillero está cerrado.
+;;;Hannah;Hannah;Hannah
 ;;Hannah;You see that guy over there?;You see that guy over there?;
 ;;;Yeah?;Yeah?;
 ;;;Nope;Nope;
@@ -990,11 +991,11 @@ thinking, and everything feels pretty real.";"...\| I don't think it's a dream, 
 thinking, and everything feels pretty real.";"...\| No creo que todo esto sea un sueño;
 se siente demasiado real para serlo."
 ;;;It's a kettle, filled with water.;It's a kettle, filled with water.;
-;;;Fill the cup;Fill the cup;
+;;;Fill the cup;Fill the cup;Llenar taza
 ;;;The basketball is too far away for you to reach.;The basketball is too far away for you to reach.;
 ;;;A big closet.;A big closet.;
 ;;Worm;i don't know how i got here ...;i don't know how i got here ...;
-;;;It's an empty cup.;It's an empty cup.;
+;;;It's an empty cup.;It's an empty cup.;Es una taza vacía.
 ;;;Vinnie;Vinnie;Vinnie
 ;;Vinnie;...\. Why are you looking at me like that?;...\. Why are you looking at me like that?;...\. ¿Qué me miras?
 ;;Vinnie;"Hey, you better not snitch on me.
@@ -1250,45 +1251,52 @@ Just follow these simple steps!""";
 ;;;"""Step 1: Have a Million Dollars.""";"""Step 1: Have a Million Dollars.""";
 ;;;You decide to stop reading.;You decide to stop reading.;
 ;;;Jeffrey;Jeffrey;Jeffrey
-;;Jeffrey;\etalk[4]Oh, man ...\| I just can't ...\. move ...\. right now ...;\etalk[4]Oh, man ...\| I just can't ...\. move ...\. right now ...;\etalk[4]Dios...\| no consigo...\| moverme...!
+;;Jeffrey;\etalk[4]Oh, man ...\| I just can't ...\. move ...\. right now ...;\etalk[4]Oh, man ...\| I just can't ...\. move ...\. right now ...;\etalk[4]Dios...\| no puedo...\| moverme...!
 ;;Jeffrey;\etalk[4]I just need ...\| a break ...;\etalk[4]I just need ...\| a break ...;\etalk[4]Necesito...\| tranquilizarme...
 ;;Jeffrey;\etalk[4]I ...\| oh god ...;\etalk[4]I ...\| oh god ...;\etalk[4]Ay, Dios...\| No pued...
 ;;Jeffrey;\etalk[4]My calming tea ...\| I need water ...;\etalk[4]My calming tea ...\| I need water ...;\etalk[4]Mi té relajante...\| ¡Necesito agua...!
 ;;Jeffrey;\etalk[4]Could you ...\| go to the janitor's closet ...;\etalk[4]Could you ...\| go to the janitor's closet ...;\etalk[4]¿Podrías...\| ir al cuarto de limpieza?
 ;;;I'll help;I'll help;Okey, voy
 ;;;I can't right now;I can't right now;No puedo ahora
-;;Jeffrey;\etalk[4]Here's the ...\. key ...;\etalk[4]Here's the ...\. key ...;\etalk[4]Esta es...\. la llave...
-;;Jeffrey;\etalk[4]Come back ...\. later ...;\etalk[4]Come back ...\. later ...;
-;;Jeffrey;\etalk[4]Please ...\| be quick ...;\etalk[4]Please ...\| be quick ...;
-;;Jeffrey;\etalk[4]Did you get i-it?;\etalk[4]Did you get i-it?;
-;;Jeffrey;\etalk[4]This is just ...\| an empty cup ...;\etalk[4]This is just ...\| an empty cup ...;
-;;Jeffrey;\etalk[4]C-could you ...\| fill it? Please ...;\etalk[4]C-could you ...\| fill it? Please ...;
-;;Jeffrey;\etalk[4]Thank you ...;\etalk[4]Thank you ...;
-;;Jeffrey;\etalk[4]Oh, that's a lot better already.;\etalk[4]Oh, that's a lot better already.;
+;;Jeffrey;\etalk[4]Here's the ...\. key ...;\etalk[4]Here's the ...\. key ...;\etalk[4]Aquí está...\. la llave...
+;;Jeffrey;\etalk[4]Come back ...\. later ...;\etalk[4]Come back ...\. later ...;\etalk[4]Vuelve...\. después...
+;;Jeffrey;\etalk[4]Please ...\| be quick ...;\etalk[4]Please ...\| be quick ...;\etalk[4]No...\. tardes m-mucho...
+;;Jeffrey;\etalk[4]Did you get i-it?;\etalk[4]Did you get i-it?;\etalk[4]¿Lo c-conseguiste?
+;;Jeffrey;\etalk[4]This is just ...\| an empty cup ...;\etalk[4]This is just ...\| an empty cup ...;\etalk[4]Está...\| vacía...
+;;Jeffrey;\etalk[4]C-could you ...\| fill it? Please ...;\etalk[4]C-could you ...\| fill it? Please ...;\etalk[4]¿P-Podrías...\| llenarla, p-por favor?
+;;Jeffrey;\etalk[4]Thank you ...;\etalk[4]Thank you ...;\etalk[4]Gracias...
+;;Jeffrey;\etalk[4]Oh, that's a lot better already.;\etalk[4]Oh, that's a lot better already.;\etalk[4]Ah. Ya me siento mucho mejor.
 ;;Jeffrey;"\etalk[4]Normally the janitor brings it to me during
 the break, but I think he took a day off.";"\etalk[4]Normally the janitor brings it to me during
-the break, but I think he took a day off.";
+the break, but I think he took a day off.";"\etalk[4]Disculpa la molestia. Usualmente es el conserje
+quien me trae el agua, pero creo que hoy no vino."
 ;;Jeffrey;"\etalk[4]I've got these special tea bags that are very
 calming, they help with my high stress levels.";"\etalk[4]I've got these special tea bags that are very
-calming, they help with my high stress levels.";
+calming, they help with my high stress levels.";"\etalk[4]Este té que acabo de tomar es antiestrés, 
+y me ayuda mucho a relajarme."
 ;;Jeffrey;"\etalk[4]I ...\| can get you one if you'd like, for your
 troubles.";"\etalk[4]I ...\| can get you one if you'd like, for your
-troubles.";
-;;Jeffrey;\etalk[4]Here you go ...;\etalk[4]Here you go ...;
+troubles.";"\etalk[4]Te puedo dar algunas bolsitas para que te hagas
+tu propio té cuando lo necesites."
+;;Jeffrey;\etalk[4]Here you go ...;\etalk[4]Here you go ...;\etalk[4]Toma...
 ;;Jeffrey;"\etalk[4]Thanks again, I've been having a lot of problems
 with high stress lately.";"\etalk[4]Thanks again, I've been having a lot of problems
-with high stress lately.";
-;;;How did you get those tea bags?;How did you get those tea bags?;
-;;;How did you get the key?;How did you get the key?;
+with high stress lately.";"\etalk[4]Ah. Gracias de nuevo. Últimamente he tenido
+serios problemas de estrés."
+;;;How did you get those tea bags?;How did you get those tea bags?;¿Dónde conseguiste esas bolsitas de té?
+;;;How did you get the key?;How did you get the key?;¿Cómo conseguiste la llave?
 ;;Jeffrey;"\etalk[4]My doctor recommended this special tea to me
 that helps with stress and intense pressure.";"\etalk[4]My doctor recommended this special tea to me
-that helps with stress and intense pressure.";
+that helps with stress and intense pressure.";"\etalk[4]Mi doctor me recomendó este té. Dijo que ayuda
+bastante a reducir el estrés y la tensión."
 ;;Jeffrey;"\etalk[4]Oh, the janitor gave me an emergency key in case
 he wasn't at school.";"\etalk[4]Oh, the janitor gave me an emergency key in case
-he wasn't at school.";
+he wasn't at school.";"\etalk[4]El conserje me dio una copia de su llave
+por si no estaba en la escuela."
 ;;Jeffrey;"\etalk[4]He usually brings me some boiling water when I'm
 freaking out.";"\etalk[4]He usually brings me some boiling water when I'm
-freaking out.";
+freaking out.";"\etalk[4]Él suele traerme agua caliente para prepararme
+mi té y así calmarme un poco."
 ;;;Trixie ;Trixie ;
 ;;Trixie ;"What do I get for trying out new magic spells in
 class? I get detention.";"What do I get for trying out new magic spells in
@@ -1402,7 +1410,7 @@ y se fueran."
 ;;;"I'd silently stood there crying, so they wouldn't
 hear it.";"I'd silently stood there crying, so they wouldn't
 hear it.";"Recuerdo estar apoyado contra la puerta,
-sollozando de impotencia."
+sollozando en silencio, impotente."
 ;;;No one should have to endure that;No one should have to endure that;Nadie debería pasar por eso
 ;;;I could never forget this;I could never forget this;No puedo olvidarlo
 ;;;...\. Staying trapped in that moment won't help.;...\. Staying trapped in that moment won't help.;"...\. Si sigues anclado al pasado, solo te vas
@@ -1411,10 +1419,9 @@ a lastimar."
 people will try to hurt me again...";"I can't change what they did to me, or that other
 people will try to hurt me again ...";"No puedo cambiar lo que ellos me hicieron, o
 evitar que otros me lastimen peor..."
-;;;...\| But I can stop giving them the power to do so.;...\| But I can stop giving them the power to do so.;"...\| Pero puedo elegir dejar de
-actuar como un cobarde..."
-;;;I want to move on.;I want to move on.;"Soltar lo que me ata al pasado,\|
-y abrazar mi futuro."
+;;;...\| But I can stop giving them the power to do so.;...\| But I can stop giving them the power to do so.;"...\| Pero puedo dejar de actuar como
+un cobarde...\. Quiero..."
+;;;I want to move on.;I want to move on.;Quiero un futuro mejor.
 ;;;...\. I can still feel every second of it.;...\. I can still feel every second of it.;
 ;;;"The sound of their laughter...\!
 The cold air of the restroom...";"The sound of their laughter ...\!
@@ -1481,23 +1488,28 @@ take so long ...";
 and you can't even remember that?!";"I just said the answer like five minutes ago,
 and you can't even remember that?!";
 ;;Mr. ???;You're a joke, a complete and utter joke!;You're a joke, a complete and utter joke!;
-;;;I had almost passed out that day.;I had almost passed out that day.;
-;;;The intense pressure was getting to me.;The intense pressure was getting to me.;
+;;;I had almost passed out that day.;I had almost passed out that day.;Casi me desmayo aquel día.
+;;;The intense pressure was getting to me.;The intense pressure was getting to me.;La presión que sentía era casi insoportable.
 ;;;"And while it looked like I just wasn't listening
 to my teacher, I was actually trying my best.";"And while it looked like I just wasn't listening
-to my teacher, I was actually trying my best.";
-;;;I can't be defined by a mistake;I can't be defined by a mistake;
-;;;I won't be good enough for anyone;I won't be good enough for anyone;
-;;;...\. This moment has stayed with me for so long.;...\. This moment has stayed with me for so long.;
+to my teacher, I was actually trying my best.";"Parecía que estaba distraído, pero en realidad,
+hacía todo lo posible por concentrarme en la clase."
+;;;I can't be defined by a mistake;I can't be defined by a mistake;Un error no puede definirme
+;;;I won't be good enough for anyone;I won't be good enough for anyone;Nunca me aceptarán
+;;;...\. This moment has stayed with me for so long.;...\. This moment has stayed with me for so long.;"...\. Este momento ha estado gravado en mi
+memoria por mucho tiempo."
 ;;;"The way the teacher looked at me like I was 
 nothing.";"The way the teacher looked at me like I was 
-nothing.";
+nothing.";"La forma como mi profesor me miraba...\.
+era como si me despreciara."
 ;;;"For years,\. I have lived what he had spoken,
 I believed in what he said.";"For years,\. I have lived what he had spoken,
-I believed in what he said.";
+I believed in what he said.";"Por años, confié en él...\. Trate de ser
+como me dijo que fuera."
 ;;;"...\| But I'm not that person. \!
 I am not\. a joke.";"...\| But I'm not that person. \!
-I am not\. a joke.";
+I am not\. a joke.";"...\| Pero ese no era yo. No lo soy.\!
+Basta de ser humillado."
 ;;;"...\. The room got so quiet when the teacher
 called us morons.";"...\. The room got so quiet when the teacher
 called us morons.";
@@ -1548,7 +1560,7 @@ face myself for it.";
 ;;;Shards of glass.;Shards of glass.;
 ;;;She's washing the dishes.;She's washing the dishes.;
 ;;;A plate.;A plate.;
-;;;It's an empty kettle.;It's an empty kettle.;
+;;;It's an empty kettle.;It's an empty kettle.;Es una tetera vacía.
 ;;;It's a pan.;It's a pan.;
 ;;;Mom;Mom;
 ;;Mom;...\. You came to visit.;...\. You came to visit.;
@@ -2958,7 +2970,7 @@ happened at the party.";"You probably needed some time after what
 happened at the party.";
 ;;Haven;You’ve been breaking yourself.;You’ve been breaking yourself.;
 ;;Haven;You’re unstable.;You’re unstable.;
-;;;I want to move on;I want to move on;
+;;;I want to move on;I want to move on;Quiero un futuro mejor.
 ;;;I don’t miss you ;I don’t miss you ;
 ;;;I do want to move on.;I do want to move on.;
 ;;;I truly do.;I truly do.;
