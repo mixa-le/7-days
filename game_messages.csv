@@ -781,47 +781,57 @@ right now ...";
 ;;"Cool ""Guy"" McCoolson";\etalk[24]... But I'd rather stay with Tuffy.;\etalk[24]... But I'd rather stay with Tuffy.;
 ;;;Tuffy;Tuffy;
 ;;Tuffy;\etalk[25]Awesome.;\etalk[25]Awesome.;
-;;;Vee;Vee;
-;;Vee;What do you want? You've got something to say?;What do you want? You've got something to say?;
-;;Vee;Wasting my time ...;Wasting my time ...;
+;;;Vee;Vee;Vee
+;;Vee;What do you want? You've got something to say?;What do you want? You've got something to say?;¿Y tú qué quieres?
+;;Vee;Wasting my time ...;Wasting my time ...;Cielos, este mocoso...
 ;;Vee;"What is your problem?
 That was really loud!";"What is your problem?
-That was really loud!";
-;;;Do you want some tea?;Do you want some tea?;
-;;Vee;...\| Tea?;...\| Tea?;
+That was really loud!";"Hey, ¿cuál es tu problema?
+¡No ves que haces mucho ruido!"
+;;;Do you want some tea?;Do you want some tea?;¿Te apetece un té?
+;;Vee;...\| Tea?;...\| Tea?;...\| ¿Té?
 ;;Vee;"Why would you offer me tea?\|
 I mean, I'd really like that ...";"Why would you offer me tea?\|
-I mean, I'd really like that ...";
-;;Vee;... But why? You don't even know me.;... But why? You don't even know me.;
-;;;It looks like you need it;It looks like you need it;
-;;;Thought you might like it;Thought you might like it;
+I mean, I'd really like that ...";"¿Así sin más?\|
+Bueno, sí quisiera un poco, pero..."
+;;Vee;... But why? You don't even know me.;... But why? You don't even know me.;"... Ni siquiera me conoces.
+¿Por qué me ofrecerías un té?"
+;;;It looks like you need it;It looks like you need it;Parece que lo necesitas
+;;;Thought you might like it;Thought you might like it;Pensé que te gustaría
 ;;Vee;"You know, I used to love tea ...\|
 My grandma used to make it for me all the time.";"You know, I used to love tea ...\|
-My grandma used to make it for me all the time.";
+My grandma used to make it for me all the time.";"Mmm... Mi abuela solía prepararme té a menudo.\|
+Ni te imaginas cuán delicioso era."
 ;;Vee;"Thanks ...\. I suppose.\|
 I'm sorry I was acting mean and stuff ...";"Thanks ...\. I suppose.\|
-I'm sorry I was acting mean and stuff ...";
+I'm sorry I was acting mean and stuff ...";"Bueno, gracias...\. Supongo.\|
+Disculpa si fui un poco ruda al principio."
 ;;Vee;"I used to get pushed around a lot when
 I was younger.";"I used to get pushed around a lot when
-I was younger.";
+I was younger.";"Así es como fui tratada desde pequeña."
 ;;Vee;"The taller kids would always pick on me, so I
 started defending myself, but it's tough.";"The taller kids would always pick on me, so I
-started defending myself, but it's tough.";
+started defending myself, but it's tough.";"Los más grandes siempre se metían conmigo, así
+que tuve que aprender a defenderme por mí misma."
 ;;Vee;"I'm really not mean-hearted, but it's kinda become
 second nature to act this way.";"I'm really not mean-hearted, but it's kinda become
-second nature to act this way.";
+second nature to act this way.";"No es que sea así todo el tiempo; creo que es más
+un mecanismo de defensa."
 ;;Vee;"I actually really enjoy reading and writing 
 poetry, it used to be my only way to escape.";"I actually really enjoy reading and writing 
-poetry, it used to be my only way to escape.";
-;;Vee;... I could share some of my work if you'd like.;... I could share some of my work if you'd like.;
-;;;I love poetry;I love poetry;
-;;Vee;... You do?;... You do?;
-;;Vee;I guess I'm not the only one here!;I guess I'm not the only one here!;
-;;Vee;Here you go.;Here you go.;
+poetry, it used to be my only way to escape.";"Mi única escapatoria solía ser la poesía. De hecho,
+aún me encanta leer y escribir algunos versos."
+;;Vee;... I could share some of my work if you'd like.;... I could share some of my work if you'd like.;"... Si quieres te puedo mostrar algunos poemas
+que escribí."
+;;;I love poetry;I love poetry;Adoro la poesía
+;;Vee;... You do?;... You do?;¿En serio?
+;;Vee;I guess I'm not the only one here!;I guess I'm not the only one here!;¡Pensé que era la única aquí!
+;;Vee;Here you go.;Here you go.;Aquí tienes.
 ;;Vee;"Thanks for the tea, I'll have to try it out once
 I'm home ...";"Thanks for the tea, I'll have to try it out once
-I'm home ...";
-;;Vee;Could you please stop that?;Could you please stop that?;
+I'm home ...";"Bueno, gracias por el té. Prepararé un poco
+al llegar a casa."
+;;Vee;Could you please stop that?;Could you please stop that?;¿Puedes parar?
 ;;;Tripp;Tripp;
 ;;Tripp;I've been sitting here for God knows how long.;I've been sitting here for God knows how long.;
 ;;Tripp;"I could stand up anytime I want to, but it just feels
@@ -877,7 +887,7 @@ Stop touching my boombox!";
 ;;;"The lyrics are in Korean, with the occasional
 English sentences.";"The lyrics are in Korean, with the occasional
 English sentences.";
-;;;The Twins;The Twins;
+;;;The Twins;The Twins;Los Gemelos
 ;;The Twins;\etalk[11]Hey! It's you, dude!;\etalk[11]Hey! It's you, dude!;
 ;;The Twins;"\etalk[11]Well, our ball broke while we were playing
 with it!";"\etalk[11]Well, our ball broke while we were playing
@@ -938,8 +948,8 @@ machine out of a DeLorean ...";"Era sobre un chico que volvió en el tiempo
 en un DeLorean..."
 ;;;"I think it was about a kid who was left behind
 during the holidays...";"I think it was about a kid who was left behind
-during the holidays ...";"Era sobre un pobre niño que se quedó solo
-en casa..."
+during the holidays ...";"Era sobre una chica que atraviesa una puerta en
+la pared, creo que se llamaba Caroline..."
 ;;;"I think it was about a superhero who got their
 powers from a radioactive bug bite...";"I think it was about a superhero who got their
 powers from a radioactive bug bite ...";"Era sobre un chico que fue mordido por una
@@ -950,8 +960,8 @@ far away ...";"Era sobre naves espaciales y armas láser en
 un lugar muy muy lejano."
 ;;;"I think it was about a guy who started a club with a
 friend about fighting...";"I think it was about a guy who started a club with a
-friend about fighting ...";"Era sobre un hombre y su amigo que inician
-un club de pelea..."
+friend about fighting ...";"Era sobre un lugar mágico llamado Terabithia que
+dos chicos crean como escape de la realidad..."
 ;;;What input are you using?;What input are you using?;Seleccione un método de entrada:
 ;;;Keyboard;Keyboard;Teclado
 ;;;Playstation Controller;Playstation Controller;Control de Playstation
@@ -992,9 +1002,10 @@ thinking, and everything feels pretty real.";"...\| No creo que todo esto sea un
 se siente demasiado real para serlo."
 ;;;It's a kettle, filled with water.;It's a kettle, filled with water.;
 ;;;Fill the cup;Fill the cup;Llenar taza
-;;;The basketball is too far away for you to reach.;The basketball is too far away for you to reach.;
-;;;A big closet.;A big closet.;
-;;Worm;i don't know how i got here ...;i don't know how i got here ...;
+;;;The basketball is too far away for you to reach.;The basketball is too far away for you to reach.;"La pelota de baloncesto está demasiado lejos
+para que la alcances."
+;;;A big closet.;A big closet.;-------------------------------------------
+;;Worm;i don't know how i got here ...;i don't know how i got here ...;¿cómo llegue aquí?
 ;;;It's an empty cup.;It's an empty cup.;Es una taza vacía.
 ;;;Vinnie;Vinnie;Vinnie
 ;;Vinnie;...\. Why are you looking at me like that?;...\. Why are you looking at me like that?;...\. ¿Qué me miras?
@@ -1047,15 +1058,16 @@ atrapado ahí. Era una tortura."
 ;;Jaxon;"You probably think that's impressive already, but 
 last week I managed to do 100 grams extra!";"You probably think that's impressive already, but 
 last week I managed to do 100 grams extra!";
-;;The Twins;\etalk[5]Hi! We're the twins!;\etalk[5]Hi! We're the twins!;
+;;The Twins;\etalk[5]Hi! We're the twins!;\etalk[5]Hi! We're the twins!;\etalk[5]¡Qué onda! ¡Somos los gemelos!
 ;;The Twins;"\etalk[5]You probably noticed that we kinda look like
 each other ...";"\etalk[5]You probably noticed that we kinda look like
-each other ...";
-;;The Twins;\etalk[5]... and that's because we're twins!;\etalk[5]... and that's because we're twins!;
+each other ...";"\etalk[5]Quizá ya notaste que nos parecemos demasiado..."
+;;The Twins;\etalk[5]... and that's because we're twins!;\etalk[5]... and that's because we're twins!;\etalk[5]Pues ¡es porque somos gemelos!
 ;;The Twins;"\etalk[5]Hey,\. you wouldn't happen to know where our
 basketball is?";"\etalk[5]Hey,\. you wouldn't happen to know where our
-basketball is?";
-;;;I don't think so;I don't think so;
+basketball is?";"\etalk[5]Oye,\. ¿por acaso sabes dónde está nuestra pelota
+de baloncesto?"
+;;;I don't think so;I don't think so;No lo sé
 ;;The Twins;"\etalk[5]Nuts, it was signed by Tyler 'T-Bolt' Jackson
 himself!";"\etalk[5]Nuts, it was signed by Tyler 'T-Bolt' Jackson
 himself!";
@@ -1072,12 +1084,12 @@ appreciate it!";
 you now!";"\etalk[5]You look pretty busy, we'll stop bothering
 you now!";
 ;;The Twins;\etalk[5]We'll be happy to talk to you later!;\etalk[5]We'll be happy to talk to you later!;
-;;;I have it;I have it;
-;;The Twins;\etalk[5]No way! He found our ball!;\etalk[5]No way! He found our ball!;
-;;The Twins;\etalk[5]Could we like, have it back?;\etalk[5]Could we like, have it back?;
-;;The Twins;\etalk[5]Awesome, bro! Thanks a lot!;\etalk[5]Awesome, bro! Thanks a lot!;
-;;The Twins;\etalk[5]Hey bro, let's go play with our ball outside!;\etalk[5]Hey bro, let's go play with our ball outside!;
-;;The Twins;\etalk[5]Good idea, man!;\etalk[5]Good idea, man!;
+;;;I have it;I have it;Está aquí
+;;The Twins;\etalk[5]No way! He found our ball!;\etalk[5]No way! He found our ball!;\etalk[5]¡Hey, la encontraste!
+;;The Twins;\etalk[5]Could we like, have it back?;\etalk[5]Could we like, have it back?;\etalk[5]¿Nos la devuelves?
+;;The Twins;\etalk[5]Awesome, bro! Thanks a lot!;\etalk[5]Awesome, bro! Thanks a lot!;\etalk[5]¡Genial!
+;;The Twins;\etalk[5]Hey bro, let's go play with our ball outside!;\etalk[5]Hey bro, let's go play with our ball outside!;\etalk[5]Hey, vamos afuera a jugar un poco.
+;;The Twins;\etalk[5]Good idea, man!;\etalk[5]Good idea, man!;\etalk[5]¡Ahí voy!
 ;;The Twins;\etalk[5]Come on bro, it's our ball ...;\etalk[5]Come on bro, it's our ball ...;
 ;;;Alright;Alright;
 ;;The Twins;\etalk[5]Uhh ... That's not our ball!;\etalk[5]Uhh ... That's not our ball!;
@@ -1137,7 +1149,7 @@ Let me know if you're up!";"Yeah, that's a great idea!
 Let me know if you're up!";"Es una buena idea, ¿eh?
 Anímate."
 ;;Trumpeter;Hey, is that my trumpet?;Hey, is that my trumpet?;¡Mi trompeta!
-;;;Yeah;Yeah;Sip
+;;;Yeah;Yeah;Sí
 ;;Trumpeter;"Hop on the keyboard and we can have a
 jam session!";"Hop on the keyboard and we can have a
 jam session!";¿Qué dices? ¿Te animas a tocar el teclado?
@@ -1166,31 +1178,34 @@ Or the day after tomorrow.";"You can try again tomorrow.\|
 Or the day after tomorrow.";
 ;;Pedestrian;... Or whenever we have space for more.;... Or whenever we have space for more.;
 ;;Pedestrian;Good, because the club is already full.;Good, because the club is already full.;
-;;;She seems to be looking at the bookshelves.;She seems to be looking at the bookshelves.;
-;;;Interrupt;Interrupt;
-;;;Hazel;Hazel;
+;;;She seems to be looking at the bookshelves.;She seems to be looking at the bookshelves.;Parece estar algo distraída.
+;;;Interrupt;Interrupt;Interrumpir
+;;;Hazel;Hazel;Hazel
 ;;Hazel;"\etalk[5]Oh ...\. I'm sorry ...\.
 I'm in your way, aren't I?";"\etalk[5]Oh ...\. I'm sorry ...\.
-I'm in your way, aren't I?";
-;;;I wanted to give you this;I wanted to give you this;
-;;;Nevermind;Nevermind;
-;;Hazel;\etalk[5]Huh?;\etalk[5]Huh?;
+I'm in your way, aren't I?";"\etalk[5]Ay, disculpa...\.
+No quería estorbarte. Pasa."
+;;;I wanted to give you this;I wanted to give you this;Quería darte esto
+;;;Nevermind;Nevermind;Olvídalo
+;;Hazel;\etalk[5]Huh?;\etalk[5]Huh?;\etalk[5]¿Ah?
 ;;Hazel;"\etalk[5]Oh, thank you ...\|
 I wasn't expecting that. ";"\etalk[5]Oh, thank you ...\|
-I wasn't expecting that. ";
-;;Hazel;\etalk[5]...\. Did you write these?;\etalk[5]...\. Did you write these?;
-;;;Vee did;Vee did;
-;;Hazel;\etalk[5]...\. These are nice.;\etalk[5]...\. These are nice.;
+I wasn't expecting that. ";"\etalk[5]Ah, gracias. ¿Qué es?"
+;;Hazel;\etalk[5]...\. Did you write these?;\etalk[5]...\. Did you write these?;"\etalk[5]Ah, son... poesías.\. ¿Tú las escribiste?"
+;;;Vee did;Vee did;Fue Vee
+;;Hazel;\etalk[5]...\. These are nice.;\etalk[5]...\. These are nice.;\etalk[5]...\. Pues parecem bastante buenas.
 ;;Hazel;"\etalk[5]I'll have to read these in detail when I have 
 the time.";"\etalk[5]I'll have to read these in detail when I have 
-the time.";
-;;Hazel;\etalk[5]...\| I didn't know she was into this kinda stuff.;\etalk[5]...\| I didn't know she was into this kinda stuff.;
+the time.";"\etalk[5]Las leeré con más calma más tarde."
+;;Hazel;\etalk[5]...\| I didn't know she was into this kinda stuff.;\etalk[5]...\| I didn't know she was into this kinda stuff.;\etalk[5]...\| Oh, no sabía que le gustaba este tipo de cosas.
 ;;Hazel;"\etalk[5]...\| It isn't bad.
 It actually has a bit of charm.";"\etalk[5]...\| It isn't bad.
-It actually has a bit of charm.";
+It actually has a bit of charm.";"\etalk[5]...\| No están mal.
+Tienen cierto encanto."
 ;;Hazel;"\etalk[5]Thank you for giving this to me.
 I really ...\| appreciate it.";"\etalk[5]Thank you for giving this to me.
-I really ...\| appreciate it.";
+I really ...\| appreciate it.";"\etalk[5]...\| Gracias por dármelas.\|
+Lo digo en serio."
 ;;;Librarian;Librarian;
 ;;Librarian;\etalk[6]Hi, try to be as quiet as possible please!;\etalk[6]Hi, try to be as quiet as possible please!;
 ;;;"It's full of books.\.
@@ -1307,7 +1322,7 @@ class? I get detention.";
 ;;Pembleton ;"\etalk[6]You should know that sunshine is very good for
 your body!";"\etalk[6]You should know that sunshine is very good for
 your body!";
-;;;The clock lost it's arms.;The clock lost it's arms.;
+;;;The clock lost it's arms.;The clock lost it's arms.;Le hacen falta sus manecillas.
 ;;;A trash can.;A trash can.;
 ;;;Mr. Lee;Mr. Lee;
 ;;Mr. Lee;"\etalk[4]I wouldn't call myself a ""strict"" teacher, but
@@ -1603,16 +1618,18 @@ mother ...";
 ;;;It's empty.;It's empty.;
 ;;;I hope the clock finds them soon.;I hope the clock finds them soon.;
 ;;;It's a blanket, and some binders.;It's a blanket, and some binders.;
-;;;Poor clock ...;Poor clock ...;
-;;;"""You need to try harder.""";"""You need to try harder.""";
-;;;"""You're not dumb, you just don't care enough.""";"""You're not dumb, you just don't care enough.""";
-;;;"""You can do better than this.""";"""You can do better than this.""";
-;;;I really couldn't.;I really couldn't.;
+;;;Poor clock ...;Poor clock ...;Pobrecito...
+;;;"""You need to try harder.""";"""You need to try harder.""";"""Debes esforzarte más."""
+;;;"""You're not dumb, you just don't care enough.""";"""You're not dumb, you just don't care enough.""";"""No es que seas un tonto, sino que no le
+das la debida importancia."""
+;;;"""You can do better than this.""";"""You can do better than this.""";"""Sé que puedes hacerlo mucho mejor."""
+;;;I really couldn't.;I really couldn't.;Yo realmente no podía.
 ;;;"It felt like I wasn't made for this.\!
 I could never keep up.";"It felt like I wasn't made for this.\!
-I could never keep up.";
-;;;It was so frustrating.;It was so frustrating.;
-;;;You look down in the hole.;You look down in the hole.;
+I could never keep up.";"Sentía que no estaba hecho para eso...\!
+que no era lo mio."
+;;;It was so frustrating.;It was so frustrating.;Era muy frustrante
+;;;You look down in the hole.;You look down in the hole.;Miras a través del hoyo.
 ;;;Robert;Robert;
 ;;Robert;Meeeeow man!;Meeeeow man!;
 ;;Robert;How ya doin'?;How ya doin'?;
