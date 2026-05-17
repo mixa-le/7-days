@@ -197,19 +197,23 @@ in you.";
 ;;;Do I want to \c[1]save\c[0]?;Do I want to \c[1]save\c[0]?;
 ;;;It's a white sheet.;It's a white sheet.;Una manta blanca.
 ;;;The cat took your ball of yarn.;The cat took your ball of yarn.;
-;;;It's my car,\. but maybe I should talk to Haven first.;It's my car,\. but maybe I should talk to Haven first.;
+;;;It's my car,\. but maybe I should talk to Haven first.;It's my car,\. but maybe I should talk to Haven first.;"Tal vez deba hablar con Haven antes de
+entrar en mi carro."
 ;;;"It's my car.\.
 Enter?";"It's my car.\.
-Enter?";
-;;;It’s about time I went to visit my parents.;It’s about time I went to visit my parents.;
+Enter?";"Es mi carro.\.
+¿Entrar?"
+;;;It’s about time I went to visit my parents.;It’s about time I went to visit my parents.;Ya era tiempo de visitar a mis padres.
 ;;;"It’s something I’ve been ignoring for years.\!
 I was glad to move out when I could.";"It’s something I’ve been ignoring for years.\!
-I was glad to move out when I could.";
+I was glad to move out when I could.";"Hace años que no lo hacía.\!
+Qué bueno que salí de allí cuando pude."
 ;;;"...\| But if I’m going to revisit everything, I might as
 well get on with this.";"...\| But if I’m going to revisit everything, I might as
-well get on with this.";
-;;;Maybe I’ll find something.;Maybe I’ll find something.;
-;;;...\| I haven’t thought about them in a while.;...\| I haven’t thought about them in a while.;
+well get on with this.";"...\| Pero ya que estoy revisitando algunos recuerdos,
+mejor no seguir posponiendo esto."
+;;;Maybe I’ll find something.;Maybe I’ll find something.;Tal vez encuentre algo.
+;;;...\| I haven’t thought about them in a while.;...\| I haven’t thought about them in a while.;...\| Hace mucho que no pienso en ellos.
 ;;;"My mom was always quiet.
 \.She wouldn’t talk to me or my dad a lot.";"My mom was always quiet.
 \.She wouldn’t talk to me or my dad a lot.";
@@ -220,23 +224,28 @@ her than what I saw.";
 ;;;My dad on the other hand ...;My dad on the other hand ...;
 ;;;...\. I don’t want to think about that right now.;...\. I don’t want to think about that right now.;
 ;;;I’ll figure it out.;I’ll figure it out.;
-;;Haven;Hi! I'm glad to see you again!;Hi! I'm glad to see you again!;
+;;Haven;Hi! I'm glad to see you again!;Hi! I'm glad to see you again!;¡Hey! ¡Me alegra mucho verte de nuevo! 
 ;;Haven;"I heard you were planning on revisiting your
 childhood town, right?";"I heard you were planning on revisiting your
-childhood town, right?";
+childhood town, right?";"Oí que vas a volver a visitar el lugar
+donde creciste."
 ;;Haven;"I'd love to tag along, but I think it's best
 to take this on yourself!";"I'd love to tag along, but I think it's best
-to take this on yourself!";
+to take this on yourself!";"Me encantaría acompañarte, pero creo que es
+mejor que lo hagas solo."
 ;;Haven;"Don't worry though!\!
 If you do end up feeling scared ...";"Don't worry though!\!
-If you do end up feeling scared ...";
+If you do end up feeling scared ...";"Pero no te preocupes,\!
+si llegaras a sentirte inseguro o con miedo..."
 ;;Haven;"... I've put up a couple of flags!\.
 I hope they will help you feel safe.";"... I've put up a couple of flags!\.
-I hope they will help you feel safe.";
-;;Haven;Anyways, do you wanna \c[1]save \c[0]before you go?;Anyways, do you wanna \c[1]save \c[0]before you go?;
-;;Haven;Good luck!;Good luck!;
-;;Haven;Alright, don't forget the flags!;Alright, don't forget the flags!;
-;;;Thank you.;Thank you.;
+I hope they will help you feel safe.";"Coloqué algunas banderas en el camino.\.
+Espero que te ayuden a sentirte seguro."
+;;Haven;Anyways, do you wanna \c[1]save \c[0]before you go?;Anyways, do you wanna \c[1]save \c[0]before you go?;"Eso es todo, ¿quieres \c[1]guardar\c[0] algún
+recuerdo antes de partir?"
+;;Haven;Good luck!;Good luck!;¡Qué tengas buena suerte!
+;;Haven;Alright, don't forget the flags!;Alright, don't forget the flags!;¡Y no olvides las banderas!
+;;;Thank you.;Thank you.;Gracias.
 ;;;Mushroom;Mushroom;Champiñón
 ;;Mushroom;\etalk[44]Yeah! Yeah!;\etalk[44]Yeah! Yeah!;\etalk[44]Yip
 ;;;You found an old picture.;You found an old picture.;Encontraste un viejo dibujo.
@@ -434,12 +443,12 @@ I tried, even when it felt like it wasn’t enough.";
 ;;;I take a bite out of the instant ramen noodles.;I take a bite out of the instant ramen noodles.;Le doy un bocado a los fideos instantáneos.
 ;;;...\| it tastes dry.;...\| it tastes dry.;...\| sabe seco.
 ;;;An empty plate.;An empty plate.;Un plato vacío.
-;;;I take a bite out of the toast.;I take a bite out of the toast.;Le doy un bocado a la tostada.
-;;;I take a bite out of a chicken nugget.;I take a bite out of a chicken nugget.;Le doy un bocado al nugget de pollo.
+;;;I take a bite out of the toast.;I take a bite out of the toast.;Le doy un mordisco a la tostada.
+;;;I take a bite out of a chicken nugget.;I take a bite out of a chicken nugget.;Le doy un mordisco al nugget de pollo.
 ;;;I don't feel like eating.;I don't feel like eating.;No tengo ganas de comer.
 ;;;I take a sip of the milk.;I take a sip of the milk.;Bebo un sorbo de leche.
-;;;I take a bite out of a grape.;I take a bite out of a grape.;Pruebo una uva.
-;;;I take a bite out of the egg.;I take a bite out of the egg.;Le doy un bocado al huevo.
+;;;I take a bite out of a grape.;I take a bite out of a grape.;Le doy un pequeño mordisco a una uva.
+;;;I take a bite out of the egg.;I take a bite out of the egg.;Le doy un mordisco al huevo.
 ;;;...\| it tastes nice.;...\| it tastes nice.;...\| sabe bien.
 ;;;Felix;Felix;Felix
 ;;Felix;"I've been getting a lot of weird DMs from some of
@@ -2320,7 +2329,7 @@ HEAD GET IT OUT OF MY HEAD GET IT OUT ";
 ;;;WHY WON'T YOU GET OUT OF MY HEAD;WHY WON'T YOU GET OUT OF MY HEAD;
 ;;;I can't stop looking at her...;I can't stop looking at her ...;
 ;;;I have to...;I have to ...;
-;;;It's my car.;It's my car.;
+;;;It's my car.;It's my car.;Es mi carro.
 ;;;"""THE PARK""";"""THE PARK""";
 ;;;"I probably shouldn't go now.\!
 That's for another day.";"I probably shouldn't go now.\!
@@ -2495,24 +2504,27 @@ the fear of that man's voice.";"I couldn't have saved her, and now I'm left with
 the fear of that man's voice.";
 ;;Mom;PLEASE ...\. STOP ...;PLEASE ...\. STOP ...;
 ;;;I don't want to die.;I don't want to die.;No quiero morir.
-;;;I'll never be ready.;I'll never be ready.;Nunca podré estar preparado.
+;;;I'll never be ready.;I'll never be ready.;Y nunca estaré listo para morir.
 ;;;"I just can't imagine the end of my life being
 pure darkness.";"I just can't imagine the end of my life being
-pure darkness.";"Ni siquiera puedo imaginar como se stiente que
+pure darkness.";"Ni siquiera consigo imaginar como sería que
 de un momento a otro, todo se vuelva oscuridad."
-;;;I don't want to lose my memories.;I don't want to lose my memories.;
-;;;I don't want to lose myself.;I don't want to lose myself.;
-;;;Sometimes, it can be a bit too much.;Sometimes, it can be a bit too much.;
+;;;I don't want to lose my memories.;I don't want to lose my memories.;No quisiera perder todos estos recuerdos.
+;;;I don't want to lose myself.;I don't want to lose myself.;No quisiera perderme en esa oscuridad.
+;;;Sometimes, it can be a bit too much.;Sometimes, it can be a bit too much.;A veces, siento que ya no aguanto más.
 ;;;"I feel myself wanting to end this life.\!
 But I can't.";"I feel myself wanting to end this life.\!
-But I can't.";
+But I can't.";"Y solo quisiera acabar con todo,\!
+pero no puedo."
 ;;;"There's something in me that keeps saying to push
 forward. \!Keep going.";"There's something in me that keeps saying to push
-forward. \!Keep going.";
-;;;I just sometimes want to disappear.;I just sometimes want to disappear.;
+forward. \!Keep going.";"Hay una vocecilla muy dentro de mí que me insta
+a seguir,\! a no rendirme."
+;;;I just sometimes want to disappear.;I just sometimes want to disappear.;A veces quisiera desaparecer...
 ;;;"Just a little room for myself.\.
 Floating in the void.";"Just a little room for myself.\.
-Floating in the void.";
+Floating in the void.";"Cualquier habitación estaría bien...\.
+¿Cómo se sentirá colgar en el vacío?"
 ;;;She's reading a book.;She's reading a book.;
 ;;;"I believe it was her way of escaping the life she
 was living.";"I believe it was her way of escaping the life she
