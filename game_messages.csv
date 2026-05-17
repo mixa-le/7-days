@@ -57,7 +57,7 @@ es mi encendedor."
 ;;;It's a flag.;It's a flag.;Una bandera.
 ;;;It's a key.;It's a key.;Una llave.
 ;;;I think my lighter fell out of my pocket...;I think my lighter fell out of my pocket...;Creo que mi encendedor se cayó de mi bolsillo...
-;;;You wait for the bus to arrive.;You wait for the bus to arrive.;Esperas a que llegue el bus.
+;;;You wait for the bus to arrive.;You wait for the bus to arrive.;Esperas a que llegue el autobús.
 ;;;This is bad.;This is bad.;Esto se ve mal.
 ;;;"Haven has been breaking my head for years now.\!
 I was obsessed with her.";"Haven has been breaking my head for years now.\!
@@ -148,30 +148,33 @@ Well, maybe not fun ...";"Ah, eso suena divertido!\|
 Bueno, *jeje* quizá no tanto..."
 ;;Haven;But we'll get to see all your friends again!;But we'll get to see all your friends again!;"¡Pero lo bueno es que veremos a todos tus amigos
 de nuevo!"
-;;Haven;Are you sure? We're going to school today!;Are you sure? We're going to school today!;
-;;Haven;That's pretty exciting, right?;That's pretty exciting, right?;
-;;Haven;Anyways, are you ready to \c[1]save \c[0]your thoughts?;Anyways, are you ready to \c[1]save \c[0]your thoughts?;"Bueno, ¿tienes algún \c[1]recuerdo\c[0] que quieras guardar?"
+;;Haven;Are you sure? We're going to school today!;Are you sure? We're going to school today!;¿Estás seguro? ¡Hoy iremos a la escuela!
+;;Haven;That's pretty exciting, right?;That's pretty exciting, right?;Suena emocionante, ¿no crees?
+;;Haven;Anyways, are you ready to \c[1]save \c[0]your thoughts?;Anyways, are you ready to \c[1]save \c[0]your thoughts?;"Bueno, ¿tienes algún recuerdo que quieras \c[1]guardar\c[0]?"
 ;;Haven;You can go ahead, I'll catch up to you!;You can go ahead, I'll catch up to you!;Puedes adelantarte si quieres. Te alcanzo después.
 ;;Haven;"Did that cat just take something from you?\!
 You should probably chase it!";"Did that cat just take something from you?\!
-You should probably chase it!";
-;;Haven;Do you wanna \c[1]save\c[0] before you go?;Do you wanna \c[1]save\c[0] before you go?;
-;;Haven;Now go chase that cat!;Now go chase that cat!;
-;;Haven;That's fine, go chase that cat!;That's fine, go chase that cat!;
-;;Haven;Hey, it's good to see you again.;Hey, it's good to see you again.;
+You should probably chase it!";"Oye, ¿ese gato acaba de llevarse algo tuyo?\!
+¡Tal vez deberías ir tras él!"
+;;Haven;Do you wanna \c[1]save\c[0] before you go?;Do you wanna \c[1]save\c[0] before you go?;¿Quiere \c[1]guardar\c[0] algún recuerdo antes de irte?
+;;Haven;Now go chase that cat!;Now go chase that cat!;¡Ahora corre, alcánzalo!
+;;Haven;That's fine, go chase that cat!;That's fine, go chase that cat!;Está bien, ¡ahora ve tras él!
+;;Haven;Hey, it's good to see you again.;Hey, it's good to see you again.;Hey, me alegra verte de nuevo.
 ;;Haven;"You're doing a great job with revisiting the past ...\!
 But there's something you've been forgetting.";"You're doing a great job with revisiting the past ...\!
-But there's something you've been forgetting.";
+But there's something you've been forgetting.";"“Has hecho un esplendido trabajo al revivir el pasado...\!
+Pero te has olvidado de algo."
 ;;Haven;"It’s maybe time to face something that’s been
 bothering you for a while now.";"It’s maybe time to face something that’s been
-bothering you for a while now.";
+bothering you for a while now.";""
 ;;Haven;"The bus might arrive soon, so you should
 get ready.";"The bus might arrive soon, so you should
-get ready.";
-;;Haven;Do you wanna \c[1]save \c[0]before you go?;Do you wanna \c[1]save \c[0]before you go?;
+get ready.";"El autobús debe llegar en cualquier momento,
+asegúrate de estar listo."
+;;Haven;Do you wanna \c[1]save \c[0]before you go?;Do you wanna \c[1]save \c[0]before you go?;¿Quieres \c[1]guardar\c[0] algún recuerdo antes de irte?
 ;;Haven;"You should head to the mountain, the bus will bring
 you close.";"You should head to the mountain, the bus will bring
-you close.";
+you close.";""
 ;;Haven;Hey ...;Hey ...;
 ;;Haven;"Something’s wrong ...\!
 Do you feel it too?";"Something’s wrong ...\!
@@ -189,8 +192,8 @@ Do you feel it too?";
 ;;Haven;"I know it's going to be hard, but I believe
 in you.";"I know it's going to be hard, but I believe
 in you.";
-;;Haven;Hey, you wanna \c[1]save\c[0]?;Hey, you wanna \c[1]save\c[0]?;
-;;Haven;Alright.;Alright.;
+;;Haven;Hey, you wanna \c[1]save\c[0]?;Hey, you wanna \c[1]save\c[0]?;¿Quieres \c[1]guardar\c[0] algún recuerdo?
+;;Haven;Alright.;Alright.;¡Perfecto!
 ;;;Do I want to \c[1]save\c[0]?;Do I want to \c[1]save\c[0]?;
 ;;;It's a white sheet.;It's a white sheet.;Una manta blanca.
 ;;;The cat took your ball of yarn.;The cat took your ball of yarn.;
@@ -574,8 +577,8 @@ lost something there ...";
 some of the students and maybe even helping!";"It might be worth exploring a bit, talking to
 some of the students and maybe even helping!";
 ;;Haven;Let me know if you need my help!;Let me know if you need my help!;
-;;Haven;Looks like school's done for today!;Looks like school's done for today!;
-;;;Save;Save;
+;;Haven;Looks like school's done for today!;Looks like school's done for today!;Bueno, creo que eso es todo por el día de hoy.
+;;;Save;Save;Guardar
 ;;;Bruno;Bruno;
 ;;Bruno;"\etalk[37]Hey Penny, what's with the ... \|uhh\|
 pan on your head?";"\etalk[37]Hey Penny, what's with the ... \|uhh\|
@@ -916,8 +919,9 @@ you're worthy.";
 ;;;Handy;Handy;Handy
 ;;Handy;"I should probably go to school soon, or I might
 get expelled...";"I should probably go to school soon, or I might
-get expelled ...";"Si falto hoy a clases seré expulsado..."
-;;Handy;Looks like I didn't get caught.;Looks like I didn't get caught.;
+get expelled ...";"Creo que mejor entrop de una vez, si no puedo
+ser expulsado..."
+;;Handy;Looks like I didn't get caught.;Looks like I didn't get caught.;Parece que ningún profesor me vio.
 ;;;Here I am again, at school.;Here I am again, at school.;Bueno, aquí me encuentro... de nuevo.
 ;;;Same walls, same air...;Same walls, same air ...;Las mismas paredes, la misma atmósfera...
 ;;;...\. and that same feeling.;...\. and that same feeling.;...\. y aquella misma sensación.
@@ -1046,7 +1050,7 @@ for a couple of hours now ...";"Thanks for saving me dude, I've been stuck there
 for a couple of hours now ...";"No sé cómo agradecerte. Llevaba unas horas
 atrapado ahí. Era una tortura."
 ;;Lucas;Uhhh...;Uhhh ...;Ah...
-;;Lucas;Nice?;Nice?;-------------------------------------------------------------
+;;Lucas;Nice?;Nice?;Okey?
 ;;Lucas;"Thanks for saving me dude, I've been stuck there
 for a couple of hours now...";"Thanks for saving me dude, I've been stuck there
 for a couple of hours now ...";"No sé cómo agradecerte. Llevaba unas horas
@@ -1058,52 +1062,59 @@ atrapado ahí. Era una tortura."
 ;;Jaxon;"You probably think that's impressive already, but 
 last week I managed to do 100 grams extra!";"You probably think that's impressive already, but 
 last week I managed to do 100 grams extra!";
-;;The Twins;\etalk[5]Hi! We're the twins!;\etalk[5]Hi! We're the twins!;\etalk[5]¡Qué onda! ¡Somos los gemelos!
+;;The Twins;\etalk[5]Hi! We're the twins!;\etalk[5]Hi! We're the twins!;\etalk[5]¡Yo, bro! ¡Somos los gemelos!
 ;;The Twins;"\etalk[5]You probably noticed that we kinda look like
 each other ...";"\etalk[5]You probably noticed that we kinda look like
-each other ...";"\etalk[5]Quizá ya notaste que nos parecemos demasiado..."
-;;The Twins;\etalk[5]... and that's because we're twins!;\etalk[5]... and that's because we're twins!;\etalk[5]Pues ¡es porque somos gemelos!
+each other ...";"\etalk[5]Seguro notaste que nos parecemos demasiado..."
+;;The Twins;\etalk[5]... and that's because we're twins!;\etalk[5]... and that's because we're twins!;\etalk[5]Obvio, ¡somos gemelos!
 ;;The Twins;"\etalk[5]Hey,\. you wouldn't happen to know where our
 basketball is?";"\etalk[5]Hey,\. you wouldn't happen to know where our
-basketball is?";"\etalk[5]Oye,\. ¿por acaso sabes dónde está nuestra pelota
-de baloncesto?"
-;;;I don't think so;I don't think so;No lo sé
+basketball is?";"\etalk[5]Hey,\. hace poco perdimos nuestra pelota
+de baloncesto, ¿la has visto?"
+;;;I don't think so;I don't think so;Creo que no
 ;;The Twins;"\etalk[5]Nuts, it was signed by Tyler 'T-Bolt' Jackson
 himself!";"\etalk[5]Nuts, it was signed by Tyler 'T-Bolt' Jackson
-himself!";
-;;The Twins;\etalk[5]He's like our hero!;\etalk[5]He's like our hero!;
+himself!";"\etalk[5]Rayos, ¡estaba firmada por el mismísimo
+Michael 'The Alien' Wembanyama!"
+;;The Twins;\etalk[5]He's like our hero!;\etalk[5]He's like our hero!;"\etalk[5]Bro, ¿ya viste los pases que hace?
+¡Son de otro planeta!"
 ;;The Twins;"\etalk[5]...\| Bro, now that I think about it, didn't that
 janitor take our ball yesterday?";"\etalk[5]...\| Bro, now that I think about it, didn't that
-janitor take our ball yesterday?";
-;;The Twins;\etalk[5].\..\..\| Oh yeaaah!;\etalk[5].\..\..\| Oh yeaaah!;
-;;The Twins;\etalk[5]I think the janitor's closet is locked though ...;\etalk[5]I think the janitor's closet is locked though ...;
+janitor take our ball yesterday?";"\etalk[5]Momento...\| ¿No fue el conserje quien nos
+confiscó la pelota ayer?"
+;;The Twins;\etalk[5].\..\..\| Oh yeaaah!;\etalk[5].\..\..\| Oh yeaaah!;\etalk[5].\..\..\| ¡Es verdaaa!
+;;The Twins;\etalk[5]I think the janitor's closet is locked though ...;\etalk[5]I think the janitor's closet is locked though ...;"\etalk[5]Tiene que estar en el cuarto de limpieza.\.
+Pero seguro está con llave."
 ;;The Twins;"\etalk[5]If you do happen to get our ball, we'd really
 appreciate it!";"\etalk[5]If you do happen to get our ball, we'd really
-appreciate it!";
+appreciate it!";\etalk[5]Ojalá alguien pudiera entrar y sacarla de ahí.
 ;;The Twins;"\etalk[5]You look pretty busy, we'll stop bothering
 you now!";"\etalk[5]You look pretty busy, we'll stop bothering
-you now!";
-;;The Twins;\etalk[5]We'll be happy to talk to you later!;\etalk[5]We'll be happy to talk to you later!;
+you now!";\etalk[5]Bueno, bro, fue cool hablar contigo.
+;;The Twins;\etalk[5]We'll be happy to talk to you later!;\etalk[5]We'll be happy to talk to you later!;\etalk[5]Nos vemos por ahí. ¡Byeeee!
 ;;;I have it;I have it;Está aquí
 ;;The Twins;\etalk[5]No way! He found our ball!;\etalk[5]No way! He found our ball!;\etalk[5]¡Hey, la encontraste!
-;;The Twins;\etalk[5]Could we like, have it back?;\etalk[5]Could we like, have it back?;\etalk[5]¿Nos la devuelves?
+;;The Twins;\etalk[5]Could we like, have it back?;\etalk[5]Could we like, have it back?;\etalk[5]¿Nos la das?
 ;;The Twins;\etalk[5]Awesome, bro! Thanks a lot!;\etalk[5]Awesome, bro! Thanks a lot!;\etalk[5]¡Genial!
-;;The Twins;\etalk[5]Hey bro, let's go play with our ball outside!;\etalk[5]Hey bro, let's go play with our ball outside!;\etalk[5]Hey, vamos afuera a jugar un poco.
+;;The Twins;\etalk[5]Hey bro, let's go play with our ball outside!;\etalk[5]Hey bro, let's go play with our ball outside!;\etalk[5]Hey, vamos a jugar afuera.
 ;;The Twins;\etalk[5]Good idea, man!;\etalk[5]Good idea, man!;\etalk[5]¡Ahí voy!
-;;The Twins;\etalk[5]Come on bro, it's our ball ...;\etalk[5]Come on bro, it's our ball ...;
-;;;Alright;Alright;
-;;The Twins;\etalk[5]Uhh ... That's not our ball!;\etalk[5]Uhh ... That's not our ball!;
+;;The Twins;\etalk[5]Come on bro, it's our ball ...;\etalk[5]Come on bro, it's our ball ...;\etalk[5]¿Eh? ¡Pero es nuestra...!
+;;;Alright;Alright;Okay
+;;The Twins;\etalk[5]Uhh ... That's not our ball!;\etalk[5]Uhh ... That's not our ball!;\etalk[5]Bro, esa no es nuestra pelota.
 ;;The Twins;"\etalk[5]We appreciate the effort, but our
 ball was signed by our hero!";"\etalk[5]We appreciate the effort, but our
-ball was signed by our hero!";
+ball was signed by our hero!";"\etalk[5]Gracias y todo, pero nuestra pelota estaba
+firmada por Wenby."
 ;;The Twins;"\etalk[5]The janitor took ours! It's probably
 in his closet!";"\etalk[5]The janitor took ours! It's probably
-in his closet!";
-;;;You threw away the old basketball.;You threw away the old basketball.;
+in his closet!";"\etalk[5]¡El conserje se llevó la nuestra! Debe estar
+en el cuarto de limpieza."
+;;;You threw away the old basketball.;You threw away the old basketball.;Dejaron caer la pelota que les traje.
 ;;The Twins;"\etalk[5]The janitor took our ball, so it's probably
 in his closet.";"\etalk[5]The janitor took our ball, so it's probably
-in his closet.";
-;;;I found your ball;I found your ball;
+in his closet.";"\etalk[5]El conserje debe haber puesto la nuestra en
+el cuarto de limpieza."
+;;;I found your ball;I found your ball;Encontré su pelota
 ;;;Kai;Kai;
 ;;Kai;"\etalk[6]I'm so good at soccer it's insane how many
 matches I've won I should join the professionals";"\etalk[6]I'm so good at soccer it's insane how many
@@ -1455,42 +1466,53 @@ Come on, give it your best!";"It's almost time to wrap up!\.
 Come on, give it your best!";
 ;;???;My legs hurt...;My legs hurt ...;
 ;;???;Ugh, I am soooooo bored...;Ugh, I am soooooo bored ...;
-;;;I accidentally threw a ball right into a kid's face.;I accidentally threw a ball right into a kid's face.;
+;;;I accidentally threw a ball right into a kid's face.;I accidentally threw a ball right into a kid's face.;"Lancé por accidente una pelota directamente
+a la cara de un chico."
 ;;;"I wasn't paying much attention, since I was
 already so tired.";"I wasn't paying much attention, since I was
-already so tired.";
+already so tired.";"Le dije que estaba cansado y por eso andaba
+algo distraído en aquel momento."
 ;;;"But he couldn't understand that it was an
 accident, and started punching me.";"But he couldn't understand that it was an
-accident, and started punching me.";
-;;;He ended up breaking my arm.;He ended up breaking my arm.;
+accident, and started punching me.";"Pero él no quiso entender y comenzó a
+golpearme con fuerza..."
+;;;He ended up breaking my arm.;He ended up breaking my arm.;Hasta romperme el brazo.
 ;;;"The teacher couldn't care less, he wasn't very
 good at his job regardless.";"The teacher couldn't care less, he wasn't very
-good at his job regardless.";
-;;;I didn't deserve to be hurt like that;I didn't deserve to be hurt like that;
-;;;No one cared about me then;No one cared about me then;
-;;;...\. It wasn't fair.;...\. It wasn't fair.;
+good at his job regardless.";"Sin embargo, al profesor no le importó en lo más
+mínimo — no era muy bueno que digamos."
+;;;I didn't deserve to be hurt like that;I didn't deserve to be hurt like that;No merecía ser tratado así
+;;;No one cared about me then;No one cared about me then;No le importaba a nadie
+;;;...\. It wasn't fair.;...\. It wasn't fair.;...\. No era justo.
 ;;;"I did hurt him, but he didn't need to target
 his anger towards me.";"I did hurt him, but he didn't need to target
-his anger towards me.";
-;;;...\| Is this where my fear came from?;...\| Is this where my fear came from?;
+his anger towards me.";"Es cierto que estaba furioso por el pelotazo, pero
+¿era necesario llegar a tanto?"
+;;;...\| Is this where my fear came from?;...\| Is this where my fear came from?;...\| ¿Es aquí donde nacen mis miedos?
 ;;;"I've been scared to do anything active,\. but I had
 no idea that this is where it came from...";"I've been scared to do anything active,\. but I had
-no idea that this is where it came from ...";
-;;;I didn't want to make another mistake like this...;I didn't want to make another mistake like this ...;
+no idea that this is where it came from ...";"¿Era esa la razón por la que tenía miedo de
+relacionarme con los demás...?"
+;;;I didn't want to make another mistake like this...;I didn't want to make another mistake like this ...;No quería volver a repetir el mismo error...
 ;;;"...\. I remember the look on his face,\. the way
 he glared at me after I hit him.";"...\. I remember the look on his face,\. the way
-he glared at me after I hit him.";
-;;;That face is all it takes for me to start panicking.;That face is all it takes for me to start panicking.;
+he glared at me after I hit him.";"Recuerdo claramente la expresión en su rostro:
+esa mirada aterradora, esos ojos llenos de furia..."
+;;;That face is all it takes for me to start panicking.;That face is all it takes for me to start panicking.;"No pude evitar entrar en pánico en ese
+momento."
 ;;;"This is the reason why I shouldn't be trusted.\!
 I keep hurting people.";"This is the reason why I shouldn't be trusted.\!
-I keep hurting people.";
+I keep hurting people.";"Nadie tiene por qué confiar en mí.\!
+Solo los lastimo vez tras vez."
 ;;;"After school, my mom brought me to the
 hospital.";"After school, my mom brought me to the
-hospital.";
+hospital.";Ese día, mi mamá me llevó al hospital.
 ;;;"We couldn't afford treating it right away, so
 we didn't do much to fix it.";"We couldn't afford treating it right away, so
-we didn't do much to fix it.";
-;;;Leaving it in a fragile state.;Leaving it in a fragile state.;
+we didn't do much to fix it.";"No fue posible atender bien esa fractura, por
+lo menos en ese momento..."
+;;;Leaving it in a fragile state.;Leaving it in a fragile state.;"De modo que la dejamos así, en ese estado
+frágil."
 ;;???;"I don't get why these gym classes always
 take so long...";"I don't get why these gym classes always
 take so long ...";
@@ -2195,7 +2217,7 @@ There's no name on it.";
 ;;;"It's a gravestone with flowers.\.
 The name on it reads 'Nemoid'.";"It's a gravestone with flowers.\.
 The name on it reads 'Nemoid'.";
-;;;You sat at the bus stop for a while.;You sat at the bus stop for a while.;
+;;;You sat at the bus stop for a while.;You sat at the bus stop for a while.;Te sientas en la parada de autobús y esperas.
 ;;;"                 There's a knife on the floor.\!
                      You decide to grab it.";"                 There's a knife on the floor.\!
                      You decide to grab it.";
@@ -2472,11 +2494,12 @@ have done.";
 the fear of that man's voice.";"I couldn't have saved her, and now I'm left with
 the fear of that man's voice.";
 ;;Mom;PLEASE ...\. STOP ...;PLEASE ...\. STOP ...;
-;;;I don't want to die.;I don't want to die.;
-;;;I'll never be ready.;I'll never be ready.;
+;;;I don't want to die.;I don't want to die.;No quiero morir.
+;;;I'll never be ready.;I'll never be ready.;Nunca podré estar preparado.
 ;;;"I just can't imagine the end of my life being
 pure darkness.";"I just can't imagine the end of my life being
-pure darkness.";
+pure darkness.";"Ni siquiera puedo imaginar como se stiente que
+de un momento a otro, todo se vuelva oscuridad."
 ;;;I don't want to lose my memories.;I don't want to lose my memories.;
 ;;;I don't want to lose myself.;I don't want to lose myself.;
 ;;;Sometimes, it can be a bit too much.;Sometimes, it can be a bit too much.;
@@ -3095,17 +3118,20 @@ about.";
 ;;;"Even though we'll probably never see each other
 again, I can't lose these memories.";"Even though we'll probably never see each other
 again, I can't lose these memories.";
-;;;I had studied every day leading up to the test.;I had studied every day leading up to the test.;
-;;;And I couldn't remember any of it.;And I couldn't remember any of it.;
+;;;I had studied every day leading up to the test.;I had studied every day leading up to the test.;"Había estado estudiando todos los días antes
+del examen."
+;;;And I couldn't remember any of it.;And I couldn't remember any of it.;Y aun así no pude acordarme de nada.
 ;;;"The pages were filled with unreadable gibberish.\.
 I tried rubbing them out, but they stayed.";"The pages were filled with unreadable gibberish.\.
-I tried rubbing them out, but they stayed.";
-;;;They wouldn't leave me alone.;They wouldn't leave me alone.;
+I tried rubbing them out, but they stayed.";"Las páginas estaban llenas de garabatos ilegibles.\.
+Traté de hallarles algún sentido, descifrarlos..."
+;;;They wouldn't leave me alone.;They wouldn't leave me alone.;Nada funcionó.
 ;;;"I spent the whole hour silently paralyzed.
 Unable to move.";"I spent the whole hour silently paralyzed.
-Unable to move.";
-;;;I had a hard time remembering anything.;I had a hard time remembering anything.;
-;;;It didn't feel fair.;It didn't feel fair.;
+Unable to move.";"Estuve una hora sentado frente al examen,
+completamente paralizado."
+;;;I had a hard time remembering anything.;I had a hard time remembering anything.;No conseguía recordar nada.
+;;;It didn't feel fair.;It didn't feel fair.;No era justo.
 ;;;You remember.;You remember.;
 ;;;The excitement of seeing that email.;The excitement of seeing that email.;
 ;;;The party ...;The party ...;
@@ -3759,44 +3785,53 @@ And I think it took the repairman with it ...";"Sencillamente se esfumó, y...\.
 creo que se llevó al técnico con ella."
 ;;Principal;We'll be hosting a funeral later this week.;We'll be hosting a funeral later this week.;"Bueno, parece que tendremos un funeral esta
 semana..."
-;;;I guess school is done for today.;I guess school is done for today.;
-;;;Another day, another horrible memory.;Another day, another horrible memory.;
-;;;Can you begin to see what is happening here?;Can you begin to see what is happening here?;
+;;;I guess school is done for today.;I guess school is done for today.;Creo que eso es todo por hoy.
+;;;Another day, another horrible memory.;Another day, another horrible memory.;Un día más, un recuerdo más para atormentarme.
+;;;Can you begin to see what is happening here?;Can you begin to see what is happening here?;¿Logras percibir qué es lo que está pasando?
 ;;;"Every failure,\. every time you tried your best,\.
 every time you weren't enough.";"Every failure,\. every time you tried your best,\.
-every time you weren't enough.";
-;;;Do these moments really define who you are?;Do these moments really define who you are?;
-;;;...\| They made you a different person.;...\| They made you a different person.;
+every time you weren't enough.";"Cada fracaso,\. cada esfuerzo,\.
+cada vez que no fuiste suficiente."
+;;;Do these moments really define who you are?;Do these moments really define who you are?;¿Esos momentos realmente definen quien eres?
+;;;...\| They made you a different person.;...\| They made you a different person.;...\| Ellos te convirtieron en alguien diferente.
 ;;;"...\| You're still free to be someone, regardless
 of what you've experienced.";"...\| You're still free to be someone, regardless
-of what you've experienced.";
+of what you've experienced.";"...\| Aún puedes ser alguien mejor... pese a
+lo que hayas vivido."
 ;;;"I do hope you realize that you don’t have to
 hold on to these moments forever.";"I do hope you realize that you don’t have to
-hold on to these moments forever.";
+hold on to these moments forever.";"Espero que pronto entiendas que no tienes
+porque aferrarte a esos momentos."
 ;;;"You've made the first step to opening your eyes.\!
 Can you understand?";"You've made the first step to opening your eyes.\!
-Can you understand?";
+Can you understand?";"Pero ya has dado los primeros pasos para lograrlo.\!
+¿Te diste cuenta?"
 ;;;"You still have time to get accustomed with
 these grounds,\. but you're going in a direction.";"You still have time to get accustomed with
-these grounds,\. but you're going in a direction.";
-;;;I don't have the power to say which is correct.;I don't have the power to say which is correct.;
-;;;You still have a long journey ahead of you.;You still have a long journey ahead of you.;
-;;;...\| Do you think you'll be able to keep trying?;...\| Do you think you'll be able to keep trying?;
-;;;Yes, I will.;Yes, I will.;
-;;;I don't know.;I don't know.;
-;;;You keep looking back, don't you?;You keep looking back, don't you?;
+these grounds,\. but you're going in a direction.";"Aún cuentas con tiempo para conocer mejor
+el camino que decidiste seguir."
+;;;I don't have the power to say which is correct.;I don't have the power to say which is correct.;No puedo decirte si es o no el correcto.
+;;;You still have a long journey ahead of you.;You still have a long journey ahead of you.;"Aún te queda un largo camino por recorrer."
+;;;...\| Do you think you'll be able to keep trying?;...\| Do you think you'll be able to keep trying?;...\| ¿Crees que lograrás seguir?
+;;;Yes, I will.;Yes, I will.;Sí
+;;;I don't know.;I don't know.;No lo sé
+;;;You keep looking back, don't you?;You keep looking back, don't you?;Aún te cuesta dejar ir el pasado, ¿no?
 ;;;"Staring at those moments like they're still
 actually happening.";"Staring at those moments like they're still
-actually happening.";
+actually happening.";"Revives aquellos momentos una y otra vez en
+tu mente."
 ;;;"You're afraid of something.\!
 You're afraid because what if it happens again?";"You're afraid of something.\!
-You're afraid because what if it happens again?";
+You're afraid because what if it happens again?";"Te asusta, ¿no?\!
+Te asusta que vuelva a pasar."
 ;;;"Adults are just the older versions of their
 younger selves, right?";"Adults are just the older versions of their
-younger selves, right?";
+younger selves, right?";"Al final, ¿qué son los adultos sino versiones
+mas grandes de sus yo más jóvenes?"
 ;;;"So why wouldn't these things happen again?\!
 Am I right?";"So why wouldn't these things happen again?\!
-Am I right?";
+Am I right?";"Asi que, ¿por qué tendría que pasar de nuevo?\!
+¿Verdad?"
 ;;;...\| I thought so.;...\| I thought so.;
 ;;;...\| So why do you keep looking back in fear?;...\| So why do you keep looking back in fear?;
 ;;;...\| Do you think you'll ever stop running?;...\| Do you think you'll ever stop running?;
