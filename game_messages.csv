@@ -1689,7 +1689,7 @@ que no era lo mio."
 Cat City doesn't have any clothing shops!";"I just came back from visiting Dog City, because
 Cat City doesn't have any clothing shops!";
 ;;Shopper;I should totally live there instead...;I should totally live there instead ...;
-;;;Loaf Cat;Loaf Cat;Gato Naranja
+;;;Loaf Cat;Loaf Cat;Michipan
 ;;Loaf Cat;\etalk[7]How would you rate this loaf?;\etalk[7]How would you rate this loaf?;\etalk[7]¿Qué calificación le das a este gato?
 ;;;1-3;1-3;1-3
 ;;;4-6;4-6;4-6
@@ -1739,7 +1739,8 @@ My day is ruined!";
 ;;Waiter;\etalk[8]Welcome to our cafe, sir.;\etalk[8]Welcome to our cafe, sir.;\etalk[8]Sea bienvenido a nuestro Catfetín.
 ;;;"It seems someone is sitting here.\!
 There are a couple of cards with jokers on them.";"It seems someone is sitting here.\!
-There are a couple of cards with jokers on them.";
+There are a couple of cards with jokers on them.";"Parece que alguien está sentado aquí.\!
+Hay algunas cartas de poker y unos comodines encima."
 ;;Waiter;\etalk[10]Welcome to our cafe, sir.;\etalk[10]Welcome to our cafe, sir.;\etalk[10]Sea bienvenido a nuestro Catfetín.
 ;;;Cat;Cat;Gatoempleado
 ;;Cat;\etalk[11]Hello, and welcome to our Cat Cafe!;\etalk[11]Hello, and welcome to our Cat Cafe!;\etalk[11]¡Miau! ¡Bienvenido a nuestro Catfetín!
@@ -1809,42 +1810,51 @@ here all the time!";"That too, but also because I hang out with you
 here all the time!";
 ;;;"The cat watches you, as if it's waiting for
 something to happen.";"The cat watches you, as if it's waiting for
-something to happen.";
-;;;Aero;Aero;
-;;Aero;\etalk[13]Heya! Wanna play hide and seek?;\etalk[13]Heya! Wanna play hide and seek?;
-;;Aero;\etalk[13]Yes! I have the perfect hiding spot!;\etalk[13]Yes! I have the perfect hiding spot!;
-;;Aero;\etalk[13]Aww...;\etalk[13]Aww...;
-;;;Mr. Aero;Mr. Aero;
-;;Mr. Aero;\etalk[13]Ho ho! I've lost my great son!;\etalk[13]Ho ho! I've lost my great son!;
+something to happen.";"El gato te observa, como si esperara que
+ocurriera algo."
+;;;Aero;Aero;Aero
+;;Aero;\etalk[13]Heya! Wanna play hide and seek?;\etalk[13]Heya! Wanna play hide and seek?;\etalk[13]¡Hoolaa! ¿Quieres jugar a las escondidas?
+;;Aero;\etalk[13]Yes! I have the perfect hiding spot!;\etalk[13]Yes! I have the perfect hiding spot!;"\etalk[13]¡Genial! Voy a ir a esconderme rapidito.
+¡No mires!"
+;;Aero;\etalk[13]Aww...;\etalk[13]Aww...;\etalk[13]Bahh...
+;;;Mr. Aero;Mr. Aero;Sr. Aero
+;;Mr. Aero;\etalk[13]Ho ho! I've lost my great son!;\etalk[13]Ho ho! I've lost my great son!;\etalk[13]¡Jo jo! ¡He perdido a mi hijo!
 ;;Mr. Aero;"\etalk[13]He must have disappeared from existence!\.
 There's no way you'll ever find him now!";"\etalk[13]He must have disappeared from existence!\.
-There's no way you'll ever find him now!";
-;;;Oliver;Oliver;
+There's no way you'll ever find him now!";"\etalk[13]¡Debe haberse desvanecido de este mundo!\.
+¡No hay forma de que lo vuelvas a encuentrar!"
+;;;Oliver;Oliver;Oliver
 ;;Oliver;"\etalk[14]This one here? I'm just so lucky to live with
 this beautiful lady ...";"\etalk[14]This one here? I'm just so lucky to live with
 this beautiful lady ...";
-;;;Molly;Molly;
+;;;Molly;Molly;Molly
 ;;Molly;"\etalk[15]I love my amazing husband, he's never left
 my side!";"\etalk[15]I love my amazing husband, he's never left
-my side!";
-;;;Electracat;Electracat;
-;;Electracat;Grrrrr ...;Grrrrr ...;
-;;;It seems aggressive ...;It seems aggressive ...;
+my side!";"\etalk[15]Adoro a mi esposo. Él siempre está a
+mi lado."
+;;;Electracat;Electracat;Electracat
+;;Electracat;Grrrrr ...;Grrrrr ...;Fsssss...
+;;;It seems aggressive ...;It seems aggressive ...;No parece muy amigable...
 ;;;One day, surely!;One day, surely!;
 ;;;The baby swan seems to be sleeping.;The baby swan seems to be sleeping.;
 ;;;Toast;Toast;
 ;;Toast;\etalk[23]You are so cool...;\etalk[23]You are so cool ...;
 ;;;"I was confused on why I wasn't allowed to let
 Selene outside.";"I was confused on why I wasn't allowed to let
-Selene outside.";
+Selene outside.";"No sabía muy bien por qué no me dejaban sacar
+a Selene afuera."
 ;;;"Part of me thinks mom was scared she'd get stuck
 again, but I don't know if she cared so much.";"Part of me thinks mom was scared she'd get stuck
-again, but I don't know if she cared so much.";
+again, but I don't know if she cared so much.";"Tal vez mamá no quería que se quedara atorada de
+nuevo, o tal vez no y había otra razón."
 ;;;"Selene would sit by the window, looking at the
 birds.";"Selene would sit by the window, looking at the
-birds.";
-;;;Sometimes the birds would look back at her.;Sometimes the birds would look back at her.;
-;;;I wondered if she felt trapped in this house.;I wondered if she felt trapped in this house.;
+birds.";"Selene se recostaba cerca de la ventana a
+observar a los pájaros."
+;;;Sometimes the birds would look back at her.;Sometimes the birds would look back at her.;"A veces los pájaros lograban verla a través
+de la ventana."
+;;;I wondered if she felt trapped in this house.;I wondered if she felt trapped in this house.;"¿Se habrá sentido aislada o atrapada en
+esta casa en esos momentos?"
 ;;;"The door is locked.\.
 It reads ""STAFF ONLY"".";"The door is locked.\.
 It reads ""STAFF ONLY"".";
@@ -1874,7 +1884,8 @@ days ago!";
 ;;Alien;\etalk[15]This is such a vibe.;\etalk[15]This is such a vibe.;
 ;;;"It's an arcade machine.
 Would you like to play?";"It's an arcade machine.
-Would you like to play?";
+Would you like to play?";"Es una máquina arcade.
+¿Quieres jugar?"
 ;;;"It's a poster.\!
 ""STRAY KATS: LIVE!""";"It's a poster.\!
 ""STRAY KATS: LIVE!""";
@@ -1883,15 +1894,15 @@ Would you like to play?";
 ;;Solstice;\etalk[10]It kinda looks like the sun!;\etalk[10]It kinda looks like the sun!;
 ;;;Madcap;Madcap;
 ;;Madcap;\etalk[11]Praise the gods!;\etalk[11]Praise the gods!;
-;;Loaf Cat;\etalk[12]How would you rate this loaf?;\etalk[12]How would you rate this loaf?;
-;;Loaf Cat;\etalk[12]That's just rude!;\etalk[12]That's just rude!;
-;;Loaf Cat;\etalk[12]That's pretty low...;\etalk[12]That's pretty low ...;
-;;Loaf Cat;\etalk[12]I knew it! I tried my best!;\etalk[12]I knew it! I tried my best!;
-;;Loaf Cat;\etalk[12]A perfect score? Holy cow!;\etalk[12]A perfect score? Holy cow!;
+;;Loaf Cat;\etalk[12]How would you rate this loaf?;\etalk[12]How would you rate this loaf?;\etalk[12]¿Qué calificación le das a este gato?
+;;Loaf Cat;\etalk[12]That's just rude!;\etalk[12]That's just rude!;\etalk[12]¡Eso no fue miuy amable!
+;;Loaf Cat;\etalk[12]That's pretty low...;\etalk[12]That's pretty low ...;\etalk[12]¿Por qué tan poquito? Creo que merecía mias.
+;;Loaf Cat;\etalk[12]I knew it! I tried my best!;\etalk[12]I knew it! I tried my best!;\etalk[12]¡Lo sabía! ¡Muchas gracias, miaumigo!
+;;Loaf Cat;\etalk[12]A perfect score? Holy cow!;\etalk[12]A perfect score? Holy cow!;\etalk[12]¿Puntaje prrrfecto? ¡Miaugnífico!
 ;;;Paw1;Paw1;
 ;;Paw1;\etalk[13]Meow Meow Meow, Meow Meow.;\etalk[13]Meow Meow Meow, Meow Meow.;
 ;;;You probably shouldn't touch that ...;You probably shouldn't touch that ...;
-;;;Place the ladder here?;Place the ladder here?;
+;;;Place the ladder here?;Place the ladder here?;¿Colocar la escalera aquí?
 ;;John;Are you ready for your second challenge?;Are you ready for your second challenge?;
 ;;;How did you get up here;How did you get up here;
 ;;John;John doesn't have time for questions.;John doesn't have time for questions.;
@@ -1906,40 +1917,47 @@ sawdust bread.";
 ;;Joscat;"\etalk[8]You better not mess up my fur,
 it takes work to look this fabulous!";"\etalk[8]You better not mess up my fur,
 it takes work to look this fabulous!";
-;;Haven;Apparently a band is gonna play here soon!;Apparently a band is gonna play here soon!;
+;;Haven;Apparently a band is gonna play here soon!;Apparently a band is gonna play here soon!;"¿Ya te enterasté? ¡Parece que una banda tocará
+aquí dentro de poco!"
 ;;;Third Eye Frog;Third Eye Frog;
 ;;Third Eye Frog;"\etalk[10]Ribbit! It sounds like there's gonna be some
 live music this evening!";"\etalk[10]Ribbit! It sounds like there's gonna be some
 live music this evening!";
-;;Loaf Cat;\etalk[11]How would you rate this loaf?;\etalk[11]How would you rate this loaf?;
-;;Loaf Cat;\etalk[11]That's just rude!;\etalk[11]That's just rude!;
-;;Loaf Cat;\etalk[11]That's pretty low...;\etalk[11]That's pretty low ...;
-;;Loaf Cat;\etalk[11]I knew it! I tried my best!;\etalk[11]I knew it! I tried my best!;
-;;Loaf Cat;\etalk[11]A perfect score? Holy cow!;\etalk[11]A perfect score? Holy cow!;
-;;Trumpeter;Y'all ready?;Y'all ready?;
-;;Trumpeter;Ladies and gentlecats, we are The Swinging Cats!;Ladies and gentlecats, we are The Swinging Cats!;
-;;Trumpeter;Thank you!;Thank you!;
+;;Loaf Cat;\etalk[11]How would you rate this loaf?;\etalk[11]How would you rate this loaf?;\etalk[11]¿Qué calificación le das a este gato?
+;;Loaf Cat;\etalk[11]That's just rude!;\etalk[11]That's just rude!;\etalk[11]¡Eso no fue miuy amable!
+;;Loaf Cat;\etalk[11]That's pretty low...;\etalk[11]That's pretty low ...;\etalk[11]¿Por qué tan poquito? Creo que merecía mias.
+;;Loaf Cat;\etalk[11]I knew it! I tried my best!;\etalk[11]I knew it! I tried my best!;\etalk[11]¡Lo sabía! ¡Muchas gracias, miaumigo!
+;;Loaf Cat;\etalk[11]A perfect score? Holy cow!;\etalk[11]A perfect score? Holy cow!;\etalk[11]¿Puntaje prrrfecto? ¡Miaugnífico!
+;;Trumpeter;Y'all ready?;Y'all ready?;¿Todos listos?
+;;Trumpeter;Ladies and gentlecats, we are The Swinging Cats!;Ladies and gentlecats, we are The Swinging Cats!;"Damas y caballeros — y amigos gatunos, con ustedes:
+La Oreja de Van Ronrón."
+;;Trumpeter;Thank you!;Thank you!;¡Gracias!
 ;;Trumpeter;"Hey buddy, nice seeing you again.\!
 We've got a bit of a problem here ...";"Hey buddy, nice seeing you again.\!
-We've got a bit of a problem here ...";
+We've got a bit of a problem here ...";"Qué gusto verte de nuevo, amigo.\!
+¿Sabes?, tenemos un pequeño probremín aquí..."
 ;;Trumpeter;"We couldn't jam at school, but can you help
 out now?";"We couldn't jam at school, but can you help
-out now?";
+out now?";"No pudimos tocar juntos en la escuela, ¿crees
+que podríamos hacerlo ahora?"
 ;;Trumpeter;"Our keyboard player is stuck in traffic and won't
 get here in time.";"Our keyboard player is stuck in traffic and won't
-get here in time.";
-;;Trumpeter;You can probably see what I'm about to ask ...;You can probably see what I'm about to ask ...;
-;;;I'll play;I'll play;
-;;;Give me a second;Give me a second;
+get here in time.";"Nuestro tecladista está atascado en el tráfico y
+no llegará a tiempo."
+;;Trumpeter;You can probably see what I'm about to ask ...;You can probably see what I'm about to ask ...;"Creo que ya sabes lo que te voy a pedir
+a continuación..."
+;;;I'll play;I'll play;Lo haré
+;;;Give me a second;Give me a second;Dame un momento
 ;;Trumpeter;"Awesome! Hop on the keyboard and try to jam
 along!";"Awesome! Hop on the keyboard and try to jam
-along!";
-;;Trumpeter;No worries, let me know if you wanna help out.;No worries, let me know if you wanna help out.;
-;;Trumpeter;You up?;You up?;
-;;Trumpeter;Hop on the keyboard and try to jam along!;Hop on the keyboard and try to jam along!;
+along!";¡Perfecto! ¡El teclado es todo tuyo, amigo!
+;;Trumpeter;No worries, let me know if you wanna help out.;No worries, let me know if you wanna help out.;Está bien, tomatelo con calma.
+;;Trumpeter;You up?;You up?;¿Ya te decidiste?
+;;Trumpeter;Hop on the keyboard and try to jam along!;Hop on the keyboard and try to jam along!;Entonces ¡es hora de tocar!
 ;;Trumpeter;"That was great! 
 Thanks for helping out man!";"That was great! 
-Thanks for helping out man!";
+Thanks for helping out man!";"¡Eso salió increible! No lo hubieramos hecho
+sin ti. Muchas gracias, en serio."
 ;;;Tako Stix;Tako Stix;
 ;;Tako Stix;Who needs two arms when you've got eight!;Who needs two arms when you've got eight!;
 ;;;Thunder Cat;Thunder Cat;
@@ -2010,20 +2028,20 @@ red, hot chili pepper?!";
 ;;;Marimba Cat;Marimba Cat;
 ;;Marimba Cat;Uhhh... which one do I hit again?;Uhhh ... which one do I hit again?;
 ;;;The tuba is bigger than their entire body.;The tuba is bigger than their entire body.;
-;;Trumpeter;Hey! It's you!;Hey! It's you!;
-;;Trumpeter;Could you come up here for a sec?;Could you come up here for a sec?;
-;;Aero;\etalk[13]Aw dang it! You found me!;\etalk[13]Aw dang it! You found me!;
-;;Aero;\etalk[13]Wanna play again?;\etalk[13]Wanna play again?;
+;;Trumpeter;Hey! It's you!;Hey! It's you!;"¡Hey, yo te recuerdo! ¡Eres el chico que encontró mi trompeta!"
+;;Trumpeter;Could you come up here for a sec?;Could you come up here for a sec?;¿Puedes subir aquí un momento?
+;;Aero;\etalk[13]Aw dang it! You found me!;\etalk[13]Aw dang it! You found me!;\etalk[13]¡Caray! Pense que no ibas a encontrarme aquí.
+;;Aero;\etalk[13]Wanna play again?;\etalk[13]Wanna play again?;\etalk[13]¿Quieres jugar de nuevo?
 ;;Aero;"\etalk[13]Alright! I'm going to backtrack a bit, you
 won't find me this time!";"\etalk[13]Alright! I'm going to backtrack a bit, you
-won't find me this time!";
-;;;He looks familiar.;He looks familiar.;
-;;;Scared Cat;Scared Cat;
-;;Scared Cat;\etalk[8]Thank you ...;\etalk[8]Thank you ...;
+won't find me this time!";"\etalk[13]Okay, ¡esta vez no me encontrarás!"
+;;;He looks familiar.;He looks familiar.;Parece conocido.
+;;;Scared Cat;Scared Cat;Gata Asustada
+;;Scared Cat;\etalk[8]Thank you ...;\etalk[8]Thank you ...;\etalk[8]Miau, muchas gracias...
 ;;Zach;"The one who in victory wins on himself,
 wins two times.";"The one who in victory wins on himself,
 wins two times.";
-;;Scared Cat;\etalk[8]Help ... Please ...;\etalk[8]Help ... Please ...;
+;;Scared Cat;\etalk[8]Help ... Please ...;\etalk[8]Help ... Please ...;\etalk[8]¡Miauxilio, por favor!
 ;;;Help;Help;Ayudar
 ;;;Leave;Leave;Irse
 ;;;You help the kitten out of the train tracks.;You help the kitten out of the train tracks.;Ayudas al gatito a salir de los rieles del tren.
@@ -2038,7 +2056,8 @@ wins two times.";
 ;;Baker;Okay, here's your bread.;Okay, here's your bread.;Okay, aquí está tu pan.
 ;;;"Why do they call it oven when you of in the cold
 food of out hot eat the food?";"Why do they call it oven when you of in the cold
-food of out hot eat the food?";
+food of out hot eat the food?";"A veces quiero hacerme una lasaña,\. pero luego me
+acuerdo que no tengo horno y se me pasa."
 ;;;"The oven.
 Bake the mix?";"The oven.
 Bake the mix?";"El horno.
@@ -2050,8 +2069,8 @@ Bake the mix?";"El horno.
 It smells burnt.";"The oven.
 It smells burnt.";"El horno.
 Huele a quemado."
-;;Aero;\etalk[13]One more time!;\etalk[13]One more time!;
-;;Aero;\etalk[13]This time you'll never find me!;\etalk[13]This time you'll never find me!;
+;;Aero;\etalk[13]One more time!;\etalk[13]One more time!;\etalk[13]¡Juguemos una vez más!
+;;Aero;\etalk[13]This time you'll never find me!;\etalk[13]This time you'll never find me!;\etalk[13]¡Esta vez te juro que no me encontrarás!
 ;;;It's a shelf full of bread.;It's a shelf full of bread.;
 ;;;Max;Max;
 ;;Max;I love bread.;I love bread.;
@@ -2207,189 +2226,227 @@ Mix it?";"\{Tazón.\}
 ;;;Eggs.;Eggs.;Huevos
 ;;;The oven.;The oven.;El horno.
 ;;;Continue?;Continue?;¿Continuar?
-;;;\<then you escape;\<then you escape;
-;;;\<instead of facing your problems;\<instead of facing your problems;
-;;;\<what does it change;\<what does it change;
-;;;\<what is the point;\<what is the point;
-;;;\<you're in your own world all the time;\<you're in your own world all the time;
-;;;\<you don't bring any change;\<you don't bring any change;
-;;;\<you've already disappointed so many;\<you've already disappointed so many;
-;;;\<why have the chance to mess it all up again;\<why have the chance to mess it all up again;
-;;;\<was it all your fault?;\<was it all your fault?;
-;;;\<it's not like you can change what you did;\<it's not like you can change what you did;
-;;;\<since when did you get control over your actions;\<since when did you get control over your actions;
-;;;You were devastated.;You were devastated.;
-;;;You thought about jumping in front of a car too.;You thought about jumping in front of a car too.;
+;;;\<then you escape;\<then you escape;\<y decides huir
+;;;\<instead of facing your problems;\<instead of facing your problems;\<en vez de enfrentar tus problemas
+;;;\<what does it change;\<what does it change;\<nada va a cambiar así
+;;;\<what is the point;\<what is the point;\<de qué sirve hacer eso
+;;;\<you're in your own world all the time;\<you're in your own world all the time;\<te escondes en tu propio mundo
+;;;\<you don't bring any change;\<you don't bring any change;\<no te esfuerzas por cambiar
+;;;\<you've already disappointed so many;\<you've already disappointed so many;\<has decepcionado a tantos
+;;;\<why have the chance to mess it all up again;\<why have the chance to mess it all up again;\<e intentas arruirnarlo todo de nuevo
+;;;\<was it all your fault?;\<was it all your fault?;\<¿todo fue culpa tuya?
+;;;\<it's not like you can change what you did;\<it's not like you can change what you did;ya es tarde para cambiar lo que hiciste
+;;;\<since when did you get control over your actions;\<since when did you get control over your actions;\<¿desde cuándo tienes control sobre tus acciones?
+;;;You were devastated.;You were devastated.;Estabas hecho pedazos.
+;;;You thought about jumping in front of a car too.;You thought about jumping in front of a car too.;"Por un momento consideraste lanzarte contra
+uno de los carros que pasaban."
 ;;;"You couldn't stand the fact of being all
 alone again.";"You couldn't stand the fact of being all
-alone again.";
+alone again.";"No lograbas soportar la idea de quedarte
+solo nuevamente."
 ;;;"The silence grew louder and louder.\!
 The whispers when no one else was around.";"The silence grew louder and louder.\!
-The whispers when no one else was around.";
+The whispers when no one else was around.";"El silencio crecía y crecía,\!
+así como aquellas voces a tu alrededor."
 ;;;"Do you think you've accepted this moment
 in your head?";"Do you think you've accepted this moment
-in your head?";
+in your head?";"¿Crees que has logrado superar este
+trauma?"
 ;;;"We realize these moments might be hard to
 witness again.";"We realize these moments might be hard to
-witness again.";
-;;;But if you want to let go, you must embrace it.;But if you want to let go, you must embrace it.;
+witness again.";"Quizás sea espantoso revivir este trauma."
+;;;But if you want to let go, you must embrace it.;But if you want to let go, you must embrace it.;"Pero si quieres superarlo, primero debes
+aceptarlo."
 ;;;"There's no right or wrong answer here.\!
 There's no saying if you caused her death.";"There's no right or wrong answer here.\!
-There's no saying if you caused her death.";
-;;;The only answer you can have, is your own.;The only answer you can have, is your own.;
-;;;...\| Can you give Selene her freedom and peace?;...\| Can you give Selene her freedom and peace?;
-;;;Thank you for being here;Thank you for being here;
-;;;I miss her so much;I miss her so much;
-;;;Selene, if you can hear me from this world.;Selene, if you can hear me from this world.;
-;;;I want to thank you for being a part of me.;I want to thank you for being a part of me.;
+There's no saying if you caused her death.";"No existe respuesta correcta o errada.\!
+Y nadie puede decir con certeza si fue tu culpa."
+;;;The only answer you can have, is your own.;The only answer you can have, is your own.;Lo único que importa aquí es lo que tú creas.
+;;;...\| Can you give Selene her freedom and peace?;...\| Can you give Selene her freedom and peace?;...\| ¿Quieres que Selene por fin descanse en paz?
+;;;Thank you for being here;Thank you for being here;Gracias por todo, Selene
+;;;I miss her so much;I miss her so much;Te extraño tanto
+;;;Selene, if you can hear me from this world.;Selene, if you can hear me from this world.;"Si puedes oírme desde donde sea que estés,
+Selene..."
+;;;I want to thank you for being a part of me.;I want to thank you for being a part of me.;Gracias por haber formado parte de mi vida.
 ;;;"You made me feel safe in a way nothing else
 ever has.";"You made me feel safe in a way nothing else
-ever has.";
+ever has.";"Me hiciste sentir querido, como nunca nadie
+lo había hecho."
 ;;;"Every time I saw you, I would automatically smile.\!
 I'd feel whole.";"Every time I saw you, I would automatically smile.\!
-I'd feel whole.";
+I'd feel whole.";"Siempre lograbas sacarme una sonrisita.\!
+Y me hacías sentir tan feliz."
 ;;;"...\| And even though you're gone now,\. your love
 will always be with me.";"...\| And even though you're gone now,\. your love
-will always be with me.";
-;;;I promise to carry it forward from now on.;I promise to carry it forward from now on.;
-;;;Thank you, Selene.;Thank you, Selene.;
+will always be with me.";"...\| Y aunque ya no estás aquí,\. nunca olvidaré
+ese cariño especial que sentía por ti."
+;;;I promise to carry it forward from now on.;I promise to carry it forward from now on.;Te prometo que voy a superar todo esto.
+;;;Thank you, Selene.;Thank you, Selene.;Gracias por todo, Selene.
 ;;;"I feel so guilty.\!
 I feel so wrong.";"I feel so guilty.\!
-I feel so wrong.";
-;;;She's the only thing I ever had.;She's the only thing I ever had.;
-;;;Her poor body, lifeless on the road...;Her poor body, lifeless on the road ...;
-;;;...\. I just can't get that image out of my head.;...\. I just can't get that image out of my head.;
-;;;I should have listened to my mom.;I should have listened to my mom.;
-;;;I'm the reason she had such a short life.;I'm the reason she had such a short life.;
-;;;I should have protected her better.;I should have protected her better.;
-;;;I can feel the whispers returning.;I can feel the whispers returning.;
-;;;You place the ball of yarn on the ground.;You place the ball of yarn on the ground.;
-;;Haven;Goodbye.;Goodbye.;
-;;;It's Selene's grave.;It's Selene's grave.;
+I feel so wrong.";"Toda esta culpa está consumiéndome.\!
+No deja de atormentarme."
+;;;She's the only thing I ever had.;She's the only thing I ever had.;Ella era todo lo que tenía en este mundo.
+;;;Her poor body, lifeless on the road...;Her poor body, lifeless on the road ...;Su cuerpecito... tirado, sin rastro de vida.
+;;;...\. I just can't get that image out of my head.;...\. I just can't get that image out of my head.;...\. No puedo quitarme esa imagen de la mente.
+;;;I should have listened to my mom.;I should have listened to my mom.;Debí haber obedecido a mamá.
+;;;I'm the reason she had such a short life.;I'm the reason she had such a short life.;Ella estaría viva si no fuera por mí.
+;;;I should have protected her better.;I should have protected her better.;Debí haber cuidado mejor de ella.
+;;;I can feel the whispers returning.;I can feel the whispers returning.;Las voces... ellas están volviendo.
+;;;You place the ball of yarn on the ground.;You place the ball of yarn on the ground.;Colocas el ovillo de lana en el suelo.
+;;Haven;Goodbye.;Goodbye.;Adiós.
+;;;It's Selene's grave.;It's Selene's grave.;Es la tumba de Selene.
 ;;;"Knowing her dead body is under your feet, makes
 you feel sick.";"Knowing her dead body is under your feet, makes
-you feel sick.";
+you feel sick.";"Te invade un malestar al pensar que ella está
+enterrada justo ahí bajo tus pies."
 ;;;"It's a gravestone.\.
 There's no name on it.";"It's a gravestone.\.
-There's no name on it.";
+There's no name on it.";"Es una lápida.\.
+No tiene ningún nombre escrito."
 ;;;"It's a gravestone with flowers.\.
 The name on it reads 'Nemoid'.";"It's a gravestone with flowers.\.
-The name on it reads 'Nemoid'.";
+The name on it reads 'Nemoid'.";"Es una tumba adornada con algunas flores.\.
+En la lápida se lee el nombre 'Nemoid'."
 ;;;You sat at the bus stop for a while.;You sat at the bus stop for a while.;Te sientas en la parada de autobús y esperas.
 ;;;"                 There's a knife on the floor.\!
                      You decide to grab it.";"                 There's a knife on the floor.\!
                      You decide to grab it.";"                 Hay un cuchillo en el suelo.\!
                      Decides agarrarlo."
-;;;I should probably take the ball of yarn...;I should probably take the ball of yarn ...;
-;;;I remember how I made a fort for my cat.;I remember how I made a fort for my cat.;
+;;;I should probably take the ball of yarn...;I should probably take the ball of yarn ...;Debería agarrar el ovillo de lana...
+;;;I remember how I made a fort for my cat.;I remember how I made a fort for my cat.;"Recuerdo la vez que hice una especie de fuerte
+para que mi gata tuviese donde dormir."
 ;;;"She didn't have anywhere to sleep, since my mom
 and dad didn't care about her.";"She didn't have anywhere to sleep, since my mom
-and dad didn't care about her.";
+and dad didn't care about her.";"Mamá y papá no se importaban en lo
+más mínimo con ella."
 ;;;"We made it out of two binders, a blanket, and a
 pillow.";"We made it out of two binders, a blanket, and a
-pillow.";
+pillow.";"Lo hicimos juntando dos carpetas de tapa dura,
+una manta y una almohada."
 ;;;"My mom also gave me one of her balls of yarn
 that she had from when she used to knit.";"My mom also gave me one of her balls of yarn
-that she had from when she used to knit.";
-;;;It seemed like Selene enjoyed it.;It seemed like Selene enjoyed it.;
-;;;It's not much, but I hope you'll enjoy it Selene.;It's not much, but I hope you'll enjoy it Selene.;
-;;;Selene let out a soft, squeaky meow.;Selene let out a soft, squeaky meow.;
+that she had from when she used to knit.";"Mamá también me regaló uno de sus ovillos
+de lana de cuando aún tejía."
+;;;It seemed like Selene enjoyed it.;It seemed like Selene enjoyed it.;Parecía que a Selene le había encantado.
+;;;It's not much, but I hope you'll enjoy it Selene.;It's not much, but I hope you'll enjoy it Selene.;Sé que no es mucho, pero espero que te guste.
+;;;Selene let out a soft, squeaky meow.;Selene let out a soft, squeaky meow.;Selene soltó un maullido agudo pero suave.
 ;;;"Whenever my dad was mad, I would run to the
 park nearby.";"Whenever my dad was mad, I would run to the
-park nearby.";
+park nearby.";"Siempre que papá andaba furioso, me escapaba
+a un parque cercano."
 ;;;"It wasn't too far from my home, and it was always
 empty.";"It wasn't too far from my home, and it was always
-empty.";
+empty.";"No estaba muy lejos de casa, y siempre estaba
+vacío."
 ;;;"I would draw on my notebook for an hour until I
 returned home.";"I would draw on my notebook for an hour until I
-returned home.";
+returned home.";"Me ponía a dibujar en mi libreta, y después de
+pasar un buen rato ahí, volvía a casa."
 ;;;"I wish I could take Selene with me, but my mom
 wouldn't allow me to take her outside the house.";"I wish I could take Selene with me, but my mom
-wouldn't allow me to take her outside the house.";
+wouldn't allow me to take her outside the house.";"Me hubiera gustado llevar a Selene conmigo, pero
+mamá nunca me dejó."
 ;;;"I would hide her in the fort in my room, so she
 wouldn't annoy my dad even more.";"I would hide her in the fort in my room, so she
-wouldn't annoy my dad even more.";
-;;;Poor girl...;Poor girl ...;
-;;;I haven't seen that notebook in so long.;I haven't seen that notebook in so long.;
-;;;I wonder where it went?;I wonder where it went?;
+wouldn't annoy my dad even more.";"Antes de salir, la escondía en mi cuarto, para
+que no incomodara a papá."
+;;;Poor girl...;Poor girl ...;Pobrecita...
+;;;I haven't seen that notebook in so long.;I haven't seen that notebook in so long.;Hace mucho que no veo aquella libreta.
+;;;I wonder where it went?;I wonder where it went?;¿Dondé estará ahora?
 ;;;"At home, my cat would hop on my lap when I was 
 sitting on my bed.";"At home, my cat would hop on my lap when I was 
-sitting on my bed.";
+sitting on my bed.";"A mi gata le gustaba recostarse en mi regazo cuando
+estábamos en mi habitación. "
 ;;;"I remember how nice it felt when she finally
 did it for the first time.";"I remember how nice it felt when she finally
-did it for the first time.";
+did it for the first time.";"Me hacía sentir feliz cuando hacía eso."
 ;;;"One day as I was walking back from school, I heard
 something near the train tracks.";"One day as I was walking back from school, I heard
-something near the train tracks.";
-;;;It was a small kitten crying for help.;It was a small kitten crying for help.;
+something near the train tracks.";"Un día, mientras volvía de la escuela, oí unos
+débiles maullidos que venían de las vías del tren."
+;;;It was a small kitten crying for help.;It was a small kitten crying for help.;Era una pequeña gatita que maullaba por ayuda.
 ;;;"I ran over and carefully helped the cat out of
 the wires.";"I ran over and carefully helped the cat out of
-the wires.";
+the wires.";"Entonces corrí hasta ella y la saqué de ahí con
+mucho cuidado."
 ;;;"I noticed its tail was missing.\!
 It must have been attacked.";"I noticed its tail was missing.\!
-It must have been attacked.";
-;;;It kept following me after I left.;It kept following me after I left.;
+It must have been attacked.";"Me di cuenta que le faltaba su colita.\!
+Seguro la perdió al ser atacada por otros gatos."
+;;;It kept following me after I left.;It kept following me after I left.;"Luego de ayudarla, estuvo siguiéndome
+todo el rato."
 ;;;"I tried to tell the cat to go away, but it insisted
 on following me.";"I tried to tell the cat to go away, but it insisted
-on following me.";
-;;;...\. Did this cat not have a home?;...\. Did this cat not have a home?;
+on following me.";"Traté de decirle que se fuera, pero no sirvió
+de nada."
+;;;...\. Did this cat not have a home?;...\. Did this cat not have a home?;...\. ¿Acaso no tendrá un hogar?
 ;;;"I hid it in my bag, but my parents found out\
 eventually.";"I hid it in my bag, but my parents found out\
-eventually.";
+eventually.";"La llevé a casa a escondidas, pero al final
+mis padres la descubrieron de todas formas."
 ;;;"They didn't care enough to throw it out though, so
 the cat stayed.";"They didn't care enough to throw it out though, so
-the cat stayed.";
+the cat stayed.";"No les importó mucho que la trajera, así que la
+dejaron quedarse."
 ;;;"The only thing my mom asked was that it wouldn’t
 annoy dad or go outside.";"The only thing my mom asked was that it wouldn’t
-annoy dad or go outside.";
+annoy dad or go outside.";"Lo único que mamá me exigió era que no
+molestara a papá o saliera de casa."
 ;;;"I named her Selene, and she would be in my room
 most of the time.";"I named her Selene, and she would be in my room
-most of the time.";
-;;;... She made me feel safe for the first time.;... She made me feel safe for the first time.;
-;;;Go away.\! You can't come home with me.;Go away.\! You can't come home with me.;
-;;;The cat looked curious at me.;The cat looked curious at me.;
-;;;It's crying for help.;It's crying for help.;
-;;;I feel sad.;I feel sad.;
-;;;Why do I feel sad.;Why do I feel sad.;
-;;;There's no reason to be sad.;There's no reason to be sad.;
-;;;Stop being sad.;Stop being sad.;
+most of the time.";"Decidí llamarla Selene. Le gustaba mucho quedarse
+en mi habitación todo el tiempo."
+;;;... She made me feel safe for the first time.;... She made me feel safe for the first time.;... Me hacía sentir querido al estar con ella.
+;;;Go away.\! You can't come home with me.;Go away.\! You can't come home with me.;¡A casa!\! No puedes venir conmigo.
+;;;The cat looked curious at me.;The cat looked curious at me.;La gata no dejaba de mirarme, curiosa.
+;;;It's crying for help.;It's crying for help.;Está maullando por ayuda.
+;;;I feel sad.;I feel sad.;Me siento triste.
+;;;Why do I feel sad.;Why do I feel sad.;¿Por qué me siento triste?
+;;;There's no reason to be sad.;There's no reason to be sad.;No tengo razón para sentirme así.
+;;;Stop being sad.;Stop being sad.;Para de sentirte así.
 ;;;"I can't keep looking at her pictures.\!
 It's creepy.";"I can't keep looking at her pictures.\!
-It's creepy.";
+It's creepy.";"No puedo dejar de mirar sus fotos.\!
+Me hace sentir raro."
 ;;;"Is this my fault?\.
 Should I have handled this differently?";"Is this my fault?\.
-Should I have handled this differently?";
-;;;STOP IT STOP IT STOP IT STOP IT;STOP IT STOP IT STOP IT STOP IT;
-;;;I CAN'T CONTROL IT;I CAN'T CONTROL IT;
-;;;I love this picture.;I love this picture.;
+Should I have handled this differently?";"¿Es mi culpa?\.
+¿Debí haber actuado diferente?"
+;;;STOP IT STOP IT STOP IT STOP IT;STOP IT STOP IT STOP IT STOP IT;¡BASTAAAA!
+;;;I CAN'T CONTROL IT;I CAN'T CONTROL IT;NO PUEDO CONTROLARLO
+;;;I love this picture.;I love this picture.;Adora esta foto.
 ;;;"I remember she sent me a lot of pictures.\.
 They were so cute.";"I remember she sent me a lot of pictures.\.
-They were so cute.";
-;;;I don't miss her.;I don't miss her.;
-;;;I miss the version of her that I remember.;I miss the version of her that I remember.;
-;;;Why would I miss something that doesn't exist?;Why would I miss something that doesn't exist?;
-;;;She is so pretty.;She is so pretty.;
-;;;I can't stop looking at her face.;I can't stop looking at her face.;
-;;;I can't keep doing this.;I can't keep doing this.;
-;;;Why can't I continue.;Why can't I continue.;
-;;;She did.;She did.;
+They were so cute.";"Ella me había enviado varias fotos.\.
+Se veía tan linda en cada una de ellas."
+;;;I don't miss her.;I don't miss her.;No la extraño a ella.
+;;;I miss the version of her that I remember.;I miss the version of her that I remember.;Sino a aquella version de ella.
+;;;Why would I miss something that doesn't exist?;Why would I miss something that doesn't exist?;¿Por qué extraño a algo que no existe más?
+;;;She is so pretty.;She is so pretty.;Ella es tan bonita.
+;;;I can't stop looking at her face.;I can't stop looking at her face.;No puedo dejar de ver su rostro.
+;;;I can't keep doing this.;I can't keep doing this.;No puedo seguir haciendo esto.
+;;;Why can't I continue.;Why can't I continue.;¿Por qué no puedo continuar?
+;;;She did.;She did.;Así como ella.
 ;;;"GET IT OUT OF MY HEAD GET IT OUT OF MY
 HEAD GET IT OUT OF MY HEAD GET IT OUT ";"GET IT OUT OF MY HEAD GET IT OUT OF MY
-HEAD GET IT OUT OF MY HEAD GET IT OUT ";
-;;;WHY WON'T YOU GET OUT OF MY HEAD;WHY WON'T YOU GET OUT OF MY HEAD;
-;;;I can't stop looking at her...;I can't stop looking at her ...;
-;;;I have to...;I have to ...;
+HEAD GET IT OUT OF MY HEAD GET IT OUT ";"¡SAL SAL SAL SAL SAL
+SAL SAAL DE MI CABEZA!"
+;;;WHY WON'T YOU GET OUT OF MY HEAD;WHY WON'T YOU GET OUT OF MY HEAD;¡¿POR QUÉ ES TAN DIFÍCIL?!
+;;;I can't stop looking at her...;I can't stop looking at her ...;No puedo dejar de mirarla...
+;;;I have to...;I have to ...;Tengo que parar...
 ;;;It's my car.;It's my car.;Es mi carro.
-;;;"""THE PARK""";"""THE PARK""";
+;;;"""THE PARK""";"""THE PARK""";"""EL PARQUE"""
 ;;;"I probably shouldn't go now.\!
 That's for another day.";"I probably shouldn't go now.\!
-That's for another day.";
-;;;Old Man;Old Man;
-;;Old Man;Good day.;Good day.;
-;;;Fisher;Fisher;
+That's for another day.";-----------------------------------------------------------------------------------------------------
+;;;Old Man;Old Man;Anciano
+;;Old Man;Good day.;Good day.;Buen día.
+;;;Fisher;Fisher;Pescador
 ;;Fisher;"Haven't had any luck today.\!
 Been here for a few hours and nothing.";"Haven't had any luck today.\!
-Been here for a few hours and nothing.";
+Been here for a few hours and nothing.";"No hay suerte hoy.\!
+Llevo varias horas aquí y nada."
 ;;Worm;it's so warm ...;it's so warm ...;está tan calientito...
 ;;Worm;i'm melting ...;i'm melting ...;que siento que me derrito...
 ;;Worm;aaa ...;aaa ...;ooo...
@@ -3780,10 +3837,12 @@ it never felt that way.";
 ;;;No\| more\| voice.;No\| more\| voice.;
 ;;;"No\| more\| being\| ""safe"".";"No\| more\| being\| ""safe"".";
 ;;;I'm done with you.;I'm done with you.;
-;;;One day,\. everything will have to go.;One day,\. everything will have to go.;
-;;;All of our progress as living creatures for nothing.;All of our progress as living creatures for nothing.;
-;;;The memories we have will have no meaning.;The memories we have will have no meaning.;
-;;;You will die.;You will die.;
+;;;One day,\. everything will have to go.;One day,\. everything will have to go.;A todo\. y a todos les llega su final.
+;;;All of our progress as living creatures for nothing.;All of our progress as living creatures for nothing.;"Y todo lo que conseguiste en vida será
+en vano."
+;;;The memories we have will have no meaning.;The memories we have will have no meaning.;"Los recuerdos que atesoraste toda tu vida
+caerán en el olvido."
+;;;You will die.;You will die.;No habrá más lugar para ti entre los vivos.
 ;;;4.\. 4.\. 3.\. 3.\. 5.\. 5.\. 5.\. 7.;4.\. 4.\. 3.\. 3.\. 5.\. 5.\. 5.\. 7.;4.\. 4.\. 3.\. 3.\. 5.\. 5.\. 5.\. 7.
 ;;;"
 [Common Events]
