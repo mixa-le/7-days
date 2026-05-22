@@ -505,9 +505,9 @@ qué hacer..."
 ;;Haven;Then talk to me, I'll do my best to help you out!;Then talk to me, I'll do my best to help you out!;"Puedes venir y hablar conmigo.
 Eso me haría muy feliz"
 ;;Haven;You know I try my best to always help ...;You know I try my best to always help ...;Siempre puedes contar conmigo.
-;;Haven;Hi! Do you want my help?;Hi! Do you want my help?;
-;;;\c[1]Save\c[0];\c[1]Save\c[0];
-;;;What do I do?;What do I do?;
+;;Haven;Hi! Do you want my help?;Hi! Do you want my help?;Hey, ¿quieres que te ayude?
+;;;\c[1]Save\c[0];\c[1]Save\c[0];\c[1]Guardar\c[0]
+;;;What do I do?;What do I do?;¿Qué debo hacer?
 ;;Haven;"A basketball?
 It probably belongs in the gym, right?";"A basketball?
 It probably belongs in the gym, right?";
@@ -1797,8 +1797,8 @@ friends, but I've lost me way!";
 ;;Guppy;"The thing is, I don't know what I'm supposed
 to do with a sacred heart, or a battery...";"The thing is, I don't know what I'm supposed
 to do with a sacred heart, or a battery...";
-;;;It's a ladder.;It's a ladder.;
-;;;Boy 1;Boy 1;
+;;;It's a ladder.;It's a ladder.;Es una escalera.
+;;;Boy 1;Boy 1;Chico 1
 ;;Boy 1;"You know, this might just be my favorite spot
 in this whole city.";"You know, this might just be my favorite spot
 in this whole city.";
@@ -2024,29 +2024,32 @@ won't find me this time!";
 wins two times.";"The one who in victory wins on himself,
 wins two times.";
 ;;Scared Cat;\etalk[8]Help ... Please ...;\etalk[8]Help ... Please ...;
-;;;Help;Help;
-;;;Leave;Leave;
-;;;You help the kitten out of the train tracks.;You help the kitten out of the train tracks.;
-;;;Baker;Baker;
-;;Baker;Hello, would you like to buy some sawdust bread?;Hello, would you like to buy some sawdust bread?;
-;;Baker;Here you go!;Here you go!;
-;;;You got Sawdust Bread.;You got Sawdust Bread.;
-;;Baker;That's fine! Have a good day!;That's fine! Have a good day!;
-;;Baker;That's enough sawdust bread.;That's enough sawdust bread.;
-;;;John sent me;John sent me;
-;;Baker;Ummm ...;Ummm ...;
-;;Baker;Okay, here's your bread.;Okay, here's your bread.;
+;;;Help;Help;Ayudar
+;;;Leave;Leave;Irse
+;;;You help the kitten out of the train tracks.;You help the kitten out of the train tracks.;Ayudas al gatito a salir de los rieles del tren.
+;;;Baker;Baker;Panadero
+;;Baker;Hello, would you like to buy some sawdust bread?;Hello, would you like to buy some sawdust bread?;Hola, ¿quieres comprar unos panes secos?
+;;Baker;Here you go!;Here you go!;Aquí tienes.
+;;;You got Sawdust Bread.;You got Sawdust Bread.;Recibiste pan seco.
+;;Baker;That's fine! Have a good day!;That's fine! Have a good day!;Está bien. ¡Que tengas un buen día!
+;;Baker;That's enough sawdust bread.;That's enough sawdust bread.;Ya es suficiente pan seco.
+;;;John sent me;John sent me;Me envió John
+;;Baker;Ummm ...;Ummm ...;Mmm...
+;;Baker;Okay, here's your bread.;Okay, here's your bread.;Okay, aquí está tu pan.
 ;;;"Why do they call it oven when you of in the cold
 food of out hot eat the food?";"Why do they call it oven when you of in the cold
 food of out hot eat the food?";
 ;;;"The oven.
 Bake the mix?";"The oven.
-Bake the mix?";
-;;;Smells great.;Smells great.;
-;;;You made a Gourmet Catnip Soufflé!\!?;You made a Gourmet Catnip Soufflé!\!?;
+Bake the mix?";"El horno.
+¿Hornear la mezcla?"
+;;;Smells great.;Smells great.;Huele muy bien.
+;;;You made a Gourmet Catnip Soufflé!\!?;You made a Gourmet Catnip Soufflé!\!?;"¡Preparaste un suflé gourmet de hierba para gatos!\!
+¿verdad?"
 ;;;"The oven.
 It smells burnt.";"The oven.
-It smells burnt.";
+It smells burnt.";"El horno.
+Huele a quemado."
 ;;Aero;\etalk[13]One more time!;\etalk[13]One more time!;
 ;;Aero;\etalk[13]This time you'll never find me!;\etalk[13]This time you'll never find me!;
 ;;;It's a shelf full of bread.;It's a shelf full of bread.;
@@ -2137,7 +2140,7 @@ This is unacceptable!";"¡¿Qué?! ¡Cáscaras de huevo con plástico derretido!
 ¡Inaceptable!"
 ;;Customer;"But ...\| fine.\!
 Let’s see if the soufflé can redeem this.";"But ...\| fine.\!
-Let’s see if the soufflé can redeem this.";"Bueno...\| okay.\!
+Let’s see if the soufflé can redeem this.";"Pero...\| bueno.\!
 Veamos si el suflé es una historia diferente."
 ;;Waiter;Of course, sir.;Of course, sir.;Por supuesto, señor.
 ;;Customer;\}...\. It better not come with any surprise ingredients...;\}...\. It better not come with any surprise ingredients ...;"\}...\. Ojalá que esta vez no traiga
