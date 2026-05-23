@@ -187,18 +187,19 @@ Do you feel it too?";"Something’s wrong ...\!
 Do you feel it too?";"Algo anda mal...\!
 ¿Tú también lo notaste?"
 ;;Haven;It feels strange ...;It feels strange ...;Se siente extraño...
-;;Haven;There’s something you’ve been avoiding.;There’s something you’ve been avoiding.;
-;;Haven;The mountain’s waiting for you.;The mountain’s waiting for you.;
-;;Haven;The bus should take you there.;The bus should take you there.;
-;;Haven;...\. Please do the right thing.;...\. Please do the right thing.;
-;;Haven;I can see you've been through a lot ...;I can see you've been through a lot ...;
-;;Haven;But I don't think it's too late.;But I don't think it's too late.;
-;;Haven;You want to do the best you can, right?;You want to do the best you can, right?;
-;;Haven;The bus will be here soon, you should get ready.;The bus will be here soon, you should get ready.;
-;;Haven;The mountain is waiting for you.;The mountain is waiting for you.;
+;;Haven;There’s something you’ve been avoiding.;There’s something you’ve been avoiding.;Hay algo que has estado evitando.
+;;Haven;The mountain’s waiting for you.;The mountain’s waiting for you.;La montaña está esperándote.
+;;Haven;The bus should take you there.;The bus should take you there.;El autobús te va a llevar hasta allí.
+;;Haven;...\. Please do the right thing.;...\. Please do the right thing.;...\. Por favor, haz lo que sea correcto.
+;;Haven;I can see you've been through a lot ...;I can see you've been through a lot ...;Sé que has pasado por mucho...
+;;Haven;But I don't think it's too late.;But I don't think it's too late.;Pero aún no es demasiado tarde.
+;;Haven;You want to do the best you can, right?;You want to do the best you can, right?;Aún quieres dar lo mejor de ti, ¿verdad?
+;;Haven;The bus will be here soon, you should get ready.;The bus will be here soon, you should get ready.;El autobús está a punto de llegar, alístate.
+;;Haven;The mountain is waiting for you.;The mountain is waiting for you.;La montaña está esperándote.
 ;;Haven;"I know it's going to be hard, but I believe
 in you.";"I know it's going to be hard, but I believe
-in you.";
+in you.";"Sé que será demasiado difícil, pero creo
+en ti."
 ;;Haven;Hey, you wanna \c[1]save\c[0]?;Hey, you wanna \c[1]save\c[0]?;¿Quieres \c[1]guardar\c[0] algún recuerdo?
 ;;Haven;Alright.;Alright.;¡Perfecto!
 ;;;Do I want to \c[1]save\c[0]?;Do I want to \c[1]save\c[0]?;¿Quieres \c[1]guardar\c[0]?
@@ -2817,7 +2818,7 @@ Take it off?";"Parece que puedes remover la sombra.\!
 ;;;Do you want to remember?;Do you want to remember?;¿Quieres recordar?
 ;;;"You try your best to remember the memory you
 tried to forget.";"You try your best to remember the memory you
-tried to forget.";"Te esfuerzas por traer a la luz aquel recuerdo
+tried to forget.";"Te esfuerzas por recuperar aquel recuerdo
 que trataste de borrar."
 ;;;It was a sunny evening.;It was a sunny evening.;Era una tarde soleada.
 ;;;"I was just listening to some music on my mom's 
@@ -2852,138 +2853,170 @@ correo electronico?"
 ;;Haven;"I think I might have caught some feelings when I
 saw you on the bench ...";"I think I might have caught some feelings when I
 saw you on the bench ...";
-;;Haven;I was pretty nervous when I approached you.;I was pretty nervous when I approached you.;
-;;Haven;Go on ...\! Try to remember ...;Go on ...\! Try to remember ...;
-;;Haven;You're almost there...;You're almost there...;
-;;Haven;Try your best to remember.;Try your best to remember.;
+;;Haven;I was pretty nervous when I approached you.;I was pretty nervous when I approached you.;Estaba muy nerviosa al acercarme.
+;;Haven;Go on ...\! Try to remember ...;Go on ...\! Try to remember ...;Vamos...\! Intenta recordar...
+;;Haven;You're almost there...;You're almost there...;Ya casi lo logras...
+;;Haven;Try your best to remember.;Try your best to remember.;Esfuerzate por recordar.
 ;;Haven;"I’m really glad you decided to agree, I was
 so nervous when I was writing that email! ";"I’m really glad you decided to agree, I was
-so nervous when I was writing that email! ";
-;;Haven;I didn’t want to mess up or seem uncool ...;I didn’t want to mess up or seem uncool ...;
-;;;The shadow layer is a bit harder to get off.;The shadow layer is a bit harder to get off.;
-;;;Look at the screen?;Look at the screen?;
+so nervous when I was writing that email! ";"Ay, qué bueno que aceptaste. Para ser sincera,
+estaba bastante nerviosa al enviar el correo."
+;;Haven;I didn’t want to mess up or seem uncool ...;I didn’t want to mess up or seem uncool ...;No quería sonar como una rarita...
+;;;The shadow layer is a bit harder to get off.;The shadow layer is a bit harder to get off.;La sombra es algo difícil de remover.
+;;;Look at the screen?;Look at the screen?;¿Mirar a la pantalla?
 ;;;"The following day, I checked the computer to see
 if I had gotten an email from her.";"The following day, I checked the computer to see
-if I had gotten an email from her.";
-;;;And sure enough, she sent one.;And sure enough, she sent one.;
+if I had gotten an email from her.";"Al día siguiente, revisé mi bandeja de entrada
+para ver si había recibido algun correo."
+;;;And sure enough, she sent one.;And sure enough, she sent one.;Y sí había uno, era el de ella.
 ;;;"I opened it nervously and read what she had
 to say.";"I opened it nervously and read what she had
-to say.";
-;;Haven;"""Hey!""";"""Hey!""";
+to say.";"Un poco nervioso, hice click en el correo
+para leerlo."
+;;Haven;"""Hey!""";"""Hey!""";"""Hola, ¿como andas?"""
 ;;Haven;"""I still haven’t gotten your name, so I don’t really
 know what to call you... haha...""";"""I still haven’t gotten your name, so I don’t really
-know what to call you ... haha ...""";
+know what to call you ... haha ...""";"""Que pena, aún no conosco tu nombre, entonces no
+sé muy bien como llamarte... jsjs"""
 ;;Haven;"""Anyway, it was really nice talking to you!
 I didn't think anyone listened to that band!""";"""Anyway, it was really nice talking to you!
-I didn't think anyone listened to that band!""";
+I didn't think anyone listened to that band!""";"""Me gustó mucho hablar contigo en el parque.
+Creí que era la única que escuchaba a esa banda."""
 ;;Haven;"""I thought I heard it coming from your earbuds,
 so that’s why I asked.""";"""I thought I heard it coming from your earbuds,
-so that’s why I asked.""";
-;;Haven;"""Hope you didn’t find me creepy or anything :)""";"""Hope you didn’t find me creepy or anything :)""";
+so that’s why I asked.""";"""Yo estaba caminando tranquila cuando creí oír
+una canción conocida y me acerqué a preguntar."""
+;;Haven;"""Hope you didn’t find me creepy or anything :)""";"""Hope you didn’t find me creepy or anything :)""";"""Espero no haberte incomodado mucho :')"""
 ;;Haven;"""I actually had something to ask you...\!
 Would you maybe wanna hang out sometime??""";"""I actually had something to ask you ...\!
-Would you maybe wanna hang out sometime??""";
+Would you maybe wanna hang out sometime??""";"""Sabes, quería preguntarte una cosa...\!
+¿Te gustaría que nos volvamos a ver, quizá?"""
 ;;Haven;"""Maybe talk about our favorite music, or get
 something to eat...""";"""Maybe talk about our favorite music, or get
-something to eat ...""";
+something to eat ...""";"""Para hablar de música o pasear por ahí y
+comer algo..."""
 ;;Haven;"""Let me know!\.
 Haven”";"""Let me know!\.
-Haven”";
-;;;It's your parents' old computer.;It's your parents' old computer.;
+Haven”";"""Bueno, ahí me escribes\.
+Haven."""
+;;;It's your parents' old computer.;It's your parents' old computer.;Es la vieja computadora de tus padres.
 ;;Haven;"I remember being pretty nervous while I was
 waiting for you.";"I remember being pretty nervous while I was
-waiting for you.";
+waiting for you.";"Recuerdo como me temblaban las piernas de
+lo nerviosa que estaba mientras te esperaba."
 ;;Haven;"What if you didn't show up? What if you forgot
 about it?";"What if you didn't show up? What if you forgot
-about it?";
-;;Haven;I was glad you enjoyed the snacks I brought.;I was glad you enjoyed the snacks I brought.;
+about it?";"¿Y si no llegabas? ¿Y si lo olvidabas?"
+;;Haven;I was glad you enjoyed the snacks I brought.;I was glad you enjoyed the snacks I brought.;"Estaban riquísimos, ¿verdad?
+Di la verdad, *jeje*."
 ;;Haven;"It was fun getting to know you a bit better, even
 though there were some awkward moments!";"It was fun getting to know you a bit better, even
-though there were some awkward moments!";
+though there were some awkward moments!";"Fue bonito llegar a conocerte mejor, aún con esos
+silencios incómodos."
 ;;Haven;"I personally didn’t find them awkward.\!
 I was enjoying the moment.";"I personally didn’t find them awkward.\!
-I was enjoying the moment.";
+I was enjoying the moment.";"La verdad, casi ni me percaté de ellos.\!
+Estaba más ocupada disfrutando de tu compañia."
 ;;;"You try your best to remember, but something is
 missing ...";"You try your best to remember, but something is
-missing ...";
-;;;There she was, under the big tree.;There she was, under the big tree.;
+missing ...";"Intentas recordar como puedes, pero algo está
+faltando..."
+;;;There she was, under the big tree.;There she was, under the big tree.;Ahí estaba ella, sentada al lado de un árbol.
 ;;;"She was looking through her bag, trying to find
 something.";"She was looking through her bag, trying to find
-something.";
-;;Haven;Hey! Took you long enough!;Hey! Took you long enough!;
-;;Haven;This is a good spot,\. right?;This is a good spot,\. right?;
-;;Haven;Did you see the picture I sent on the phone?;Did you see the picture I sent on the phone?;
+something.";"Estaba buscando algo en su bolsa."
+;;Haven;Hey! Took you long enough!;Hey! Took you long enough!;¡Hey, por fin te apareces! *jeje*
+;;Haven;This is a good spot,\. right?;This is a good spot,\. right?;Es un excelente sitio,\. ¿no crees?
+;;Haven;Did you see the picture I sent on the phone?;Did you see the picture I sent on the phone?;¿Lograste ver la imagen que te mande por celular?
 ;;;"She had sent a picture under the tree where we
 had arranged to meet.";"She had sent a picture under the tree where we
-had arranged to meet.";
-;;;She brought some snacks for us to enjoy.;She brought some snacks for us to enjoy.;
+had arranged to meet.";"Ella me había enviado la foto del sitio donde
+nos encontraríamos."
+;;;She brought some snacks for us to enjoy.;She brought some snacks for us to enjoy.;Había traído algunos bocadillos en su bolsa.
 ;;;"We talked about ourselves, the music we were
 listening to, and had some small talk.";"We talked about ourselves, the music we were
-listening to, and had some small talk.";
-;;;It was nice.;It was nice.;
+listening to, and had some small talk.";"Hablamos largo y tendido sobre nosotros y
+la música que nos gustaba escuchar."
+;;;It was nice.;It was nice.;Fue bonito.
 ;;Haven;"Hey, I was thinking we could maybe do this again
 sometime ...";"Hey, I was thinking we could maybe do this again
-sometime ...";
-;;Haven;I really enjoyed this.;I really enjoyed this.;
-;;;A second date?;A second date?;
+sometime ...";"Oye, tengo una idea. ¿Por qué no volvemos a
+hacer esto algún otro día?"
+;;Haven;I really enjoyed this.;I really enjoyed this.;Hoy fue increible.
+;;;A second date?;A second date?;¿Una segunda cita?
 ;;;"Could you even call this a date? I'm not sure if
 she's into me.";"Could you even call this a date? I'm not sure if
-she's into me.";
-;;;It's just two juice boxes.;It's just two juice boxes.;
-;;;There's a heart sketched into the tree.;There's a heart sketched into the tree.;
-;;;You're reminded of the taste of apple juice.;You're reminded of the taste of apple juice.;
-;;;You try to remember a melody.;You try to remember a melody.;
-;;;We started dating after a month.;We started dating after a month.;
-;;;On one of our dates, we got really close.;On one of our dates, we got really close.;
+she's into me.";"No, no es eso. Ella solo quiere un amigo con
+quien hablar de música."
+;;;It's just two juice boxes.;It's just two juice boxes.;Son solo dos cajitas de jugo.
+;;;There's a heart sketched into the tree.;There's a heart sketched into the tree.;Hay un corazón grabado en el árbol.
+;;;You're reminded of the taste of apple juice.;You're reminded of the taste of apple juice.;Te hace recordar el sabor de un jugo de manzana.
+;;;You try to remember a melody.;You try to remember a melody.;Intentas recordar una melodía.
+;;;We started dating after a month.;We started dating after a month.;Comenzamos a salir después de un mes.
+;;;On one of our dates, we got really close.;On one of our dates, we got really close.;"Con cada cita que pasaba, nos ibamos apegandonos
+más y más."
 ;;;"She got really nervous, and said 'I think I 
 love you.'";"She got really nervous, and said 'I think I 
-love you.'";
+love you.'";"Hasta que en una de ellas, se me acercó y me dijo
+con voz nerviosa: 'Creo que estoy enamorada de ti.'"
 ;;;"I felt an unexplainable joy in my body that
 whole day. ";"I felt an unexplainable joy in my body that
-whole day. ";
+whole day. ";"Sentí... una enorme felicidad aquel día, una
+que me cuesta describir con palabras."
 ;;;"It was special, unlike anything I had ever felt
 before.";"It was special, unlike anything I had ever felt
-before.";
+before.";"Nunca había sentido nada siquiera parecido
+con eso."
 ;;;"Sometimes, we would hang out at random spots
 and listen to music together.";"Sometimes, we would hang out at random spots
-and listen to music together.";
-;;;I'd share an earbud, and we would enjoy the view.;I'd share an earbud, and we would enjoy the view.;
+and listen to music together.";"En algunos días, nos la pasabamos escuchando
+música: ella con un audífono y yo con el otro."
+;;;I'd share an earbud, and we would enjoy the view.;I'd share an earbud, and we would enjoy the view.;"Solos, imperturbables, ajenos a nuestra realidad...
+contemplando el ocaso del día."
 ;;;"She had introduced me to this one artist, and I
 started listening to their music all the time.";"She had introduced me to this one artist, and I
-started listening to their music all the time.";
+started listening to their music all the time.";"Ella me mostró uno de sus artistas favoritos, y yo,
+como era obvio, comenze a escucharlo todo los días."
 ;;;"Every time I listened to them, I thought
 about Haven.";"Every time I listened to them, I thought
-about Haven.";
-;;;How beautiful she was, how caring she could be ...;How beautiful she was, how caring she could be ...;
+about Haven.";Cada vez que lo escuchaba, pensaba en ella.
+;;;How beautiful she was, how caring she could be ...;How beautiful she was, how caring she could be ...;"Pensaba en lo hermosa que era, así como
+en lo amable y cariñosa que era conmigo."
 ;;;"She was my everything.\!
 I couldn't stop thinking about her.";"She was my everything.\!
-I couldn't stop thinking about her.";
-;;;I was so happy.;I was so happy.;
-;;Haven;Hey, do you wanna try something?;Hey, do you wanna try something?;
-;;;What do you mean?;What do you mean?;
-;;Haven;Hold on ...;Hold on ...;
-;;;What's that?;What's that?;
+I couldn't stop thinking about her.";"Ella era mi mundo.\!
+Significaba todo para mí."
+;;;I was so happy.;I was so happy.;Me sentía tan feliz.
+;;Haven;Hey, do you wanna try something?;Hey, do you wanna try something?;Oye, ¿quieres pobar algo?
+;;;What do you mean?;What do you mean?;¿Como qué?
+;;Haven;Hold on ...;Hold on ...;Dame un momentito...
+;;;What's that?;What's that?;¿Qué es eso?
 ;;Haven;"It's a grinder.\!
 It's used to grind up weed.";"It's a grinder.\!
-It's used to grind up weed.";
+It's used to grind up weed.";"Es un grinder. Algunos tambien lo llaman 'moledor'.\!
+Se usa para triturar 'hierba'. Me entiendes, ¿no?"
 ;;Haven;"I understand if it's not your thing, but if you
 wanna try it out...";"I understand if it's not your thing, but if you
-wanna try it out ...";
-;;Haven;It's your choice!;It's your choice!;
+wanna try it out ...";"Pero no te voy a obligarte ni nada
+parecido..."
+;;Haven;It's your choice!;It's your choice!;Es tu decición.
 ;;;"I knew Haven had been smoking for a little while,
 but I had never seen her high.";"I knew Haven had been smoking for a little while,
-but I had never seen her high.";
+but I had never seen her high.";"Hacía un tiempo que sabía que Haven fumaba,
+pero nunca la había visto bajo los efectos."
 ;;;"It felt a bit strange when she first mentioned it,
 I couldn't imagine her being that kind of person.";"It felt a bit strange when she first mentioned it,
-I couldn't imagine her being that kind of person.";
-;;;I decided to try it out for the first time.;I decided to try it out for the first time.;
-;;;It felt special.;It felt special.;
+I couldn't imagine her being that kind of person.";"Me sentí algo raro cuando mencionó el tema, nunca
+imaginé que fuera de aquellos."
+;;;I decided to try it out for the first time.;I decided to try it out for the first time.;"Aún así, decidi darle una oportunidad."
+;;;It felt special.;It felt special.;Se sentía... especial, único.
 ;;;"All the worries I had weren't important anymore,
 and I appreciated this moment we shared.";"All the worries I had weren't important anymore,
-and I appreciated this moment we shared.";
+and I appreciated this moment we shared.";"Todas mis preocupaciones comenzaron a desvanecerse
+en una espiral de placer."
 ;;;"I could feel everything at once,\. and nothing
 at the same time.";"I could feel everything at once,\. and nothing
-at the same time.";
+at the same time.";"Podía sentirlo todo\. y a la vez, nada."
 ;;;"I was so thankful to have Haven in my life now.\!
 She had become a part of me.";"I was so thankful to have Haven in my life now.\!
 She had become a part of me.";
@@ -3320,8 +3353,8 @@ Unable to move.";"Estuve una hora sentado frente al examen,
 completamente paralizado."
 ;;;I had a hard time remembering anything.;I had a hard time remembering anything.;No conseguía recordar nada.
 ;;;It didn't feel fair.;It didn't feel fair.;No era justo.
-;;;You remember.;You remember.;
-;;;The excitement of seeing that email.;The excitement of seeing that email.;
+;;;You remember.;You remember.;Aún lo recuerdas.
+;;;The excitement of seeing that email.;The excitement of seeing that email.;La emoción que sentiste al ver su correo.
 ;;;The party ...;The party ...;
 ;;;"Alcohol.\.
 I never liked the stuff.";"Alcohol.\.
