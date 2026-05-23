@@ -1466,7 +1466,7 @@ people will try to hurt me again ...";"No puedo cambiar lo que ellos me hicieron
 evitar que otros me lastimen peor..."
 ;;;...\| But I can stop giving them the power to do so.;...\| But I can stop giving them the power to do so.;"...\| Pero puedo dejar de actuar como
 un cobarde...\. Quiero..."
-;;;I want to move on.;I want to move on.;Quiero un futuro mejor.
+;;;I want to move on.;I want to move on.;Quiero cambiar.
 ;;;...\. I can still feel every second of it.;...\. I can still feel every second of it.;
 ;;;"The sound of their laughter...\!
 The cold air of the restroom...";"The sound of their laughter ...\!
@@ -2495,7 +2495,7 @@ a rock.";"Okay, for your first challenge, you must find me
 a rock.";
 ;;John;For your first challenge, you must find me a rock.;For your first challenge, you must find me a rock.;
 ;;John;It appears you have found a really nice rock.;It appears you have found a really nice rock.;
-;;;It's a small rock.;It's a small rock.;Una piedra pequeña.
+;;;It's a small rock.;It's a small rock.;Es una piedra pequeña.
 ;;;No response.;No response.;Nadie responde.
 ;;;Enter the shower?;Enter the shower?;¿Meterte en la ducha?
 ;;;A bathtub.;A bathtub.;Una bañera.
@@ -2969,8 +2969,8 @@ before.";"Nunca había sentido nada siquiera parecido
 con eso."
 ;;;"Sometimes, we would hang out at random spots
 and listen to music together.";"Sometimes, we would hang out at random spots
-and listen to music together.";"En algunos días, nos la pasabamos escuchando
-música: ella con un audífono y yo con el otro."
+and listen to music together.";"A veces, nos la pasábamos escuchando música aquí
+y allá, ella con un audífono y yo con el otro."
 ;;;I'd share an earbud, and we would enjoy the view.;I'd share an earbud, and we would enjoy the view.;"Solos, imperturbables, ajenos a nuestra realidad...
 contemplando el ocaso del día."
 ;;;"She had introduced me to this one artist, and I
@@ -3019,222 +3019,270 @@ at the same time.";"I could feel everything at once,\. and nothing
 at the same time.";"Podía sentirlo todo\. y a la vez, nada."
 ;;;"I was so thankful to have Haven in my life now.\!
 She had become a part of me.";"I was so thankful to have Haven in my life now.\!
-She had become a part of me.";
-;;Haven;I do miss these moments with you.;I do miss these moments with you.;
-;;Haven;They felt magical, didn’t they? ;They felt magical, didn’t they? ;
-;;Haven;We were both so happy with each other ...;We were both so happy with each other ...;
-;;;It's a black jacket.;It's a black jacket.;
+She had become a part of me.";"Estaba tan agradecido de compartir ese momento
+juntos, y más aún, de tenerla en mi vida."
+;;Haven;I do miss these moments with you.;I do miss these moments with you.;Extraño mucho esos buenos momentos que pasamos.
+;;Haven;They felt magical, didn’t they? ;They felt magical, didn’t they? ;Eran, en cierta forma, mágicos.
+;;Haven;We were both so happy with each other ...;We were both so happy with each other ...;Éramos tan felices.
+;;;It's a black jacket.;It's a black jacket.;Es una chaqueta negra.
 ;;Haven;"I was truly happy for a while.
 You brought out something in me.";"I was truly happy for a while.
-You brought out something in me.";
+You brought out something in me.";"Por un tiempo, llegue a sentirme muy feliz contigo.
+Descubrí una faceta que no conocía de mí."
 ;;Haven;"That childlike quality, that curiosity...\.
 I don't really know what it was, but it felt new.";"That childlike quality, that curiosity ...\.
-I don't really know what it was, but it felt new.";
+I don't really know what it was, but it felt new.";"Esa inocencia, esa... curiosidad...\.
+No sé muy bien lo que era, pero se sentía diiferente."
 ;;Haven;"I had already told all my friends about you, and
 how much I enjoyed spending my time with you!";"I had already told all my friends about you, and
-how much I enjoyed spending my time with you!";
-;;Haven;I couldn’t wait for you to meet them!;I couldn’t wait for you to meet them!;
-;;;Hang the jacket on the coat hanger?;Hang the jacket on the coat hanger?;
-;;;Hanging the jacket brings back a familiar feeling.;Hanging the jacket brings back a familiar feeling.;
+how much I enjoyed spending my time with you!";"Les he contado a todos mis amigos sobre ti y lo
+mucho que adoro pasar tiempo contigo."
+;;Haven;I couldn’t wait for you to meet them!;I couldn’t wait for you to meet them!;¡Estoy deseosa de que los conoscas!
+;;;Hang the jacket on the coat hanger?;Hang the jacket on the coat hanger?;¿Colgar la chaqueta?
+;;;Hanging the jacket brings back a familiar feeling.;Hanging the jacket brings back a familiar feeling.;Esa acción te resulta familiar.
 ;;;"Haven invited me to join her at a party.\! She said
 it's a nice opportunity to meet her friends.";"Haven invited me to join her at a party.\! She said
-it's a nice opportunity to meet her friends.";
+it's a nice opportunity to meet her friends.";"Haven me había invitado a su fiesta.\! Dijo que
+era una oportunidad única de conocer a sus amigos."
 ;;;"I picked out a nice black suit, hoping it wasn’t
 too fancy for the party.";"I picked out a nice black suit, hoping it wasn’t
-too fancy for the party.";
+too fancy for the party.";"Me puse una traje negro — esperaba que no
+pareciera demasiado formal."
 ;;;"I'm not known for being the most outgoing person.\!
 I've never been to a party before.";"I'm not known for being the most outgoing person.\!
-I've never been to a party before.";
-;;;It'll be fine, right?;It'll be fine, right?;
-;;;I'll try my best.;I'll try my best.;
-;;;It won't be that bad, right?;It won't be that bad, right?;
+I've never been to a party before.";"Estoy lejos de ser una persona extrovertida.\!
+Y nunca he estado en una fiesta."
+;;;It'll be fine, right?;It'll be fine, right?;Todo estará bien, ¿verdad?
+;;;I'll try my best.;I'll try my best.;Voy a intentarlo.
+;;;It won't be that bad, right?;It won't be that bad, right?;No puede ser tan malo.
 ;;;"Besides, we had a couple of dates now, and
 they’ve all been great.";"Besides, we had a couple of dates now, and
-they’ve all been great.";
-;;;I'm sure it'll be fine.;I'm sure it'll be fine.;
-;;;It's a coat hanger with a jacket on it.;It's a coat hanger with a jacket on it.;
-;;;It's a stool with a drink on it.;It's a stool with a drink on it.;
-;;;Sit on the stool?;Sit on the stool?;
-;;;You try to remember something ...;You try to remember something ...;
-;;;This didn't feel right.;This didn't feel right.;
+they’ve all been great.";"Además, estoy seguro que son buenas
+personas."
+;;;I'm sure it'll be fine.;I'm sure it'll be fine.;Todo va a salir bien.
+;;;It's a coat hanger with a jacket on it.;It's a coat hanger with a jacket on it.;Es una chaqueta colgada en un gancho.
+;;;It's a stool with a drink on it.;It's a stool with a drink on it.;Es un banquito con una bebida encima.
+;;;Sit on the stool?;Sit on the stool?;¿Sentarse?
+;;;You try to remember something ...;You try to remember something ...;Tratas de recordar...
+;;;This didn't feel right.;This didn't feel right.;Esto no va bien.
 ;;;"The music was so loud, I couldn't hear myself
 think.";"The music was so loud, I couldn't hear myself
-think.";
+think.";"La música era demasiado alta, ni siquiera
+podía pensar."
 ;;;"There were so many people I didn't know, it felt
 like I was being watched.";"There were so many people I didn't know, it felt
-like I was being watched.";
-;;;And Haven ...;And Haven ...;
+like I was being watched.";"Estaba rodeado de extraños. Sentía como si me
+estuvieran vigilando."
+;;;And Haven ...;And Haven ...;Y Haven...
 ;;;"She kept talking with her friends.\!
 Her world is so much bigger than mine.";"She kept talking with her friends.\!
-Her world is so much bigger than mine.";
-;;;...\. She didn't forget about me, \.right?;...\. She didn't forget about me, \.right?;
+Her world is so much bigger than mine.";"Ella paraba hablando con sus amigos.\!
+Pertenecemos a dos mundos tan diferentes."
+;;;...\. She didn't forget about me, \.right?;...\. She didn't forget about me, \.right?;...\. Ella no se ha olvidado de mí, \.¿verdad?
 ;;;"It's okay ...\!
 She's just talking to her friends ...";"It's okay ...\!
-She's just talking to her friends ...";
+She's just talking to her friends ...";"Vamos, no es para tanto...\!
+Solo está conversando con sus amigos..."
 ;;;"You can't have all her attention ...\!
 It's not about you ...";"You can't have all her attention ...\!
-It's not about you ...";
-;;;I should go out for a smoke.;I should go out for a smoke.;
-;;;Just to help me calm down.;Just to help me calm down.;
+It's not about you ...";"Sería raro si solo hablara contigo...\!
+Trata de entenderla..."
+;;;I should go out for a smoke.;I should go out for a smoke.;Tal vez debería salir un rato a fumar.
+;;;Just to help me calm down.;Just to help me calm down.;Eso me hará sentir mejor.
 ;;;"The air felt cold outside.\!
 The cigarette did help me slow down.";"The air felt cold outside.\!
-The cigarette did help me slow down.";
-;;;But just thinking about her ...;But just thinking about her ...;
-;;;...\. Why does it slightly hurt?;...\. Why does it slightly hurt?;
+The cigarette did help me slow down.";"Hacía mucho frío afuera,\!
+pero eso me ayudó a relajarme un poco."
+;;;But just thinking about her ...;But just thinking about her ...;Aunque cada vez que volvía a pensar en ella...
+;;;...\. Why does it slightly hurt?;...\. Why does it slightly hurt?;...\. Me sentía un poco dolido.
 ;;;"I shouldn't be feeling sad.\!
 I still love Haven and she loves me.";"I shouldn't be feeling sad.\!
-I still love Haven and she loves me.";
-;;;Why do I feel like this?;Why do I feel like this?;
+I still love Haven and she loves me.";"¿Por qué te estás sintiendo así?\!
+Tú la amas y ella te ama también."
+;;;Why do I feel like this?;Why do I feel like this?;¿No te basta con eso?
 ;;;"Nothing even happened, and yet I feel betrayed
 by her.";"Nothing even happened, and yet I feel betrayed
-by her.";
-;;;...\. This isn't safe.;...\. This isn't safe.;
-;;;I don't feel comfortable.;I don't feel comfortable.;
-;;;I have to go away.;I have to go away.;
-;;;This isn't good.;This isn't good.;
-;;;Why am I thinking like this?;Why am I thinking like this?;
-;;;Why am I running away?;Why am I running away?;
+by her.";"Ella no había hecho anda malo, y aún así, me
+sentía traicionado."
+;;;...\. This isn't safe.;...\. This isn't safe.;...\. No, esto no va bien.
+;;;I don't feel comfortable.;I don't feel comfortable.;Me está afectando...
+;;;I have to go away.;I have to go away.;Tengo que salir de aquí.
+;;;This isn't good.;This isn't good.;No está bien, no está bien...
+;;;Why am I thinking like this?;Why am I thinking like this?;¿Por qué tengo estos pensamientos?
+;;;Why am I running away?;Why am I running away?;¿Por qué estoy huyendo?
 ;;;"I need to calm down again.\!
 I'll just sit here for a while.";"I need to calm down again.\!
-I'll just sit here for a while.";
+I'll just sit here for a while.";"Primero calmate,\! ahora sientate y trata
+de respirar profundamente."
 ;;;"It's ...\. okay ... \!
 It'll be ...\. okay ...";"It's ...\. okay ... \!
-It'll be ...\. okay ...";
-;;;I shouldn't be freaking out ...;I shouldn't be freaking out ...;
-;;;Why does this hurt so much ...;Why does this hurt so much ...;
+It'll be ...\. okay ...";"Respira...\. respira...\!
+Todo...\. estará bien..."
+;;;I shouldn't be freaking out ...;I shouldn't be freaking out ...;No tienes por qué ponerte así...
+;;;Why does this hurt so much ...;Why does this hurt so much ...;Pero es que duele tanto...
 ;;;"Just ...\. calm ..\.. down ...\!
 Please ...";"Just ...\. calm ...\. down ...\!
-Please ...";
-;;;CALM ...\. DOWN ...;CALM ...\. DOWN ...;
-;;;STOP IT ...;STOP IT ...;
-;;;I CAN'T THINK ...;I CAN'T THINK ...;
-;;;I CAN'T\^;I CAN'T\^;
-;;;I see someone in front of me.;I see someone in front of me.;
-;;;I catch my breath, and slowly look up.;I catch my breath, and slowly look up.;
-;;Haven;Are you okay?;Are you okay?;
-;;;I'm fine.;I'm fine.;
-;;;I just needed some fresh air.;I just needed some fresh air.;
-;;Haven;Are you sure?;Are you sure?;
+Please ...";"Tranquilízate...\. por favor...\!
+Por favor..."
+;;;CALM ...\. DOWN ...;CALM ...\. DOWN ...;¡TE LO ESTOY PIDIENDO...!
+;;;STOP IT ...;STOP IT ...;¡POR FAVOR...!
+;;;I CAN'T THINK ...;I CAN'T THINK ...;NO PUEDO PENSAR...
+;;;I CAN'T\^;I CAN'T\^;NO PUEDO\^
+;;;I see someone in front of me.;I see someone in front of me.;Vi a alguien parado frente a mí.
+;;;I catch my breath, and slowly look up.;I catch my breath, and slowly look up.;Todavía jadeando, trato de ver de quién se trata.
+;;Haven;Are you okay?;Are you okay?;¿Estás bien?
+;;;I'm fine.;I'm fine.;Sí, está todo bien.
+;;;I just needed some fresh air.;I just needed some fresh air.;Solo... necesitaba un poco de aire fresco.
+;;Haven;Are you sure?;Are you sure?;¿Solo eso? ¿Estás seguro?
 ;;Haven;"I'll be back inside.\!
 You should come too.";"I'll be back inside.\!
-You should come too.";
-;;;I'll be there in a second.;I'll be there in a second.;
-;;;She doesn't care about me.;She doesn't care about me.;
-;;;She would have stayed here if she did.;She would have stayed here if she did.;
-;;;I should leave.;I should leave.;
-;;;I can try to break the shadow with this rock ...;I can try to break the shadow with this rock ...;
-;;;Break;Break;
-;;;You throw away the rock.;You throw away the rock.;
-;;;The shadow is too hard to remove.;The shadow is too hard to remove.;
-;;Haven;Why did you leave the party?;Why did you leave the party?;
-;;Haven;I was so worried about you ...;I was so worried about you ...;
-;;;I say nothing.;I say nothing.;
-;;;She doesn't deserve to hear anything from me.;She doesn't deserve to hear anything from me.;
-;;;I was expecting her to say she's sorry.;I was expecting her to say she's sorry.;
-;;;... But she had no reason to apologize.;... But she had no reason to apologize.;
-;;;It's not her fault.;It's not her fault.;
-;;;Why did I act like that?;Why did I act like that?;
+You should come too.";"Voy a volver adentro.\!
+¿Por qué no me acompañas?"
+;;;I'll be there in a second.;I'll be there in a second.;Sí, voy en un momento.
+;;;She doesn't care about me.;She doesn't care about me.;No le importo.
+;;;She would have stayed here if she did.;She would have stayed here if she did.;"Ella se hubiera quedado aquí si lo
+hiciera."
+;;;I should leave.;I should leave.;Es mejor que me vaya.
+;;;I can try to break the shadow with this rock ...;I can try to break the shadow with this rock ...;Puedo tratar de quebrar la sombra con esta piedra...
+;;;Break;Break;Quebrar
+;;;You throw away the rock.;You throw away the rock.;Tiras la piedra.
+;;;The shadow is too hard to remove.;The shadow is too hard to remove.;La sombra es demasiado difícil de quitar.
+;;Haven;Why did you leave the party?;Why did you leave the party?;¿Por qué te fuiste?
+;;Haven;I was so worried about you ...;I was so worried about you ...;Me dejaste tan preocupada...
+;;;I say nothing.;I say nothing.;Me quedo callado.
+;;;She doesn't deserve to hear anything from me.;She doesn't deserve to hear anything from me.;No merece siquiera que le dirija la palabra.
+;;;I was expecting her to say she's sorry.;I was expecting her to say she's sorry.;No sin antes disculparse conmigo.
+;;;... But she had no reason to apologize.;... But she had no reason to apologize.;... Pero no tiene por qué hacerlo.
+;;;It's not her fault.;It's not her fault.;No fue su culpa.
+;;;Why did I act like that?;Why did I act like that?;¿Por qué me estoy portando así con ella?
 ;;;"If I say something, she’ll probably think I’m
 being dramatic.";"If I say something, she’ll probably think I’m
-being dramatic.";
+being dramatic.";"Si digo algo, probablemente piense que estoy
+exagerando."
 ;;;"She’ll forget about it soon enough, and things
 will go back to normal.";"She’ll forget about it soon enough, and things
-will go back to normal.";
-;;;Except things never went back to normal.;Except things never went back to normal.;
-;;;It's a bed.;It's a bed.;
+will go back to normal.";"Tal vez no es para tanto. Dentro de poco ella
+lo olvidará y todo volverá a la normalidad."
+;;;Except things never went back to normal.;Except things never went back to normal.;"O al menos, eso es lo que me hubiera gustado
+que pasara."
+;;;It's a bed.;It's a bed.;Es una cama.
 ;;;"You can barely make out a lighter on the table.\.
 Grab the lighter?";"You can barely make out a lighter on the table.\.
-Grab the lighter?";
+Grab the lighter?";"Logras distinguir un encendedor en la cama.\.
+¿Agarrarlo?"
 ;;;"You think about how many times you've lit a lighter
 in your life.";"You think about how many times you've lit a lighter
-in your life.";
-;;;How many times you'd smoke alone.;How many times you'd smoke alone.;
+in your life.";"Te pones a pensar en todas veces que lo usaste para
+encender un cigarrillo."
+;;;How many times you'd smoke alone.;How many times you'd smoke alone.;En todas y cada una de ellas.
 ;;;"We stopped getting in touch with each other
 after a few weeks. ";"We stopped getting in touch with each other
-after a few weeks. ";
+after a few weeks. ";Paramos de hablarnos luego de algunas semanas.
 ;;;"I can’t forget that last message she sent.\!
 ""I hope you’ll be doing okay""";"I can’t forget that last message she sent.\!
-""I hope you’ll be doing okay""";
+""I hope you’ll be doing okay""";"Nunca olvidaré su último mensaje.\!
+""Espero que te esté yendo bien."""
 ;;;"For weeks, I was wondering if she was going to
 send something, but that never happened.";"For weeks, I was wondering if she was going to
-send something, but that never happened.";
+send something, but that never happened.";"Pasé semanas esperando que mandara algún otro
+mensaje... nunca lo hizo."
 ;;;"I didn’t respond to her.\. I was too scared.\!
 She was probably mad at me.";"I didn’t respond to her.\. I was too scared.\!
-She was probably mad at me.";
+She was probably mad at me.";"Yo tenía tanto miedo...\. de contestarle.\!
+Seguro que estaba enfadada conmigo."
 ;;;"I'd smoke every day just so I wouldn't have to
 think about her.";"I'd smoke every day just so I wouldn't have to
-think about her.";
+think about her.";"Fumaba todos los días para tratar de sacarla
+de mi cabeza."
 ;;;"Because everytime I would, I'd get sad, confused,
 and mad.";"Because everytime I would, I'd get sad, confused,
-and mad.";
-;;;These emotions would take control of me.;These emotions would take control of me.;
+and mad.";"Porque cada vez que pensaba en ella, me sentía
+lleno de angustia y frustrado."
+;;;These emotions would take control of me.;These emotions would take control of me.;Dejé que mis emociones me controlaran.
 ;;;"I knew what I was doing wasn't right, but it 
 didn't feel fair.";"I knew what I was doing wasn't right, but it 
-didn't feel fair.";
-;;;It became an addiction, fueling my distraction.;It became an addiction, fueling my distraction.;
-;;;I started having trouble sleeping.;I started having trouble sleeping.;
+didn't feel fair.";"Sabía que lo que hacía no estaba bien, pero
+me negaba a aceptarlo. No era justo."
+;;;It became an addiction, fueling my distraction.;It became an addiction, fueling my distraction.;Pronto se volvio una obsesión.
+;;;I started having trouble sleeping.;I started having trouble sleeping.;"Su recuerdo empezó a perseguirme incluso
+en los sueños."
 ;;;"She'd appear in my dreams, and it felt like all
 my progress was gone.";"She'd appear in my dreams, and it felt like all
-my progress was gone.";
-;;;I just wanted to stop thinking about her.;I just wanted to stop thinking about her.;
-;;;What does she even mean to me?;What does she even mean to me?;
+my progress was gone.";"Y todo el esfuerzo que había hecho para tratar
+de olvidarla se volvía inútil."
+;;;I just wanted to stop thinking about her.;I just wanted to stop thinking about her.;Era incapaz de borrarla de mi mente.
+;;;What does she even mean to me?;What does she even mean to me?;¿Qué era ella para mí?
 ;;;"She felt safe.\!
 She felt warm.";"She felt safe.\!
-She felt warm.";
+She felt warm.";"Ella era tranquilidad.\!
+Era calidez."
 ;;;"She was optimistic.\!
 She was herself.";"She was optimistic.\!
-She was herself.";
-;;;Just being around her was enough for me.;Just being around her was enough for me.;
+She was herself.";"Era tan entusiasta.\!
+Era ella misma."
+;;;Just being around her was enough for me.;Just being around her was enough for me.;Tan solo estar a su lado era suficiente para mí.
 ;;;"Even though this relationship probably didn’t mean
 much to her.";"Even though this relationship probably didn’t mean
-much to her.";
-;;;What was I to her?;What was I to her?;
-;;;I wouldn't know.;I wouldn't know.;
+much to her.";"Incluso aunque nuestra relación no sifnificase
+mucho para ella."
+;;;What was I to her?;What was I to her?;¿Qué era yo para ella?
+;;;I wouldn't know.;I wouldn't know.;No lo sé.
 ;;;"I don't understand why she even spoke to me in
 the first place.";"I don't understand why she even spoke to me in
-the first place.";
+the first place.";"Ni siquiera sé por qué se acerco a hablarme
+aquella vez."
 ;;;"Maybe it didn't matter who it was, she was just
 lonely.";"Maybe it didn't matter who it was, she was just
-lonely.";
-;;;And that loneliness cut through me.;And that loneliness cut through me.;
+lonely.";"Tal vez quería hablar con alguien para no
+sentirse tan sola en ese momento."
+;;;And that loneliness cut through me.;And that loneliness cut through me.;"Y ahora que no está, empiezo a sentir
+esa misma soledad."
 ;;;"It left me with a scar that would never
 completely heal.";"It left me with a scar that would never
-completely heal.";
+completely heal.";"Desearía que estubiera aquí conmigo."
 ;;;"I wish she was someone who would always be
 there for me.";"I wish she was someone who would always be
-there for me.";
-;;;A safe haven.;A safe haven.;
-;;;There's a lighter on the table.;There's a lighter on the table.;
-;;;I don't need it.;I don't need it.;
+there for me.";Ella era mi mundo...
+;;;A safe haven.;A safe haven.;¿Qué será de mí ahora?
+;;;There's a lighter on the table.;There's a lighter on the table.;Hay un encendedor en la mesa.
+;;;I don't need it.;I don't need it.;No lo necesito.
 ;;Haven;"Do you remember that time we climbed a
 mountain?";"Do you remember that time we climbed a
-mountain?";
+mountain?";"¿Recuerdas la última vez que escalamos
+una montaña?"
 ;;Haven;"It was my idea for a date, since I loved
 climbing as a child.";"It was my idea for a date, since I loved
-climbing as a child.";
-;;Haven;It took us the whole day, but the view was great.;It took us the whole day, but the view was great.;
-;;Haven;We placed a flag on the top, to show we made it.;We placed a flag on the top, to show we made it.;
-;;Haven;It was beautiful,\. wasn’t it?;It was beautiful,\. wasn’t it?;
-;;Haven;I still don’t get why you couldn’t let go.;I still don’t get why you couldn’t let go.;
-;;Haven;You didn’t have much in your life.;You didn’t have much in your life.;
-;;Haven;I do miss you.;I do miss you.;
-;;Haven;You were important to me too.;You were important to me too.;
+climbing as a child.";"Fue idea mía, claro. Es algo que hacía
+desde pequeña, y me encantaba."
+;;Haven;It took us the whole day, but the view was great.;It took us the whole day, but the view was great.;"Nos tomó todo el día, pero contemplar
+aquella vista... valió todo el esfuerzo."
+;;Haven;We placed a flag on the top, to show we made it.;We placed a flag on the top, to show we made it.;"Pusimos una bandera en la cima, para
+mostrar al mundo nuestra hazaña."
+;;Haven;It was beautiful,\. wasn’t it?;It was beautiful,\. wasn’t it?;Fue tan hermoso,\. ¿no lo crees?
+;;Haven;I still don’t get why you couldn’t let go.;I still don’t get why you couldn’t let go.;"Aún no entiendo por qué es que te
+aferraste tanto."
+;;Haven;You didn’t have much in your life.;You didn’t have much in your life.;Tu vida se sentía algo vacía.
+;;Haven;I do miss you.;I do miss you.;Aún te extraño. Deberías saberlo.
+;;Haven;You were important to me too.;You were important to me too.;Fuiste alguien muy importante para mí.
 ;;Haven;"You should have sent a message.\|
 I know you wanted to talk about it.";"You should have sent a message.\|
-I know you wanted to talk about it.";
-;;Haven;And yet, you never sent anything.;And yet, you never sent anything.;
+I know you wanted to talk about it.";"Debiste haber respondido mi mensaje.\|
+Sé que dentro de ti querías decirme algo."
+;;Haven;And yet, you never sent anything.;And yet, you never sent anything.;Pero nunca te animaste a hacerlo.
 ;;Haven;"I was going to send something, but I thought you
 needed space.";"I was going to send something, but I thought you
-needed space.";
+needed space.";"Por un momento, quise tomar la iniciativa, pero
+recapacité y decidí darte tu espacio."
 ;;Haven;"You probably needed some time after what
 happened at the party.";"You probably needed some time after what
-happened at the party.";
-;;Haven;You’ve been breaking yourself.;You’ve been breaking yourself.;
-;;Haven;You’re unstable.;You’re unstable.;
-;;;I want to move on;I want to move on;Quiero un futuro mejor.
-;;;I don’t miss you ;I don’t miss you ;
-;;;I do want to move on.;I do want to move on.;
-;;;I truly do.;I truly do.;
+happened at the party.";"Pensé que necesitabas darte un tiempo
+después de lo que ocurrió en la fiesta."
+;;Haven;You’ve been breaking yourself.;You’ve been breaking yourself.;Te has estado amargando la vida.
+;;Haven;You’re unstable.;You’re unstable.;Eres muy inestable.
+;;;I want to move on;I want to move on;Quiero cambiar
+;;;I don’t miss you ;I don’t miss you ;No te extraño
+;;;I do want to move on.;I do want to move on.;Quiero cambiar.
+;;;I truly do.;I truly do.;En serio quiero.
 ;;;I've tried so hard to just get you out of my mind.;I've tried so hard to just get you out of my mind.;
 ;;;I can't have a day where I don't miss you.;I can't have a day where I don't miss you.;
 ;;;"I'd look back on old photos, songs we used to
@@ -3328,17 +3376,20 @@ I feel it all breaking.";
 ;;;Is it my fault?;Is it my fault?;
 ;;;Was I ever supposed to be held responsible?;Was I ever supposed to be held responsible?;
 ;;Haven;You should leave.;You should leave.;
-;;;Haven would take a lot of pictures.;Haven would take a lot of pictures.;
+;;;Haven would take a lot of pictures.;Haven would take a lot of pictures.;Haven solía tomar un montón de fotos.
 ;;;"Usually I didn't like being photographed, but
 I tried my best for her.";"Usually I didn't like being photographed, but
-I tried my best for her.";
+I tried my best for her.";"No me gustaba mucho salir en ellas, pero
+hacía un esfuerzo para verla feliz."
 ;;;"These pictures are something I could never forget
 about.";"These pictures are something I could never forget
-about.";
-;;;It reminds me of what Haven and I used to have.;It reminds me of what Haven and I used to have.;
+about.";"Estas fotos son un bonito recuerdo que jamás
+olvidaré."
+;;;It reminds me of what Haven and I used to have.;It reminds me of what Haven and I used to have.;Un recuerdo de quienes solíamos ser.
 ;;;"Even though we'll probably never see each other
 again, I can't lose these memories.";"Even though we'll probably never see each other
-again, I can't lose these memories.";
+again, I can't lose these memories.";"Puede que nunca más nos volvamos a ver, aún así,
+no quiero olvidarlas."
 ;;;I had studied every day leading up to the test.;I had studied every day leading up to the test.;"Había estado estudiando todos los días antes
 del examen."
 ;;;And I couldn't remember any of it.;And I couldn't remember any of it.;Y aun así no pude acordarme de nada.
@@ -3358,7 +3409,8 @@ completamente paralizado."
 ;;;The party ...;The party ...;
 ;;;"Alcohol.\.
 I never liked the stuff.";"Alcohol.\.
-I never liked the stuff.";
+I never liked the stuff.";"Alcohol.\.
+Nunca me gustó esa palabra.";
 ;;;I'm not looking for them.;I'm not looking for them.;
 ;;;The bird doesn't see you.;The bird doesn't see you.;
 ;;;Jump in?;Jump in?;
