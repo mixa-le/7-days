@@ -82,22 +82,26 @@ momentos que pasamos juntos."
 ;;;I'm scared.;I'm scared.;Estoy asustado
 ;;;"Haven's been an important part of me for a while.\!
 I'm not sure if looking back at it will help me.";"Haven's been an important part of me for a while.\!
-I'm not sure if looking back at it will help me.";
-;;;I wonder if she still thinks about me.;I wonder if she still thinks about me.;
+I'm not sure if looking back at it will help me.";"Haven ha sido muy importante para mí.\!
+No estoy seguro de que esto sirva de algo."
+;;;I wonder if she still thinks about me.;I wonder if she still thinks about me.;¿Será que ella aún piensa en mí?
 ;;;"The real her.\!
 I know the Haven in this world isn't real.";"The real her.\!
-I know the Haven in this world isn't real.";
+I know the Haven in this world isn't real.";"Me refiero a la verdadera Haven.\!
+Sé que la Haven de este mundo no es real."
 ;;;"But that doesn't stop me from wanting to see her
 again.";"But that doesn't stop me from wanting to see her
-again.";
-;;;What if I don’t like what I remember?;What if I don’t like what I remember?;
+again.";"De cualquier forma, estoy deseoso de volver
+a verla."
+;;;What if I don’t like what I remember?;What if I don’t like what I remember?;¿Y qué pasa si no me gusta lo que vea?
 ;;;"I've tried to push these memories away time and
 time again.";"I've tried to push these memories away time and
-time again.";
-;;;I didn't want to think about her.;I didn't want to think about her.;
-;;;I wanted to, but I refused to let myself think.;I wanted to, but I refused to let myself think.;
-;;;John.;John.;
-;;;I should probably chase that cat first ...;I should probably chase that cat first ...;
+time again.";"He tratado de apartar estos recuerdos de mí
+tantas veces."
+;;;I didn't want to think about her.;I didn't want to think about her.;Traté de no pensar más en ella.
+;;;I wanted to, but I refused to let myself think.;I wanted to, but I refused to let myself think.;Aunque una parte de mí me lo quería hacerlo.
+;;;John.;John.;John.
+;;;I should probably chase that cat first ...;I should probably chase that cat first ...;Tal vez debería perseguir al gato primero.
 ;;;Bird;Bird;Pájaro
 ;;Bird;Coo?;Coo?;Cucú?
 ;;Bird;Coo coo;Coo coo;Cuuu cucú
@@ -162,11 +166,12 @@ You should probably chase it!";"Oye, ¿ese gato acaba de llevarse algo tuyo?\!
 ;;Haven;Hey, it's good to see you again.;Hey, it's good to see you again.;Hey, me alegra verte de nuevo.
 ;;Haven;"You're doing a great job with revisiting the past ...\!
 But there's something you've been forgetting.";"You're doing a great job with revisiting the past ...\!
-But there's something you've been forgetting.";"“Has hecho un esplendido trabajo al revivir el pasado...\!
-Pero te has olvidado de algo."
+But there's something you've been forgetting.";"Has hecho un gran trabajo al revisitar el pasado...\!
+Pero te has estado olvidado de algo."
 ;;Haven;"It’s maybe time to face something that’s been
 bothering you for a while now.";"It’s maybe time to face something that’s been
-bothering you for a while now.";""
+bothering you for a while now.";"Tal vez sea tiempo de que le plantes cara a
+una cosa que te ha estado afectando."
 ;;Haven;"The bus might arrive soon, so you should
 get ready.";"The bus might arrive soon, so you should
 get ready.";"El autobús debe llegar en cualquier momento,
@@ -174,12 +179,14 @@ asegúrate de estar listo."
 ;;Haven;Do you wanna \c[1]save \c[0]before you go?;Do you wanna \c[1]save \c[0]before you go?;¿Quieres \c[1]guardar\c[0] algún recuerdo antes de irte?
 ;;Haven;"You should head to the mountain, the bus will bring
 you close.";"You should head to the mountain, the bus will bring
-you close.";""
-;;Haven;Hey ...;Hey ...;
+you close.";"Debes dirigirte a la montaña, el autobús te puede
+dejar cerca."
+;;Haven;Hey ...;Hey ...;Hey...
 ;;Haven;"Something’s wrong ...\!
 Do you feel it too?";"Something’s wrong ...\!
-Do you feel it too?";
-;;Haven;It feels strange ...;It feels strange ...;
+Do you feel it too?";"Algo anda mal...\!
+¿Tú también lo notaste?"
+;;Haven;It feels strange ...;It feels strange ...;Se siente extraño...
 ;;Haven;There’s something you’ve been avoiding.;There’s something you’ve been avoiding.;
 ;;Haven;The mountain’s waiting for you.;The mountain’s waiting for you.;
 ;;Haven;The bus should take you there.;The bus should take you there.;
@@ -194,7 +201,7 @@ in you.";"I know it's going to be hard, but I believe
 in you.";
 ;;Haven;Hey, you wanna \c[1]save\c[0]?;Hey, you wanna \c[1]save\c[0]?;¿Quieres \c[1]guardar\c[0] algún recuerdo?
 ;;Haven;Alright.;Alright.;¡Perfecto!
-;;;Do I want to \c[1]save\c[0]?;Do I want to \c[1]save\c[0]?;
+;;;Do I want to \c[1]save\c[0]?;Do I want to \c[1]save\c[0]?;¿Quieres \c[1]guardar\c[0]?
 ;;;It's a white sheet.;It's a white sheet.;Una manta blanca.
 ;;;The cat took your ball of yarn.;The cat took your ball of yarn.;El gato se llevó tu ovillo de lana.
 ;;;It's my car,\. but maybe I should talk to Haven first.;It's my car,\. but maybe I should talk to Haven first.;"Tal vez deba hablar con Haven antes de
@@ -449,7 +456,7 @@ I tried, even when it felt like it wasn’t enough.";
 ;;;I take a bite out of a chicken nugget.;I take a bite out of a chicken nugget.;Le doy un mordisco al nugget de pollo.
 ;;;I don't feel like eating.;I don't feel like eating.;No tengo ganas de comer.
 ;;;I take a sip of the milk.;I take a sip of the milk.;Bebo un sorbo de leche.
-;;;I take a bite out of a grape.;I take a bite out of a grape.;Le doy un pequeño mordisco a una uva.
+;;;I take a bite out of a grape.;I take a bite out of a grape.;Como una uva.
 ;;;I take a bite out of the egg.;I take a bite out of the egg.;Le doy un mordisco al huevo.
 ;;;...\| it tastes nice.;...\| it tastes nice.;...\| sabe bien.
 ;;;Felix;Felix;Felix
@@ -2728,21 +2735,24 @@ drink.";Creo que son de papá, ya que mamá no bebía.
 ;;;It's mom's computer.;It's mom's computer.;La computadora de mamá.
 ;;;She didn't use it much, only for sending emails.;She didn't use it much, only for sending emails.;"Ella solo la usaba para enviar correos
 electrónicos y ese tipo de cosas."
-;;Haven;It’s time to finally face this, isn’t it?;It’s time to finally face this, isn’t it?;
-;;Haven;For years, you’ve been stuck with me in your mind.;For years, you’ve been stuck with me in your mind.;
-;;Haven;I just want to see you happy ...;I just want to see you happy ...;
+;;Haven;It’s time to finally face this, isn’t it?;It’s time to finally face this, isn’t it?;Ya es hora de enfrentarlo, ¿no crees?
+;;Haven;For years, you’ve been stuck with me in your mind.;For years, you’ve been stuck with me in your mind.;"Te has aferrado a mi recuerdo durante muchos
+años."
+;;Haven;I just want to see you happy ...;I just want to see you happy ...;Solo quiero verte feliz...
 ;;Haven;"...\| If climbing this mountain can help you
 achieve that,\. then you should at least try.";"...\| If climbing this mountain can help you
-achieve that,\. then you should at least try.";
-;;Haven;I’ll be here for you.;I’ll be here for you.;
-;;Haven;Do you wanna \c[1]save\c[0] yourself?;Do you wanna \c[1]save\c[0] yourself?;
+achieve that,\. then you should at least try.";"...\| Si escalar esta montaña te ayuda a
+lograrlo,\. entonces va a valer la pena intentarlo."
+;;Haven;I’ll be here for you.;I’ll be here for you.;Aquí estaré para ti.
+;;Haven;Do you wanna \c[1]save\c[0] yourself?;Do you wanna \c[1]save\c[0] yourself?;¿Quieres \c[1]guardar\c[0] este recuerdo?
 ;;Haven;"You’ve kept me in your head for so long.\!
 There's no denying it.";"You’ve kept me in your head for so long.\!
-There's no denying it.";
-;;Haven;It's like you want to hurt yourself.;It's like you want to hurt yourself.;
-;;Haven;Do you even know why you’re here?;Do you even know why you’re here?;
-;;;I don't know;I don't know;
-;;;Why are you here?;Why are you here?;
+There's no denying it.";"Has estado encaprichado conmigo todo este tiempo.\!
+No puedes negarlo."
+;;Haven;It's like you want to hurt yourself.;It's like you want to hurt yourself.;Como si quisieras hacerte daño.
+;;Haven;Do you even know why you’re here?;Do you even know why you’re here?;¿Acaso sabes por qué estás aquí?
+;;;I don't know;I don't know;No lo sé
+;;;Why are you here?;Why are you here?;¿Por qué estás aquí?
 ;;Haven;"You want to feel it all again.\!
 All the moments that hurt ...";"You want to feel it all again.\!
 All the moments that hurt ...";
@@ -2773,59 +2783,72 @@ You've twisted your vision of her so much.";
 ;;Haven;That's fine, let me know if you change your mind.;That's fine, let me know if you change your mind.;
 ;;;"She has grown so much since then,\. while I’m still
 the same.";"She has grown so much since then,\. while I’m still
-the same.";
-;;;I haven't changed.;I haven't changed.;
-;;John;Are you ready for your last challenge?;Are you ready for your last challenge?;
+the same.";"Ella ha crecido tanto desde entonces,\.
+pero yo sigo siendo el mismo."
+;;;I haven't changed.;I haven't changed.;No he cambiado.
+;;John;Are you ready for your last challenge?;Are you ready for your last challenge?;¿Estás listo para tu último desafio?
 ;;John;"For your third challenge, you must sacrifice
 yourself.";"For your third challenge, you must sacrifice
-yourself.";
-;;;Sacrifice;Sacrifice;
-;;John;You've proven yourself.;You've proven yourself.;
-;;John;You have become ...;You have become ...;
-;;Haven;It’s time to take off that mask of yours.;It’s time to take off that mask of yours.;
-;;Haven;You don’t need a white sheet to see the past.;You don’t need a white sheet to see the past.;
-;;Haven;Look at it with your own eyes, don’t be scared.;Look at it with your own eyes, don’t be scared.;
+yourself.";"Para tu tercer desafio, es necesario que te
+sacrifiques a ti mismo."
+;;;Sacrifice;Sacrifice;Sacrificarte
+;;John;You've proven yourself.;You've proven yourself.;Has demostrado tu valor.
+;;John;You have become ...;You have become ...;Te has convertido...
+;;Haven;It’s time to take off that mask of yours.;It’s time to take off that mask of yours.;Es hora de quitarte esa máscara que llevas.
+;;Haven;You don’t need a white sheet to see the past.;You don’t need a white sheet to see the past.;No necesitas una manta blanca para ver el pasado.
+;;Haven;Look at it with your own eyes, don’t be scared.;Look at it with your own eyes, don’t be scared.;"Míralo con tus proprios ojos, no tengas
+miedo."
 ;;Haven;"I don’t want you to interact with these moments.\.
 Just take a look at them ...";"I don’t want you to interact with these moments.\.
-Just take a look at them ...";
-;;Haven;...\. And let them float.;...\. And let them float.;
-;;Haven;Go ahead, take a look.;Go ahead, take a look.;
+Just take a look at them ...";"No quiero que interactues con estos recuerdos.\.
+Solo... observalos..."
+;;Haven;...\. And let them float.;...\. And let them float.;...\. Déjalos ser.
+;;Haven;Go ahead, take a look.;Go ahead, take a look.;Adelante.
 ;;Haven;"I thought I recognized that song from your cheap
 earbuds.";"I thought I recognized that song from your cheap
-earbuds.";
-;;Haven;I loved listening to their music back then.;I loved listening to their music back then.;
-;;;You don't remember.;You don't remember.;
+earbuds.";"Creí reconocer esa canción que estabas
+esuchando en esos audífonos baratos."
+;;Haven;I loved listening to their music back then.;I loved listening to their music back then.;Me encantaba escuchar su música en ese tiempo.
+;;;You don't remember.;You don't remember.;No te acuerdas.
 ;;;"It looks like you can pull off the shadow.\!
 Take it off?";"It looks like you can pull off the shadow.\!
-Take it off?";
-;;;Do you want to remember?;Do you want to remember?;
+Take it off?";"Parece que puedes remover la sombra.\!
+¿Removerla?"
+;;;Do you want to remember?;Do you want to remember?;¿Quieres recordar?
 ;;;"You try your best to remember the memory you
 tried to forget.";"You try your best to remember the memory you
-tried to forget.";
-;;;It was a sunny evening.;It was a sunny evening.;
+tried to forget.";"Te esfuerzas por traer a la luz aquel recuerdo
+que trataste de borrar."
+;;;It was a sunny evening.;It was a sunny evening.;Era una tarde soleada.
 ;;;"I was just listening to some music on my mom's 
 MP3 player.";"I was just listening to some music on my mom's 
-MP3 player.";
+MP3 player.";"Estaba escuchando algunas canciones en el
+reproductor MP3 de mamá"
 ;;;"I had discovered a new band, and I was exploring
 their discography.";"I had discovered a new band, and I was exploring
-their discography.";
+their discography.";"Había descubierto una nueva banda, y estaba
+explorando su discografía."
 ;;;"Then, I suddenly saw someone's shoes in front
 of me.";"Then, I suddenly saw someone's shoes in front
-of me.";
-;;Haven;What are you listening to?;What are you listening to?;
-;;;I had never seen this girl before.;I had never seen this girl before.;
+of me.";"En eso, vi un par de zapatos detenerse frente
+a mí."
+;;Haven;What are you listening to?;What are you listening to?;¿Qué escuchas?
+;;;I had never seen this girl before.;I had never seen this girl before.;Nunca la había visto antes.
 ;;;"She looked like she was about my age, and she
 smelled nostalgic.";"She looked like she was about my age, and she
-smelled nostalgic.";
+smelled nostalgic.";"Parecía tener mi edad y tenía un aroma
+nostálgico."
 ;;Haven;"Oh! I love that band!\!
 I actually saw them live a couple of weeks ago!";"Oh! I love that band!\!
-I actually saw them live a couple of weeks ago!";
+I actually saw them live a couple of weeks ago!";"Oh, ¿a ti también te gusta esa banda?\!
+¡Los vi tocar en vivo hace algunas semanas!"
 ;;Haven;"Hey, I wanted to ask if you'd be up to chat
 via email?";"Hey, I wanted to ask if you'd be up to chat
-via email?";
-;;Haven;I'll give you my address!;I'll give you my address!;
-;;;This girl wants to message me?;This girl wants to message me?;
-;;;It's a bench.;It's a bench.;
+via email?";"Oye, ¿te gustaría seguir hablando por 
+correo electronico?"
+;;Haven;I'll give you my address!;I'll give you my address!;Te doy el mío.
+;;;This girl wants to message me?;This girl wants to message me?;¿Ella... quiere que conversemos por correo?
+;;;It's a bench.;It's a bench.;Es una banca.
 ;;Haven;"I think I might have caught some feelings when I
 saw you on the bench ...";"I think I might have caught some feelings when I
 saw you on the bench ...";
