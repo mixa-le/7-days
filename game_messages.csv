@@ -270,7 +270,7 @@ satisfactorio."
 ;;;"I used to imagine there were shadows watching
 over me.";"I used to imagine there were shadows watching
 over me.";"Solía imaginarme que era observado de lejos
-por ciertas sombras."
+por cierta 'gente sombra'."
 ;;;"Sometimes, they'd play with me.\!
 But most of the time, I was on my own.";"Sometimes, they'd play with me.\!
 But most of the time, I was on my own.";"A veces ellas incluso jugaban conmigo.\!
@@ -2873,10 +2873,11 @@ via email?";"Oye, ¿te gustaría seguir hablando por
 correo electronico?"
 ;;Haven;I'll give you my address!;I'll give you my address!;Te doy el mío.
 ;;;This girl wants to message me?;This girl wants to message me?;¿Ella... quiere que conversemos por correo?
-;;;It's a bench.;It's a bench.;Es una banca.
+;;;It's a bench.;It's a bench.;Es un banco de madera.
 ;;Haven;"I think I might have caught some feelings when I
 saw you on the bench ...";"I think I might have caught some feelings when I
-saw you on the bench ...";
+saw you on the bench ...";"Creo que empecé a sentir algo por ti al verte
+sentado solo en aquel banco."
 ;;Haven;I was pretty nervous when I approached you.;I was pretty nervous when I approached you.;Estaba muy nerviosa al acercarme.
 ;;Haven;Go on ...\! Try to remember ...;Go on ...\! Try to remember ...;Vamos...\! Intenta recordar...
 ;;Haven;You're almost there...;You're almost there...;Ya casi lo logras...
@@ -3591,49 +3592,56 @@ There's papers, tips, and a grinder.";
 Open it?";"A closet.\.
 Open it?";
 ;;;You take the flag out the closet.;You take the flag out the closet.;
-;;;There's a piece of paper in the sand.;There's a piece of paper in the sand.;
-;;;It's a broken bike.;It's a broken bike.;
-;;;It's a bin.;It's a bin.;
+;;;There's a piece of paper in the sand.;There's a piece of paper in the sand.;Hay una hoja de papel en la arena.
+;;;It's a broken bike.;It's a broken bike.;Es una bici -------------------------------------------.
+;;;It's a bin.;It's a bin.;Es un cesto de basura.
 ;;;"It's a bin.\!
 There's a piece of paper in here.";"It's a bin.\!
-There's a piece of paper in here.";
+There's a piece of paper in here.";"Es un cesto de basura.\!
+Hay una hoja de papel dentro."
 ;;;It's a drinking fountain.;It's a drinking fountain.;
 ;;;It's a plastic bucket.;It's a plastic bucket.;
 ;;;A dirty teddy bear.;A dirty teddy bear.;
-;;;There's a backpack under the bench.;There's a backpack under the bench.;
-;;;Hey, I thought you were going to help me?;Hey, I thought you were going to help me?;
-;;;Excuse me, have you seen my parents?;Excuse me, have you seen my parents?;
-;;;I think I've lost them somewhere here ...;I think I've lost them somewhere here ...;
-;;;I’ll help you find them;I’ll help you find them;
-;;;Where could they be?;Where could they be?;
-;;;Oh, thank you.;Oh, thank you.;
+;;;There's a backpack under the bench.;There's a backpack under the bench.;Hay una mochila bajo el banco.
+;;;Hey, I thought you were going to help me?;Hey, I thought you were going to help me?;Oye, pensé que ibas a ayudarme.
+;;;Excuse me, have you seen my parents?;Excuse me, have you seen my parents?;Disculpa, ¿habras visto a mis padres?
+;;;I think I've lost them somewhere here ...;I think I've lost them somewhere here ...;No logro encontrarlos...
+;;;I’ll help you find them;I’ll help you find them;Te ayudo a buscar
+;;;Where could they be?;Where could they be?;¿Dónde podrán estar?
+;;;Oh, thank you.;Oh, thank you.;Oh, te agradezco.
 ;;;"I was a bit scared ...\.
 What if I couldn't find them?";"I was a bit scared ...\.
-What if I couldn't find them?";
-;;;But I guess I feel safer now.;But I guess I feel safer now.;
-;;;I don’t know ...;I don’t know ...;
-;;;They were just here a moment ago.;They were just here a moment ago.;
-;;;Could you maybe help me look for them?;Could you maybe help me look for them?;
-;;;Okay;Okay;
-;;;Oh! That’s our TV!;Oh! That’s our TV!;
-;;;Why would they throw this out?;Why would they throw this out?;
-;;;It's dad's TV.;It's dad's TV.;
-;;;What's this doing here?;What's this doing here?;
-;;;Mom didn’t use her computer much.;Mom didn’t use her computer much.;
-;;;I used it more than she did ...;I used it more than she did ...;
-;;;Oh! It's my shark!;Oh! It's my shark!;
+What if I couldn't find them?";"Estaba muy asustado porque no podía encontrarlos
+por ningún lugar."
+;;;But I guess I feel safer now.;But I guess I feel safer now.;"Pero ahora creo que me siento un poco
+más tranquilo."
+;;;I don’t know ...;I don’t know ...;No lo sé...
+;;;They were just here a moment ago.;They were just here a moment ago.;Estaban justo aquí hace un momento.
+;;;Could you maybe help me look for them?;Could you maybe help me look for them?;¿Podrías ayudarme a buscarlos?
+;;;Okay;Okay;Okay
+;;;Oh! That’s our TV!;Oh! That’s our TV!;Oye, ¡esa es nuestra tele!.
+;;;Why would they throw this out?;Why would they throw this out?;¿Por qué la abandonarón aquí?
+;;;It's dad's TV.;It's dad's TV.;Es la tele de papá.
+;;;What's this doing here?;What's this doing here?;¿Qué hace esto aquí?
+;;;Mom didn’t use her computer much.;Mom didn’t use her computer much.;Mamá no usaba mucho su computadora.
+;;;I used it more than she did ...;I used it more than she did ...;Por lo general, yo era el que la usaba más...
+;;;Oh! It's my shark!;Oh! It's my shark!;¡Mira, es mi tiburón!
 ;;;"I thought he was gone ...\!
 ... Why did they throw him away?";"I thought he was gone ...\!
-... Why did they throw him away?";
+... Why did they throw him away?";"Pensé que lo había perdido...\!
+... ¿Por qué lo habrán tirado?"
 ;;;"It's a poem.
 Read it?";"It's a poem.
-Read it?";
+Read it?";"Es un poema.
+¿Leerlo?"
 ;;;"The weak breeze whispers nothing
 The water screams sublime";"The weak breeze whispers nothing
-The water screams sublime";
+The water screams sublime";"La abatida brisa susurra afónica
+Las aguas rugen con frenesí"
 ;;;"His feet shift, teeter-totter
 Deep breath, stand back, it’s time";"His feet shift, teeter-totter
-Deep breath, stand back, it’s time";
+Deep breath, stand back, it’s time";"Sus pies trémulos, nerviosos
+Respira fondo, se prepara... la hora es"
 ;;;"Toes untouch the overpass
 Soon he’s water bound";"Toes untouch the overpass
 Soon he’s water bound";
@@ -4298,9 +4306,9 @@ por delante."
 ;;;"Throughout the days, you’ve come across
 the others.";"Throughout the days, you’ve come across
 the others.";Esta no es la primera vez que nos encontramos.
-;;;The Loneliness.;The Loneliness.;Soy Angustia, así nos llamamos.
-;;;Each one of us pulled from the loneliness he felt.;Each one of us pulled from the loneliness he felt.;"Nos originamos de él... de cada miedo, culpa,
-humillación y resentimiento suyo."
+;;;The Loneliness.;The Loneliness.;Soy Soledad, así nos llamamos.
+;;;Each one of us pulled from the loneliness he felt.;Each one of us pulled from the loneliness he felt.;"Nos originamos de él... nutridos por cada miedo,
+culpa, humillación y resentimiento suyo."
 ;;;"We've never been able to get in touch with him
 directly.";"We've never been able to get in touch with him
 directly.";No podíamos llegar hasta él.
@@ -4521,120 +4529,148 @@ se divertían."
 ;;;It's another one of my drawings.;It's another one of my drawings.;Es otro de mis dibujos.
 ;;;"The other kids always had these cool toys or
 trading cards to show off.";"The other kids always had these cool toys or
-trading cards to show off.";"Ellos solían traer unas cartas súper épicas;
-a veces incluso llevaban sus figuras de acción."
+trading cards to show off.";"Los otros niños solían presumir las cartas o
+las figuras de acción que les habían comprado."
 ;;;"My parents didn't give me many toys to play with,\.
 so I was always fascinated when I saw them.";"My parents didn't give me many toys to play with,\.
-so I was always fascinated when I saw them.";"Mis padres casi no me compraban juguetes,\. así que
-me quedaba maravillado al ver los suyos."
-;;;Still,\. I was too scared to approach them.;Still,\. I was too scared to approach them.;
+so I was always fascinated when I saw them.";"Mis padres casi nunca me compraban juguetes,\.
+así que, en cierta forma, admiraba a esos niños."
+;;;Still,\. I was too scared to approach them.;Still,\. I was too scared to approach them.;"Claro,\. nunca llegaba a acercarme a ellos,
+más que todo, por temor."
 ;;;"It felt kind of weird being the only one 
 who didn't talk.";"It felt kind of weird being the only one 
-who didn't talk.";
+who didn't talk.";"Se sentía raro ser el unico niño que se
+la pasaba callado."
 ;;;"I imagined myself as some kind of alien.\!
 Or maybe an invisible ghost.";"I imagined myself as some kind of alien.\!
-Or maybe an invisible ghost.";
+Or maybe an invisible ghost.";"A veces me decía a mi mismo que era como
+un fantasma: invisible para los demás."
 ;;;"One day, I told myself I was going to be friends
 with everyone.";"One day, I told myself I was going to be friends
-with everyone.";
+with everyone.";"Cierto día, me armé de valor y decidí que iba
+a pedirles que me aceptaran en su grupo."
 ;;;"I was finally going to have fun, just like the
 other kids.";"I was finally going to have fun, just like the
-other kids.";
+other kids.";"Por fin iba a tener amigos con quienes
+divertirme y reír juntos."
 ;;;"...\| But they rejected me.\!
 They said I was weird.";"...\| But they rejected me.\!
-They said I was weird.";
-;;;Something like “Go away, we don’t want you here.”;Something like “Go away, we don’t want you here.”;
+They said I was weird.";"...\| Pero me rechazaron.\!
+Dijeron que no se juntaban con chicos raros."
+;;;Something like “Go away, we don’t want you here.”;Something like “Go away, we don’t want you here.”;"'Lárgate de aquí, rarito'. Esas fueron
+sus palabras exactas."
 ;;;"Maybe they didn’t like me because I never talked.\!
 Maybe I just didn’t fit in.";"Maybe they didn’t like me because I never talked.\!
-Maybe I just didn’t fit in.";
-;;;I guess I had accepted that I was too different.;I guess I had accepted that I was too different.;
+Maybe I just didn’t fit in.";"Quizá solo desconfiaban de mí...\!
+o quizá nunca les caí bien."
+;;;I guess I had accepted that I was too different.;I guess I had accepted that I was too different.;"Así que solo quedó aceptar que era...
+diferente, distinto a ellos."
 ;;;"Instead of bothering anyone,\. I chose to be on
 my own.";"Instead of bothering anyone,\. I chose to be on
-my own.";
-;;;Well, it didn't really feel like I had a choice.;Well, it didn't really feel like I had a choice.;
+my own.";"Decicí no volver a molestarlos nunca más
+y estar por mi cuenta."
+;;;Well, it didn't really feel like I had a choice.;Well, it didn't really feel like I had a choice.;"Bueno, no es que hubiera muchas otras
+alternativas."
 ;;;"I started feeling something new.\!
 Something I didn't feel before.";"I started feeling something new.\!
-Something I didn't feel before.";
+Something I didn't feel before.";"Comenze a sentir una sensación que hasta
+ese entonces, era desconocida para mí."
 ;;;"I was so sad. It felt like there was something
 missing in me.";"I was so sad. It felt like there was something
-missing in me.";
+missing in me.";"Era una sensación constante de vacío y tristeza.
+Más tarde aprendí su nombre: melancolía."
 ;;;"It felt wrong.\!
 I was wrong.";"It felt wrong.\!
-I was wrong.";
+I was wrong.";"Me hacía sentir muy mal."
 ;;;"After a while, I started seeing those other
 kids differently.";"After a while, I started seeing those other
-kids differently.";
-;;;They didn’t feel like people to me anymore.;They didn’t feel like people to me anymore.;
+kids differently.";"Al poco tiempo, comenzé a ver a estos niños
+con otros ojos."
+;;;They didn’t feel like people to me anymore.;They didn’t feel like people to me anymore.;Se sentían ajenos, distantes...
 ;;;"They felt wrong,\. unfamiliar.\!
 Unrecognizable as one of my own.";"They felt wrong,\. unfamiliar.\!
-Unrecognizable as one of my own.";
-;;;I didn’t want to see them anymore.;I didn’t want to see them anymore.;
-;;;I was fine on my own.;I was fine on my own.;
-;;;I got used to having to entertain myself.;I got used to having to entertain myself.;
+Unrecognizable as one of my own.";"Como si fueran una especie completamente
+distinta a la humana."
+;;;I didn’t want to see them anymore.;I didn’t want to see them anymore.;No quería volver a verlos.
+;;;I was fine on my own.;I was fine on my own.;Estaba mucho mejor por mi cuenta.
+;;;I got used to having to entertain myself.;I got used to having to entertain myself.;"Incluso fui encontrando diversas formas de
+divertirme solo."
 ;;;"But then, I started seeing more of those shadow
 figures.";"But then, I started seeing more of those shadow
-figures.";
+figures.";"Fue durante ese tiempo que comenzé a notar que era
+a menudo observado por cierta 'gente sombra'."
 ;;;"Though this time, they looked different.\!
 Tall and slim.";"Though this time, they looked different.\!
-Tall and slim.";
+Tall and slim.";"Eran delgados y bastante altos, al menos desde
+la perspectiva de un niño."
 ;;;"They didn’t say much to me, but they didn’t
 bother me either.";"They didn’t say much to me, but they didn’t
-bother me either.";
-;;;They were just there sometimes.;They were just there sometimes.;
-;;;I got used to them being around.;I got used to them being around.;
+bother me either.";Nunca me molestaban, y rara vez decían algo.
+;;;They were just there sometimes.;They were just there sometimes.;Solo... estaban ahí.
+;;;I got used to them being around.;I got used to them being around.;Poco a poco me fui acostumbrando a su compañia.
 ;;;"I would talk to them, even though they never
 responded.";"I would talk to them, even though they never
-responded.";
-;;;But that was enough for me.;But that was enough for me.;
-;;;I felt connected again.;I felt connected again.;
-;;;Not judged, just understood.;Not judged, just understood.;
-;;;You remember these drawings, don't you?;You remember these drawings, don't you?;
+responded.";"Trataba de comunicarme con ellos, sin embargo
+nunca me respondían."
+;;;But that was enough for me.;But that was enough for me.;Pero eso no me incomodaba en lo absoluto.
+;;;I felt connected again.;I felt connected again.;Pronto, dejé de sentirme tan solo.
+;;;Not judged, just understood.;Not judged, just understood.;"Ya no me sentía juzgado por otros,
+sino comprendido, aceptado."
+;;;You remember these drawings, don't you?;You remember these drawings, don't you?;Recuerdas estos dibujos, ¿verdad?
 ;;;"While the others were having fun, you were
 drawing on your own.";"While the others were having fun, you were
-drawing on your own.";
-;;;Kind of like a coping mechanism.;Kind of like a coping mechanism.;
+drawing on your own.";"Mientras los demás se divertían, tú estabas
+absorto en dibujar."
+;;;Kind of like a coping mechanism.;Kind of like a coping mechanism.;Era la forma que tenías de lidiar con tu realidad.
 ;;;"You hear all those kids?\!
 Laughing, running, shouting ...";"You hear all those kids?\!
-Laughing, running, shouting ...";
+Laughing, running, shouting ...";"¿Logras escuchar eso?\!
+Son niños riendo, jugando, divirtiendose..."
 ;;;"You were so disconneced from them.\!
 You were so different.";"You were so disconneced from them.\!
-You were so different.";
-;;;That loneliness ...;That loneliness ...;
-;;;... it made me.;... it made me.;
-;;;You remember it, don’t you?;You remember it, don’t you?;
-;;;I didn’t show up one day out of nowhere.;I didn’t show up one day out of nowhere.;
-;;;At first, it was just a feeling.;At first, it was just a feeling.;
-;;;You didn't feel safe around these people.;You didn't feel safe around these people.;
-;;;You were alone.;You were alone.;
+You were so different.";"Nunca lograste conectar con ellos por
+ser diferente."
+;;;That loneliness ...;That loneliness ...;Tu soledad...
+;;;... it made me.;... it made me.;... nos trajo a la vida.
+;;;You remember it, don’t you?;You remember it, don’t you?;Te acuerdas, ¿no es así?
+;;;I didn’t show up one day out of nowhere.;I didn’t show up one day out of nowhere.;No aparecimos de la nada.
+;;;At first, it was just a feeling.;At first, it was just a feeling.;Todo empezó como una simple sensación.
+;;;You didn't feel safe around these people.;You didn't feel safe around these people.;No te sentías seguro al estar rodeado por otros.
+;;;You were alone.;You were alone.;Querías sentirte solo.
 ;;;"So you kept to yourself.\!
 And quietly, something began to grow from inside.";"So you kept to yourself.\!
-And quietly, something began to grow from inside.";
-;;;You couldn't see it, but you felt it.;You couldn't see it, but you felt it.;
-;;;Over time, that loneliness became something else.;Over time, that loneliness became something else.;
-;;;It only grew stronger and stronger.;It only grew stronger and stronger.;
-;;;All that dark energy coming together.;All that dark energy coming together.;
-;;;It formed me.;It formed me.;
-;;;I became alive.;I became alive.;
-;;;I didn’t ask to exist.;I didn’t ask to exist.;
-;;;But you made space for me... \!and I filled that.;But you made space for me ... \!and I filled that.;
-;;;And even now,\. after all this time ...;And even now,\. after all this time ...;
-;;;I’m still here.;I’m still here.;
-;;;Because that loneliness never really went away.;Because that loneliness never really went away.;
-;;;I hope you can change that.;I hope you can change that.;
-;;;Here's my last attempt to help you.;Here's my last attempt to help you.;
+And quietly, something began to grow from inside.";"Así que decidiste aislarte.\! Fue entonces
+cuando algo comenzó a crecer en tu interior."
+;;;You couldn't see it, but you felt it.;You couldn't see it, but you felt it.;"No conseguías verlo, pero estaba allí;
+podías sentirlo."
+;;;Over time, that loneliness became something else.;Over time, that loneliness became something else.;"Con el paso del tiempo, esa soledad inicial
+se fue transformando en algo más."
+;;;It only grew stronger and stronger.;It only grew stronger and stronger.;Se fue haciendo cada vez más fuerte.
+;;;All that dark energy coming together.;All that dark energy coming together.;Toda esa energía negativa... acumulandose.
+;;;It formed me.;It formed me.;Me dio forma.
+;;;I became alive.;I became alive.;Me dio vida.
+;;;I didn’t ask to exist.;I didn’t ask to exist.;No pedí existir.
+;;;But you made space for me... \!and I filled that.;But you made space for me ... \!and I filled that.;"Pero era inevitable que sucediera...\!
+Todo vacío siempre será llenado con algo."
+;;;And even now,\. after all this time ...;And even now,\. after all this time ...;Incluso ahora,\. después de todos estos años...
+;;;I’m still here.;I’m still here.;Aún continuo existiendo.
+;;;Because that loneliness never really went away.;Because that loneliness never really went away.;Nunca dejé de formar parte de ti.
+;;;I hope you can change that.;I hope you can change that.;Espero que seas capaz de cambiar de eso.
+;;;Here's my last attempt to help you.;Here's my last attempt to help you.;Esta será la última vez que intente ayudarte.
 ;;;"There's something you need under one of the 
 benches.";"There's something you need under one of the 
-benches.";
-;;;You should be able to find it.;You should be able to find it.;
-;;;They can't have gone that far, right?;They can't have gone that far, right?;
-;;;I was with them just a moment ago ...;I was with them just a moment ago ...;
-;;;I don’t understand why they had to leave.;I don’t understand why they had to leave.;
-;;;Does it have something to do with me?;Does it have something to do with me?;
-;;;Do you think they’ll be waiting for me at home?;Do you think they’ll be waiting for me at home?;
-;;;They would probably be worried ...;They would probably be worried ...;
-;;;...\. Or maybe not.;...\. Or maybe not.;
-;;;It's so cold here ...;It's so cold here ...;
-;;;I don't like this ...;I don't like this ...;
+benches.";"Ve hacia el banco de madera y busca lo que hay
+debajo de él."
+;;;You should be able to find it.;You should be able to find it.;Vas a necesitarlo.
+;;;They can't have gone that far, right?;They can't have gone that far, right?;No creo que hayan ido muy lejos.
+;;;I was with them just a moment ago ...;I was with them just a moment ago ...;Estaban junto conmigo hace unos instantes...
+;;;I don’t understand why they had to leave.;I don’t understand why they had to leave.;No entiendo por qué se fueron.
+;;;Does it have something to do with me?;Does it have something to do with me?;¿Tendré algo que ver con eso?
+;;;Do you think they’ll be waiting for me at home?;Do you think they’ll be waiting for me at home?;¿Crees que estén en casa esperando por mí?
+;;;They would probably be worried ...;They would probably be worried ...;Probablemente estén preocupados...
+;;;...\. Or maybe not.;...\. Or maybe not.;...\. O no.
+;;;It's so cold here ...;It's so cold here ...;Hace mucho frío aquí...
+;;;I don't like this ...;I don't like this ...;No me gusta nada de esto...
 ;;;"Maybe if I find all the things they left behind,\.
 they’ll come back?";"Maybe if I find all the things they left behind,\.
 they’ll come back?";
