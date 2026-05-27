@@ -4425,73 +4425,94 @@ I used to know?";"¿Quieres decir que nada ha cambiado contigo?
 ;;Haven;...\. You've been through a lot, haven't you?;...\. You've been through a lot, haven't you?;
 ;;Haven;I've been worried about whether you'd be okay.;I've been worried about whether you'd be okay.;
 ;;Haven;It's okay if you don't want to talk about it.;It's okay if you don't want to talk about it.;
-;;Haven;Hmmm, let's see ...;Hmmm, let's see ...;
-;;Haven;Oh! I got into a band!;Oh! I got into a band!;
+;;Haven;Hmmm, let's see ...;Hmmm, let's see ...;Mmm, veamos...
+;;Haven;Oh! I got into a band!;Oh! I got into a band!;¡Ah! Entré a una banda.
 ;;Haven;"Bet you remember me trying to teach myself
 guitar...\. well, it paid off!";"Bet you remember me trying to teach myself
-guitar...\. well, it paid off!";
-;;Haven;You should come to one of our shows someday!;You should come to one of our shows someday!;
-;;Haven;Do you still listen to that one band?;Do you still listen to that one band?;
+guitar...\. well, it paid off!";"Apuesto que recuerdas que estaba aprendiendo a
+tocar guitarra...\. Bueno, ¡valió la pena!"
+;;Haven;You should come to one of our shows someday!;You should come to one of our shows someday!;¡Deberías venir a uno de nuestros shows!
+;;Haven;Do you still listen to that one band?;Do you still listen to that one band?;"¿Aún escuchas la música de aquella banda
+que te hablé?"
 ;;Haven;"The one with the terrible name but actually
 good songs?";"The one with the terrible name but actually
-good songs?";
-;;;You mean Stray Kats?;You mean Stray Kats?;
-;;;Probably, I listen to a lot;Probably, I listen to a lot;
-;;;I haven't;I haven't;
-;;Haven;Yes! \.That’s the one!;Yes! \.That’s the one!;
+good songs?";"Esa que tenía un nombre que no combinaba
+mucho con el tono alegre de sus canciones."
+;;;You mean Stray Kats?;You mean Stray Kats?;¿Blackrose?
+;;;Probably, I listen to a lot;Probably, I listen to a lot;Sí, bastante
+;;;I haven't;I haven't;Ya no
+;;Haven;Yes! \.That’s the one!;Yes! \.That’s the one!;¡Sí!\. ¡Exacto!
 ;;Haven;"I've been listening to them again recently.\!
 Not sure if you’d still like them ...";"I've been listening to them again recently.\!
-Not sure if you’d still like them ...";
-;;Haven;I guess they remind me of a different time.;I guess they remind me of a different time.;
-;;;They’re still around?;They’re still around?;
-;;;I forgot about them;I forgot about them;
-;;Haven;Yeah!\. Barely, though.;Yeah!\. Barely, though.;
+Not sure if you’d still like them ...";"He estado volviendo a escucharlas y...\!
+me preguntaba si aún te gustaban sus canciones."
+;;Haven;I guess they remind me of a different time.;I guess they remind me of a different time.;"Cada vez que escucho alguna de sus canciones,
+es como si me transportara al pasado."
+;;;They’re still around?;They’re still around?;¿Aún existen?
+;;;I forgot about them;I forgot about them;Las había olvidado
+;;Haven;Yeah!\. Barely, though.;Yeah!\. Barely, though.;¡Sí!\. Bueno... SÍ y NO.
 ;;Haven;"I think only one of the original members is still
 in it.";"I think only one of the original members is still
-in it.";
-;;Haven;Their sound changed a lot, it's more polished.;Their sound changed a lot, it's more polished.;
+in it.";"Creo que solo queda una de sus miembros
+originales, el resto ya no está."
+;;Haven;Their sound changed a lot, it's more polished.;Their sound changed a lot, it's more polished.;"Sus últimas canciones suenan muy diferentes a
+las que solíamos escuchar. Son más ambiciosas."
 ;;Haven;"My favorite will always be the one with the red
 album cover though.";"My favorite will always be the one with the red
-album cover though.";
-;;Haven;That’s fair.;That’s fair.;
-;;Haven;Honestly,\. I kind of did too for a while.;Honestly,\. I kind of did too for a while.;
-;;Haven;But then one of their songs came on by accident.;But then one of their songs came on by accident.;
+album cover though.";"Mi álbum favorito de ellas siempre será 'Born Rose'.
+Mi inglés ha mejorado, ¿eh? *Jaja*"
+;;Haven;That’s fair.;That’s fair.;Oh.
+;;Haven;Honestly,\. I kind of did too for a while.;Honestly,\. I kind of did too for a while.;"Bueno, para ser honesta, yo tampoco me
+acordaba mucho de ellas."
+;;Haven;But then one of their songs came on by accident.;But then one of their songs came on by accident.;"Hasta que un día, de repente, empezó a
+sonar una de sus canciones."
 ;;Haven;"Reminded me of when we listened to them
 together.";"Reminded me of when we listened to them
-together.";
-;;Haven;Of course you do ...;Of course you do ...;
+together.";"Y me hizo acordar de cuando las escuchábamos
+juntos."
+;;Haven;Of course you do ...;Of course you do ...;¡Lo sabía! *Jeje*
 ;;Haven;"You always had a bunch of playlists for
 every mood.";"You always had a bunch of playlists for
-every mood.";
+every mood.";"Recuerdo que tenías todas tus canciones
+organizadas en carpetas."
 ;;Haven;"Let me think ...\!
 ""Rainy and cozy""?";"Let me think ...\!
-""Rainy and cozy""?";
+""Rainy and cozy""?";"Creo que recuerdo el nombre de algunas...\!
+Una se llamaba: ""Tranquis"". ¿Verdad?"
 ;;Haven;"Or ""empty head""?\!
 Or what about ""floating music""?";"Or ""empty head""?\!
-Or what about ""floating music""?";
-;;;You liked those playlists;You liked those playlists;
-;;;I deleted them all;I deleted them all;
-;;Haven;I have to admit, I did listen to them.;I have to admit, I did listen to them.;
-;;Haven;Especially your crying music playlist, haha.;Especially your crying music playlist, haha.;
-;;Haven;I think I still have them saved on my phone ...;I think I still have them saved on my phone ...;
-;;Haven;That's a shame ...;That's a shame ...;
+Or what about ""floating music""?";"... Otra era: ""Dias lluviosos como yo""\!
+Y tu favorita: ""Curame Haven"". *Jajaja*"
+;;;You liked those playlists;You liked those playlists;Te gustaba escucharlas
+;;;I deleted them all;I deleted them all;Las borré todas
+;;Haven;I have to admit, I did listen to them.;I have to admit, I did listen to them.;"*Jaja* Está bien, me atrapaste. Es que me
+gustaban muchas de las canciones que tenían."
+;;Haven;Especially your crying music playlist, haha.;Especially your crying music playlist, haha.;"En especial esa canción ""Trátame suavemente"".
+Tú y tus indirectas. *Jaja*"
+;;Haven;I think I still have them saved on my phone ...;I think I still have them saved on my phone ...;"De hecho, creo que aún tengo en mi celular
+muchas de ellas."
+;;Haven;That's a shame ...;That's a shame ...;Oh, qué pena... Tenías buenos gustos.
 ;;Haven;"I get it though,\. I do the same everytime I feel
 like I have to move on.";"I get it though,\. I do the same everytime I feel
-like I have to move on.";
+like I have to move on.";"Pero lo entiendo, sabes\. Yo también hago lo mismo
+cuando siento que es hora de dejar ir algo."
 ;;Haven;So I don't blame you, haha.;So I don't blame you, haha.;
 ;;Haven;"Oh ...\!
 I'm just surprised, that's it.";"Oh ...\!
-I'm just surprised, that's it.";
-;;Haven;Music used to mean everything to you.;Music used to mean everything to you.;
-;;;Maybe I'll get back into it;Maybe I'll get back into it;
-;;;I don't miss it;I don't miss it;
-;;Haven;You should, maybe for one last time.;You should, maybe for one last time.;
+I'm just surprised, that's it.";"Oh, ¿y eso?"
+;;Haven;Music used to mean everything to you.;Music used to mean everything to you.;A ti te encantaba escuchar su música.
+;;;Maybe I'll get back into it;Maybe I'll get back into it;Quizá vuelva a escucharlas
+;;;I don't miss it;I don't miss it;Ya no
+;;Haven;You should, maybe for one last time.;You should, maybe for one last time.;"Mmm... ya veo. Aunque tal vez deberías
+volver a escucharlas."
 ;;Haven;"Their older albums really bring out this special
 vibe ...";"Their older albums really bring out this special
-vibe ...";
+vibe ...";"Sus viejas canciones ahora se sienten más...
+personales."
 ;;Haven;"I think listening to it after so long will
 definitely bring back some good times.";"I think listening to it after so long will
-definitely bring back some good times.";
+definitely bring back some good times.";"Dales una oportunidad más. Te van a traer
+muchos buenos recuerdos."
 ;;Haven;That’s okay.;That’s okay.;
 ;;Haven;People change.;People change.;
 ;;Haven;Maybe it meant what it needed to at the time.;Maybe it meant what it needed to at the time.;
@@ -4501,9 +4522,11 @@ someday.";
 ;;Haven;There's no way to say, honestly!;There's no way to say, honestly!;
 ;;Haven;"I was up that mountain the other day.\.
 You know which one I'm talking about right?";"I was up that mountain the other day.\.
-You know which one I'm talking about right?";
-;;Haven;I was surprised to see our flag was still there.;I was surprised to see our flag was still there.;
-;;;You went back there?;You went back there?;
+You know which one I'm talking about right?";"Sabes, el otro día, volví a aquella montaña.\.
+Sí sabes a cuál me refiero, ¿verdad?"
+;;Haven;I was surprised to see our flag was still there.;I was surprised to see our flag was still there.;"Y no me lo vas a creer, pero nuestra bandera
+aún seguía allí."
+;;;You went back there?;You went back there?;¿Volviste?
 ;;;I almost forgot about that;I almost forgot about that;
 ;;Haven;"Yeah ...\.
 It looked kind of sad now.";"Yeah ...\.
