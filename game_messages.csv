@@ -3471,27 +3471,30 @@ Nunca me gustó esa palabra.";
 ;;;Something you've had all your life.;Something you've had all your life.;Algo que ha estado presente en toda tu vida.
 ;;;Good.;Good.;Bien.
 ;;;I don’t think this sheet was made for swimming ...;I don’t think this sheet was made for swimming ...;
-;;;After everything, you're still here.;After everything, you're still here.;
+;;;After everything, you're still here.;After everything, you're still here.;Aún después de todo, sigues aquí.
 ;;;"You’ve wandered through everything you tried
 to forget.";"You’ve wandered through everything you tried
-to forget.";
-;;;You didn’t run from them this time.;You didn’t run from them this time.;
-;;;Even when it hurt,\. even when it scared you ...;Even when it hurt,\. even when it scared you ...;
-;;;... You stayed.;... You stayed.;
-;;;This place was made from your fear ...;This place was made from your fear ...;
-;;;...\. But also your hope.;...\. But also your hope.;
-;;;Not everyone makes it this far, you know.;Not everyone makes it this far, you know.;
+to forget.";Has revivido cada recuerdo que te atormentaba.
+;;;You didn’t run from them this time.;You didn’t run from them this time.;Esta vez, no huíste.
+;;;Even when it hurt,\. even when it scared you ...;Even when it hurt,\. even when it scared you ...;Aunque fuera trágico\. o doloroso...
+;;;... You stayed.;... You stayed.;... Decidiste afrontarlo.
+;;;This place was made from your fear ...;This place was made from your fear ...;Este lugar está hecho de miedo,\. TU miedo...
+;;;...\. But also your hope.;...\. But also your hope.;...\. Pero también de esperanza.
+;;;Not everyone makes it this far, you know.;Not everyone makes it this far, you know.;Muy pocos consiguen llegar hasta aquí.
 ;;;"Most people get lost.\!
 They run away.";"Most people get lost.\!
-They run away.";
-;;;It's a miracle that you chose to listen.;It's a miracle that you chose to listen.;
+They run away.";"La mayoria se pierde en el camino.\!
+O renuncia en el trayecto."
+;;;It's a miracle that you chose to listen.;It's a miracle that you chose to listen.;Es casi un milagro que hayas decidido escuchar.
 ;;;"You won’t forget what you’ve seen here.\|
 He will.";"You won’t forget what you’ve seen here.\|
-He will.";
+He will.";"No olvidarás todo lo que has visto aquí.\|
+Pero él sí lo hará."
 ;;;"Even if he might not change, at least we know you
 did.";"Even if he might not change, at least we know you
-did.";
-;;;You did the best you could.;You did the best you could.;
+did.";"Incluso aunque al final decida no cambiar, ambos
+sabremos que tú sí lo hiciste."
+;;;You did the best you could.;You did the best you could.;Te has esforzado tanto.
 ;;;At the bottom of everything, you remain.;At the bottom of everything, you remain.;
 ;;;"Climb out of the hole you entered from, and open
 the door.";"Climb out of the hole you entered from, and open
@@ -3587,8 +3590,8 @@ este tiempo."
 and just appreciate this moment.";"I hope you can forget about the past for a second,
 and just appreciate this moment.";"Espero que puedas dejar de lado el pasado por un
 instante y valorar este momento."
-;;Haven;Take care of yourself, alright?;Take care of yourself, alright?;
-;;Haven;And don’t forget to smile once in a while.;And don’t forget to smile once in a while.;
+;;Haven;Take care of yourself, alright?;Take care of yourself, alright?;Cuídate mucho...
+;;Haven;And don’t forget to smile once in a while.;And don’t forget to smile once in a while.;Y nunca olvides sonreir, ¿sí?
 ;;;A small nightstand.;A small nightstand.;
 ;;;"It's a rolling tray.\!
 There's papers, tips, and a grinder.";"It's a rolling tray.\!
@@ -3598,7 +3601,7 @@ There's papers, tips, and a grinder.";
 Open it?";"A closet.\.
 Open it?";"Un armario.\.
 ¿Abrirlo?"
-;;;You take the flag out the closet.;You take the flag out the closet.;
+;;;You take the flag out the closet.;You take the flag out the closet.;Agarras la bandera.
 ;;;There's a piece of paper in the sand.;There's a piece of paper in the sand.;Hay una hoja de papel en la arena.
 ;;;It's a broken bike.;It's a broken bike.;Es una bici -------------------------------------------.
 ;;;It's a bin.;It's a bin.;Es un cesto de basura.
@@ -4489,14 +4492,14 @@ Y tu favorita: ""Curame Haven"". *Jajaja*"
 gustaban muchas de las canciones que tenían."
 ;;Haven;Especially your crying music playlist, haha.;Especially your crying music playlist, haha.;"En especial esa canción ""Trátame suavemente"".
 Tú y tus indirectas. *Jaja*"
-;;Haven;I think I still have them saved on my phone ...;I think I still have them saved on my phone ...;"De hecho, creo que aún tengo en mi celular
-muchas de ellas."
+;;Haven;I think I still have them saved on my phone ...;I think I still have them saved on my phone ...;"De hecho, creo que aún tengo muchas de ellas
+en mi celular."
 ;;Haven;That's a shame ...;That's a shame ...;Oh, qué pena... Tenías buenos gustos.
 ;;Haven;"I get it though,\. I do the same everytime I feel
 like I have to move on.";"I get it though,\. I do the same everytime I feel
 like I have to move on.";"Pero lo entiendo, sabes\. Yo también hago lo mismo
 cuando siento que es hora de dejar ir algo."
-;;Haven;So I don't blame you, haha.;So I don't blame you, haha.;
+;;Haven;So I don't blame you, haha.;So I don't blame you, haha.;Entonces, no te culpo. *Jeje*
 ;;Haven;"Oh ...\!
 I'm just surprised, that's it.";"Oh ...\!
 I'm just surprised, that's it.";"Oh, ¿y eso?"
@@ -4513,13 +4516,15 @@ personales."
 definitely bring back some good times.";"I think listening to it after so long will
 definitely bring back some good times.";"Dales una oportunidad más. Te van a traer
 muchos buenos recuerdos."
-;;Haven;That’s okay.;That’s okay.;
-;;Haven;People change.;People change.;
-;;Haven;Maybe it meant what it needed to at the time.;Maybe it meant what it needed to at the time.;
+;;Haven;That’s okay.;That’s okay.;Ah. Entiendo...
+;;Haven;People change.;People change.;"Las personas, así como sus gustos van cambiando
+con el tiempo."
+;;Haven;Maybe it meant what it needed to at the time.;Maybe it meant what it needed to at the time.;Su música significaba mucho para ti.
 ;;Haven;"And maybe something else will take its place
 someday.";"And maybe something else will take its place
-someday.";
-;;Haven;There's no way to say, honestly!;There's no way to say, honestly!;
+someday.";"Espero que logres encontrar algo con qué
+reemplazar el lugar que ocupaba en tu vida."
+;;Haven;There's no way to say, honestly!;There's no way to say, honestly!;Seguro que lo harás.
 ;;Haven;"I was up that mountain the other day.\.
 You know which one I'm talking about right?";"I was up that mountain the other day.\.
 You know which one I'm talking about right?";"Sabes, el otro día, volví a aquella montaña.\.
@@ -4527,36 +4532,46 @@ Sí sabes a cuál me refiero, ¿verdad?"
 ;;Haven;I was surprised to see our flag was still there.;I was surprised to see our flag was still there.;"Y no me lo vas a creer, pero nuestra bandera
 aún seguía allí."
 ;;;You went back there?;You went back there?;¿Volviste?
-;;;I almost forgot about that;I almost forgot about that;
+;;;I almost forgot about that;I almost forgot about that;No la recordaba
 ;;Haven;"Yeah ...\.
 It looked kind of sad now.";"Yeah ...\.
-It looked kind of sad now.";
-;;Haven;But it still made me smile.;But it still made me smile.;
-;;Haven;I remember how you struggled at some parts!;I remember how you struggled at some parts!;
-;;Haven;I was proud that we did end up reaching the top.;I was proud that we did end up reaching the top.;
-;;Haven;Anyways, I sat there for a while.;Anyways, I sat there for a while.;
-;;Haven;Didn’t really think about anything.;Didn’t really think about anything.;
-;;Haven;... Can I say something kinda stupid?;... Can I say something kinda stupid?;
-;;;Please do;Please do;
-;;Haven;I'm so proud of you.;I'm so proud of you.;
-;;Haven;The fact that you're still here means a lot.;The fact that you're still here means a lot.;
-;;Haven;And I hope you can be proud of yourself too.;And I hope you can be proud of yourself too.;
+It looked kind of sad now.";"Sí...\.
+La recordaba un poco diferente..."
+;;Haven;But it still made me smile.;But it still made me smile.;Pero, aún así, fue bonito volver a estar allí.
+;;Haven;I remember how you struggled at some parts!;I remember how you struggled at some parts!;"Recuerdo que SIEMPRE te quedabas atrás.
+No eras muy ágil que digamos."
+;;Haven;I was proud that we did end up reaching the top.;I was proud that we did end up reaching the top.;"Y cuando por fin alcanzábamos la cima, me
+sentía tan feliz y orgullosa de mí misma."
+;;Haven;Anyways, I sat there for a while.;Anyways, I sat there for a while.;"Bueno, esta última vez que fui, me quedé
+un buen rato allá arriba..."
+;;Haven;Didn’t really think about anything.;Didn’t really think about anything.;Contemplando la vista en silencio...
+;;Haven;... Can I say something kinda stupid?;... Can I say something kinda stupid?;... Permiso para decir algo cursi.
+;;;Please do;Please do;Concedido
+;;Haven;I'm so proud of you.;I'm so proud of you.;*Jejeje*...\. Sabes, estoy orgullosa de ti. 
+;;Haven;The fact that you're still here means a lot.;The fact that you're still here means a lot.;"El simple hecho de que aún continues aquí 
+ya significa mucho para mí."
+;;Haven;And I hope you can be proud of yourself too.;And I hope you can be proud of yourself too.;"Espero que también estés orgulloso de ti
+así como yo lo estoy."
 ;;Haven;"Just wanted to say that since I don't know
 when we'll see each other again.";"Just wanted to say that since I don't know
-when we'll see each other again.";
-;;Haven;Who knows, maybe this would be the last time.;Who knows, maybe this would be the last time.;
+when we'll see each other again.";"Sé que pudo haber sonado algo cliché, pero
+sentí que debía decirtelo..."
+;;Haven;Who knows, maybe this would be the last time.;Who knows, maybe this would be the last time.;"Quién sabe... tal vez esta sea la última vez
+que nos veamos."
 ;;Haven;"You know ...\. maybe it's best that you have
 that flag.";"You know ...\. maybe it's best that you have
-that flag.";
-;;Haven;I brought it with me from the mountain.;I brought it with me from the mountain.;
+that flag.";"Ahora que lo pienso...\. Quizás sea mejor que
+te quedes con la bandera."
+;;Haven;I brought it with me from the mountain.;I brought it with me from the mountain.;La que estaba en la montaña.
 ;;Haven;"It’s still in my closet.\!
 If you want it, it’s yours.";"It’s still in my closet.\!
-If you want it, it’s yours.";
-;;Haven;Maybe it can make you feel safe.;Maybe it can make you feel safe.;
-;;Haven;I’m really glad we did this.;I’m really glad we did this.;
-;;Haven;Even if it’s the last time.;Even if it’s the last time.;
-;;Haven;You can stay here as long as you'd like.;You can stay here as long as you'd like.;
-;;Haven;And leave whenever you feel ready.;And leave whenever you feel ready.;
+If you want it, it’s yours.";"La puse en mi armario.\!
+Si quieres quedártela, es toda tuya."
+;;Haven;Maybe it can make you feel safe.;Maybe it can make you feel safe.;Tal vez te haga sentir más seguro.
+;;Haven;I’m really glad we did this.;I’m really glad we did this.;Estoy tan contenta de que hayamos hecho esto.
+;;Haven;Even if it’s the last time.;Even if it’s the last time.;Incluso si esta fue la última vez.
+;;Haven;You can stay here as long as you'd like.;You can stay here as long as you'd like.;Puedes quedarte aquí todo el tiempo que quieras.
+;;Haven;And leave whenever you feel ready.;And leave whenever you feel ready.;O irte... cuando te sientas listo.
 ;;;"This looks like one of the drawings I used to make
 when I was young.";"This looks like one of the drawings I used to make
 when I was young.";"Se parece a los dibujos que solía hacer de más
