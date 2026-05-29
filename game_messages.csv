@@ -479,7 +479,7 @@ I tried, even when it felt like it wasn’t enough.";
 ;;;An empty plate.;An empty plate.;Un plato vacío.
 ;;;I take a bite out of the toast.;I take a bite out of the toast.;Le doy un mordisco a la tostada.
 ;;;I take a bite out of a chicken nugget.;I take a bite out of a chicken nugget.;Le doy un mordisco al nugget de pollo.
-;;;I don't feel like eating.;I don't feel like eating.;No tengo ganas de comer.
+;;;I don't feel like eating.;I don't feel like eating.;No tengo ganas de desayunar.
 ;;;I take a sip of the milk.;I take a sip of the milk.;Bebo un sorbo de leche.
 ;;;I take a bite out of a grape.;I take a bite out of a grape.;Como una uva.
 ;;;I take a bite out of the egg.;I take a bite out of the egg.;Le doy un mordisco al huevo.
@@ -934,11 +934,12 @@ Stop touching my boombox!";
 English sentences.";"The lyrics are in Korean, with the occasional
 English sentences.";
 ;;;The Twins;The Twins;Los Gemelos
-;;The Twins;\etalk[11]Hey! It's you, dude!;\etalk[11]Hey! It's you, dude!;
+;;The Twins;\etalk[11]Hey! It's you, dude!;\etalk[11]Hey! It's you, dude!;\etalk[11]Hey, ¡que onda bro!
 ;;The Twins;"\etalk[11]Well, our ball broke while we were playing
 with it!";"\etalk[11]Well, our ball broke while we were playing
-with it!";
-;;The Twins;\etalk[11]Hell yeah!;\etalk[11]Hell yeah!;
+with it!";"\etalk[11]Nuestra pelota se desinfló mientras estábamos
+jugando. Qué mal."
+;;The Twins;\etalk[11]Hell yeah!;\etalk[11]Hell yeah!;\etalk[11]¡Eso!
 ;;;John;John;
 ;;John;Hi.;Hi.;
 ;;John;I'm John.;I'm John.;
@@ -1063,7 +1064,7 @@ A menos que quieras que te haga la vida imposible."
 ;;Vinnie;"Yeah, I already checked all the stalls for toilet
 paper.";"Yeah, I already checked all the stalls for toilet
 paper.";"Sí, ya he buscado, pero no encontré más."
-;;;I did my best.;I did my best.;Hice lo que pude.
+;;;I did my best.;I did my best.;Hice mi mejor esfuerzo.
 ;;Vinnie;Thanks for helping out.;Thanks for helping out.;Gracias por ayudar.
 ;;Vinnie;Why are you playing that in the restroom?;Why are you playing that in the restroom?;----------------------------------------
 ;;;I don't need to go now.;I don't need to go now.;------------------------------------------------
@@ -1105,7 +1106,7 @@ atrapado ahí. Era una tortura."
 ;;Jaxon;"You probably think that's impressive already, but 
 last week I managed to do 100 grams extra!";"You probably think that's impressive already, but 
 last week I managed to do 100 grams extra!";
-;;The Twins;\etalk[5]Hi! We're the twins!;\etalk[5]Hi! We're the twins!;\etalk[5]¡Yo, bro! ¡Somos los gemelos!
+;;The Twins;\etalk[5]Hi! We're the twins!;\etalk[5]Hi! We're the twins!;\etalk[5]¡Hey, bro! ¡Somos los gemelos!
 ;;The Twins;"\etalk[5]You probably noticed that we kinda look like
 each other ...";"\etalk[5]You probably noticed that we kinda look like
 each other ...";"\etalk[5]Seguro notaste que nos parecemos demasiado..."
@@ -2760,56 +2761,60 @@ drink.";Creo que son de papá, ya que mamá no bebía.
 ;;;It's mom's computer.;It's mom's computer.;La computadora de mamá.
 ;;;She didn't use it much, only for sending emails.;She didn't use it much, only for sending emails.;"Ella solo la usaba para enviar correos
 electrónicos y ese tipo de cosas."
-;;Haven;It’s time to finally face this, isn’t it?;It’s time to finally face this, isn’t it?;Ya es hora de enfrentarlo, ¿no crees?
+;;Haven;It’s time to finally face this, isn’t it?;It’s time to finally face this, isn’t it?;"Finalmente ha llegado este momento."
 ;;Haven;For years, you’ve been stuck with me in your mind.;For years, you’ve been stuck with me in your mind.;"Te has aferrado a mi recuerdo durante muchos
 años."
-;;Haven;I just want to see you happy ...;I just want to see you happy ...;Solo quiero verte feliz...
+;;Haven;I just want to see you happy ...;I just want to see you happy ...;Y yo, solo quiero verte feliz...
 ;;Haven;"...\| If climbing this mountain can help you
 achieve that,\. then you should at least try.";"...\| If climbing this mountain can help you
-achieve that,\. then you should at least try.";"...\| Si escalar esta montaña te ayuda a
-lograrlo,\. entonces va a valer la pena intentarlo."
-;;Haven;I’ll be here for you.;I’ll be here for you.;Aquí estaré para ti.
+achieve that,\. then you should at least try.";"Si escalar esta montaña te ayudará a
+lograrlo,\. entonces que así sea."
+;;Haven;I’ll be here for you.;I’ll be here for you.;Estaré esperandote aquí.
 ;;Haven;Do you wanna \c[1]save\c[0] yourself?;Do you wanna \c[1]save\c[0] yourself?;¿Quieres \c[1]guardar\c[0] este recuerdo?
 ;;Haven;"You’ve kept me in your head for so long.\!
 There's no denying it.";"You’ve kept me in your head for so long.\!
 There's no denying it.";"Has estado encaprichado conmigo todo este tiempo.\!
 No puedes negarlo."
 ;;Haven;It's like you want to hurt yourself.;It's like you want to hurt yourself.;Como si quisieras hacerte daño.
-;;Haven;Do you even know why you’re here?;Do you even know why you’re here?;¿Acaso sabes por qué estás aquí?
+;;Haven;Do you even know why you’re here?;Do you even know why you’re here?;¿Siquiera sabes por qué estás aquí?
 ;;;I don't know;I don't know;No lo sé
-;;;Why are you here?;Why are you here?;¿Por qué estás aquí?
+;;;Why are you here?;Why are you here?;¿Qué haces aquí?
 ;;Haven;"You want to feel it all again.\!
 All the moments that hurt ...";"You want to feel it all again.\!
-All the moments that hurt ...";
-;;Haven;... Until you finally break.;... Until you finally break.;
-;;;You made me.;You made me.;
-;;Haven;I didn't have a choice.;I didn't have a choice.;
+All the moments that hurt ...";"Nunca es suficiente para ti, ¿no?.\! Quieres
+volver a sentir todos esos dolorosos momentos."
+;;Haven;... Until you finally break.;... Until you finally break.;... Hasta quebrarte.
+;;;You made me.;You made me.;Tú me creaste.
+;;Haven;I didn't have a choice.;I didn't have a choice.;Nunca pedí estar aquí.
 ;;Haven;"This mountain ...\!
 It remembers what happened.";"This mountain ...\!
-It remembers what happened.";
-;;Haven;It collected all of our moments.;It collected all of our moments.;
-;;Haven;I want to help you. I do.;I want to help you. I do.;
-;;Haven;But I don't think you want me to.;But I don't think you want me to.;
-;;;Then don't;Then don't;
-;;;I need you here;I need you here;
-;;Haven;... You're making this so hard for me.;... You're making this so hard for me.;
-;;Haven;It hurts to see you like this.;It hurts to see you like this.;
+It remembers what happened.";"Esta montaña...\!
+aún recuerda lo que pasó."
+;;Haven;It collected all of our moments.;It collected all of our moments.;Ella conserva todos nuestros momentos juntos.
+;;Haven;I want to help you. I do.;I want to help you. I do.;Quiero ayudarte, en verdad que sí.
+;;Haven;But I don't think you want me to.;But I don't think you want me to.;Pero creo que tú no quieres mi ayuda.
+;;;Then don't;Then don't;No la quiero
+;;;I need you here;I need you here;Te necesito
+;;Haven;... You're making this so hard for me.;... You're making this so hard for me.;... Solo lo vuelves más difícil para mí.
+;;Haven;It hurts to see you like this.;It hurts to see you like this.;Me duele verte así.
 ;;Haven;"You don't.\!
 Not me.";"You don't.\!
-Not me.";
+Not me.";"No.\!
+No es a mí a quien necesitas."
 ;;Haven;"I'm not Haven.\!
 You've twisted your vision of her so much.";"I'm not Haven.\!
-You've twisted your vision of her so much.";
-;;Haven;The Haven you made up in your head isn't like her.;The Haven you made up in your head isn't like her.;
-;;Haven;I won’t stop you.;I won’t stop you.;
-;;Haven;But I have to ask.;But I have to ask.;
-;;Haven;Can you \c[1]save\c[0] yourself?;Can you \c[1]save\c[0] yourself?;
-;;Haven;I hope you feel safe again.;I hope you feel safe again.;
-;;Haven;That's fine, let me know if you change your mind.;That's fine, let me know if you change your mind.;
+You've twisted your vision of her so much.";"No soy la Haven que conoces."
+;;Haven;The Haven you made up in your head isn't like her.;The Haven you made up in your head isn't like her.;"Solo soy una representación distorsionada de ella
+que tú creaste en tu cabeza."
+;;Haven;I won’t stop you.;I won’t stop you.;... No voy a detenerte.
+;;Haven;But I have to ask.;But I have to ask.;Solo espero que puedas salvarte.
+;;Haven;Can you \c[1]save\c[0] yourself?;Can you \c[1]save\c[0] yourself?;¿Quieres \c[1]guardar\c[0] este momento antes de continuar?
+;;Haven;I hope you feel safe again.;I hope you feel safe again.;Buena suerte.
+;;Haven;That's fine, let me know if you change your mind.;That's fine, let me know if you change your mind.;Está bien. Aquí estaré por si cambias de opinión.
 ;;;"She has grown so much since then,\. while I’m still
 the same.";"She has grown so much since then,\. while I’m still
-the same.";"Ella ha crecido tanto desde entonces,\.
-pero yo sigo siendo el mismo."
+the same.";"Ella ha crecido bastante desde entonces,\.
+pero yo aún sigo siendo el mismo."
 ;;;I haven't changed.;I haven't changed.;No he cambiado.
 ;;John;Are you ready for your last challenge?;Are you ready for your last challenge?;¿Estás listo para tu último desafio?
 ;;John;"For your third challenge, you must sacrifice
@@ -3492,14 +3497,16 @@ He will.";"No olvidarás todo lo que has visto aquí.\|
 Pero él sí lo hará."
 ;;;"Even if he might not change, at least we know you
 did.";"Even if he might not change, at least we know you
-did.";"Incluso aunque al final decida no cambiar, ambos
-sabremos que tú sí lo hiciste."
+did.";"Incluso aunque al final decida no cambiar, por
+lo menos tú sí lo hiciste."
 ;;;You did the best you could.;You did the best you could.;Te has esforzado tanto.
-;;;At the bottom of everything, you remain.;At the bottom of everything, you remain.;
+;;;At the bottom of everything, you remain.;At the bottom of everything, you remain.;"Aún sigues aquí en este mundo inferior...
+Ya no más."
 ;;;"Climb out of the hole you entered from, and open
 the door.";"Climb out of the hole you entered from, and open
-the door.";
-;;;Thank you, vessel.;Thank you, vessel.;
+the door.";"Sube uando la cuerda, no pares hasta llegar a la
+superficie, y abre la puerta."
+;;;Thank you, vessel.;Thank you, vessel.;Gracias...
 ;;;You've made it through.;You've made it through.;
 ;;;You didn't stop.;You didn't stop.;
 ;;;You faced parts of the past, piece by piece.;You faced parts of the past, piece by piece.;
@@ -3520,7 +3527,7 @@ heavy as before.";
 best.";"Even if he might not change, we know you did your
 best.";
 ;;;Good luck, vessel.;Good luck, vessel.;
-;;;Do you want to climb the rope?;Do you want to climb the rope?;
+;;;Do you want to climb the rope?;Do you want to climb the rope?;¿Trepar por la cuerda?
 ;;;"It's a stone etched with a drawing of a man
 smoking.";"It's a stone etched with a drawing of a man
 smoking.";"La piedra tiene tallado el dibujo de un
@@ -3766,84 +3773,98 @@ Aunque sea una fracción de segundo."
 ;;;But I can’t talk to her.;But I can’t talk to her.;
 ;;;I can’t even say her name.;I can’t even say her name.;
 ;;;How do I know if I'm ready?;How do I know if I'm ready?;
-;;;I'm not sure if this will work.;I'm not sure if this will work.;
-;;;I guess there's no real way of knowing.;I guess there's no real way of knowing.;
-;;;I'll just have to hope for the best.;I'll just have to hope for the best.;
-;;;What is going to happen to me?;What is going to happen to me?;
-;;;Will I still be conscious?;Will I still be conscious?;
-;;;Or will it feel like dying?;Or will it feel like dying?;
-;;;I guess I don't have much of a choice.;I guess I don't have much of a choice.;
-;;;If I don't return, he might not wake up.;If I don't return, he might not wake up.;
-;;;I have moved on.;I have moved on.;
+;;;I'm not sure if this will work.;I'm not sure if this will work.;No sé si esto funcionará.
+;;;I guess there's no real way of knowing.;I guess there's no real way of knowing.;Supongo que la única forma de saberlo...
+;;;I'll just have to hope for the best.;I'll just have to hope for the best.;Es continuar avanzando, y esperar lo mejor.
+;;;What is going to happen to me?;What is going to happen to me?;¿Qué pasará conmigo?
+;;;Will I still be conscious?;Will I still be conscious?;¿Seguiré consciente?
+;;;Or will it feel like dying?;Or will it feel like dying?;¿O... desapareceré?
+;;;I guess I don't have much of a choice.;I guess I don't have much of a choice.;No tengo opción.
+;;;If I don't return, he might not wake up.;If I don't return, he might not wake up.;Si no vuelvo, quizá el nunca despierte.
+;;;I have moved on.;I have moved on.;Y seguí adelante... Nunca me rendí.
 ;;;"I’ve always found something comforting about
 bus rides.";"I’ve always found something comforting about
-bus rides.";
-;;;They gave me time to think.;They gave me time to think.;
-;;;It's peaceful.;It's peaceful.;
-;;;Like an empty void.;Like an empty void.;
-;;;I’ve been asleep for a long time.;I’ve been asleep for a long time.;
+bus rides.";"Es curioso, cada viaje en autobús siempre
+logra reconfortarme."
+;;;They gave me time to think.;They gave me time to think.;Quizá sea por que me da tiempo para pensar.
+;;;It's peaceful.;It's peaceful.;Y es tan tranquilo.
+;;;Like an empty void.;Like an empty void.;Como un paseo por el parque.
+;;;I’ve been asleep for a long time.;I’ve been asleep for a long time.;He estado dormido por un largo tiempo.
 ;;;"Not just these past seven days, but before that
 too.";"Not just these past seven days, but before that
-too.";
-;;;I've been hiding inside him.;I've been hiding inside him.;
+too.";"No solo estos últimos siete días, sino desde
+mucho antes."
+;;;I've been hiding inside him.;I've been hiding inside him.;"Me he estado escondiendo dentro de él todo
+este tiempo."
 ;;;"Trying to forget my past, pretending I don't miss
 anything.";"Trying to forget my past, pretending I don't miss
-anything.";
-;;;But I missed so many things.;But I missed so many things.;
-;;;I missed myself.;I missed myself.;
+anything.";"Tratando de olvidar el pasado. Pretendiendo que
+estaba mejor así, que no me perdía de nada."
+;;;But I missed so many things.;But I missed so many things.;Pero no era verdad.
+;;;I missed myself.;I missed myself.;Me perdí a mi mismo.
 ;;;"Rotting in my room for so long has made me
 forget who I was.";"Rotting in my room for so long has made me
-forget who I was.";
-;;;Who I could become.;Who I could become.;
+forget who I was.";"Pasé encerrado en mi habitación por tanto
+tiempo que olvidé quién era."
+;;;Who I could become.;Who I could become.;O quién podría llegar a ser.
 ;;;"In the past, I was always thinking if this all
 was my fault.";"In the past, I was always thinking if this all
-was my fault.";
-;;;If I turned myself into this kind of person.;If I turned myself into this kind of person.;
-;;;If I could have done more to change.;If I could have done more to change.;
-;;;But now I think ...;But now I think ...;
+was my fault.";Solía pensar si todo esto era culpa mía.
+;;;If I turned myself into this kind of person.;If I turned myself into this kind of person.;"Si en realidad yo era la razón de que
+estubiera en ese estado."
+;;;If I could have done more to change.;If I could have done more to change.;Si pudiera haber más por tratar de cambiar.
+;;;But now I think ...;But now I think ...;Pero ahora que lo pienso mejor...
 ;;;"Maybe it's not about blaming myself.\!
 Maybe it's understanding.";"Maybe it's not about blaming myself.\!
-Maybe it's understanding.";
+Maybe it's understanding.";"Tal vez no debí enfocarme en buscar algún
+culpable por mi situación,\! sino en superarla."
 ;;;"Revisiting these moments without letting them
 define who I am.";"Revisiting these moments without letting them
-define who I am.";
-;;;Seeing my younger self in those memories ...;Seeing my younger self in those memories ...;
-;;;It made me think differently.;It made me think differently.;
-;;;I don't hate him anymore.;I don't hate him anymore.;
-;;;He was doing his best.;He was doing his best.;
-;;;I don't know what's waiting for me when I wake up.;I don't know what's waiting for me when I wake up.;
-;;;He might not change at all.;He might not change at all.;
+define who I am.";"No dejar que mis traumas definan la persona
+que soy."
+;;;Seeing my younger self in those memories ...;Seeing my younger self in those memories ...;Ver a mi yo del pasado...
+;;;It made me think differently.;It made me think differently.;Me ha ayudado a pensar diferente.
+;;;I don't hate him anymore.;I don't hate him anymore.;Ya no lo odio más.
+;;;He was doing his best.;He was doing his best.;Sé que estaba esforzandose.
+;;;I don't know what's waiting for me when I wake up.;I don't know what's waiting for me when I wake up.;"No sé qué es lo que me espera cuando
+por fin despierte."
+;;;He might not change at all.;He might not change at all.;Tal vez él decida que no quiere cambiar.
 ;;;"He might just return to the same life he always
 had.";"He might just return to the same life he always
-had.";
-;;;Just swimming in the same old circles.;Just swimming in the same old circles.;
-;;;But maybe,\| he’ll be able to breathe a little easier.;But maybe,\| he’ll be able to breathe a little easier.;
-;;;Maybe he'll remember the feeling of moving on.;Maybe he'll remember the feeling of moving on.;
-;;;Maybe he won’t be okay right away.;Maybe he won’t be okay right away.;
-;;;Maybe it’ll take time.;Maybe it’ll take time.;
-;;;But that's okay too.;But that's okay too.;
-;;;Because I know I moved on.;Because I know I moved on.;
-;;;And maybe,\| he'll do the same.;And maybe,\| he'll do the same.;
-;;;You are so tired.;You are so tired.;
-;;;It's a knife.;It's a knife.;
-;;;A lamp.;A lamp.;
-;;;I don't need to call anyone.;I don't need to call anyone.;
+had.";Y continue llevando la misma vida de siempre.
+;;;Just swimming in the same old circles.;Just swimming in the same old circles.;Repitiendo los mismos errores.
+;;;But maybe,\| he’ll be able to breathe a little easier.;But maybe,\| he’ll be able to breathe a little easier.;Pero tal vez,\| solo tal vez..
+;;;Maybe he'll remember the feeling of moving on.;Maybe he'll remember the feeling of moving on.;"Logre recordar cómo es que se siente querer
+superar el pasado."
+;;;Maybe he won’t be okay right away.;Maybe he won’t be okay right away.;Tal vez le cueste al principio...
+;;;Maybe it’ll take time.;Maybe it’ll take time.;Tal vez le tome un tiempo...
+;;;But that's okay too.;But that's okay too.;Y eso está bien.
+;;;Because I know I moved on.;Because I know I moved on.;Lo digo por experiencia.
+;;;And maybe,\| he'll do the same.;And maybe,\| he'll do the same.;"Si al final logra seguir adelante,
+entonces todo habrá valido la pena."
+;;;You are so tired.;You are so tired.;Estás exhausto.
+;;;It's a knife.;It's a knife.;Es un cuchillo.
+;;;A lamp.;A lamp.;Una lámpara.
+;;;I don't need to call anyone.;I don't need to call anyone.;No necesito llamar a nadie.
 ;;;"It was a sunny evening, and I was listening
 to some music.";"It was a sunny evening, and I was listening
-to some music.";
-;;;Then, Haven appeared.;Then, Haven appeared.;
-;;;Back then, I had no idea who she was.;Back then, I had no idea who she was.;
+to some music.";"Era una tarde soleada. Yo estaba escuchando
+un poco de música."
+;;;Then, Haven appeared.;Then, Haven appeared.;Y, de la nada, apareció una chica. Era Haven.
+;;;Back then, I had no idea who she was.;Back then, I had no idea who she was.;Claro, en ese momento yo no sabía quién era.
 ;;;"But in hindsight, it was the start of something
 terrible.";"But in hindsight, it was the start of something
-terrible.";
-;;;She asked me for my email, and I agreed.;She asked me for my email, and I agreed.;
-;;;She then simply walked away.;She then simply walked away.;
-;;;I went home shortly after that.;I went home shortly after that.;
-;;;I couldn't believe that had just happened to me.;I couldn't believe that had just happened to me.;
+terrible.";"Y desearía nunca haberlo sabido..."
+;;;She asked me for my email, and I agreed.;She asked me for my email, and I agreed.;"Ella me preguntó por mi correo electrónico,
+yo se lo di."
+;;;She then simply walked away.;She then simply walked away.;Después de anotarlo, ella solo se fue a casa.
+;;;I went home shortly after that.;I went home shortly after that.;Yo también me fui al poco rato.
+;;;I couldn't believe that had just happened to me.;I couldn't believe that had just happened to me.;No podía creer lo que había pasado.
 ;;;"She eventually sent an email, and asked if I wanted
 to hang out with her.";"She eventually sent an email, and asked if I wanted
-to hang out with her.";
-;;;I was curious to what could happen between us.;I was curious to what could happen between us.;
+to hang out with her.";"Al día siguiente, ella me envió un correo preguntando
+si podíamos vernos."
+;;;I was curious to what could happen between us.;I was curious to what could happen between us.;"Y, para ser sincero,"
 ;;;If only I didn't respond back ...;If only I didn't respond back ...;
 ;;;"We met under a big tree nearby the park.\!
 She brought some snacks and apple juice.";"We met under a big tree nearby the park.\!
@@ -4185,11 +4206,11 @@ el camino que decidiste seguir."
 ;;;You keep looking back, don't you?;You keep looking back, don't you?;Aún te cuesta dejar ir el pasado, ¿no?
 ;;;"Staring at those moments like they're still
 actually happening.";"Staring at those moments like they're still
-actually happening.";"Revives aquellos momentos una y otra vez en
+actually happening.";"Revives aquellos recuerdos una y otra vez en
 tu mente."
 ;;;"You're afraid of something.\!
 You're afraid because what if it happens again?";"You're afraid of something.\!
-You're afraid because what if it happens again?";"Te asusta, ¿no?\!
+You're afraid because what if it happens again?";"Te asusta, ¿no es así?\!
 Te asusta que vuelva a pasar."
 ;;;"Adults are just the older versions of their
 younger selves, right?";"Adults are just the older versions of their
@@ -4231,7 +4252,7 @@ it disappear?";
 ;;;I take a sip of the tea.;I take a sip of the tea.;
 ;;;...\| it tastes wet.;...\| it tastes wet.;
 ;;;I should probably go eat dinner now.;I should probably go eat dinner now.;Tal vez debería ir a cenar.
-;;;Can you begin to see what it truly means?;Can you begin to see what it truly means?;¿Logras percibir lo que eso significa?
+;;;Can you begin to see what it truly means?;Can you begin to see what it truly means?;¿Logras percibir lo que eso realmente significa?
 ;;;Your life here wasn't perfect, but they mattered.;Your life here wasn't perfect, but they mattered.;"Tu vida no fue perfecta, en lo absoluto,
 pero aún así, siempre fueron inportantes."
 ;;;"Those moments ...\!
@@ -4261,38 +4282,46 @@ It's a big step you've taken compared to the past.";"... \.No lo estás haciendo
 Y ese es un gran paso que has dado."
 ;;;"There's still more to uncover.\!
 More moments from the past you'll explore.";"There's still more to uncover.\!
-More moments from the past you'll explore.";"Aún tenemos mucho más a explorar.\!
-Más recuerdos que deben ser revisitados."
+More moments from the past you'll explore.";"Todavía nos queda mucho por revelar,\!
+y escenarios por explorar."
 ;;;...\| Can you bear seeing more of the past?;...\| Can you bear seeing more of the past?;...\| ¿Crees que podrás continuar?
 ;;;I'll try my best;I'll try my best;Trataré
 ;;;It's hard;It's hard;Es difícil
-;;;...\| You should head to the bus stop.;...\| You should head to the bus stop.;...\| Ve hacia la parada de autobús.
+;;;...\| You should head to the bus stop.;...\| You should head to the bus stop.;...\| Ve hacia la parada del autobús.
 ;;;"You keep holding on.\!
 You're nothing without those memories.";"You keep holding on.\!
-You're nothing without those memories.";"Sí, lo es, pero debes seguir.\!
-Tu vida no significa nada sin ellos."
+You're nothing without those memories.";"Te sigues aferrando.\!
+No eres nada sin esos recuerdos."
 ;;;"They'll be lost if you don't revisit them.\!
 You're breaking yourself.";"They'll be lost if you don't revisit them.\!
-You're breaking yourself.";""
+You're breaking yourself.";"Si decides ignorarlos, acabarás perdiéndolos.\!
+Te estás quebrando."
 ;;;"It's not like it matters anymore.\!
 They're already dead.";"It's not like it matters anymore.\!
-They're already dead.";
+They're already dead.";"De todos modos, nada de eso importa más,\!
+ya están muertos."
 ;;;"You didn't care about how dad crashed his car, or
 how mommy stabbed herself to death afterwards.";"You didn't care about how dad crashed his car, or
-how mommy stabbed herself to death afterwards.";
-;;;You lied about visiting them and it haunts you.;You lied about visiting them and it haunts you.;
+how mommy stabbed herself to death afterwards.";"No te importó cuando papá chocó su carro, o cuando
+mamá se quitó la vida con un cuchillo."
+;;;You lied about visiting them and it haunts you.;You lied about visiting them and it haunts you.;"Mentiste cuando dijiste que irías a visitarlos,
+y eso te atormenta."
 ;;;"These moments are the only way to see them.\!
 And they'll haunt you too.";"These moments are the only way to see them.\!
-And they'll haunt you too.";
+And they'll haunt you too.";"Y ahora que los viste de nuevo, su recuerdo
+no te dejará en paz."
 ;;;"... \.But you're not running away.\!
 Instead, you're directly interacting with them.";"... \.But you're not running away.\!
-Instead, you're directly interacting with them.";
+Instead, you're directly interacting with them.";"...\. De hecho, no lo hiciste.\!
+Sino que incluso pasaste tiempo con ellos."
 ;;;"You've thought so many times about these times.
 And every time you'd defend\., regret,\. and hate it.";"You've thought so many times about these times.
-And every time you'd defend\., regret,\. and hate it.";
-;;;The weight you carry will only be heavier.;The weight you carry will only be heavier.;
-;;;I have to look;I have to look;
-;;;I can't handle this anymore;I can't handle this anymore;
+And every time you'd defend\., regret,\. and hate it.";"Habías imaginado este escenario tantas veces,
+pero nunca supiste cómo sentirte al respecto."
+;;;The weight you carry will only be heavier.;The weight you carry will only be heavier.;"El peso que ya llevas sobre los hombros
+solo se hará mayor."
+;;;I have to look;I have to look;Lo haré
+;;;I can't handle this anymore;I can't handle this anymore;Ya no puedo más
 ;;;You're ignoring them.; You're ignoring them.;
 ;;;You can't bear the fact of facing the past.;You can't bear the fact of facing the past.;
 ;;;What would you achieve with this?;What would you achieve with this?;
@@ -4308,10 +4337,10 @@ your mind.";"We gave you the opportunity to change
 your mind.";
 ;;;"What happened in this house is something you
 shouldn't run away from.";"What happened in this house is something you
-shouldn't run away from.";
+shouldn't run away from.";No debes huir de lo que ocurrió en esta casa.
 ;;;... \.And yet, you are.;... \.And yet, you are.;
 ;;;The choice is ultimately yours.;The choice is ultimately yours.;
-;;;I can't;I can't;
+;;;I can't;I can't;No puedo
 ;;;There you are.;There you are.;Ahí estás.
 ;;;It wasn’t easy, but you finally came around.;It wasn’t easy, but you finally came around.;No fue fácil, pero al fin has llegado.
 ;;;"I wondered if you’d keep running in circles
