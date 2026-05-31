@@ -134,7 +134,7 @@ Aquí estaré para ti."
 ;;Haven;Hey, you wanna \c[1]save \c[0]again?;Hey, you wanna \c[1]save \c[0]again?;¿Quieres que te \c[1]guarde\c[0] algún recuerdo?
 ;;;Sure;Sure;Okey
 ;;;Not now;Not now;No
-;;Haven;I hope you feel safe again!;I hope you feel safe again!;¡Espero que te sientas mejor ahora!
+;;Haven;I hope you feel safe again!;I hope you feel safe again!;¡Espero que te sientas mejor!
 ;;Haven;That's fine, let me know if you change your mind!;That's fine, let me know if you change your mind!;Bueno, aquí estaré por si cambias de opinión.
 ;;Haven;Hi! How are you feeling?;Hi! How are you feeling?;Y... ¿cómo te sientes hoy?
 ;;;I'm okay;I'm okay;Estoy bien
@@ -2809,7 +2809,7 @@ que tú creaste en tu cabeza."
 ;;Haven;I won’t stop you.;I won’t stop you.;... No voy a detenerte.
 ;;Haven;But I have to ask.;But I have to ask.;Solo espero que puedas salvarte.
 ;;Haven;Can you \c[1]save\c[0] yourself?;Can you \c[1]save\c[0] yourself?;¿Quieres \c[1]guardar\c[0] este momento antes de continuar?
-;;Haven;I hope you feel safe again.;I hope you feel safe again.;Buena suerte.
+;;Haven;I hope you feel safe again.;I hope you feel safe again.;Espero que te sientas mejor.
 ;;Haven;That's fine, let me know if you change your mind.;That's fine, let me know if you change your mind.;Está bien. Aquí estaré por si cambias de opinión.
 ;;;"She has grown so much since then,\. while I’m still
 the same.";"She has grown so much since then,\. while I’m still
@@ -2839,7 +2839,7 @@ earbuds.";"I thought I recognized that song from your cheap
 earbuds.";"Creí reconocer esa canción que estabas
 esuchando en esos audífonos baratos."
 ;;Haven;I loved listening to their music back then.;I loved listening to their music back then.;Me encantaba escuchar su música en ese tiempo.
-;;;You don't remember.;You don't remember.;No te acuerdas.
+;;;You don't remember.;You don't remember.;No logras recordar.
 ;;;"It looks like you can pull off the shadow.\!
 Take it off?";"It looks like you can pull off the shadow.\!
 Take it off?";"Parece que puedes remover la sombra.\!
@@ -4360,24 +4360,30 @@ pero nunca supiste cómo sentirte al respecto."
 solo se hará mayor."
 ;;;I have to look;I have to look;Lo haré
 ;;;I can't handle this anymore;I can't handle this anymore;Ya no puedo más
-;;;You're ignoring them.; You're ignoring them.;
-;;;You can't bear the fact of facing the past.;You can't bear the fact of facing the past.;
-;;;What would you achieve with this?;What would you achieve with this?;
+;;;You're ignoring them.; You're ignoring them.;Los ignoras.
+;;;You can't bear the fact of facing the past.;You can't bear the fact of facing the past.;Te rehusas a confrontar el pasado.
+;;;What would you achieve with this?;What would you achieve with this?;¿Qué intentas lograr con esto?
 ;;;"It's not our choice to determine whether you
 will get something out of this.";"It's not our choice to determine whether you
-will get something out of this.";
-;;;...\| Maybe you can forget about them.;...\| Maybe you can forget about them.;
+will get something out of this.";"No nos corresponde a nosotros decidir el
+resultado de esta acción tuya."
+;;;...\| Maybe you can forget about them.;...\| Maybe you can forget about them.;"...\| Tú decides si quieres olvidarlos,
+dejar todo esto atrás."
 ;;;"Leave it all behind you.\.
 Why would you look back if you can't change it?";"Leave it all behind you.\.
-Why would you look back if you can't change it?";
+Why would you look back if you can't change it?";"""¿Para qué explorar un escenario que nunca
+sucederá?"". Es así como lo ves, ¿no?"
 ;;;"We gave you the opportunity to change
 your mind.";"We gave you the opportunity to change
-your mind.";
+your mind.";"Te dimos la oportunidad de por fin superar
+este trauma, de enfrentarlo."
 ;;;"What happened in this house is something you
 shouldn't run away from.";"What happened in this house is something you
-shouldn't run away from.";No debes huir de lo que ocurrió en esta casa.
-;;;... \.And yet, you are.;... \.And yet, you are.;
-;;;The choice is ultimately yours.;The choice is ultimately yours.;
+shouldn't run away from.";"No deberías seguir huyendo de lo que ocurrió
+en esta casa."
+;;;... \.And yet, you are.;... \.And yet, you are.;"...\. Y eso es precisamente lo que insistes
+en hacer."
+;;;The choice is ultimately yours.;The choice is ultimately yours.;La decisión final es tuya.
 ;;;I can't;I can't;No puedo
 ;;;There you are.;There you are.;Ahí estás.
 ;;;It wasn’t easy, but you finally came around.;It wasn’t easy, but you finally came around.;No fue fácil, pero al fin has llegado.
