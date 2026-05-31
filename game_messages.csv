@@ -435,10 +435,10 @@ superar aquello que te asusta."
 ;;;It seems like the door is locked.;It seems like the door is locked.;Parece que está cerrada con llave.
 ;;;Are you ready?;Are you ready?;¿Estás listo?
 ;;;You unlock the door with your key.;You unlock the door with your key.;Abres la puerta con tu llave.
-;;;You always told yourself it would be different.;You always told yourself it would be different.;Siempre pensaste que sería diferente.
-;;;Someday you would face it all.;Someday you would face it all.;
-;;;But you never really wanted to change.;But you never really wanted to change.;
-;;;Rot.;Rot.;
+;;;You always told yourself it would be different.;You always told yourself it would be different.;Nunca imaginaste que terminaría así.
+;;;Someday you would face it all.;Someday you would face it all.;Vez tras vez te decías que lograrías superarlo algún día.
+;;;But you never really wanted to change.;But you never really wanted to change.;Al final,\. solo te estabas engañando.
+;;;Rot.;Rot.;Pútrido.
 ;;;"I’m not sure if I’m healed.\!
 Maybe I’ll never be.";"I’m not sure if I’m healed.\!
 Maybe I’ll never be.";
@@ -3763,21 +3763,21 @@ Even if it’s just for a little while.";"Anhelaba tanto volverte a ver...\!
 Aunque sea una fracción de segundo."
 ;;;I think that’s enough.;I think that’s enough.;Gracias.
 ;;;I’ll be okay.;I’ll be okay.;Voy a estar bien.
-;;;...\| No.;...\| No.;
-;;;Not her.;Not her.;
-;;;I can't ...;I can't ...;
-;;;I don’t want to see her.;I don’t want to see her.;
-;;;She doesn’t deserve this.;She doesn’t deserve this.;
-;;;I was supposed to protect her.;I was supposed to protect her.;
-;;;I just wanted to show her the park ...;I just wanted to show her the park ...;
-;;;I couldn't know it would lead to this ...;I couldn't know it would lead to this ...;
-;;;It happened so quickly.;It happened so quickly.;
-;;;I remember the sound.;I remember the sound.;
-;;;I can't get it out of my head.;I can't get it out of my head.;
-;;;I know she’s waiting.;I know she’s waiting.;
-;;;But I can’t talk to her.;But I can’t talk to her.;
-;;;I can’t even say her name.;I can’t even say her name.;
-;;;How do I know if I'm ready?;How do I know if I'm ready?;
+;;;...\| No.;...\| No.;...\| No.
+;;;Not her.;Not her.;Ella no.
+;;;I can't ...;I can't ...;No puedo...
+;;;I don’t want to see her.;I don’t want to see her.;No quiero verla.
+;;;She doesn’t deserve this.;She doesn’t deserve this.;Ella no se merece nada de esto.
+;;;I was supposed to protect her.;I was supposed to protect her.;Se supone que debía protegerla.
+;;;I just wanted to show her the park ...;I just wanted to show her the park ...;Solo quería llevarla al parque...
+;;;I couldn't know it would lead to this ...;I couldn't know it would lead to this ...;Nunca imaginé que esto pasaría...
+;;;It happened so quickly.;It happened so quickly.;Fue tan rápido.
+;;;I remember the sound.;I remember the sound.;Aún recuerdo aquel sonido desgarrador.
+;;;I can't get it out of my head.;I can't get it out of my head.;Nunca pude sacarlo de mi mente.
+;;;I know she’s waiting.;I know she’s waiting.;Ella está esperando que le hable.
+;;;But I can’t talk to her.;But I can’t talk to her.;Pero no puedo.
+;;;I can’t even say her name.;I can’t even say her name.;Ni siquiera consigo pronunciar su nombre.
+;;;How do I know if I'm ready?;How do I know if I'm ready?;¿Cómo sabré cuándo realmente esté listo?
 ;;;I'm not sure if this will work.;I'm not sure if this will work.;No sé si esto funcionará.
 ;;;I guess there's no real way of knowing.;I guess there's no real way of knowing.;Supongo que la única forma de saberlo...
 ;;;I'll just have to hope for the best.;I'll just have to hope for the best.;Es continuar avanzando, y esperar lo mejor.
@@ -4041,14 +4041,14 @@ Torn between two sharp rocks.";"La manta está toda rota,\!
 aplastada entre dos rocas."
 ;;;There's a hole in the sandpit.;There's a hole in the sandpit.;Hay un hueco en el arenero.
 ;;;Go ahead, we don't have that much time.;Go ahead, we don't have that much time.;Adelante, no tenemos mucho tiempo.
-;;;You're sick.;You're sick.;Qué ser desagrable.
+;;;You're sick.;You're sick.;Qué ser desagradable.
 ;;;I can't believe we hoped you could change.;I can't believe we hoped you could change.;Fuimos unos necios al pensar que podrías cambiar.
-;;;They're gone.;They're gone.;
-;;;Huh?;Huh?;
-;;;...\. No, they’re just lost, right?;...\. No, they’re just lost, right?;
+;;;They're gone.;They're gone.;Se han ido.
+;;;Huh?;Huh?;¿Qué?
+;;;...\. No, they’re just lost, right?;...\. No, they’re just lost, right?;...\. No, ellos solo... están perdidos.
 ;;;"We just need to look, that’s what you’re
 supposed to do when someone’s lost.";"We just need to look, that’s what you’re
-supposed to do when someone’s lost.";
+supposed to do when someone’s lost.";Vamos, tenemos que ir a buscarlos.
 ;;;"A little wind, a summer sun
 A river rich and regal";"A little wind, a summer sun
 A river rich and regal";
@@ -4061,40 +4061,41 @@ You see things much more clear than from the ground";
 ;;;"It’s all okay, it would be
 Were you not now halfway down";"It’s all okay, it would be
 Were you not now halfway down";
-;;;They're dead.;They're dead.;
-;;;No ...;No ...;
-;;;That can't be right ...;That can't be right ...;
-;;;They promised ...;They promised ...;
-;;;Why would they leave me alone ...?;Why would they leave me alone ...?;
-;;;I'll ...;I'll ...;
-;;;I'll wait ...;I'll wait ...;
-;;;They'll come back ...;They'll come back ...;
-;;;They'll ...;They'll ...;
-;;;Come ...;Come ...;
-;;;Jump.;Jump.;
-;;;I ruined everything.;I ruined everything.;
-;;;You'll never be the same.;You'll never be the same.;
-;;;You’ve been so quiet lately.;You’ve been so quiet lately.;
-;;;Is that supposed to be comforting?;Is that supposed to be comforting?;
-;;;What are you even still doing here?;What are you even still doing here?;
-;;;You're not her.;You're not her.;
-;;;And I don't need you anymore.;And I don't need you anymore.;
-;;;I never needed you.;I never needed you.;
+;;;They're dead.;They're dead.;Están muertos.
+;;;No ...;No ...;No...
+;;;That can't be right ...;That can't be right ...;No, no, no...
+;;;They promised ...;They promised ...;Ellos lo prometieron...
+;;;Why would they leave me alone ...?;Why would they leave me alone ...?;¿Por qué me abandonarían?
+;;;I'll ...;I'll ...;Los...
+;;;I'll wait ...;I'll wait ...;Los voy a esperar...
+;;;They'll come back ...;They'll come back ...;Seguro que van a volver...
+;;;They'll ...;They'll ...;...
+;;;Come ...;Come ...;Lo harán...
+;;;Jump.;Jump.;Saltar.
+;;;I ruined everything.;I ruined everything.;Todo lo arruiné.
+;;;You'll never be the same.;You'll never be the same.;Nunca serás el mismo.
+;;;You’ve been so quiet lately.;You’ve been so quiet lately.;Has estado muy callado últimamente.
+;;;Is that supposed to be comforting?;Is that supposed to be comforting?;¿Se supone que eso debe hacerte sentir mejor?
+;;;What are you even still doing here?;What are you even still doing here?;¿Por qué aún sigues aquí?
+;;;You're not her.;You're not her.;No eres ella.
+;;;And I don't need you anymore.;And I don't need you anymore.;No te necesito.
+;;;I never needed you.;I never needed you.;De hecho, nunca lo hice.
 ;;;"You said you'd always be there for me, but
 it never felt that way.";"You said you'd always be there for me, but
-it never felt that way.";
-;;;It never felt real.;It never felt real.;
-;;;You were never real.;You were never real.;
-;;;I’m sick of it.;I’m sick of it.;
-;;;Say something.;Say something.;
-;;;Anything.;Anything.;
-;;;Nothing?;Nothing?;
-;;;No\. more\. voice.;No\. more\. voice.;
-;;;No\. more\. safe.;No\. more\. safe.;
-;;;No\. more\. pretending.;No\. more\. pretending.;
-;;;No\| more\| voice.;No\| more\| voice.;
-;;;"No\| more\| being\| ""safe"".";"No\| more\| being\| ""safe"".";
-;;;I'm done with you.;I'm done with you.;
+it never felt that way.";"Dijiste que estarías a mi lado cuando te
+necesitara, pero solo eran palabras vacías."
+;;;It never felt real.;It never felt real.;Nunca fue real.
+;;;You were never real.;You were never real.;Nunca fuiste real.
+;;;I’m sick of it.;I’m sick of it.;Estoy harto.
+;;;Say something.;Say something.;DI algo.
+;;;Anything.;Anything.;¿Eh?
+;;;Nothing?;Nothing?;¿Ni una sola palabra?
+;;;No\. more\. voice.;No\. more\. voice.;Basta\. de\. palabras.
+;;;No\. more\. safe.;No\. more\. safe.;Basta\. de\. sentirse\. ""seguro"".
+;;;No\. more\. pretending.;No\. more\. pretending.;Basta\. de\. fingir.
+;;;No\| more\| voice.;No\| more\| voice.;Basta\| de\| palabras.
+;;;"No\| more\| being\| ""safe"".";"No\| more\| being\| ""safe"".";Basta\| de\| sentirse\| ""seguro"".
+;;;I'm done with you.;I'm done with you.;Se acabó. Ahora lárgate.
 ;;;One day,\. everything will have to go.;One day,\. everything will have to go.;A todo\. y a todos les llega su final.
 ;;;All of our progress as living creatures for nothing.;All of our progress as living creatures for nothing.;"En ese momento, todo lo que conseguiste
 en vida será en vano."
@@ -4396,7 +4397,7 @@ por delante."
 ;;;"Throughout the days, you’ve come across
 the others.";"Throughout the days, you’ve come across
 the others.";Esta no es la primera vez que nos encontramos.
-;;;The Loneliness.;The Loneliness.;Soy ""Soledad"", así nos llamamos.
+;;;The Loneliness.;The Loneliness.;La ""Soledad"".
 ;;;Each one of us pulled from the loneliness he felt.;Each one of us pulled from the loneliness he felt.;"Nos originamos de él... nutridos por cada miedo,
 culpa, humillación y resentimiento suyo."
 ;;;"We've never been able to get in touch with him
@@ -4761,15 +4762,15 @@ ser diferente."
 ;;;You remember it, don’t you?;You remember it, don’t you?;Te acuerdas, ¿no es así?
 ;;;I didn’t show up one day out of nowhere.;I didn’t show up one day out of nowhere.;No aparecimos de la nada.
 ;;;At first, it was just a feeling.;At first, it was just a feeling.;Todo empezó como una simple sensación.
-;;;You didn't feel safe around these people.;You didn't feel safe around these people.;No te sentías seguro al estar rodeado por otros.
-;;;You were alone.;You were alone.;Querías sentirte solo.
+;;;You didn't feel safe around these people.;You didn't feel safe around these people.;No te sentías cómodo al estar rodeado por otros.
+;;;You were alone.;You were alone.;Sentías que estabas mejor solo.
 ;;;"So you kept to yourself.\!
 And quietly, something began to grow from inside.";"So you kept to yourself.\!
-And quietly, something began to grow from inside.";"Así que decidiste aislarte.\! Fue entonces
-cuando algo comenzó a crecer en tu interior."
-;;;You couldn't see it, but you felt it.;You couldn't see it, but you felt it.;"No conseguías verlo, pero estaba allí;
+And quietly, something began to grow from inside.";"Así que te fuiste aislando.\! Poco
+a poco, algo empezó a tomar forma en tu interior."
+;;;You couldn't see it, but you felt it.;You couldn't see it, but you felt it.;"No conseguías verlo, pero estaba allí,
 podías sentirlo."
-;;;Over time, that loneliness became something else.;Over time, that loneliness became something else.;"Con el paso del tiempo, esa soledad inicial
+;;;Over time, that loneliness became something else.;Over time, that loneliness became something else.;"Con el paso del tiempo, esa soledad
 se fue transformando en algo más."
 ;;;It only grew stronger and stronger.;It only grew stronger and stronger.;Se fue haciendo cada vez más fuerte.
 ;;;All that dark energy coming together.;All that dark energy coming together.;Toda esa energía negativa... acumulandose.
@@ -4876,83 +4877,99 @@ Watching like some creep.";"Siempre me quedaba observándolos de lejos,
 apartado de la diversión."
 ;;;"I told myself I just didn’t like talking, or that
 I was different.";"I told myself I just didn’t like talking, or that
-I was different.";"Trataba de consolarme diciendome que prefería jugar
-solo, o que era diferente..."
-;;;Special, maybe.;Special, maybe.;""Especial""...
+I was different.";"Trataba de consolarme diciéndome que prefería jugar
+solo, o que era... diferente."
+;;;Special, maybe.;Special, maybe.;""Especial"".
 ;;;But deep down I knew I just wasn’t wanted.;But deep down I knew I just wasn’t wanted.;"Pero en el fondo sabía que era porque no
 me querían cerca de ellos."
 ;;;Look at them.;Look at them.;Míralos.
-;;;They always had something to show off.;They always had something to show off.;
-;;;And I just stared.;And I just stared.;
-;;;I started thinking I really was invisible.;I started thinking I really was invisible.;
-;;;I wasn't a person.;I wasn't a person.;
-;;;Just an entity watching from behind.;Just an entity watching from behind.;
-;;;And they looked at me like I was disgusting.;And they looked at me like I was disgusting.;
-;;;The hate on their face said everything.;The hate on their face said everything.;
+;;;They always had something to show off.;They always had something to show off.;Siempre presumiendo sus cosas.
+;;;And I just stared.;And I just stared.;Dejándome de lado.
+;;;I started thinking I really was invisible.;I started thinking I really was invisible.;"Comencé a sentirme cada vez más invisible
+para ellos."
+;;;I wasn't a person.;I wasn't a person.;Como un fantasma.
+;;;Just an entity watching from behind.;Just an entity watching from behind.;Un ser extraño que debía ser ignorado.
+;;;And they looked at me like I was disgusting.;And they looked at me like I was disgusting.;Pero ellos solo me miraron con desprecio.
+;;;The hate on their face said everything.;The hate on their face said everything.;Podía sentir su odio hacia mí.
 ;;;"I was never one of them.\|
 I was different.";"I was never one of them.\|
-I was different.";
-;;;I told myself I was fine.;I told myself I was fine.;
-;;;That I didn’t need them.;That I didn’t need them.;
-;;;But I now realize I was telling myself a lie.;But I now realize I was telling myself a lie.;
-;;;It wasn’t just loneliness.\. It was something else.;It wasn’t just loneliness.\. It was something else.;
-;;;Like I was broken.;Like I was broken.;
+I was different.";"Nunca fui uno de ellos.\|
+Era diferente."
+;;;I told myself I was fine.;I told myself I was fine.;Me dije a mí mismo que estaba todo bien.
+;;;That I didn’t need them.;That I didn’t need them.;Que no los necesitaba.
+;;;But I now realize I was telling myself a lie.;But I now realize I was telling myself a lie.;"Pero ahora me doy cuenta de que me estaba
+mintiendo."
+;;;It wasn’t just loneliness.\. It was something else.;It wasn’t just loneliness.\. It was something else.;"No era solo una sensación de soledad...\.
+era algo más."
+;;;Like I was broken.;Like I was broken.;Era como si estuviera roto por dentro.
 ;;;"Like there was something wrong with me from
 the start.";"Like there was something wrong with me from
-the start.";
+the start.";"Como si hubiera dejado de estar bien hace mucho tiempo."
 ;;;"After a while, they stopped looking like people
 to me.";"After a while, they stopped looking like people
-to me.";
-;;;I started hating them.;I started hating them.;
+to me.";"Después de un tiempo, dejé de verlos
+como personas."
+;;;I started hating them.;I started hating them.;Comencé a odiarlos.
 ;;;"Whenever I saw them, I would turn away.\!
 Something was pulling me.";"Whenever I saw them, I would turn away.\!
-Something was pulling me.";
-;;;That’s when they started showing up.;That’s when they started showing up.;
-;;;I think I liked them more than real people.;I think I liked them more than real people.;
-;;;I felt so connected with them.;I felt so connected with them.;
-;;;For the first time, I felt important.;For the first time, I felt important.;
+Something was pulling me.";"Siempre que los veía, trataba de evitarlos."
+;;;That’s when they started showing up.;That’s when they started showing up.;"Fue ahí que la gente sombra comenzó a
+aparecerse com más frecuencia."
+;;;I think I liked them more than real people.;I think I liked them more than real people.;"Creo que incluso me caían mejor que
+las personas reales."
+;;;I felt so connected with them.;I felt so connected with them.;Por la primera vez, me sentí parte de algo.
+;;;For the first time, I felt important.;For the first time, I felt important.;Me sentí apreciado.
 ;;;"They made me feel something when there was
 nothing.";"They made me feel something when there was
-nothing.";
-;;;You found them all.;You found them all.;
-;;;I almost thought you wouldn’t bother.;I almost thought you wouldn’t bother.;
-;;;You remember what these were, don’t you?;You remember what these were, don’t you?;
-;;;What's left of a kid who just wanted to fit in.;What's left of a kid who just wanted to fit in.;
-;;;Trying to feel anything but rejected.;Trying to feel anything but rejected.;
+nothing.";Llenaron ese vacío que sentía.
+;;;You found them all.;You found them all.;Los has encontrado todos.
+;;;I almost thought you wouldn’t bother.;I almost thought you wouldn’t bother.;"Por un momento pensé que ni te molestarías
+en hacerlo."
+;;;You remember what these were, don’t you?;You remember what these were, don’t you?;No los habías olvidado, ¿verdad?
+;;;What's left of a kid who just wanted to fit in.;What's left of a kid who just wanted to fit in.;"Son lo único que queda de aquel niño solitario."
+;;;Trying to feel anything but rejected.;Trying to feel anything but rejected.;Deseoso de sentir algo, pero rechazado al final.
 ;;;"These were meant for you to look back at who
 you once were.";"These were meant for you to look back at who
-you once were.";
+you once were.";"Ellos son una ventana al pasado, a lo que
+fuiste."
 ;;;"But you came here to pick at the wounds.\!
 To bleed all over them.";"But you came here to pick at the wounds.\!
-To bleed all over them.";
+To bleed all over them.";"Has venido aquí ¿para qué?\!
+¿Para dejarlos que te consuman en dolor?"
 ;;;"And for what?\!
 To remind yourself that you were unwanted?";"And for what?\!
-To remind yourself that you were unwanted?";
+To remind yourself that you were unwanted?";"¿Para seguir atormentandote?"
 ;;;"To tell yourself again and again that no one
 ever cared?";"To tell yourself again and again that no one
-ever cared?";
-;;;I didn’t come from nowhere.;I didn’t come from nowhere.;
+ever cared?";"¿Para recordarte cómo siempre fuiste depreciado
+por los demas?"
+;;;I didn’t come from nowhere.;I didn’t come from nowhere.;No he venido de la nada.
 ;;;"Not just once, but over and over.\!
 You created us.";"Not just once, but over and over.\!
-You created us.";
-;;;I didn’t want to exist.;I didn’t want to exist.;
-;;;But you kept feeding me.;But you kept feeding me.;
-;;;Because that loneliness only grew as time went on.;Because that loneliness only grew as time went on.;
-;;;You’re not looking for peace.;You’re not looking for peace.;
+You created us.";"No apenas una vez, sino vez tras vez.\!
+Tú nos creaste."
+;;;I didn’t want to exist.;I didn’t want to exist.;Nunca quise llegar a existir.
+;;;But you kept feeding me.;But you kept feeding me.;Pero tú me obligaste.
+;;;Because that loneliness only grew as time went on.;Because that loneliness only grew as time went on.;"Me fuiste alimentando dentro de ti sin
+percibirlo todo este tiempo."
+;;;You’re not looking for peace.;You’re not looking for peace.;No viniste aquí para consolarte.
 ;;;"You just want to feel broken enough to stop
 trying.";"You just want to feel broken enough to stop
-trying.";
-;;;I should hate you for it.;I should hate you for it.;
-;;;But I don’t.\! I just feel tired.;But I don’t.\! I just feel tired.;
-;;;You wanted to sink, didn’t you?;You wanted to sink, didn’t you?;
-;;;Then go ahead.;Then go ahead.;
-;;;You're wasting your time.;You're wasting your time.;
-;;;You always think it's your fault.;You always think it's your fault.;
-;;;You'll get used to it.;You'll get used to it.;
-;;;Are you cold often?;Are you cold often?;
-;;;Why do you keep pretending?;Why do you keep pretending?;
-;;;Pretending what?;Pretending what?;
-;;;Come look, they'll be inside!;Come look, they'll be inside!;
+trying.";"Viniste para lastimarte aún más, lo
+suficiente para dejar de luchar."
+;;;I should hate you for it.;I should hate you for it.;Debería odiarte por eso.
+;;;But I don’t.\! I just feel tired.;But I don’t.\! I just feel tired.;"Pero no lo hago.\!
+Estoy demasiado cansado para eso."
+;;;You wanted to sink, didn’t you?;You wanted to sink, didn’t you?;"Querías seguir hundiendote en tu dolor,
+¿no es verdad?"
+;;;Then go ahead.;Then go ahead.;Pues adelante.
+;;;You're wasting your time.;You're wasting your time.;Pierdes mi tiempo
+;;;You always think it's your fault.;You always think it's your fault.;Siempre piensas que es tu culpa
+;;;You'll get used to it.;You'll get used to it.;Te acostumbrarás.
+;;;Are you cold often?;Are you cold often?;¿Siempre sientes frío?
+;;;Why do you keep pretending?;Why do you keep pretending?;¿Por qué sigues engañándote?
+;;;Pretending what?;Pretending what?;¿Engañándome?
+;;;Come look, they'll be inside!;Come look, they'll be inside!;Ven, hay que entrar.
 ;;Haven;Took you long enough.;Took you long enough.;
 ;;Haven;You sound tired.;You sound tired.;
 ;;Haven;I think you're just affraid of telling me.;I think you're just afraid of telling me.;
