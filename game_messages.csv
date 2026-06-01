@@ -439,40 +439,52 @@ superar aquello que te asusta."
 ;;;Rot.;Rot.;Pútrido.
 ;;;"I’m not sure if I’m healed.\!
 Maybe I’ll never be.";"I’m not sure if I’m healed.\!
-Maybe I’ll never be.";
+Maybe I’ll never be.";"No sé si mis heridas del pasado han logrado sanar
+del todo,\! o si nunca lo harán."
 ;;;"But I know I'm not the same as when I entered
 this place.";"But I know I'm not the same as when I entered
-this place.";
-;;;I feel safer now knowing I can change.;I feel safer now knowing I can change.;
-;;;For a while, it felt like I didn't have a choice.;For a while, it felt like I didn't have a choice.;
-;;;This is who I'm meant to be.;This is who I'm meant to be.;
+this place.";"Lo que sí sé es que no soy la misma persona
+que cuando llegué a este lugar."
+;;;I feel safer now knowing I can change.;I feel safer now knowing I can change.;"Ahora que sé que puedo cambiar me siento mejor,
+más seguro."
+;;;For a while, it felt like I didn't have a choice.;For a while, it felt like I didn't have a choice.;"Por mucho tiempo sentí que no tenía
+ninguna esperanza."
+;;;This is who I'm meant to be.;This is who I'm meant to be.;Que estaba condenado a quedarme estancado.
 ;;;"But seeing my past again reminded me of who I
 once was.";"But seeing my past again reminded me of who I
-once was.";
-;;;I wanted to live again.;I wanted to live again.;
-;;;I want him to change.;I want him to change.;
+once was.";"Pero revisitar mi pasado me recordó quién
+solía ser."
+;;;I wanted to live again.;I wanted to live again.;"Sentí como volvían mis ganas de vivir.
+Espero que aún no sea tarde para él..."
+;;;I want him to change.;I want him to change.;Quiero que cambie.
 ;;;"Even though I couldn’t face everything, my
 perspective has changed.";"Even though I couldn’t face everything, my
-perspective has changed.";
-;;;Maybe it's impossible to overcome it all.;Maybe it's impossible to overcome it all.;
-;;;But it feels good knowing I actually did my best.;But it feels good knowing I actually did my best.;
-;;;What will happen to me?;What will happen to me?;
-;;;If I'm not real, then what will I be when I return?;If I'm not real, then what will I be when I return?;
-;;;What if it feels like dying?;What if it feels like dying?;
-;;;I guess I don't have a choice.;I guess I don't have a choice.;
-;;;If I don't return, he might never change.;If I don't return, he might never change.;
-;;;Some things still hurt too much to look at.;Some things still hurt too much to look at.;
-;;;I turned away when I should’ve stayed.;I turned away when I should’ve stayed.;
+perspective has changed.";"Quizá no haya podido enfrentar todos mis traumas,
+pero ahora veo las cosas de forma distinta."
+;;;Maybe it's impossible to overcome it all.;Maybe it's impossible to overcome it all.;Tal vez sea imposible superarlos del todo.
+;;;But it feels good knowing I actually did my best.;But it feels good knowing I actually did my best.;"Pero, al menos, sé que lo intenté,
+que di lo mejor de mí."
+;;;What will happen to me?;What will happen to me?;¿Qué pasará conmigo?
+;;;If I'm not real, then what will I be when I return?;If I'm not real, then what will I be when I return?;"Si ni siquiera soy real, entonces
+¿qué pasará conmigo al volver?"
+;;;What if it feels like dying?;What if it feels like dying?;¿Voy a... morir?
+;;;I guess I don't have a choice.;I guess I don't have a choice.;Supongo que no tengo otra opción.
+;;;If I don't return, he might never change.;If I don't return, he might never change.;Si decido no volver, quizá él nunca cambie.
+;;;Some things still hurt too much to look at.;Some things still hurt too much to look at.;Algunas cosas aún duelen.
+;;;I turned away when I should’ve stayed.;I turned away when I should’ve stayed.;"Decidí alejarme cuando en realidad debería
+haberme quedado."
 ;;;"I didn’t give up completely.\!
 I tried, even when it felt like it wasn’t enough.";"I didn’t give up completely.\!
-I tried, even when it felt like it wasn’t enough.";
-;;;Parts of me still feel trapped in those memories.;Parts of me still feel trapped in those memories.;
+I tried, even when it felt like it wasn’t enough.";"Nunca me rendí.\!
+Incluso cuando cada esfuerzo parecía inútil."
+;;;Parts of me still feel trapped in those memories.;Parts of me still feel trapped in those memories.;"Todavía hay una parte de mí que sigue atrapada
+en esos recuerdos."
 ;;;I should probably eat something before going ...;I should probably eat something before going ...;Tal vez debería comer algo antes de marcharme.
 ;;;A bright lamp.;A bright lamp.;Una lámpara brillante.
 ;;;Should I call someone?;Should I call someone?;¿Debería llamar a alguien?
 ;;;I don't remember anyone's number.;I don't remember anyone's number.;Pero no recuerdo ningún número.
 ;;;There's nothing on TV.;There's nothing on TV.;No hay nada en la pantalla.
-;;;I take a bite out of the instant ramen noodles.;I take a bite out of the instant ramen noodles.;Le doy un bocado a los fideos instantáneos.
+;;;I take a bite out of the instant ramen noodles.;I take a bite out of the instant ramen noodles.;Le doy un mordisco a los fideos instantáneos.
 ;;;...\| it tastes dry.;...\| it tastes dry.;...\| sabe seco.
 ;;;An empty plate.;An empty plate.;Un plato vacío.
 ;;;I take a bite out of the toast.;I take a bite out of the toast.;Le doy un mordisco a la tostada.
@@ -485,12 +497,13 @@ I tried, even when it felt like it wasn’t enough.";
 ;;;Felix;Felix;Felix
 ;;Felix;"I've been getting a lot of weird DMs from some of
 the girls here, they're quite disturbing actually ...";"I've been getting a lot of weird DMs from some of
-the girls here, they're quite disturbing actually ...";
-;;Felix;Nice trumpet dude.;Nice trumpet dude.;
+the girls here, they're quite disturbing actually ...";"Algunas de las chicas de aquí me han estado
+enviando mensajes bastante... inquietantes."
+;;Felix;Nice trumpet dude.;Nice trumpet dude.;Qué buena trompeta tienes ahí, ¿eh?
 ;;;I probably shouldn't leave while I have school ...;I probably shouldn't leave while I have school ...;
 ;;;"The door is locked.
 I think this is the janitor's closet.";"The door is locked.
-I think this is the janitor's closet.";"Está cerrado.
+I think this is the janitor's closet.";"La puerta está cerrada.
 Creo que este es el cuarto de limpieza."
 ;;;Use key;Use key;Usar llave
 ;;;Not yet;Not yet;No usar
