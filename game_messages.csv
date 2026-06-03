@@ -454,7 +454,7 @@ ninguna esperanza."
 once was.";"But seeing my past again reminded me of who I
 once was.";"Pero revisitar mi pasado me recordó quién
 solía ser."
-;;;I wanted to live again.;I wanted to live again.;"Sentí como volvían mis ganas de vivir.
+;;;I wanted to live again.;I wanted to live again.;"Sentí como volvían mis ganas de vivir.\.
 Espero que aún no sea tarde para él..."
 ;;;I want him to change.;I want him to change.;Quiero que cambie.
 ;;;"Even though I couldn’t face everything, my
@@ -500,7 +500,7 @@ the girls here, they're quite disturbing actually ...";"I've been getting a lot 
 the girls here, they're quite disturbing actually ...";"Algunas de las chicas de aquí me han estado
 enviando mensajes bastante... inquietantes."
 ;;Felix;Nice trumpet dude.;Nice trumpet dude.;Qué buena trompeta tienes ahí, ¿eh?
-;;;I probably shouldn't leave while I have school ...;I probably shouldn't leave while I have school ...;
+;;;I probably shouldn't leave while I have school ...;I probably shouldn't leave while I have school ...;No debería irme: las clases aún no terminan.
 ;;;"The door is locked.
 I think this is the janitor's closet.";"The door is locked.
 I think this is the janitor's closet.";"La puerta está cerrada.
@@ -509,150 +509,181 @@ Creo que este es el cuarto de limpieza."
 ;;;Not yet;Not yet;No usar
 ;;;The locker is locked.;The locker is locked.;El casillero está cerrado.
 ;;;Hannah;Hannah;Hannah
-;;Hannah;You see that guy over there?;You see that guy over there?;
-;;;Yeah?;Yeah?;
-;;;Nope;Nope;
-;;Hannah;He is probably the hottest guy in the entire school ...;He is probably the hottest guy in the entire school ...;
+;;Hannah;You see that guy over there?;You see that guy over there?;¿Ves a ese chico allí?
+;;;Yeah?;Yeah?;Ah, ¿sí?
+;;;Nope;Nope;No
+;;Hannah;He is probably the hottest guy in the entire school ...;He is probably the hottest guy in the entire school ...;Es el chico más sexy de toda la escuela.
 ;;Hannah;"He asked me if I had a spare pencil in class
 yesterday, ME out of all people!";"He asked me if I had a spare pencil in class
-yesterday, ME out of all people!";
-;;Hannah;Stop acting stupid ...;Stop acting stupid ...;
-;;Hannah;I think he might like me ...;I think he might like me ...;
-;;;Can you help me?;Can you help me?;
-;;Hannah;Huh? Uhmm sure.;Huh? Uhmm sure.;
-;;;I need toilet paper;I need toilet paper;
+yesterday, ME out of all people!";"Hace poco me preguntó si tenía un lápiz que
+me sobrara... ¡A MÍ!. Ay, ¿puedes creerlo?"
+;;Hannah;Stop acting stupid ...;Stop acting stupid ...;Deja de hacerte el tonto...
+;;Hannah;I think he might like me ...;I think he might like me ...;Creo que le gusto...
+;;;Can you help me?;Can you help me?;¿Puedes ayudarme?
+;;Hannah;Huh? Uhmm sure.;Huh? Uhmm sure.;¿Ah? Claro, dime.
+;;;I need toilet paper;I need toilet paper;Necesito un poco de papel higiénico.
 ;;Hannah;"Is there none in the men's restroom?\|
 Give me a second ...";"Is there none in the men's restroom?\|
-Give me a second ...";
-;;Hannah;Here ya go.;Here ya go.;
-;;;I'm too busy right now, I should talk to her later.;I'm too busy right now, I should talk to her later.;
-;;;I probably shouldn't go in there.;I probably shouldn't go in there.;
-;;;This is the men's restroom.;This is the men's restroom.;
+Give me a second ...";"¿Ya no tienen nada en el baño de hombres?\|
+Espérame aquí, ya vuelvo..."
+;;Hannah;Here ya go.;Here ya go.;Toma. Aquí está.
+;;;I'm too busy right now, I should talk to her later.;I'm too busy right now, I should talk to her later.;"Estoy muy ocupado ahora. Creo que hablaré
+con ella después."
+;;;I probably shouldn't go in there.;I probably shouldn't go in there.;Quizá no debería entrar ahí.
+;;;This is the men's restroom.;This is the men's restroom.;Es el baño de hombres.
 ;;;"This is the women's restroom.\.
 Probably shouldn't enter here...";"This is the women's restroom.\.
-Probably shouldn't enter here ...";
+Probably shouldn't enter here ...";"Es el baño de mujeres.\.
+Mejor ni pensar en entrar ahí..."
 ;;;There's a trumpet in the locker.;There's a trumpet in the locker.;Hay una trompeta en el casillero.
 ;;;The locker is empty.;The locker is empty.;El casillero está vacío.
 ;;Haven;Looks like I arrived faster than you did!;Looks like I arrived faster than you did!;¡Parece que llegué antes que tú! *Jeje*
 ;;Haven;"Have you talked to the students here? They're
 all so interesting in their own ways ...";"Have you talked to the students here? They're
-all so interesting in their own ways ...";"¿Y pudiste hablar con algún estudiante?
-Es increíble cómo cada uno de ellos tiene lo suyo."
+all so interesting in their own ways ...";"¿Hablaste con alguno de los chicos aquí?\. Inténtalo.
+Cada uno tiene algo que lo hace especial."
 ;;Haven;...\| Oh! Do you want to \c[1]save\c[0] your thoughts?;...\| Oh! Do you want to \c[1]save\c[0] your thoughts?;...\| ¡Oh! ¿Quieres \c[1]guardar\c[0] algún recuerdo?
-;;Haven;Alright!;Alright!;Listo.
+;;Haven;Alright!;Alright!;De acuerdo.
 ;;Haven;Okay, let me know if you change your mind.;Okay, let me know if you change your mind.;Okidoki.
 ;;Haven;"If you happen to get lost here, or don't know
 what to do ...";"If you happen to get lost here, or don't know
 what to do ...";"Si te llegas a perder o no sabes muy bien
 qué hacer..."
-;;Haven;Then talk to me, I'll do my best to help you out!;Then talk to me, I'll do my best to help you out!;"Puedes venir y hablar conmigo.
-Eso me haría muy feliz"
-;;Haven;You know I try my best to always help ...;You know I try my best to always help ...;Siempre puedes contar conmigo.
+;;Haven;Then talk to me, I'll do my best to help you out!;Then talk to me, I'll do my best to help you out!;"Puedes venir y hablarme.
+Eso me haría muy feliz."
+;;Haven;You know I try my best to always help ...;You know I try my best to always help ...;Sabes que siempre puedes contar conmigo.
 ;;Haven;Hi! Do you want my help?;Hi! Do you want my help?;Hey, ¿quieres que te ayude?
 ;;;\c[1]Save\c[0];\c[1]Save\c[0];\c[1]Guardar\c[0]
 ;;;What do I do?;What do I do?;¿Qué debo hacer?
 ;;Haven;"A basketball?
 It probably belongs in the gym, right?";"A basketball?
-It probably belongs in the gym, right?";
+It probably belongs in the gym, right?";"¿Una pelota de baloncesto?
+Debería estar en el gimnasio, ¿no crees?"
 ;;Haven;"You found a trumpet?
 Maybe someone lost it ...";"You found a trumpet?
-Maybe someone lost it ...";
+Maybe someone lost it ...";"¿Encontraste una trompeta?
+Es probable que alguien la esté buscando."
 ;;Haven;"I think there's a music class in this school.
 You could check there!";"I think there's a music class in this school.
-You could check there!";
-;;Haven;Jeffery gave you keys to the janitor's closet?;Jeffery gave you keys to the janitor's closet?;
+You could check there!";"Creo que esta escuela tiene un aula de música.
+Deberías preguntar si les falta algún instrumento."
+;;Haven;Jeffery gave you keys to the janitor's closet?;Jeffery gave you keys to the janitor's closet?;Jeffrey te dio las llaves del cuarto de limpieza?
 ;;Haven;"If I remember correctly, the closet should be
 to the left!";"If I remember correctly, the closet should be
-to the left!";
+to the left!";"Si mi memoria no me engaña, debería estar
+a la izquierda."
 ;;Haven;"You helped Mika out with her drawing? That's so
 nice of you!";"You helped Mika out with her drawing? That's so
-nice of you!";
+nice of you!";"Oh, ¿en serio? ¿Le ayudaste con su dibujo?
+Qué dulce."
 ;;Haven;"She even gave you a CD? That's lovely!
 Maybe there's a CD player you can use to play it?";"She even gave you a CD? That's lovely!
-Maybe there's a CD player you can use to play it?";
+Maybe there's a CD player you can use to play it?";"¿Te dio un CD de música? Oh, ella es todo un
+amor. Deberías buscar un lugar donde escucharlo."
 ;;Haven;"Oh, you got the toilet paper?\!
 You should give it to that poor guy!";"Oh, you got the toilet paper?\!
-You should give it to that poor guy!";
-;;Haven;He must be suffering in there ...;He must be suffering in there ...;
-;;Haven;...\. You found toilet paper?;...\. You found toilet paper?;
+You should give it to that poor guy!";"Oh, ¿ya tienes el papel?\!
+Entonces deberías dárselo a ese chico."
+;;Haven;He must be suffering in there ...;He must be suffering in there ...;Pobrecito, debe estar desesperado...
+;;Haven;...\. You found toilet paper?;...\. You found toilet paper?;...\. ¿Conseguiste el papel?
 ;;Haven;"Uhmm ...\| That's nice!
 I'm not sure how I can help you with that ...";"Uhmm ...\| That's nice!
-I'm not sure how I can help you with that ...";
+I'm not sure how I can help you with that ...";"Mmm...\| Qué bueno.
+No sé si pueda ayudarte con eso..."
 ;;Haven;"You should probably fill that cup with water, like
 Jeffery asked!";"You should probably fill that cup with water, like
-Jeffery asked!";
+Jeffery asked!";"Debes llenarla de agua, así como Jeffrey te pidió."
 ;;Haven;"There should be a kettle filled with water in
 the janitor's closet, right?";"There should be a kettle filled with water in
-the janitor's closet, right?";
-;;Haven;How nice of you to help Jeffery out!;How nice of you to help Jeffery out!;
+the janitor's closet, right?";"Debería haber una tetera con agua en el cuarto
+de limpieza."
+;;Haven;How nice of you to help Jeffery out!;How nice of you to help Jeffery out!;Qué detalle tan bonito el que ayudes a Jeffrey.
 ;;Haven;"You should maybe give him the cup though, he
 sounded pretty stressed out ...";"You should maybe give him the cup though, he
-sounded pretty stressed out ...";
-;;Haven;Jeffery gave you a tea bag? That's so kind of him!;Jeffery gave you a tea bag? That's so kind of him!;
+sounded pretty stressed out ...";"Tal vez deberías llevarle la taza, parecía
+que la estaba pasando muy mal..."
+;;Haven;Jeffery gave you a tea bag? That's so kind of him!;Jeffery gave you a tea bag? That's so kind of him!;"¿Jeffrey te lo regaló? Qué amable
+de su parte."
 ;;Haven;"I think I saw a small girl drinking a cup of tea
 earlier, maybe she would appreciate it?";"I think I saw a small girl drinking a cup of tea
-earlier, maybe she would appreciate it?";
-;;Haven;Unless you want to drink it yourself, of course!;Unless you want to drink it yourself, of course!;
+earlier, maybe she would appreciate it?";"Creo que vi a una niña tomando té hace ratito.
+Tal vez podrías dárselo a ella."
+;;Haven;Unless you want to drink it yourself, of course!;Unless you want to drink it yourself, of course!;A menos que prefieras tomártelo tú.
 ;;Haven;"The last time I saw her, she was heading
 towards the courtyard.";"The last time I saw her, she was heading
-towards the courtyard.";
+towards the courtyard.";"La vi yéndose hacia el patio."
 ;;Haven;"Vee gave you her poetry book?
 I didn't know she'd like poetry!";"Vee gave you her poetry book?
-I didn't know she'd like poetry!";
+I didn't know she'd like poetry!";"¿Vee te dio ese libro de poesía? Guau, yo
+ni enterada que a ella le gustaba leer poesía."
 ;;Haven;"It's so nice to see you helping others, and
 listening to what they have to say!";"It's so nice to see you helping others, and
-listening to what they have to say!";
+listening to what they have to say!";"Qué lindo ver que estás ayudando a los demás
+y dándoles una mano con lo que necesitan."
 ;;Haven;"I think the people in the library would really
 appreciate some good poetry!";"I think the people in the library would really
-appreciate some good poetry!";
+appreciate some good poetry!";"Creo que a los chicos de la biblioteca les
+podría gustar leer un poco de poesía."
 ;;Haven;"There's no toilet paper in the stalls?\.
 Hmmm ...";"There's no toilet paper in the stalls?\.
-Hmmm ...";
+Hmmm ...";"¿Ya no hay papel en el baño de hombres?\.
+Mmm..."
 ;;Haven;"I suppose there would be no harm in asking a girl
 to check if there's any in the women's restroom ...";"I suppose there would be no harm in asking a girl
-to check if there's any in the women's restroom ...";
+to check if there's any in the women's restroom ...";"¿Por qué no vas y le pides a una chica que revise
+si hay papel en el baño de mujeres?"
 ;;Haven;"...\| What, you want me to check?\.
 I can't do everything for you, you know!";"...\| What, you want me to check?\.
-I can't do everything for you, you know!";
+I can't do everything for you, you know!";"¿Qué? ¿Quieres que yo vaya?\. Lo siento
+pero mm-mmm. Es mejor que tú mismo lo hagas."
 ;;Haven;"I heard there was someone stuck in the boys
 restroom, maybe you should check it out!";"I heard there was someone stuck in the boys
-restroom, maybe you should check it out!";
+restroom, maybe you should check it out!";"Creo haber oído que había un chico atrapado en el
+baño de hombres. ¿Por qué no vas a ver qué pasó?"
 ;;Haven;"I can’t imagine how horrible it would be to be
 stuck there!";"I can’t imagine how horrible it would be to be
-stuck there!";
-;;Haven;Have you talked to Jeffrey yet?;Have you talked to Jeffrey yet?;
+stuck there!";"Oh, debe estar muriéndose de vergüenza."
+;;Haven;Have you talked to Jeffrey yet?;Have you talked to Jeffrey yet?;¿Ya hablaste con Jeffrey?
 ;;Haven;"He's in one of the classrooms, and was looking
 pretty stressed out!";"He's in one of the classrooms, and was looking
-pretty stressed out!";
+pretty stressed out!";"Él estaba en una de las aulas, y parecía muy
+pero muy estresado."
 ;;Haven;"Have you checked out the gym? I heard someone
 lost something there ...";"Have you checked out the gym? I heard someone
-lost something there ...";
+lost something there ...";"¿Ya checaste el gimnasio? Denantes oí que
+se había perdido algo ahí."
 ;;Haven;"It might be worth exploring a bit, talking to
 some of the students and maybe even helping!";"It might be worth exploring a bit, talking to
-some of the students and maybe even helping!";
-;;Haven;Let me know if you need my help!;Let me know if you need my help!;
+some of the students and maybe even helping!";"Creo que vale la pena explorar un poco, hablar
+con los otros alumnos y ayudarles si puedes."
+;;Haven;Let me know if you need my help!;Let me know if you need my help!;"Si necesitas mi ayuda, solo avísame, ¿sí?,
+que no muerdo. *Jajaja*"
 ;;Haven;Looks like school's done for today!;Looks like school's done for today!;Bueno, creo que eso es todo por el día de hoy.
 ;;;Save;Save;Guardar
-;;;Bruno;Bruno;
+;;;Bruno;Bruno;Bruno
 ;;Bruno;"\etalk[37]Hey Penny, what's with the ... \|uhh\|
 pan on your head?";"\etalk[37]Hey Penny, what's with the ... \|uhh\|
-pan on your head?";
-;;;Penny;Penny;
-;;Penny;\etalk[36]What about it?;\etalk[36]What about it?;
-;;Bruno;\etalk[37]I just haven't seen anyone wear a pan before ...;\etalk[37]I just haven't seen anyone wear a pan before ...;
+pan on your head?";"\etalk[37]Hey, Nicolle. ¿Qué onda con ese... \|eh\|
+colador que llevas en la cabeza?"
+;;;Penny;Penny;Nicolle
+;;Penny;\etalk[36]What about it?;\etalk[36]What about it?;\etalk[36]¿Qué pasa con él?
+;;Bruno;\etalk[37]I just haven't seen anyone wear a pan before ...;\etalk[37]I just haven't seen anyone wear a pan before ...;"\etalk[37]No, es solo que... nunca vi a nadie
+usarlo de esa forma."
 ;;Penny;"\etalk[36]I'm trying to start a new trend here! I think it
 could really catch on.";"\etalk[36]I'm trying to start a new trend here! I think it
-could really catch on.";
-;;;Panny;Panny;
+could really catch on.";"\etalk[36]Pues vete acostumbrando: esta nueva moda llegó
+para quedarse."
+;;;Panny;Panny;Nicolle Hador
 ;;Panny;"\etalk[36]Just wait, you'll see everyone wearing one soon!\.
 I'm even gonna call myself Panny now!";"\etalk[36]Just wait, you'll see everyone wearing one soon!\.
-I'm even gonna call myself Panny now!";
-;;Bruno;\etalk[37]Mhmm.\. Sure.;\etalk[37]Mhmm.\. Sure.;
+I'm even gonna call myself Panny now!";"\etalk[36]Es más:\. Desde ahora en adelante, mi nuevo
+apellido será Hador, con hache al principio."
+;;Bruno;\etalk[37]Mhmm.\. Sure.;\etalk[37]Mhmm.\. Sure.;\etalk[37]¿Y eso? Qué apellido más raro elegiste.
 ;;;Mika;Mika;Mika
-;;Mika;\etalk[9]And a little of this, and some of that ...;\etalk[9]And a little of this, and some of that ...;\etalk[9]Y quizá un poco de esto, y una pizca de...
-;;Mika;\etalk[9]Ugh ...\. that doesn't look right ...;\etalk[9]Ugh ...\. that doesn't look right ...;\etalk[9]Ay...\. No está quedando bien...
+;;Mika;\etalk[9]And a little of this, and some of that ...;\etalk[9]And a little of this, and some of that ...;"\etalk[9]Ashh, por fin terminé sus pestañotas..."
+;;Mika;\etalk[9]Ugh ...\. that doesn't look right ...;\etalk[9]Ugh ...\. that doesn't look right ...;\etalk[9]Ay, no. Espera...
 ;;;What are you doing?;What are you doing?;¿Qué haces?
-;;Mika;\etalk[9]Oh, I'm just finishing up something I'm working on.;\etalk[9]Oh, I'm just finishing up something I'm working on.;\etalk[9]Mmm, solo trato de terminar esto.
+;;Mika;\etalk[9]Oh, I'm just finishing up something I'm working on.;\etalk[9]Oh, I'm just finishing up something I'm working on.;\etalk[9]Ahh, solo trato de terminar esto.
 ;;;What is it?;What is it?;¿Y qué es eso?
 ;;;I'll leave you to it;I'll leave you to it;Te dejaré terminar
 ;;Mika;"\etalk[9]...\| Don't judge, but I was making my own fan art
@@ -668,30 +699,30 @@ colores.\. ¿Te gustaría?"
 todas formas."
 ;;Mika;"\etalk[9]...\| Hey, you don't happen to be a master artist,\.
 right?";"\etalk[9]...\| Hey, you don't happen to be a master artist,\.
-right?";"\etalk[9]...\| Hey,\. ¿tienes un minuto, compañero?"
+right?";"\etalk[9]...\| ¡Hey!\. ¿Tienes un minuto, compañero?"
 ;;Mika;"\etalk[9]I'm working on this drawing, but I can't figure out
 what colors to use...";"\etalk[9]I'm working on this drawing, but I can't figure out
 what colors to use ...";"\etalk[9]Es que necesito algunas sugerencias sobre qué
 colores usar en unos dibujos que hice..."
 ;;Mika;"\etalk[9]It's some fan art about my favorite ...\| K-pop\. group.\|
 Do you think you could help?";"\etalk[9]It's some fan art about my favorite ...\| K-pop\. group.\|
-Do you think you could help?";"\etalk[9]Dibujé cada integrante de mi banda favorita.\|
+Do you think you could help?";"\etalk[9]Dibujé a cada integrante de mi banda favorita.\|
 ¿Te gustaría ayudarme con los colores?"
 ;;Mika;"\etalk[9]Do you think you could help me?
 With the colors, you know ...";"\etalk[9]Do you think you could help me?
 With the colors, you know ...";"\etalk[9]¿Quisieras darme una ayudita con los
 colores?"
-;;Mika;\etalk[9]Okay, I'll be here. Suffering.;\etalk[9]Okay, I'll be here. Suffering.;"\etalk[9]Okay. Debes estar ocupado. Disculpa.
-Yo puedo sola...Creo."
+;;Mika;\etalk[9]Okay, I'll be here. Suffering.;\etalk[9]Okay, I'll be here. Suffering.;"\etalk[9]Okay... Debes estar ocupado. Disculpa.
+Yo puedo sola... Creo."
 ;;;She seems too busy, I might talk to her later.;She seems too busy, I might talk to her later.;Parece ocupada. Hablaré con ella después.
 ;;Mika;"By the way, Stray Kats like to dye their hair a lot
 and wear different contact lenses.";"By the way, Stray Kats like to dye their hair a lot
-and wear different contact lenses.";"¿Sabes? A las chicas de Blackrose les encanta
+and wear different contact lenses.";"Sabes, a las chicas de Blackrose les encanta
 teñirse el pelo antes de cada show."
 ;;Mika;"Their hair and eyes look different in every
 performance!";"Their hair and eyes look different in every
-performance!";"Siempre aparecen con un color de cabello o de
-ojos distinto."
+performance!";"Siempre aparecen con un color diferente de
+cabello o de ojos."
 ;;Mika;"Here's the first member, Hayden.\.
 She's the main vocalist and lead dancer.";"Here's the first member, Hayden.\.
 She's the main vocalist and lead dancer.";"Ella es Hayden.\.
@@ -710,7 +741,7 @@ El rojo sí que resalta su personalidad enérgica."
 ;;Mika;"You're right, this looks great!\.
 It's her natural hair color, so it makes sense!";"You're right, this looks great!\.
 It's her natural hair color, so it makes sense!";"¡Oh, se ve tan linda con ese!\.
-De hecho, ese es su color natural; por si no sabías."
+De hecho, ese es su color natural, por si no sabías."
 ;;Mika;"You're right, this looks great!\.
 Cyan's one of my favorite colors too, hehe.";"You're right, this looks great!\.
 Cyan's one of my favorite colors too, hehe.";"Oye, ¡le quedó fabuloso!\.
@@ -728,7 +759,7 @@ color be?";"Ahora, ¿de qué color debería ser su outfit?"
 ;;;\c[9]Dark Blue;\c[9]Dark Blue;\c[9]Azul marino
 ;;Mika;"Yes, it's really coming together!\|
 This is one of her more popular outfits!";"Yes, it's really coming together!\|
-This is one of her more popular outfits!";"¡Me gusta como está quedando!\|
+This is one of her more popular outfits!";"¡Me gusta cómo está quedando!\|
 Este es uno de sus outfits más populares."
 ;;Mika;"Yes, it's really coming together!\|
 I really like this specific outfit ...";"Yes, it's really coming together!\|
@@ -737,8 +768,8 @@ Creo que encontré mi outfit favorito."
 ;;Mika;Yes, it's really coming together!;Yes, it's really coming together!;Quedó bastante bien, ¿no crees?
 ;;Mika;"They wore this one on the special anniversary
 show of Stray Kats!";"They wore this one on the special anniversary
-show of Stray Kats!";"Este fue usado en un show especial por su
-aniversario."
+show of Stray Kats!";"Este outfit lo usaron en un show especial
+por su aniversario."
 ;;Mika;"I don't think they've worn something like
 this before!";"I don't think they've worn something like
 this before!";"Creo que nunca han usado algo así antes."
@@ -746,28 +777,28 @@ this before!";"Creo que nunca han usado algo así antes."
 What would fit well?";"And finally, the second color for her outfit!
 What would fit well?";"Okay, ¿qué otro color le pondrías?"
 ;;;\c[8]Pink;\c[8]Pink;\c[8]Rosa
-;;;\c[10]Green;\c[10]Green;\c[8]Verde
+;;;\c[10]Green;\c[10]Green;\c[10]Verde
 ;;Mika;You're right, this looks good!;You're right, this looks good!;Hey, ¡quedó fantástico!
-;;Mika;Oh my god,\. it's perfect!;Oh my god,\. it's perfect!;Caray.\. ¡Está PER-FECTO!
+;;Mika;Oh my god,\. it's perfect!;Oh my god,\. it's perfect!;Oh, cielos...\. ¡Está PER-FEC-TO!
 ;;Mika;"Before we move on, I wanted to say that they
 usually all match each other's outfit and colors!";"Before we move on, I wanted to say that they
 usually all match each other's outfit and colors!";"Antes de continuar, quiero decirte que las tres
 llevan usualmente el mismo outfit."
 ;;Mika;"I could re-use the same colors for the
 other two, or we could have three different ones!";"I could re-use the same colors for the
-other two, or we could have three different ones!";"Si quieres, podemos usar los mismos colores
-para las otras, o usar otros. Depende de ti."
+other two, or we could have three different ones!";"Si quieres, podríamos usar los mismos colores
+para todas."
 ;;;Different outfits;Different outfits;Outfits diferentes
 ;;;Re-use colors;Re-use colors;Outfits iguales
 ;;Mika;Okay! Let's get started with Jiyu!;Okay! Let's get started with Jiyu!;Vale, comencemos con Jiyu.
 ;;Mika;"Here's my drawing of Jiyu! She's the lead vocalist,
 and the other lead dancer!";"Here's my drawing of Jiyu! She's the lead vocalist,
-and the other lead dancer!";"Esta es Jiyu. Ella es la vocalista,
-Y bailarina líder del grupo."
+and the other lead dancer!";"Esta es Jiyu. Ella es la vocalista
+y bailarina líder del grupo."
 ;;Mika;Okay, what color should her hair be?;Okay, what color should her hair be?;¿De qué color debería ser su cabello?
-;;Mika;Right, red is a great option!;Right, red is a great option!;Rojo corazón, me agrada.
+;;Mika;Right, red is a great option!;Right, red is a great option!;¿Rojo pasión? Ay, va a quedar súper.
 ;;Mika;Right, yellow is a great option!;Right, yellow is a great option!;Amarillo también le cae bien.
-;;Mika;Right, brown is a great option!;Right, brown is a great option!;Un marrón castaño no está nada mal.
+;;Mika;Right, brown is a great option!;Right, brown is a great option!;Castaño, ¿eh? No está nada mal.
 ;;Mika;Right, cyan is a great option!;Right, cyan is a great option!;Cian, ¿eh? Ese sí que me gusta.
 ;;Mika;"That looks great!
 They look so shiny ...";"That looks great!
@@ -775,17 +806,17 @@ They look so shiny ...";"¡Quedó fantástico!
 ¡Se ve tan radiante!"
 ;;Mika;And now her outfit! What could be the main color?;And now her outfit! What could be the main color?;"Bien, ahora su outfit. ¿Cuál debería ser
 el color principal?"
-;;Mika;That works!;That works!;Perfecto
-;;Mika;And finally, the second color for her outfit?;And finally, the second color for her outfit?;Okay, ¿qué otro color más te gustaría?
-;;Mika;I'm really happy with how this one turned out!;I'm really happy with how this one turned out!;Caramba, qué bien que quedó.
-;;Mika;One more member left!;One more member left!;Solo queda una miembro más.
+;;Mika;That works!;That works!;Perfecto.
+;;Mika;And finally, the second color for her outfit?;And finally, the second color for her outfit?;Okay, ¿qué otro color te gustaría?
+;;Mika;I'm really happy with how this one turned out!;I'm really happy with how this one turned out!;Ay, ¡qué bien que quedó!
+;;Mika;One more member left!;One more member left!;Solo queda una integrante más.
 ;;Mika;"Here's Haeri. She is the leader of Stray Kats, and
 the main vocalist and rapper!";"Here's Haeri. She is the leader of Stray Kats, and
 the main vocalist and rapper!";"Presentando a la vocalista y rapera principal
 de Blackrose: ¡Haeri!"
 ;;Mika;What color for the hair?;What color for the hair?;"Bueno, aquí vamos una última vez.
 ¿Color de cabello?"
-;;Mika;Yes! That looks good!;Yes! That looks good!;¡Bien, bien! Ay, está quedando hermosa.
+;;Mika;Yes! That looks good!;Yes! That looks good!;¡Bien, bien! Ay, está quedando preciosa.
 ;;Mika;Hmm, it looks okay.;Hmm, it looks okay.;Okay, supongo que está bien.
 ;;Mika;"Not that it's bad, but I think another color
 would have been better!";"Not that it's bad, but I think another color
@@ -793,18 +824,18 @@ would have been better!";"No está mal pero... quizá le caería mejor
 otro color."
 ;;Mika;And now her eye color ...;And now her eye color ...;¿Color de ojos?
 ;;Mika;Okay, I like this ...;Okay, I like this ...;Oh, están lindos...
-;;Mika;And the main color of the outfit?;And the main color of the outfit?;¿Color primario de outfit?
+;;Mika;And the main color of the outfit?;And the main color of the outfit?;¿Color principal del outfit?
 ;;Mika;Yeah, that's good!;Yeah, that's good!;¡Liisto!
 ;;Mika;And finally! The second color ...;And finally! The second color ...;Y finalmente, el color secundario...
 ;;Mika;It looks great, I love how she looks here!;It looks great, I love how she looks here!;¡Me encanta, me encanta, me encanta!
 ;;Mika;We're finally done!;We're finally done!;Uff, finalmente acabamos.
 ;;Mika;"Alright, give me a second to fill in the other
 members ...";"Alright, give me a second to fill in the other
-members ...";"Okay, dame un segundito para pintar a las otras."
+members ...";Okay, dame un segundito para colorear a las demás.
 ;;Mika;"\etalk[9]That looks amazing!\.
 Thank you so much for your help!";"\etalk[9]That looks amazing!\.
-Thank you so much for your help!";"\etalk[9]¡Quedaron SÚPER increíbles! En serio.\.
-Muchas gracias por ayudarme."
+Thank you so much for your help!";"\etalk[9]¡Quedaron SÚPER increíbles!\. En serio,
+muchas gracias por ayudarme."
 ;;Mika;\etalk[9]I want to give you this, as a little thank you!;\etalk[9]I want to give you this, as a little thank you!;"\etalk[9]Quiero darte esto como agradecimiento."
 ;;Mika;"\etalk[9]It's a CD from Stray Kats, the group I was
 drawing!";"\etalk[9]It's a CD from Stray Kats, the group I was
@@ -824,20 +855,23 @@ entering the teacher's lounge.";"Parece que no quieren que ningún estudiante
 entre en la sala de profesores."
 ;;;"Despite being really curious about what’s behind
 the door,\. it’s still locked.";"Despite being really curious about what’s behind
-the door,\. it’s still locked.";""
-;;;Nope, still locked.;Nope, still locked.;
-;;;You try to open the door.;You try to open the door.;
+the door,\. it’s still locked.";"Quisiera saber qué hay del otro lado...
+pero está cerrado."
+;;;Nope, still locked.;Nope, still locked.;Nop, no abre.
+;;;You try to open the door.;You try to open the door.;Intentas abrir la puerta.
 ;;;"You’ve given it everything,\. but the door remains
 closed.";"You’ve given it everything,\. but the door remains
-closed.";
-;;;It's a toolbox, filled with all kinds of tools.;It's a toolbox, filled with all kinds of tools.;
-;;;"Cool ""Guy"" McCoolson";"Cool ""Guy"" McCoolson";
+closed.";"Probaste de todo, pero la puerta sencillamente
+no abre."
+;;;It's a toolbox, filled with all kinds of tools.;It's a toolbox, filled with all kinds of tools.;"Es una caja de herramientas. Tiene todo tipo
+de objetos."
+;;;"Cool ""Guy"" McCoolson";"Cool ""Guy"" McCoolson";Frank
 ;;"Cool ""Guy"" McCoolson";"\etalk[24]I'm actually supposed to be in class
 right now...";"\etalk[24]I'm actually supposed to be in class
-right now ...";
-;;"Cool ""Guy"" McCoolson";\etalk[24]... But I'd rather stay with Tuffy.;\etalk[24]... But I'd rather stay with Tuffy.;
-;;;Tuffy;Tuffy;
-;;Tuffy;\etalk[25]Awesome.;\etalk[25]Awesome.;
+right now ...";"\etalk[24]De hecho, debería estar en clase..."
+;;"Cool ""Guy"" McCoolson";\etalk[24]... But I'd rather stay with Tuffy.;\etalk[24]... But I'd rather stay with Tuffy.;\etalk[24]Pero prefiero estar aquí con Micky.
+;;;Tuffy;Tuffy;Micky ""El Chiqui""
+;;Tuffy;\etalk[25]Awesome.;\etalk[25]Awesome.;\etalk[25]Chévere.
 ;;;Vee;Vee;Vee
 ;;Vee;What do you want? You've got something to say?;What do you want? You've got something to say?;¿Y tú qué quieres?
 ;;Vee;Wasting my time ...;Wasting my time ...;Cielos, este mocoso...
@@ -845,20 +879,20 @@ right now ...";
 That was really loud!";"What is your problem?
 That was really loud!";"Hey, ¿cuál es tu problema?
 ¡No ves que haces mucho ruido!"
-;;;Do you want some tea?;Do you want some tea?;¿Te apetece un té?
-;;Vee;...\| Tea?;...\| Tea?;...\| ¿Té?
+;;;Do you want some tea?;Do you want some tea?;¿Quieres un té?
+;;Vee;...\| Tea?;...\| Tea?;...\| ¿Ah?
 ;;Vee;"Why would you offer me tea?\|
 I mean, I'd really like that ...";"Why would you offer me tea?\|
-I mean, I'd really like that ...";"¿Así sin más?\|
-Bueno, sí quisiera un poco, pero..."
+I mean, I'd really like that ...";"¿Así sin más?\| Bueno, supongo que podría
+aceptarlo, pero..."
 ;;Vee;... But why? You don't even know me.;... But why? You don't even know me.;"... Ni siquiera me conoces.
-¿Por qué me ofrecerías un té?"
+¿Por qué me regalarías algo?"
 ;;;It looks like you need it;It looks like you need it;Parece que lo necesitas
 ;;;Thought you might like it;Thought you might like it;Pensé que te gustaría
 ;;Vee;"You know, I used to love tea ...\|
 My grandma used to make it for me all the time.";"You know, I used to love tea ...\|
-My grandma used to make it for me all the time.";"Mmm... Mi abuela solía prepararme té a menudo.\|
-Ni te imaginas cuán delicioso era."
+My grandma used to make it for me all the time.";"Mmm... Mi abuela solía prepararme un té riquísimo.\|
+Me encantaba."
 ;;Vee;"Thanks ...\. I suppose.\|
 I'm sorry I was acting mean and stuff ...";"Thanks ...\. I suppose.\|
 I'm sorry I was acting mean and stuff ...";"Bueno, gracias...\. Supongo.\|
@@ -872,7 +906,7 @@ started defending myself, but it's tough.";"Los más grandes siempre se metían 
 que tuve que aprender a defenderme por mí misma."
 ;;Vee;"I'm really not mean-hearted, but it's kinda become
 second nature to act this way.";"I'm really not mean-hearted, but it's kinda become
-second nature to act this way.";"No es que sea así todo el tiempo; creo que es más
+second nature to act this way.";"No es que sea así todo el tiempo, creo que es más
 un mecanismo de defensa."
 ;;Vee;"I actually really enjoy reading and writing 
 poetry, it used to be my only way to escape.";"I actually really enjoy reading and writing 
@@ -886,14 +920,15 @@ que escribí."
 ;;Vee;Here you go.;Here you go.;Aquí tienes.
 ;;Vee;"Thanks for the tea, I'll have to try it out once
 I'm home ...";"Thanks for the tea, I'll have to try it out once
-I'm home ...";"Bueno, gracias por el té. Prepararé un poco
+I'm home ...";"Bueno, gracias por el té. Lo prepararé
 al llegar a casa."
-;;Vee;Could you please stop that?;Could you please stop that?;¿Puedes parar?
-;;;Tripp;Tripp;
-;;Tripp;I've been sitting here for God knows how long.;I've been sitting here for God knows how long.;
+;;Vee;Could you please stop that?;Could you please stop that?;¿Puedes parar con eso, por favor?
+;;;Tripp;Tripp;Tripp
+;;Tripp;I've been sitting here for God knows how long.;I've been sitting here for God knows how long.;Llevo sentada aquí ¡horas!
 ;;Tripp;"I could stand up anytime I want to, but it just feels
 nice sitting here.";"I could stand up anytime I want to, but it just feels
-nice sitting here.";
+nice sitting here.";"Podría levantarme si quisiera, pero prefiero no
+hacerlo."
 ;;;Aria;Aria;Aria
 ;;Aria;"I hate the stuff they play on the radio, that 'pop'
 stuff is overrated.";"I hate the stuff they play on the radio, that 'pop'
@@ -903,11 +938,11 @@ radio TODO el tiempo. ¡Qué desperdicio!"
 and unlike the stuff you hear on radio, it's good.";"I've got mixtapes of the best underground bands,
 and unlike the stuff you hear on radio, it's good.";"Si quieres, te puedo mostrar algunas joyitas
 poco conocidas, ¿qué dices?"
-;;;I've got something underground;I've got something underground;Traje algunas
+;;;I've got something underground;I've got something underground;Traigo una aquí conmigo
 ;;Aria;"Really? It better be something I know, like
 Blue Day.";"Really? It better be something I know, like
-Blue Day.";"¿Ah, de verdad? Pues ponlas. Puntos extra si
-son tipo Blue Day."
+Blue Day.";"¿Ah, de verdad? Pues ponla. Puntos extra si
+es tipo ""Blue Day""."
 ;;Aria;"K-pop? You call this underground?
 This is gonna suck ...";"K-pop? You call this underground?
 This is gonna suck ...";"¿K-pop? ¿Es en serio? Caray, pensé que pondrías
@@ -922,7 +957,7 @@ I mean ...\.\. have a chat with her.";"I might have to go talk to her about it!\
 I mean ...\.\. have a chat with her.";"Mmm...\| Quizá vaya a preguntarle si tiene más...\.
 Digo...\. a conversar sobre nuestros gustos."
 ;;Aria;... She seems cool.;... She seems cool.;... Parece buena onda. 
-;;Aria;No way, this is like a hidden gem!;No way, this is like a hidden gem!;"¿En serio? Qué suerte. A veces es difícil
+;;Aria;No way, this is like a hidden gem!;No way, this is like a hidden gem!;"¿En serio? ¡Qué suerte! Es tan difícil
 encontrar joyitas como esta."
 ;;Aria;...\| I mean, yeah. It's cool.;...\| I mean, yeah. It's cool.;...\| O sea, creo que no está mal.
 ;;Aria;Yeah, this is good music.;Yeah, this is good music.;Sí, está muy buena.
@@ -932,36 +967,39 @@ encontrar joyitas como esta."
 ;;Potato;yes yes this is some groovy music;yes yes this is some groovy music;ay, está buenisisísima
 ;;Potato;potato boy enjoys;potato boy enjoys;a papita le encanta
 ;;Potato;potato boy thinks the trumpet is funny;potato boy thinks the trumpet is funny;papita piensa que la trompeta se oye graciosa
-;;Potato;haha toot;haha toot;
+;;Potato;haha toot;haha toot;tururú jajaja
 ;;;"""Yeahhh!
 Society sucks, love hurts, screw everything!""";"""Yeahhh!
-Society sucks, love hurts, screw everything!""";
-;;;Insert CD;Insert CD;
-;;Aria;Hey! What do you think you're doing?;Hey! What do you think you're doing?;
+Society sucks, love hurts, screw everything!""";"""Hoy paso el tieeempo. Demoliendo hotelesss.
+Mientras los chicos allá en la esquina..."""
+;;;Insert CD;Insert CD;Insertar CD
+;;Aria;Hey! What do you think you're doing?;Hey! What do you think you're doing?;¡Hey, tú! ¡¿Qué crees que estás haciendo?!
 ;;Aria;"K-pop? Are you serious?\!
 Stop touching my boombox!";"K-pop? Are you serious?\!
-Stop touching my boombox!";
+Stop touching my boombox!";"¿K-pop? ¿Es en serio?\!
+¡Quita eso en este instante!"
 ;;;"The lyrics are in Korean, with the occasional
 English sentences.";"The lyrics are in Korean, with the occasional
-English sentences.";
+English sentences.";"La letra está en coreano e inglés.
+Me pregunto qué estará diciendo."
 ;;;The Twins;The Twins;Los Gemelos
-;;The Twins;\etalk[11]Hey! It's you, dude!;\etalk[11]Hey! It's you, dude!;\etalk[11]Hey, ¡que onda bro!
+;;The Twins;\etalk[11]Hey! It's you, dude!;\etalk[11]Hey! It's you, dude!;\etalk[11]Hey, ¡qué onda bro!
 ;;The Twins;"\etalk[11]Well, our ball broke while we were playing
 with it!";"\etalk[11]Well, our ball broke while we were playing
 with it!";"\etalk[11]Nuestra pelota se desinfló mientras estábamos
-jugando. Qué mal."
-;;The Twins;\etalk[11]Hell yeah!;\etalk[11]Hell yeah!;\etalk[11]¡Eso!
+jugando."
+;;The Twins;\etalk[11]Hell yeah!;\etalk[11]Hell yeah!;\etalk[11]¡Esoo!
 ;;;John;John;John
 ;;John;Hi.;Hi.;Hola.
 ;;John;I'm John.;I'm John.;Soy John.
-;;John;We have been expecting you.;We have been expecting you.;Hemos estado esperandote.
+;;John;We have been expecting you.;We have been expecting you.;Hemos estado esperándote.
 ;;;What?;What?;¿Qué?
 ;;John;...\. You're not John, are you?;...\. You're not John, are you?;...\. No eres John, ¿verdad?
-;;John;Most people aren't.;Most people aren't.;La mayoria de gente no lo es.
+;;John;Most people aren't.;Most people aren't.;La mayoria de la gente no lo es.
 ;;John;... But maybe you could be.;... But maybe you could be.;... Pero tal vez tú podrías.
 ;;John;You just need to prove you can be.;You just need to prove you can be.;Solo necesitas provar que puedes serlo.
 ;;John;What do you think?;What do you think?;¿Qué me dices?
-;;;How do I become John;How do I become John;¿Como me vuelvo John?
+;;;How do I become John;How do I become John;¿Cómo me vuelvo John?
 ;;John;Very well.;Very well.;Muy bien.
 ;;John;"You'll have to overcome some challenges to prove
 you're worthy.";"You'll have to overcome some challenges to prove
@@ -975,7 +1013,7 @@ probar que eres digno de serlo."
 ;;;Handy;Handy;Handy
 ;;Handy;"I should probably go to school soon, or I might
 get expelled...";"I should probably go to school soon, or I might
-get expelled ...";"Creo que mejor entrop de una vez, si no puedo
+get expelled ...";"Creo que mejor entro de una vez, sino podría
 ser expulsado..."
 ;;Handy;Looks like I didn't get caught.;Looks like I didn't get caught.;Parece que ningún profesor me vio.
 ;;;Here I am again, at school.;Here I am again, at school.;Bueno, aquí me encuentro... de nuevo.
@@ -983,7 +1021,7 @@ ser expulsado..."
 ;;;...\. and that same feeling.;...\. and that same feeling.;...\. y aquella misma sensación.
 ;;;"I thought I would have left it behind by now,\.
 but there must be a reason I'm back here.";"I thought I would have left it behind by now,\.
-but there must be a reason I'm back here.";"Pense que ya lo había superado, pero no.\.
+but there must be a reason I'm back here.";"Pensé que ya lo había superado, pero no.\.
 Debe haber una buena razón para estar aquí de nuevo."
 ;;;Maybe this white sheet will help.;Maybe this white sheet will help.;Tal vez esta manta blanca ayude.
 ;;;"After I picked out a movie, I lit up and let the haze
@@ -1001,7 +1039,7 @@ remember anything.";No logro recordar casi nada...
 ;;;"However, looking at this shelf, I remember picking
 out a movie to watch.";"However, looking at this shelf, I remember picking
 out a movie to watch.";"Pero, ahora que veo esta estantería, recuerdo
-escoger una de sus películas."
+agarrar una de las películas."
 ;;;"I think it was about a guy who built a time
 machine out of a DeLorean...";"I think it was about a guy who built a time
 machine out of a DeLorean ...";"Era sobre un chico que volvió en el tiempo
@@ -1020,8 +1058,8 @@ far away ...";"Era sobre naves espaciales y armas láser en
 un lugar muy muy lejano."
 ;;;"I think it was about a guy who started a club with a
 friend about fighting...";"I think it was about a guy who started a club with a
-friend about fighting ...";"Era sobre un lugar mágico llamado Terabithia que
-dos chicos crean como escape de la realidad..."
+friend about fighting ...";"Era sobre dos chicos que imaginan un lugar mágico
+llamado Terabithia..."
 ;;;What input are you using?;What input are you using?;Seleccione un método de entrada:
 ;;;Keyboard;Keyboard;Teclado
 ;;;Playstation Controller;Playstation Controller;Control de Playstation
@@ -1053,67 +1091,67 @@ hace varias horas."
 ;;;I wonder what happened to the clock's arms.;I wonder what happened to the clock's arms.;¿Qué les habrá pasado a sus manecillas?
 ;;;"Then, I might have gone to bed, and passed out on
 my thoughts.";"Then, I might have gone to bed, and passed out on
-my thoughts.";"Luego, me fui a mi cama y debo haberme quedado
+my thoughts.";"Luego, me fui a mi cama y debo de haberme quedado
 dormido mientras pensaba."
-;;;Which leads me here, wherever this might be.;Which leads me here, wherever this might be.;Y de alguna forma, acabé aquí tirado.
+;;;Which leads me here, wherever this might be.;Which leads me here, wherever this might be.;Y, de alguna forma, acabé aquí tirado.
 ;;;"...\| I don't think it's a dream, since I'm clearly
 thinking, and everything feels pretty real.";"...\| I don't think it's a dream, since I'm clearly
 thinking, and everything feels pretty real.";"...\| No creo que todo esto sea un sueño;
 se siente demasiado real para serlo."
-;;;It's a kettle, filled with water.;It's a kettle, filled with water.;
+;;;It's a kettle, filled with water.;It's a kettle, filled with water.;Es una tetera con agua.
 ;;;Fill the cup;Fill the cup;Llenar taza
 ;;;The basketball is too far away for you to reach.;The basketball is too far away for you to reach.;"La pelota de baloncesto está demasiado lejos
 para que la alcances."
-;;;A big closet.;A big closet.;-------------------------------------------
-;;Worm;i don't know how i got here ...;i don't know how i got here ...;¿cómo llegue aquí?
+;;;A big closet.;A big closet.;Un casillero grande.
+;;Worm;i don't know how i got here ...;i don't know how i got here ...;¿cómo llegue aquí?...
 ;;;It's an empty cup.;It's an empty cup.;Es una taza vacía.
 ;;;Vinnie;Vinnie;Vinnie
 ;;Vinnie;...\. Why are you looking at me like that?;...\. Why are you looking at me like that?;...\. ¿Qué me miras?
 ;;Vinnie;"Hey, you better not snitch on me.
 I know people who can screw you up.";"Hey, you better not snitch on me.
-I know people who can screw you up.";"¡Hey, no vayas a estar andando de soplón, eh!
+I know people who can screw you up.";"No vayas a estar andando de soplón, ¡eh!
 A menos que quieras que te haga la vida imposible."
 ;;Vinnie;"Yeah, I already checked all the stalls for toilet
 paper.";"Yeah, I already checked all the stalls for toilet
 paper.";"Sí, ya he buscado, pero no encontré más."
 ;;;I did my best.;I did my best.;Hice mi mejor esfuerzo.
 ;;Vinnie;Thanks for helping out.;Thanks for helping out.;Gracias por ayudar.
-;;Vinnie;Why are you playing that in the restroom?;Why are you playing that in the restroom?;----------------------------------------
-;;;I don't need to go now.;I don't need to go now.;------------------------------------------------
+;;Vinnie;Why are you playing that in the restroom?;Why are you playing that in the restroom?;¿Quién trae una trompeta al baño?
+;;;I don't need to go now.;I don't need to go now.;Ahora no.
 ;;;Lucas;Lucas;Lucas
 ;;Lucas;Hello? Anyone? The toilet paper's gone!;Hello? Anyone? The toilet paper's gone!;"¿Hay alguien ahí? Es que se acabó el papel
-de baño."
+higiénico."
 ;;Lucas;"Hey! You! Could you please get me some toilet
 paper?";"Hey! You! Could you please get me some toilet
-paper?";"Oye, ¿crees que me podrías traer más papel?
-Por favor."
+paper?";"Oye, ¿crees que me podrías traer más papel,
+por favor?"
 ;;Lucas;"Vinnie already checked the other stalls here
 and they're all empty!";"Vinnie already checked the other stalls here
 and they're all empty!";"Vinnie ya revisó todo el baño y no encontró
 ningún papel."
 ;;Lucas;"Could you please try to get some toilet paper?
 Maybe the women's room has some extra!";"Could you please try to get some toilet paper?
-Maybe the women's room has some extra!";"Debe haber más en el baño de mujeres. Por favor,
-te lo ruego. Solo necesito un rollo."
+Maybe the women's room has some extra!";"Debe haber más en el baño de mujeres.
+Te lo ruego. Solo necesito un rollo."
 ;;Lucas;Hey, did you get the toilet paper?;Hey, did you get the toilet paper?;¿Lograste conseguir más papel?
 ;;Lucas;Great, throw it over the door.;Great, throw it over the door.;"Uf, qué alivio. Pásalo por debajo de
-la puerta porfa."
-;;Lucas;Thanks man, appreciate it.;Thanks man, appreciate it.;"Gracias, amigo. Me salvaste de una buena"
+la puerta, porfa."
+;;Lucas;Thanks man, appreciate it.;Thanks man, appreciate it.;Gracias, amigo. Me salvaste de una buena.
 ;;Lucas;Hey! I can hear you leaving!;Hey! I can hear you leaving!;¡Hey! ¡¿Adónde vas?!
-;;;The sink doesn't even work.;The sink doesn't even work.;El lavamanos está averiado.
+;;;The sink doesn't even work.;The sink doesn't even work.;Ni siquiera hay agua.
 ;;Lucas;"Thanks for saving me dude, I've been stuck there
 for a couple of hours now ...";"Thanks for saving me dude, I've been stuck there
-for a couple of hours now ...";"No sé cómo agradecerte. Llevaba unas horas
+for a couple of hours now ...";"No sé cómo agradecerte. Llevaba horas
 atrapado ahí. Era una tortura."
 ;;Lucas;Uhhh...;Uhhh ...;Ah...
-;;Lucas;Nice?;Nice?;Okay?
+;;Lucas;Nice?;Nice?;¿Okay?
 ;;Lucas;"Thanks for saving me dude, I've been stuck there
 for a couple of hours now...";"Thanks for saving me dude, I've been stuck there
-for a couple of hours now ...";"No sé cómo agradecerte. Llevaba unas horas
+for a couple of hours now ...";"No sé cómo agradecerte. Llevaba horas
 atrapado ahí. Era una tortura."
-;;;Coach;Coach;
-;;Coach;\etalk[3]Wrong! You're doing it wrong!;\etalk[3]Wrong! You're doing it wrong!;
-;;;Jaxon;Jaxon;
+;;;Coach;Coach;Entrenador
+;;Coach;\etalk[3]Wrong! You're doing it wrong!;\etalk[3]Wrong! You're doing it wrong!;\etalk[3]¡¿No puedes hacerlo BIEN?!
+;;;Jaxon;Jaxon;Jaxon
 ;;Jaxon;This? Yeah, it's a full 5 kg.;This? Yeah, it's a full 5 kg.;
 ;;Jaxon;"You probably think that's impressive already, but 
 last week I managed to do 100 grams extra!";"You probably think that's impressive already, but 
