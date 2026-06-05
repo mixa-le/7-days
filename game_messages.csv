@@ -1933,8 +1933,8 @@ I’d love to learn alongside the cats!";"¿Crees que hay escuelas aquí?
 ;;Construction Worker;"It'll take a bit of time and hard work, but it's
 gonna be worth it.";"It'll take a bit of time and hard work, but it's
 gonna be worth it.";"Va a tomar algo de tiempo y trabajo duro,
-pero vaya que va valer la pena."
-;;Worm;wamba;wamba;wamba
+pero vaya que va a valer la pena."
+;;Worm;wamba;wamba;parangaricutirimícuaro
 ;;;Apple;Apple;Manzanín
 ;;Apple;"I was supposed to go to the club with my two
 friends, but I've lost me way!";"I was supposed to go to the club with my two
@@ -1969,7 +1969,7 @@ ocurriera algo."
 ¡No mires!"
 ;;Aero;\etalk[13]Aww...;\etalk[13]Aww...;\etalk[13]Bahh...
 ;;;Mr. Aero;Mr. Aero;Sr. Aero
-;;Mr. Aero;\etalk[13]Ho ho! I've lost my great son!;\etalk[13]Ho ho! I've lost my great son!;\etalk[13]¡Jo jo! ¡He perdido a mi hijo!
+;;Mr. Aero;\etalk[13]Ho ho! I've lost my great son!;\etalk[13]Ho ho! I've lost my great son!;\etalk[13]¡Jo jo! ¡He perdido a mi maravilloso hijo!
 ;;Mr. Aero;"\etalk[13]He must have disappeared from existence!\.
 There's no way you'll ever find him now!";"\etalk[13]He must have disappeared from existence!\.
 There's no way you'll ever find him now!";"\etalk[13]¡Debe haberse desvanecido de este mundo!\.
@@ -1986,7 +1986,7 @@ my side!";"\etalk[15]Adoro a mi esposo. Él es tan atento y
 cariñoso."
 ;;;Electracat;Electracat;Electracat
 ;;Electracat;Grrrrr ...;Grrrrr ...;Fsssss...
-;;;It seems aggressive ...;It seems aggressive ...;No parece muy amigable...
+;;;It seems aggressive ...;It seems aggressive ...;No parece muy amistoso...
 ;;;One day, surely!;One day, surely!;¡Algún día!
 ;;;The baby swan seems to be sleeping.;The baby swan seems to be sleeping.;El bebé cisne parece estar durmiendo.
 ;;;Toast;Toast;Toast
@@ -2003,59 +2003,66 @@ nuevo... o tal vez había otra razón."
 birds.";"Selene would sit by the window, looking at the
 birds.";"Selene se recostaba cerca de la ventana a
 observar a los pájaros."
-;;;Sometimes the birds would look back at her.;Sometimes the birds would look back at her.;"A veces los pájaros lograban verla a través
-del vidrio."
+;;;Sometimes the birds would look back at her.;Sometimes the birds would look back at her.;A veces los pájaros también la obervaban.
 ;;;I wondered if she felt trapped in this house.;I wondered if she felt trapped in this house.;"¿Se habrá sentido aislada o atrapada en
 esta casa?"
 ;;;"The door is locked.\.
 It reads ""STAFF ONLY"".";"The door is locked.\.
-It reads ""STAFF ONLY"".";
-;;;Finn;Finn;
-;;Finn;\etalk[4]Hey.;\etalk[4]Hey.;
+It reads ""STAFF ONLY"".";"La puerta está cerrada.\.
+Dice ""SOLO PERSONAL""."
+;;;Finn;Finn;Finn
+;;Finn;\etalk[4]Hey.;\etalk[4]Hey.;\etalk[4]Hey.
 ;;Finn;"\etalk[4]This music is pretty chill, but definitely not
 as chill as me.";"\etalk[4]This music is pretty chill, but definitely not
-as chill as me.";
-;;;Recliner;Recliner;
-;;Recliner;I've lost me best friend, basketball!;I've lost me best friend, basketball!;
-;;;Basketball;Basketball;
-;;Basketball;Where could he be?;Where could he be?;
-;;Basketball;I've lost me best friend, recliner!;I've lost me best friend, recliner!;
-;;;Goober;Goober;
-;;Goober;I can't do this anymore...;I can't do this anymore ...;
-;;;Lauwili;Lauwili;
+as chill as me.";"\etalk[4]Esta música está genial, pero no tan genial
+como yo."
+;;;Recliner;Recliner;Sillón
+;;Recliner;I've lost me best friend, basketball!;I've lost me best friend, basketball!;"¡He perdido a mi mejor amigo,
+balón!"
+;;;Basketball;Basketball;Balón
+;;Basketball;Where could he be?;Where could he be?;¿Dónde podría estar?
+;;Basketball;I've lost me best friend, recliner!;I've lost me best friend, recliner!;"¡No logro encontrar a mi mejor amigo,
+sillón!"
+;;;Goober;Goober;Goober
+;;Goober;I can't do this anymore...;I can't do this anymore ...;No puedo seguir con esto...
+;;;Lauwili;Lauwili;Lauwili
 ;;Lauwili;"Although it takes hours for me to go to the city,
 they've got the best underground clubs.";"Although it takes hours for me to go to the city,
-they've got the best underground clubs.";
+they've got the best underground clubs.";"Aunque me toma horas llegar a la ciudad, vale la
+pena. Tienen los mejores clubes ""underground""."
 ;;Felix;"Oh! I think I've seen you at school a couple of
 days ago!";"Oh! I think I've seen you at school a couple of
-days ago!";
-;;Felix;What brings you here?;What brings you here?;
-;;Handy;Wassup.;Wassup.;
-;;;So cool...;So cool ...;
-;;;Alien;Alien;
-;;Alien;\etalk[15]This is such a vibe.;\etalk[15]This is such a vibe.;
+days ago!";"Oye, creo que te he visto en la escuela
+hace unos días."
+;;Felix;What brings you here?;What brings you here?;¿Qué te trae por aquí?
+;;Handy;Wassup.;Wassup.;¿Qué hay, mano?
+;;;So cool...;So cool ...;Qué cool...
+;;;Alien;Alien;Alien
+;;Alien;\etalk[15]This is such a vibe.;\etalk[15]This is such a vibe.;\etalk[15]Qué buenas vibras hay aquí.
 ;;;"It's an arcade machine.
 Would you like to play?";"It's an arcade machine.
 Would you like to play?";"Es una máquina arcade.
 ¿Quieres jugar?"
 ;;;"It's a poster.\!
 ""STRAY KATS: LIVE!""";"It's a poster.\!
-""STRAY KATS: LIVE!""";
-;;;Solstice;Solstice;
-;;Solstice;\etalk[10]I found this huge glowing ball!;\etalk[10]I found this huge glowing ball!;
-;;Solstice;\etalk[10]It kinda looks like the sun!;\etalk[10]It kinda looks like the sun!;
-;;;Madcap;Madcap;
-;;Madcap;\etalk[11]Praise the gods!;\etalk[11]Praise the gods!;
+""STRAY KATS: LIVE!""";"Es un póster.\!
+""STRAY KATS: EN VIVO!"""
+;;;Solstice;Solstice;Solstice
+;;Solstice;\etalk[10]I found this huge glowing ball!;\etalk[10]I found this huge glowing ball!;\etalk[10]¡Encontré una bola brillante y enorme!
+;;Solstice;\etalk[10]It kinda looks like the sun!;\etalk[10]It kinda looks like the sun!;\etalk[10]¡Es como si fuera el sol!
+;;;Madcap;Madcap;Madcap
+;;Madcap;\etalk[11]Praise the gods!;\etalk[11]Praise the gods!;\etalk[11]¡Alabad a los dioses!
 ;;Loaf Cat;\etalk[12]How would you rate this loaf?;\etalk[12]How would you rate this loaf?;\etalk[12]¿Qué calificación le das a este gato?
 ;;Loaf Cat;\etalk[12]That's just rude!;\etalk[12]That's just rude!;\etalk[12]¡Eso no fue miuy amable!
 ;;Loaf Cat;\etalk[12]That's pretty low...;\etalk[12]That's pretty low ...;\etalk[12]¿Por qué tan poquito? Creo que merecía mias.
 ;;Loaf Cat;\etalk[12]I knew it! I tried my best!;\etalk[12]I knew it! I tried my best!;\etalk[12]¡Lo sabía! ¡Muchas gracias, miaumigo!
 ;;Loaf Cat;\etalk[12]A perfect score? Holy cow!;\etalk[12]A perfect score? Holy cow!;\etalk[12]¿Puntaje prrrfecto? ¡Miaugnífico!
-;;;Paw1;Paw1;
-;;Paw1;\etalk[13]Meow Meow Meow, Meow Meow.;\etalk[13]Meow Meow Meow, Meow Meow.;
-;;;You probably shouldn't touch that ...;You probably shouldn't touch that ...;
+;;;Paw1;Paw1;Michi1
+;;Paw1;\etalk[13]Meow Meow Meow, Meow Meow.;\etalk[13]Meow Meow Meow, Meow Meow.;"\etalk[13]Miau miau miau miau miau miau,
+miau miau miau miau miau miau."
+;;;You probably shouldn't touch that ...;You probably shouldn't touch that ...;Quizá no deberías tocar eso...
 ;;;Place the ladder here?;Place the ladder here?;¿Colocar la escalera aquí?
-;;John;Are you ready for your second challenge?;Are you ready for your second challenge?;¿Listo para tu segundo sesafío?
+;;John;Are you ready for your second challenge?;Are you ready for your second challenge?;¿Listo para tu segundo desafío?
 ;;;How did you get up here;How did you get up here;¿Cómo llegaste hasta aquí?
 ;;John;John doesn't have time for questions.;John doesn't have time for questions.;No tengo tiempo para preguntas bobas.
 ;;John;"For your second challenge, you must get me
@@ -2063,32 +2070,34 @@ sawdust bread.";"For your second challenge, you must get me
 sawdust bread.";"Para tu segundo desafío, debes traerme
 pan seco."
 ;;John;Come back when you think you're ready.;Come back when you think you're ready.;Vuelve cuando estés listo.
-;;John;It appears you have found sawdust bread.;It appears you have found sawdust bread.;Mmm... Parece que lograste encontarlo.
+;;John;It appears you have found sawdust bread.;It appears you have found sawdust bread.;Mmm... Parece que lograste encontrarlo.
 ;;John;John approves.;John approves.;Mis felicitaciones.
 ;;John;I will see you tomorrow for your next challenge.;I will see you tomorrow for your next challenge.;Nos vemos mañana para tu próximo desafío.
-;;;Joscat;Joscat;
+;;;Joscat;Joscat;Joscat
 ;;Joscat;"\etalk[8]You better not mess up my fur,
 it takes work to look this fabulous!";"\etalk[8]You better not mess up my fur,
-it takes work to look this fabulous!";
-;;Haven;Apparently a band is gonna play here soon!;Apparently a band is gonna play here soon!;"¿Ya te enterasté? ¡Parece que una banda tocará
+it takes work to look this fabulous!";"\etalk[8]¡Nada de cariñitos! No sabes cuán trabajoso es
+mantener mi pelaje lisito, lisito."
+;;Haven;Apparently a band is gonna play here soon!;Apparently a band is gonna play here soon!;"¿Ya te enteraste? ¡Parece que una banda tocará
 aquí dentro de poco!"
-;;;Third Eye Frog;Third Eye Frog;
+;;;Third Eye Frog;Third Eye Frog;Rana Clarividente
 ;;Third Eye Frog;"\etalk[10]Ribbit! It sounds like there's gonna be some
 live music this evening!";"\etalk[10]Ribbit! It sounds like there's gonna be some
-live music this evening!";
+live music this evening!";"\etalk[10]¡Croac! ¡Percibo que esta noche habrá
+un show en vivo!"
 ;;Loaf Cat;\etalk[11]How would you rate this loaf?;\etalk[11]How would you rate this loaf?;\etalk[11]¿Qué calificación le das a este gato?
 ;;Loaf Cat;\etalk[11]That's just rude!;\etalk[11]That's just rude!;\etalk[11]¡Eso no fue miuy amable!
 ;;Loaf Cat;\etalk[11]That's pretty low...;\etalk[11]That's pretty low ...;\etalk[11]¿Por qué tan poquito? Creo que merecía mias.
 ;;Loaf Cat;\etalk[11]I knew it! I tried my best!;\etalk[11]I knew it! I tried my best!;\etalk[11]¡Lo sabía! ¡Muchas gracias, miaumigo!
 ;;Loaf Cat;\etalk[11]A perfect score? Holy cow!;\etalk[11]A perfect score? Holy cow!;\etalk[11]¿Puntaje prrrfecto? ¡Miaugnífico!
 ;;Trumpeter;Y'all ready?;Y'all ready?;¿Todos listos?
-;;Trumpeter;Ladies and gentlecats, we are The Swinging Cats!;Ladies and gentlecats, we are The Swinging Cats!;"Damas y caballeros — y amigos gatunos, con ustedes:
+;;Trumpeter;Ladies and gentlecats, we are The Swinging Cats!;Ladies and gentlecats, we are The Swinging Cats!;"Damas y caballeros —y amigos gatunos, con ustedes:
 La Oreja de Van Ronrón."
 ;;Trumpeter;Thank you!;Thank you!;¡Gracias!
 ;;Trumpeter;"Hey buddy, nice seeing you again.\!
 We've got a bit of a problem here ...";"Hey buddy, nice seeing you again.\!
 We've got a bit of a problem here ...";"Qué gusto verte de nuevo, amigo.\!
-¿Sabes?, tenemos un pequeño probremín aquí..."
+Sabes, tenemos un pequeño problemín aquí..."
 ;;Trumpeter;"We couldn't jam at school, but can you help
 out now?";"We couldn't jam at school, but can you help
 out now?";"No pudimos tocar juntos en la escuela, ¿crees
@@ -2097,91 +2106,110 @@ que podríamos hacerlo ahora?"
 get here in time.";"Our keyboard player is stuck in traffic and won't
 get here in time.";"Nuestro tecladista está atascado en el tráfico y
 no llegará a tiempo."
-;;Trumpeter;You can probably see what I'm about to ask ...;You can probably see what I'm about to ask ...;"Creo que ya sabes lo que te voy a pedir
-a continuación..."
+;;Trumpeter;You can probably see what I'm about to ask ...;You can probably see what I'm about to ask ...;"Creo que ya sabes lo que estoy a
+punto de pedirte..."
 ;;;I'll play;I'll play;Lo haré
 ;;;Give me a second;Give me a second;Dame un momento
 ;;Trumpeter;"Awesome! Hop on the keyboard and try to jam
 along!";"Awesome! Hop on the keyboard and try to jam
 along!";¡Perfecto! ¡El teclado es todo tuyo, amigo!
-;;Trumpeter;No worries, let me know if you wanna help out.;No worries, let me know if you wanna help out.;Está bien, tomatelo con calma.
+;;Trumpeter;No worries, let me know if you wanna help out.;No worries, let me know if you wanna help out.;Está bien, tómatelo con calma.
 ;;Trumpeter;You up?;You up?;¿Ya te decidiste?
-;;Trumpeter;Hop on the keyboard and try to jam along!;Hop on the keyboard and try to jam along!;Entonces ¡es hora de tocar!
+;;Trumpeter;Hop on the keyboard and try to jam along!;Hop on the keyboard and try to jam along!;Entonces, ¡es hora de tocar!
 ;;Trumpeter;"That was great! 
 Thanks for helping out man!";"That was great! 
-Thanks for helping out man!";"¡Eso salió increible! No lo hubieramos hecho
+Thanks for helping out man!";"¡Eso salió increíble! No lo hubiéramos hecho
 sin ti. Muchas gracias, en serio."
-;;;Tako Stix;Tako Stix;
-;;Tako Stix;Who needs two arms when you've got eight!;Who needs two arms when you've got eight!;
-;;;Thunder Cat;Thunder Cat;
-;;Thunder Cat;Just out here walking the bass.;Just out here walking the bass.;
-;;;Roseate;Roseate;
+;;;Tako Stix;Tako Stix;Tako Stix
+;;Tako Stix;Who needs two arms when you've got eight!;Who needs two arms when you've got eight!;¡Quién necesita dos brazos cuando tiene ocho!
+;;;Thunder Cat;Thunder Cat;Thundercat
+;;Thunder Cat;Just out here walking the bass.;Just out here walking the bass.;¿Qué onda? Aquí ando con mi bajo.
+;;;Roseate;Roseate;Roseate
 ;;Roseate;"\etalk[19]I've been thinking a lot about some rather
 concerning stuff lately.";"\etalk[19]I've been thinking a lot about some rather
-concerning stuff lately.";
+concerning stuff lately.";"\etalk[19]Últimamente me han estado preocupando
+muchas cosas."
 ;;Roseate;"\etalk[19]Like mortality, our role in the world,
 and the endless, empty space we live in.";"\etalk[19]Like mortality, our role in the world,
-and the endless, empty space we live in.";
+and the endless, empty space we live in.";"\etalk[19]Como la mortalidad, nuestro rol en el mundo
+y el vacío existencial que sentimos."
 ;;Roseate;"\etalk[19]I feel like I'm wasting my time thinking
 about it...";"\etalk[19]I feel like I'm wasting my time thinking
-about it ...";
-;;;Zippy;Zippy;
+about it ...";"\etalk[19]A lo mejor solo estoy perdiendo mi tiempo
+pensando en esas cosas..."
+;;;Zippy;Zippy;Zippy
 ;;Zippy;"I really wanna zee the muzicians up close, but I'm
 worried I'll be deaf at the end of the zhow.";"I really wanna zee the muzicians up close, but I'm
-worried I'll be deaf at the end of the zhow.";
+worried I'll be deaf at the end of the zhow.";"Tengo muchaz ganaz de ver a loz múzicoz de zerca,
+pero no quiero quedarme zordo."
 ;;Zippy;"That'z why I'm wearing these headphonez!\!
 Now I'll never be deaf!";"That'z why I'm wearing these headphonez!\!
-Now I'll never be deaf!";
-;;;Daisy;Daisy;
+Now I'll never be deaf!";"Por zuerte, llevo audífonoz\!
+¡Azí nunca me quedaré zordo!"
+;;;Daisy;Daisy;Daisy
 ;;Daisy;"\etalk[21]I'm so glad we finally get to see each other
 again after so long!";"\etalk[21]I'm so glad we finally get to see each other
-again after so long!";
-;;Daisy;\etalk[21]I've really missed you!!!;\etalk[21]I've really missed you!!!;
-;;;Muffin;Muffin;
+again after so long!";"\etalk[21]¡Estoy tan contenta de por fin volver a vernos
+después de tanto tiempo!"
+;;Daisy;\etalk[21]I've really missed you!!!;\etalk[21]I've really missed you!!!;\etalk[21]¡¡Ay, te extrañé tantooo!!
+;;;Muffin;Muffin;Muffin
 ;;Muffin;"\etalk[22]It's nice to be able to hang out with
 you again...";"\etalk[22]It's nice to be able to hang out with
-you again ...";
-;;;Skater;Skater;
+you again ...";"\etalk[22]Qué bueno poder volver a pasar
+buenos momentos contigo..."
+;;;Skater;Skater;Skater
 ;;Skater;"I like it, but I feel like the chords could
 be more special...";"I like it, but I feel like the chords could
-be more special ...";
-;;;Weston;Weston;
-;;Weston;Watching this band is cool, but let's be honest.;Watching this band is cool, but let's be honest.;
+be more special ...";"Me gusta, pero siento que los acordes
+podrían mejorar un poco..."
+;;;Weston;Weston;Weston
+;;Weston;Watching this band is cool, but let's be honest.;Watching this band is cool, but let's be honest.;"Son una banda decente...\.
+Pero seamos honestos..."
 ;;Weston;"The true genius is right here, taking notes for
 my next big hit!";"The true genius is right here, taking notes for
-my next big hit!";
-;;;Space Cat;Space Cat;
-;;Space Cat;They can really groove!;They can really groove!;
-;;;Paranoid Man;Paranoid Man;
+my next big hit!";"Yo puedo escribir una canción muchísimo mejor que
+esa. De hecho, eso es justo lo que hago ahora."
+;;;Space Cat;Space Cat;Gato Espacial
+;;Space Cat;They can really groove!;They can really groove!;¡Ese sí que es un ritmo pegadizo!
+;;;Paranoid Man;Paranoid Man;Hombre Paranoico
 ;;Paranoid Man;"I'm not here...
 This isn't happening...";"I'm not here ...
-This isn't happening ...";
-;;;Christo;Christo;
+This isn't happening ...";"No estoy aquí...
+No, esto no está pasando..."
+;;;Christo;Christo;Christo
 ;;Christo;"They really can groove...\!
 You can feel that digital love in the air!";"They really can groove ...\!
-You can feel that digital love in the air!";
-;;;The Beetle;The Beetle;
-;;The Beetle;I'm excited to see what they've got... ;I'm excited to see what they've got ... ;
-;;The Beetle;They really took a sad song, and made it better.;They really took a sad song, and made it better.;
-;;;Black Cow;Black Cow;
+You can feel that digital love in the air!";"¿Sabes cómo podrían llamar más la atención?
+Con unos cascos dorados y plateados."
+;;;The Beetle;The Beetle;El Beetle
+;;The Beetle;I'm excited to see what they've got... ;I'm excited to see what they've got ... ;"¡Hey, Jude!... Perdón, quise decir: ¡hey, tú!
+A veces me emociono demasiado."
+;;The Beetle;They really took a sad song, and made it better.;They really took a sad song, and made it better.;"Creo que hubiera quedado mejor con un
+""Na na na na"" al final que durara 4 minutos."
+;;;Black Cow;Black Cow;Vaca Negra
 ;;Black Cow;"\etalk[29]I'd love to learn the saxophone, and play just
 what I feel.";"\etalk[29]I'd love to learn the saxophone, and play just
-what I feel.";
-;;Black Cow;\etalk[29]I've got no way with music though, but I can dream.;\etalk[29]I've got no way with music though, but I can dream.;
-;;;Concerned Cat;Concerned Cat;
-;;Concerned Cat;\etalk[30]Damn! This red chili pepper is really hot!;\etalk[30]Damn! This red chili pepper is really hot!;
-;;Concerned Cat;\etalk[30]Why did I take a bite?!;\etalk[30]Why did I take a bite?!;
+what I feel.";"\etalk[29]Me encantaría aprender a tocar el saxofón
+y expresar lo que siento en una canción."
+;;Black Cow;\etalk[29]I've got no way with music though, but I can dream.;\etalk[29]I've got no way with music though, but I can dream.;"\etalk[29]Sé que no tengo mucho talento para la
+música, pero no hay nada de malo en soñar."
+;;;Concerned Cat;Concerned Cat;Gato Estresado
+;;Concerned Cat;\etalk[30]Damn! This red chili pepper is really hot!;\etalk[30]Damn! This red chili pepper is really hot!;"\etalk[30]¡%$@#&=! ¡Este chile está que ardeee!"
+;;Concerned Cat;\etalk[30]Why did I take a bite?!;\etalk[30]Why did I take a bite?!;\etalk[30]¡¿Por qué lo comí si era obvio que picaba?!
 ;;Concerned Cat;"\etalk[30]Why did I just take ANOTHER bite of this
 red, hot chili pepper?!";"\etalk[30]Why did I just take ANOTHER bite of this
-red, hot chili pepper?!";
-;;;Sound Engineer;Sound Engineer;
-;;Sound Engineer;This audio system seems to be down...;This audio system seems to be down ...;
-;;;The arcade is on fire.;The arcade is on fire.;
-;;;It's a duster.;It's a duster.;
-;;;Marimba Cat;Marimba Cat;
-;;Marimba Cat;Uhhh... which one do I hit again?;Uhhh ... which one do I hit again?;
-;;;The tuba is bigger than their entire body.;The tuba is bigger than their entire body.;
-;;Trumpeter;Hey! It's you!;Hey! It's you!;"¡Hey, yo te recuerdo! ¡Eres el chico que encontró mi trompeta!"
+red, hot chili pepper?!";"\etalk[30]¡Ahhh! ¡¿Por qué lo probé otra vez si ya
+sabía que picaba?!"
+;;;Sound Engineer;Sound Engineer;Ingeniero de Audio
+;;Sound Engineer;This audio system seems to be down...;This audio system seems to be down ...;"Parece que el sistema de sonido dejó
+de funcionar..."
+;;;The arcade is on fire.;The arcade is on fire.;La máquina arcade está en llamas.
+;;;It's a duster.;It's a duster.;Es un plumero.
+;;;Marimba Cat;Marimba Cat;Gato Marimba
+;;Marimba Cat;Uhhh... which one do I hit again?;Uhhh ... which one do I hit again?;Ehhh... ¿Cuál de todas estas tenía que golpear?
+;;;The tuba is bigger than their entire body.;The tuba is bigger than their entire body.;La tuba es más grande que todo su cuerpo.
+;;Trumpeter;Hey! It's you!;Hey! It's you!;"¡Hey, yo te recuerdo! ¡Eres el chico
+que encontró mi trompeta!"
 ;;Trumpeter;Could you come up here for a sec?;Could you come up here for a sec?;¿Puedes subir aquí un momento?
 ;;Aero;\etalk[13]Aw dang it! You found me!;\etalk[13]Aw dang it! You found me!;\etalk[13]¡Caray! Pensé que no ibas a encontrarme aquí.
 ;;Aero;\etalk[13]Wanna play again?;\etalk[13]Wanna play again?;\etalk[13]¿Quieres jugar de nuevo?
@@ -2193,7 +2221,8 @@ won't find me this time!";"\etalk[13]Okay, ¡esta vez no me encontrarás!"
 ;;Scared Cat;\etalk[8]Thank you ...;\etalk[8]Thank you ...;\etalk[8]Miau, muchas gracias...
 ;;Zach;"The one who in victory wins on himself,
 wins two times.";"The one who in victory wins on himself,
-wins two times.";
+wins two times.";"Dos veces vence el que se vence
+a sí mismo."
 ;;Scared Cat;\etalk[8]Help ... Please ...;\etalk[8]Help ... Please ...;\etalk[8]¡Miauxilio, por favor!
 ;;;Help;Help;Ayudar
 ;;;Leave;Leave;Irse
@@ -2202,7 +2231,7 @@ wins two times.";
 ;;Baker;Hello, would you like to buy some sawdust bread?;Hello, would you like to buy some sawdust bread?;Hola, ¿quieres comprar unos panes secos?
 ;;Baker;Here you go!;Here you go!;Aquí tienes.
 ;;;You got Sawdust Bread.;You got Sawdust Bread.;Recibiste pan seco.
-;;Baker;That's fine! Have a good day!;That's fine! Have a good day!;Está bien. ¡Que tengas un buen día!
+;;Baker;That's fine! Have a good day!;That's fine! Have a good day!;Está bien. ¡Qué tengas un buen día!
 ;;Baker;That's enough sawdust bread.;That's enough sawdust bread.;Ya es suficiente pan seco.
 ;;;John sent me;John sent me;Me envió John
 ;;Baker;Ummm ...;Ummm ...;Mmm...
@@ -2223,54 +2252,57 @@ It smells burnt.";"The oven.
 It smells burnt.";"El horno.
 Huele a quemado."
 ;;Aero;\etalk[13]One more time!;\etalk[13]One more time!;\etalk[13]¡Juguemos una vez más!
-;;Aero;\etalk[13]This time you'll never find me!;\etalk[13]This time you'll never find me!;\etalk[13]¡Esta vez te juro que no me encontrarás!
-;;;It's a shelf full of bread.;It's a shelf full of bread.;
-;;;Max;Max;
-;;Max;I love bread.;I love bread.;
-;;;Mittens;Mittens;
+;;Aero;\etalk[13]This time you'll never find me!;\etalk[13]This time you'll never find me!;\etalk[13]¡Esta vez nunca me encontrarás!
+;;;It's a shelf full of bread.;It's a shelf full of bread.;Es un estante lleno de pan.
+;;;Max;Max;Max
+;;Max;I love bread.;I love bread.;Me encanta el pan.
+;;;Mittens;Mittens;Mittens
 ;;Mittens;"\etalk[4]I've been waiting for an hour now to
 get a haircut!";"\etalk[4]I've been waiting for an hour now to
-get a haircut!";
-;;Mittens;\etalk[4]This is getting ridiculous!;\etalk[4]This is getting ridiculous!;
-;;;Frank;Frank;
-;;Frank;\etalk[5]Ha! What do you think of my new haircut?!;\etalk[5]Ha! What do you think of my new haircut?!;
-;;;It's nice;It's nice;
-;;;You've made a mistake;You've made a mistake;
-;;Frank;\etalk[5]Thanks man! It looks totally rad!;\etalk[5]Thanks man! It looks totally rad!;
-;;Frank;\etalk[5]Pft... Whatever!\. I like it!;\etalk[5]Pft ... Whatever!\. I like it!;
-;;Frank;\etalk[5]I'll always trust this barber!;\etalk[5]I'll always trust this barber!;
-;;;Shark;Shark;
-;;Shark;Hey ... Do you think you could help me escape?;Hey ... Do you think you could help me escape?;
-;;Shark;What? Never seen a talking shark before?;What? Never seen a talking shark before?;
+get a haircut!";"\etalk[4]¡Llevo una hora aquí esperando para
+cortarme el pelo!"
+;;Mittens;\etalk[4]This is getting ridiculous!;\etalk[4]This is getting ridiculous!;\etalk[4]¡Esto es un absurdo!
+;;;Frank;Frank;Frank
+;;Frank;\etalk[5]Ha! What do you think of my new haircut?!;\etalk[5]Ha! What do you think of my new haircut?!;"\etalk[5]¿Qué te parece mi nuevo corte?
+Envidiable, ¿no es así?"
+;;;It's nice;It's nice;Se ve bien
+;;;You've made a mistake;You've made a mistake;Te quedó mal
+;;Frank;\etalk[5]Thanks man! It looks totally rad!;\etalk[5]Thanks man! It looks totally rad!;\etalk[5]¡Gracias, amigo! ¡Quedó increíble!
+;;Frank;\etalk[5]Pft... Whatever!\. I like it!;\etalk[5]Pft ... Whatever!\. I like it!;\etalk[5]Sí, claro. ¡Como sea!
+;;Frank;\etalk[5]I'll always trust this barber!;\etalk[5]I'll always trust this barber!;"\etalk[5]De ahora en adelante, ¡solo me cortaré
+el pelo aquí!"
+;;;Shark;Shark;Tiburón
+;;Shark;Hey ... Do you think you could help me escape?;Hey ... Do you think you could help me escape?;Oye... ¿Crees que podrías ayudarme a escapar?
+;;Shark;What? Never seen a talking shark before?;What? Never seen a talking shark before?;¿Nunca habías visto un tiburón que habla?
 ;;Shark;"Ehh, it's probably not worth the trouble to
 help me.";"Ehh, it's probably not worth the trouble to
-help me.";
-;;Shark;I do have a pretty good life here.;I do have a pretty good life here.;
-;;;Would you like a haircut?;Would you like a haircut?;
-;;;It's a coat rack.;It's a coat rack.;
-;;;Coat Rack;Coat Rack;
-;;Coat Rack;Hello!;Hello!;
-;;Coat Rack;It is I, the talking coat rack!;It is I, the talking coat rack!;
-;;Coat Rack;Not surprised?;Not surprised?;
-;;Coat Rack;Well\....;Well\. ...;
-;;Coat Rack;Uh...;Uh ...;
-;;Coat Rack;Watch this!;Watch this!;
-;;Coat Rack;Boom!;Boom!;
-;;Waiter;\etalk[8]Welcome to our barber shop.;\etalk[8]Welcome to our barber shop.;
-;;;Hair products.;Hair products.;
-;;;You should do your work before you leave.;You should do your work before you leave.;
+help me.";"Mmm... creo que mejor me quedo aquí."
+;;Shark;I do have a pretty good life here.;I do have a pretty good life here.;Después de todo, la vida aquí no está tan mal.
+;;;Would you like a haircut?;Would you like a haircut?;¿Quisieras un nuevo corte de pelo?
+;;;It's a coat rack.;It's a coat rack.;Es un perchero.
+;;;Coat Rack;Coat Rack;Perchero
+;;Coat Rack;Hello!;Hello!;¡Hellooo!
+;;Coat Rack;It is I, the talking coat rack!;It is I, the talking coat rack!;¡Soy yo, el perchero parlante!
+;;Coat Rack;Not surprised?;Not surprised?;¿No te impresiona?
+;;Coat Rack;Well\....;Well\. ...;Mmm. Bueno...
+;;Coat Rack;Uh...;Uh ...;Ah...
+;;Coat Rack;Watch this!;Watch this!;¡Chécate esto!
+;;Coat Rack;Boom!;Boom!;¡Bummm!
+;;Waiter;\etalk[8]Welcome to our barber shop.;\etalk[8]Welcome to our barber shop.;\etalk[8]Bienvenido a nuestra barbería.
+;;;Hair products.;Hair products.;Productos para el cabello.
+;;;You should do your work before you leave.;You should do your work before you leave.;Deberías terminar tu trabajo antes de retirarte.
 ;;;Grab;Grab;Agarrar
 ;;;It's an hot kettle, filled with water.;It's a hot kettle, filled with water.;Es una tetera llena de agua.
 ;;;It's a hot kettle, filled with water.;It's a hot kettle, filled with water.;Es una tetera llena de agua.
 ;;;The sink.;The sink.;El lavaplatos.
 ;;;Fill the kettle;Fill the kettle;Llenar la tetera
-;;;I should turn on the kettle in the left corner.;I should turn on the kettle in the left corner.;"Debería hervir el agua de la tetera
+;;;I should turn on the kettle in the left corner.;I should turn on the kettle in the left corner.;"Debería poner a hervir la tetera
 en la esquina izquierda."
 ;;;There's a bunch of catnip, and some catnip leaves.;There's a bunch of catnip, and some catnip leaves.;Hay bastante hierba para gatos.
 ;;;"There's a bunch of catnip, and some catnip leaves.
 Steep the leaves into the cup?";"There's a bunch of catnip, and some catnip leaves.
 Steep the leaves into the cup?";"Hay bastante hierba para gatos.
-¿Echo algunas hojas en la taza?"
+¿Pongo algunas hojas en la taza?"
 ;;;You made Catnip Tea!;You made Catnip Tea!;Hiciste un té de hierba para gatos.
 ;;;You took all the catnip that was left.;You took all the catnip that was left.;Usaste toda la hierba para gatos que había.
 ;;Waiter;We just got an order for catnip tea, chef.;We just got an order for catnip tea, chef.;"Nos llegó una orden de té de hierba
@@ -2284,7 +2316,7 @@ Good luck chef.";"When you're done, bring it here.\|
 Good luck chef.";"Tráela cuando termines.\|
 Buena suerte."
 ;;Waiter;Are you done?;Are you done?;¿Terminaste?
-;;Waiter;Excellent.;Excellent.;Excelente
+;;Waiter;Excellent.;Excellent.;Excelente.
 ;;;Customer;Customer;Cliente
 ;;Customer;"Mmm,\. this is just what I needed.\!
 Perfectly brewed!";"Mmm,\. this is just what I needed.\!
@@ -2313,7 +2345,7 @@ This is unacceptable!";"¡¿Qué?! ¡Cáscaras de huevo con plástico derretido!
 ;;Customer;"But ...\| fine.\!
 Let’s see if the soufflé can redeem this.";"But ...\| fine.\!
 Let’s see if the soufflé can redeem this.";"Pero...\| bueno.\!
-Veamos si el suflé es una historia diferente."
+Veamos si el suflé mejora las cosas."
 ;;Waiter;Of course, sir.;Of course, sir.;Por supuesto, señor.
 ;;Customer;\}...\. It better not come with any surprise ingredients...;\}...\. It better not come with any surprise ingredients ...;"\}...\. Ojalá que esta vez no traiga
 ingredientes extraños..."
@@ -2351,26 +2383,27 @@ Put the bowl in?";"A pan.
 Put the bowl in?";"Una sartén.
 ¿Poner el tazón encima?"
 ;;;You put the bowl in the pan.;You put the bowl in the pan.;Pusiste el tazón en la sartén.
-;;;You made fish cakes!;You made fish cakes!;¡Preparaste pasteles de pescado!
+;;;You made fish cakes!;You made fish cakes!;¡Preparaste croquetas de atún!
 ;;;A bowl.;A bowl.;Un tazón.
 ;;;"A bowl.
 Mash the tuna?";"A bowl.
 Mash the tuna?";"Un tazón.
-¿Aplastar el atún?"
-;;;You mashed the tuna.;You mashed the tuna.;Aplastaste el atún.
+¿Moler el atún dentro?"
+;;;You mashed the tuna.;You mashed the tuna.;Moliste el atún.
 ;;;You should add breadcrumbs, eggs and catnip.;You should add breadcrumbs, eggs and catnip.;"Debes añadir pan rallado, huevos y
 hierba para gatos."
 ;;;Add breadcrumbs;Add breadcrumbs;Añadir pan rallado
 ;;;Add eggs;Add eggs;Añadir huevos
 ;;;Add catnip;Add catnip;Añadir hierba para gatos
-;;;It's a bowl with the tuna cake mix.;It's a bowl with the tuna cake mix.;Es un tazón con la mezcla para los pasteles de atún.
+;;;It's a bowl with the tuna cake mix.;It's a bowl with the tuna cake mix.;"Es un tazón con la mezcla para las croquetas
+de atún."
 ;;;You should add cheese, milk, and catnip.;You should add cheese, milk, and catnip.;Debes añadir queso, leche y hierba para gatos.
 ;;;Add milk;Add milk;Añadir leche
 ;;;Add cheese;Add cheese;Añadir queso
 ;;;"\{Bowl.\}
 Mix it?";"\{Bowl.\}
 Mix it?";"\{Tazón.\}
-¿Mezclarlo?"
+¿Mezclar?"
 ;;;You mixed the ingredients.;You mixed the ingredients.;Mezclaste los ingredientes.
 ;;;\{Bowl.\};\{Bowl.\};\{Tazón.\}
 ;;;It's milk.;It's milk.;Es leche.
@@ -2386,9 +2419,9 @@ Mix it?";"\{Tazón.\}
 ;;;\<you're in your own world all the time;\<you're in your own world all the time;\<te escondes en tu propio mundo
 ;;;\<you don't bring any change;\<you don't bring any change;\<no te esfuerzas por cambiar
 ;;;\<you've already disappointed so many;\<you've already disappointed so many;\<has decepcionado a tantos
-;;;\<why have the chance to mess it all up again;\<why have the chance to mess it all up again;\<e intentas arruirnarlo todo de nuevo
+;;;\<why have the chance to mess it all up again;\<why have the chance to mess it all up again;\<e intentas arruinarlo todo de nuevo
 ;;;\<was it all your fault?;\<was it all your fault?;\<¿todo fue culpa tuya?
-;;;\<it's not like you can change what you did;\<it's not like you can change what you did;ya es tarde para cambiar lo que hiciste
+;;;\<it's not like you can change what you did;\<it's not like you can change what you did;ya es tarde para deshacer lo que hiciste
 ;;;\<since when did you get control over your actions;\<since when did you get control over your actions;\<¿desde cuándo tienes control sobre tus acciones?
 ;;;You were devastated.;You were devastated.;Estabas hecho pedazos.
 ;;;You thought about jumping in front of a car too.;You thought about jumping in front of a car too.;"Por un momento consideraste lanzarte contra
@@ -2413,7 +2446,7 @@ aceptarlo."
 ;;;"There's no right or wrong answer here.\!
 There's no saying if you caused her death.";"There's no right or wrong answer here.\!
 There's no saying if you caused her death.";"No existe respuesta correcta o errada.\!
-Y nadie puede decir con certeza si fue tu culpa."
+Y nadie puede saber si fue realmente tu culpa."
 ;;;The only answer you can have, is your own.;The only answer you can have, is your own.;Lo único que importa aquí es lo que tú creas.
 ;;;...\| Can you give Selene her freedom and peace?;...\| Can you give Selene her freedom and peace?;...\| ¿Quieres que Selene por fin descanse en paz?
 ;;;Thank you for being here;Thank you for being here;Gracias por todo, Selene
@@ -2460,7 +2493,7 @@ No tiene ningún nombre escrito."
 ;;;"It's a gravestone with flowers.\.
 The name on it reads 'Nemoid'.";"It's a gravestone with flowers.\.
 The name on it reads 'Nemoid'.";"Es una tumba adornada con algunas flores.\.
-En la lápida se lee el nombre 'Nemoid'."
+En la lápida se lee el nombre ""Nemoid""."
 ;;;You sat at the bus stop for a while.;You sat at the bus stop for a while.;Te sientas en la parada de autobús y esperas.
 ;;;"                 There's a knife on the floor.\!
                      You decide to grab it.";"                 There's a knife on the floor.\!
@@ -3094,7 +3127,7 @@ la música que nos gustaba escuchar."
 sometime ...";"Hey, I was thinking we could maybe do this again
 sometime ...";"Oye, tengo una idea. ¿Por qué no volvemos a
 hacer esto algún otro día?"
-;;Haven;I really enjoyed this.;I really enjoyed this.;Hoy fue increible.
+;;Haven;I really enjoyed this.;I really enjoyed this.;Hoy fue increíble.
 ;;;A second date?;A second date?;¿Una segunda cita?
 ;;;"Could you even call this a date? I'm not sure if
 she's into me.";"Could you even call this a date? I'm not sure if
@@ -3709,7 +3742,7 @@ bloqueándola desde el otro lado."
 ;;;"A big closet.\!
 It won't open.";"A big closet.\!
 It won't open.";
-;;;A coat rack.;A coat rack.;
+;;;A coat rack.;A coat rack.;Un perchero.
 ;;;You pressed the button.;You pressed the button.;Presionaste el botón.
 ;;;It's some sort of electricity box.;It's some sort of electricity box.;
 ;;;When was the last time you felt safe?;When was the last time you felt safe?;¿Cuándo fue la última vez que te sentiste seguro?
