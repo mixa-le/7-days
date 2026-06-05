@@ -557,7 +557,7 @@ Eso me haría muy feliz."
 ;;;What do I do?;What do I do?;¿Qué debo hacer?
 ;;Haven;"A basketball?
 It probably belongs in the gym, right?";"A basketball?
-It probably belongs in the gym, right?";"¿Una pelota de baloncesto?
+It probably belongs in the gym, right?";"¿Un balón de baloncesto?
 Debería estar en el gimnasio, ¿no crees?"
 ;;Haven;"You found a trumpet?
 Maybe someone lost it ...";"You found a trumpet?
@@ -986,7 +986,7 @@ Me pregunto qué estará diciendo."
 ;;The Twins;\etalk[11]Hey! It's you, dude!;\etalk[11]Hey! It's you, dude!;\etalk[11]Hey, ¡qué onda bro!
 ;;The Twins;"\etalk[11]Well, our ball broke while we were playing
 with it!";"\etalk[11]Well, our ball broke while we were playing
-with it!";"\etalk[11]Nuestra pelota se desinfló mientras estábamos
+with it!";"\etalk[11]Nuestro balón se desinfló mientras estábamos
 jugando."
 ;;The Twins;\etalk[11]Hell yeah!;\etalk[11]Hell yeah!;\etalk[11]¡Esoo!
 ;;;John;John;John
@@ -1100,8 +1100,8 @@ thinking, and everything feels pretty real.";"...\| No creo que todo esto sea un
 se siente demasiado real para serlo."
 ;;;It's a kettle, filled with water.;It's a kettle, filled with water.;Es una tetera con agua.
 ;;;Fill the cup;Fill the cup;Llenar taza
-;;;The basketball is too far away for you to reach.;The basketball is too far away for you to reach.;"La pelota de baloncesto está demasiado lejos
-para que la alcances."
+;;;The basketball is too far away for you to reach.;The basketball is too far away for you to reach.;"El balón de baloncesto está demasiado lejos
+para que lo alcances."
 ;;;A big closet.;A big closet.;Un casillero grande.
 ;;Worm;i don't know how i got here ...;i don't know how i got here ...;¿cómo llegué aquí?...
 ;;;It's an empty cup.;It's an empty cup.;Es una taza vacía.
@@ -1164,7 +1164,7 @@ each other ...";\etalk[5]Seguro notaste que nos parecemos mucho...
 ;;The Twins;\etalk[5]... and that's because we're twins!;\etalk[5]... and that's because we're twins!;\etalk[5]Pues es obvio... ¡Somos gemelos!
 ;;The Twins;"\etalk[5]Hey,\. you wouldn't happen to know where our
 basketball is?";"\etalk[5]Hey,\. you wouldn't happen to know where our
-basketball is?";"\etalk[5]Hey,\. hace poco perdimos nuestra pelota
+basketball is?";"\etalk[5]Hey,\. hace poco perdimos nuestro balón
 de baloncesto. ¿La has visto?"
 ;;;I don't think so;I don't think so;Creo que no
 ;;The Twins;"\etalk[5]Nuts, it was signed by Tyler 'T-Bolt' Jackson
@@ -1176,7 +1176,7 @@ Michael 'The Alien' Wembanyama!"
 ;;The Twins;"\etalk[5]...\| Bro, now that I think about it, didn't that
 janitor take our ball yesterday?";"\etalk[5]...\| Bro, now that I think about it, didn't that
 janitor take our ball yesterday?";"\etalk[5]Momento...\| ¿No fue el conserje quien nos
-confiscó la pelota ayer?"
+confiscó el balón ayer?"
 ;;The Twins;\etalk[5].\..\..\| Oh yeaaah!;\etalk[5].\..\..\| Oh yeaaah!;\etalk[5].\..\..\| ¡Es verdaad!
 ;;The Twins;\etalk[5]I think the janitor's closet is locked though ...;\etalk[5]I think the janitor's closet is locked though ...;"\etalk[5]Tiene que estar en el cuarto de limpieza.\.
 Pero seguro está cerrado."
@@ -1198,18 +1198,18 @@ you now!";\etalk[5]Bueno, bro, fue cool hablar contigo.
 ;;The Twins;\etalk[5]Uhh ... That's not our ball!;\etalk[5]Uhh ... That's not our ball!;\etalk[5]Bro, esa no es nuestra pelota.
 ;;The Twins;"\etalk[5]We appreciate the effort, but our
 ball was signed by our hero!";"\etalk[5]We appreciate the effort, but our
-ball was signed by our hero!";"\etalk[5]Gracias y todo, pero nuestra pelota estaba
+ball was signed by our hero!";"\etalk[5]Gracias y todo, pero nuestro balón estaba
 firmada por Wenby."
 ;;The Twins;"\etalk[5]The janitor took ours! It's probably
 in his closet!";"\etalk[5]The janitor took ours! It's probably
 in his closet!";"\etalk[5]¡El conserje se llevó la nuestra! Debe estar
 en el cuarto de limpieza."
-;;;You threw away the old basketball.;You threw away the old basketball.;Tiraron la pelota que les traje.
+;;;You threw away the old basketball.;You threw away the old basketball.;Tiraron el balón que les traje.
 ;;The Twins;"\etalk[5]The janitor took our ball, so it's probably
 in his closet.";"\etalk[5]The janitor took our ball, so it's probably
 in his closet.";"\etalk[5]El conserje debe haber puesto la nuestra en
 el cuarto de limpieza."
-;;;I found your ball;I found your ball;Encontré su pelota
+;;;I found your ball;I found your ball;Encontré su balón
 ;;;Kai;Kai;Kai
 ;;Kai;"\etalk[6]I'm so good at soccer it's insane how many
 matches I've won I should join the professionals";"\etalk[6]I'm so good at soccer it's insane how many
@@ -1503,7 +1503,7 @@ Para volver, habla otra vez con el chico."
 ;;tbh;Yippee! Yippee! Yippee! ;Yippee! Yippee! Yippee! ;¡Yuuupiiii!
 ;;;This is tbh's special room.;This is tbh's special room.;Esta es la habitación secreta de tbh.
 ;;;Good job on finding tbh's special room.;Good job on finding tbh's special room.;¡Felicidades por encontrarla!
-;;;It's a signed basketball.;It's a signed basketball.;Es una pelota de baloncesto firmada.
+;;;It's a signed basketball.;It's a signed basketball.;Es un balón de baloncesto firmado.
 ;;;Mr. ???;Mr. ???;Sr. ¿?
 ;;Mr. ???;"Alright children, are you all ready to listen
 to this?";"Alright children, are you all ready to listen
@@ -1538,7 +1538,7 @@ es de la época de mi papá."
 ;;???;Do you know what subject we have next?;Do you know what subject we have next?;¿Sabes qué curso tenemos después?
 ;;???;"Why do we always have to learn about these
 old albums?";"Why do we always have to learn about these
-old albums?";"¿Por qué siempre nos obliga a escuhar
+old albums?";"¿Por qué siempre nos obliga a escuchar
 esta música?"
 ;;???;They're so long and boring!;They're so long and boring!;¡Son tan aburridas y lentas!
 ;;???;"I think we have math for the next hour...\|
@@ -1547,7 +1547,7 @@ Wait, no! We have English!";"Creo que tenemos matemática después...\|
 Ah, ¡no, espera! ¡Tenemos inglés!"
 ;;;You found an MP3 file.;You found an MP3 file.;Encontraste un archivo MP3.
 ;;;You can play this file on your MP3 player.;You can play this file on your MP3 player.;Puedes escucharlo en tu reproductor MP3.
-;;;You don't see a way of playing the file right now ... ;You don't see a way of playing the file right now ... ;Pero no tienes en qué escucharlo...
+;;;You don't see a way of playing the file right now ... ;You don't see a way of playing the file right now ... ;Pero no tienes dónde escucharlo...
 ;;;"Later, when I started taking different drugs,
 this experience only felt greater.";"Later, when I started taking different drugs,
 this experience only felt greater.";"Luego, cuando empecé a usar otras drogas,
@@ -1589,31 +1589,36 @@ people will try to hurt me again ...";"No puedo cambiar lo que ellos me hicieron
 evitar que otros me lastimen peor..."
 ;;;...\| But I can stop giving them the power to do so.;...\| But I can stop giving them the power to do so.;"...\| Pero puedo dejar de actuar como
 un cobarde..."
-;;;I want to move on.;I want to move on.;Quiero superar este recuerdo.
-;;;...\. I can still feel every second of it.;...\. I can still feel every second of it.;
+;;;I want to move on.;I want to move on.;Quiero superar el pasado.
+;;;...\. I can still feel every second of it.;...\. I can still feel every second of it.;...\. Aún lo recuerdo todo.
 ;;;"The sound of their laughter...\!
 The cold air of the restroom...";"The sound of their laughter ...\!
-The cold air of the restroom ...";
+The cold air of the restroom ...";"El sonido de sus risas...\!
+El aire frío del baño..."
 ;;;"...\| No matter how long I'll hide,\. they'll be
 waiting here to get me.";"...\| No matter how long I'll hide,\. they'll be
-waiting here to get me.";
-;;;This is who I am.;This is who I am.;
-;;???;Why don't you ever grow up?! Stupidhead!;Why don't you ever grow up?! Stupidhead!;
+waiting here to get me.";"No importaba cuánto tiempo me escondía,\. siempre
+se quedaban ahí, esperándome para atraparme."
+;;;This is who I am.;This is who I am.;Este es quien soy.
+;;???;Why don't you ever grow up?! Stupidhead!;Why don't you ever grow up?! Stupidhead!;¡Eso es lo que te buscas, tarado!
 ;;???;"That's what you get for throwing that ball
 at my face! Hmph!";"That's what you get for throwing that ball
-at my face! Hmph!";
-;;???;Ohhhh, you showed him, dude!;Ohhhh, you showed him, dude!;
+at my face! Hmph!";"¡Eso te ganas por lanzarme
+esa pelota a la cara!"
+;;???;Ohhhh, you showed him, dude!;Ohhhh, you showed him, dude!;"*Jajaja* ¡Eso, enséñale quién manda!
+¡A ver si con eso se le quita!"
 ;;Mr. ???;"It's almost time to wrap up!\.
 Come on, give it your best!";"It's almost time to wrap up!\.
-Come on, give it your best!";
-;;???;My legs hurt...;My legs hurt ...;
-;;???;Ugh, I am soooooo bored...;Ugh, I am soooooo bored ...;
+Come on, give it your best!";"¡Ya casi estamos acabando!\.
+¡Vamos, pónganle más ganas!"
+;;???;My legs hurt...;My legs hurt ...;Me duelen las piernas...
+;;???;Ugh, I am soooooo bored...;Ugh, I am soooooo bored ...;Ahh, estoy taaaaan aburrido...
 ;;;I accidentally threw a ball right into a kid's face.;I accidentally threw a ball right into a kid's face.;"Lancé por accidente una pelota directamente
 a la cara de un chico."
 ;;;"I wasn't paying much attention, since I was
 already so tired.";"I wasn't paying much attention, since I was
-already so tired.";"Le dije que estaba cansado y por eso andaba
-algo distraído en aquel momento."
+already so tired.";"Le dije que fue un accidente, estaba cansado
+y algo distraído en ese momento."
 ;;;"But he couldn't understand that it was an
 accident, and started punching me.";"But he couldn't understand that it was an
 accident, and started punching me.";"Pero él no quiso entender y comenzó a
@@ -1622,29 +1627,29 @@ golpearme con fuerza..."
 ;;;"The teacher couldn't care less, he wasn't very
 good at his job regardless.";"The teacher couldn't care less, he wasn't very
 good at his job regardless.";"Sin embargo, al profesor no le importó en lo más
-mínimo — no era muy bueno que digamos."
-;;;I didn't deserve to be hurt like that;I didn't deserve to be hurt like that;No merecía ser tratado así
-;;;No one cared about me then;No one cared about me then;No le importaba a nadie
+mínimo que sufriera de dolor."
+;;;I didn't deserve to be hurt like that;I didn't deserve to be hurt like that;Yo no merecía ser tratado así
+;;;No one cared about me then;No one cared about me then;Nadie se preocupaba conmigo
 ;;;...\. It wasn't fair.;...\. It wasn't fair.;...\. No era justo.
 ;;;"I did hurt him, but he didn't need to target
 his anger towards me.";"I did hurt him, but he didn't need to target
 his anger towards me.";"Es cierto que estaba furioso por el pelotazo, pero
-¿era necesario llegar a tanto?"
-;;;...\| Is this where my fear came from?;...\| Is this where my fear came from?;...\| ¿Es aquí donde nacen mis miedos?
+¿era necesario llegar a tal punto?"
+;;;...\| Is this where my fear came from?;...\| Is this where my fear came from?;...\| ¿Es aquí de donde nacen mis miedos?
 ;;;"I've been scared to do anything active,\. but I had
 no idea that this is where it came from...";"I've been scared to do anything active,\. but I had
-no idea that this is where it came from ...";"¿Era esa la razón por la que tenía miedo de
-relacionarme con los demás...?"
-;;;I didn't want to make another mistake like this...;I didn't want to make another mistake like this ...;No quería volver a repetir el mismo error...
+no idea that this is where it came from ...";"Sé que me da miedo relacionarme con los demás,
+pero no me acordaba que esa era la razón."
+;;;I didn't want to make another mistake like this...;I didn't want to make another mistake like this ...;"No quería repetir el mismo error...
+y volver a pasar por lo mismo."
 ;;;"...\. I remember the look on his face,\. the way
 he glared at me after I hit him.";"...\. I remember the look on his face,\. the way
 he glared at me after I hit him.";"Recuerdo claramente la expresión en su rostro:
 esa mirada aterradora, esos ojos llenos de furia..."
-;;;That face is all it takes for me to start panicking.;That face is all it takes for me to start panicking.;"No pude evitar entrar en pánico en ese
-momento."
+;;;That face is all it takes for me to start panicking.;That face is all it takes for me to start panicking.;Entré en pánico en ese momento.
 ;;;"This is the reason why I shouldn't be trusted.\!
 I keep hurting people.";"This is the reason why I shouldn't be trusted.\!
-I keep hurting people.";"Nadie tiene por qué confiar en mí.\!
+I keep hurting people.";"Esa es la razón por la que nadie confía en mí.\!
 Solo los lastimo vez tras vez."
 ;;;"After school, my mom brought me to the
 hospital.";"After school, my mom brought me to the
@@ -1657,47 +1662,50 @@ lo menos en ese momento..."
 frágil."
 ;;???;"I don't get why these gym classes always
 take so long...";"I don't get why these gym classes always
-take so long ...";
-;;???;I have no idea, just kinda standing here.;I have no idea, just kinda standing here.;
-;;???;... What are we even doing here?;... What are we even doing here?;
-;;;It's an old basketball.;It's an old basketball.;
-;;Mr. ???;For the last time! What is the answer?!;For the last time! What is the answer?!;
-;;Mr. ???;I am actually teaching to literal morons!;I am actually teaching to literal morons!;
+take so long ...";"No logro entender por qué estas clases
+de gimnasia siempre duran tanto..."
+;;???;I have no idea, just kinda standing here.;I have no idea, just kinda standing here.;No lo sé. Yo solo me quedo aquí parado.
+;;???;... What are we even doing here?;... What are we even doing here?;... ¿Qué hacemos aquí?
+;;;It's an old basketball.;It's an old basketball.;Es un balón de baloncesto viejo.
+;;Mr. ???;For the last time! What is the answer?!;For the last time! What is the answer?!;¡Por última vez! ¡¿Cuál es la respuesta?!
+;;Mr. ???;I am actually teaching to literal morons!;I am actually teaching to literal morons!;"¡No puedo creer que tenga burros
+por alumnos!"
 ;;Mr. ???;"I just said the answer like five minutes ago,
 and you can't even remember that?!";"I just said the answer like five minutes ago,
-and you can't even remember that?!";
-;;Mr. ???;You're a joke, a complete and utter joke!;You're a joke, a complete and utter joke!;
-;;;I had almost passed out that day.;I had almost passed out that day.;Casi me desmayo aquel día.
+and you can't even remember that?!";"¡¿Te acabo de decir la respuesta y ni siquiera
+pueden recordarla?!"
+;;Mr. ???;You're a joke, a complete and utter joke!;You're a joke, a complete and utter joke!;¡Eres un completo INÚTIL!
+;;;I had almost passed out that day.;I had almost passed out that day.;Ese día casi me desmayo.
 ;;;The intense pressure was getting to me.;The intense pressure was getting to me.;La presión que sentía era casi insoportable.
 ;;;"And while it looked like I just wasn't listening
 to my teacher, I was actually trying my best.";"And while it looked like I just wasn't listening
 to my teacher, I was actually trying my best.";"Parecía que estaba distraído, pero en realidad,
 hacía todo lo posible por concentrarme en la clase."
 ;;;I can't be defined by a mistake;I can't be defined by a mistake;Un error no puede definirme
-;;;I won't be good enough for anyone;I won't be good enough for anyone;Nunca me aceptarán
-;;;...\. This moment has stayed with me for so long.;...\. This moment has stayed with me for so long.;"...\. Este momento ha estado gravado en mi
+;;;I won't be good enough for anyone;I won't be good enough for anyone;Nunca seré suficiente para nadie
+;;;...\. This moment has stayed with me for so long.;...\. This moment has stayed with me for so long.;"...\. Este momento ha estado grabado en mi
 memoria por mucho tiempo."
 ;;;"The way the teacher looked at me like I was 
 nothing.";"The way the teacher looked at me like I was 
 nothing.";"La forma como mi profesor me miraba...\.
-era como si me despreciara."
+con ese desprecio."
 ;;;"For years,\. I have lived what he had spoken,
 I believed in what he said.";"For years,\. I have lived what he had spoken,
-I believed in what he said.";"Por años, confié en él...\. Trate de ser
+I believed in what he said.";"Por años, confié en él...\. Traté de ser
 como me dijo que fuera."
 ;;;"...\| But I'm not that person. \!
 I am not\. a joke.";"...\| But I'm not that person. \!
-I am not\. a joke.";"...\| Pero ese no era yo. No lo soy.\!
-Basta de ser humillado."
+I am not\. a joke.";"...\| No lo soy.\. No lo soy\!
+No soy un inútil."
 ;;;"...\. The room got so quiet when the teacher
 called us morons.";"...\. The room got so quiet when the teacher
 called us morons.";"...\. Todo el salón se quedó en silencio luego
-que el profesor nos llamara idiotas."
+de lo que el profesor dijo."
 ;;;"I couldn't stand up for myself then,\. and I haven't 
 for my whole life.";"I couldn't stand up for myself then,\. and I haven't 
 for my whole life.";"No fui capaz de defenderme ese día,\. y no lo he sido
 en toda mi vida."
-;;;...\| I am just a joke.;...\| I am just a joke.;...\| Solo soy un mal chiste para los demás.
+;;;...\| I am just a joke.;...\| I am just a joke.;Solo... soy un inútil.
 ;;;"No one can take me seriously,\. no matter how
 hard I try.";"No one can take me seriously,\. no matter how
 hard I try.";"Nadie me toma en serio,\. sin importar
@@ -1709,7 +1717,7 @@ cuanto me esfuerze."
 ;;;I promised them I would return.;I promised them I would return.;Les prometí que regresaría algún día.
 ;;;Are you ready to eat dinner?;Are you ready to eat dinner?;¿Estás listo para cenar?
 ;;;Dad;Dad;Papá
-;;Dad;It's good to have you back.;It's good to have you back.;Qué bueno tenerte de vuelta.
+;;Dad;It's good to have you back.;It's good to have you back.;Qué bueno que hayas vuelto.
 ;;Dad;"...\| I've been thinking about this moment for a
 long time.";"...\| I've been thinking about this moment for a
 long time.";"...\| He estado pensando por mucho tiempo en como
@@ -1730,7 +1738,7 @@ diría el día que volvieras."
 I couldn't figure out how to say ...";"It has always been in the back of my mind, but 
 I couldn't figure out how to say ...";"No he podido encontrar la mejor forma de
 decirlo."
-;;Dad;...\| how to say that I'm sorry.;...\| how to say that I'm sorry.;...\| de decir cuanto lo siento.
+;;Dad;...\| how to say that I'm sorry.;...\| how to say that I'm sorry.;...\| de decir cuánto lo siento.
 ;;Dad;To both of you.;To both of you.;A ustedes dos.
 ;;Dad;...\. I gave you both an unfair life.;...\. I gave you both an unfair life.;...\. No les di la vida que merecían.
 ;;Dad;I messed up mine.;I messed up mine.;E hice todo un desastre de la mía.
@@ -1742,14 +1750,14 @@ right now,\. but this might be my last chance.";"Tal vez no sea el mejor momento
 pero no sé si encontraré uno mejor después."
 ;;Dad;"I probably gave you so many problems, and I didn't
 face myself for it.";"I probably gave you so many problems, and I didn't
-face myself for it.";"Les he dado tantos problemas por tanto tiempo...\. y
-me avergüenzo por ello."
+face myself for it.";"Les he causado tantos problemas por tanto tiempo...\.
+y me avergüenzo por ello."
 ;;Dad;I'm ashamed to call myself a father.;I'm ashamed to call myself a father.;"Ni siquiera debería ser llamado
-padre y esposo."
+padre ni esposo."
 ;;;I'm sorry.;I'm sorry.;Lo siento.
 ;;;Cans of beer.;Cans of beer.;Latas de cerveza.
 ;;;Shards of glass.;Shards of glass.;Trozos de vidrio.
-;;;She's washing the dishes.;She's washing the dishes.;Ella está lavando los platos.
+;;;She's washing the dishes.;She's washing the dishes.;Está lavando los platos.
 ;;;A plate.;A plate.;Un plato.
 ;;;It's an empty kettle.;It's an empty kettle.;Es una tetera vacía.
 ;;;It's a pan.;It's a pan.;Es una sartén.
@@ -1763,7 +1771,7 @@ durante todo este tiempo."
 ;;Mom;"I think you would know how much I would worry
 about that.";"I think you would know how much I would worry
 about that.";"¿Sabes? Esa siempre es una de las preocupaciones
-que tengo caundo estás lejos."
+que tengo cuando estás lejos."
 ;;Mom;"...\. It's something I think about every day,\. as much
 as I tried to hide it from you and your dad.";"...\. It's something I think about every day,\. as much
 as I tried to hide it from you and your dad.";"...\. No hay un día que pase sin que piense en eso,\.
@@ -1771,35 +1779,34 @@ aunque a veces trate de ocultarlo."
 ;;Mom;I knew you wanted to move out for a long time.;I knew you wanted to move out for a long time.;Sabía que llevabas tiempo queriendo mudarte.
 ;;Mom;I don't think I was ready to accept that.;I don't think I was ready to accept that.;Pero no estaba lista para dejarte ir.
 ;;Mom;Have you thought about that?;Have you thought about that?;¿Alguna vez pensaste...?
-;;Mom;Have you ever thought about how I feel?;Have you ever thought about how I feel?;¿En como me eso me haría sentir?
+;;Mom;Have you ever thought about how I feel?;Have you ever thought about how I feel?;¿En cómo eso me haría sentir?
 ;;Mom;When you walked out that door ...;When you walked out that door ...;Al verte salir por aquella puerta...
 ;;Mom;"I know it was partially my fault ...\!
 I should have been vocal ...";"I know it was partially my fault ...\!
 I should have been vocal ...";"Yo sé... sé que parte de la culpa fue mía...\!
-Debí haber hablado más..."
+Debí haberte hablado más..."
 ;;Mom;But ...;But ...;Pero...
-;;Mom;I know it wasn't true ...;I know it wasn't true ...;Esa no fue la única razon...
-;;Mom;But you didn't leave\. because of me,\. right?;But you didn't leave\. because of me,\. right?;"Ningún hijo abandonaría a su madre\.
-que lo ama tanto,\. ¿verdad?"
+;;Mom;I know it wasn't true ...;I know it wasn't true ...;Esa no fue la única razón...
+;;Mom;But you didn't leave\. because of me,\. right?;But you didn't leave\. because of me,\. right?;"Ningún hijo abandonaría a su madre
+que lo ama tanto..."
 ;;Mom;"Of course not! No son would ever do that to their
 mother ...";"Of course not! No son would ever do that to their
-mother ...";¡Claro que no!
-;;Mom;I know you didn't feel safe at home ...;I know you didn't feel safe at home ...;"La razón por la que te fuiste fue por que
-no te sentías seguro en casa."
-;;Mom;...\| But why did you have to leave?;...\| But why did you have to leave?;...\| Pero ¿por qué tubiste que abandonarme?
+mother ...";¿Verdad?
+;;Mom;I know you didn't feel safe at home ...;I know you didn't feel safe at home ...;Te fuiste porque no te sentías seguro en casa.
+;;Mom;...\| But why did you have to leave?;...\| But why did you have to leave?;...\| Pero ¿por qué nos dejaste?
 ;;Mom;... I've been so alone.;... I've been so alone.;... Me he sentido tan sola.
 ;;Mom;\{WHY DID YOU LEAVE ME HERE?;\{WHY DID YOU LEAVE ME HERE?;\{¿POR QUÉ ME ABANDONASTE?
 ;;Mom;\{I HEARD FEAR ...\! SILENCE ...;\{I HEARD FEAR ...\! SILENCE ...;\{¿NO TE IMPORTO?
 ;;Mom;\{...\. WHY DID YOU NEVER VISIT?;\{...\. WHY DID YOU NEVER VISIT?;\{¿POR QUÉ NO VOLVISTE ANTES?
-;;Mom;\}It's just that ...;\}It's just that ...;\}Es que... tú lo prometiste...
-;;Mom;\}...\. you promised.;\}...\. you promised.;\}...\. ¿no es así?
+;;Mom;\}It's just that ...;\}It's just that ...;\}Tú lo prometiste...
+;;Mom;\}...\. you promised.;\}...\. you promised.;\}...\. ¿no es verdad?
 ;;Mom;\}I couldn't stop worrying.;\}I couldn't stop worrying.;\}No podía dejar de preocuparme.
 ;;Mom;\}I'm glad you're here now ...;\}I'm glad you're here now ...;\}Me da gusto que estés de vuelta...
 ;;Mom;\}Go away.;\}Go away.;\}Vete.
-;;;Where did they go?;Where did they go?;
-;;;It's empty.;It's empty.;
-;;;I hope the clock finds them soon.;I hope the clock finds them soon.;
-;;;It's a blanket, and some binders.;It's a blanket, and some binders.;
+;;;Where did they go?;Where did they go?;¿Adónde se fueron?
+;;;It's empty.;It's empty.;Está vacío.
+;;;I hope the clock finds them soon.;I hope the clock finds them soon.;Espero que los encuentre pronto.
+;;;It's a blanket, and some binders.;It's a blanket, and some binders.;Es una cobija y algunas carpetas.
 ;;;Poor clock ...;Poor clock ...;Pobrecito...
 ;;;"""You need to try harder.""";"""You need to try harder.""";"""Debes esforzarte más."""
 ;;;"""You're not dumb, you just don't care enough.""";"""You're not dumb, you just don't care enough.""";"""No es que seas un tonto, sino que no le
@@ -1809,17 +1816,18 @@ das la debida importancia."""
 ;;;"It felt like I wasn't made for this.\!
 I could never keep up.";"It felt like I wasn't made for this.\!
 I could never keep up.";"Sentía que no estaba hecho para eso...\!
-que no era lo mio."
+que no era lo mío."
 ;;;It was so frustrating.;It was so frustrating.;Era muy frustrante
 ;;;You look down in the hole.;You look down in the hole.;Miras a través del hoyo.
 ;;;Robert;Robert;Robert
-;;Robert;Meeeeow man!;Meeeeow man!;
-;;Robert;How ya doin'?;How ya doin'?;
-;;;Shopper;Shopper;
+;;Robert;Meeeeow man!;Meeeeow man!;¡Miauuu!
+;;Robert;How ya doin'?;How ya doin'?;¿Todo bien ahí?
+;;;Shopper;Shopper;Comprador
 ;;Shopper;"I just came back from visiting Dog City, because
 Cat City doesn't have any clothing shops!";"I just came back from visiting Dog City, because
-Cat City doesn't have any clothing shops!";
-;;Shopper;I should totally live there instead...;I should totally live there instead ...;
+Cat City doesn't have any clothing shops!";"Acabo de venir de Ciudad Perro. Aún no puedo
+creer que aquí no haya ninguna tienda de ropa."
+;;Shopper;I should totally live there instead...;I should totally live there instead ...;Debería mudarme a vivir allí...
 ;;;Loaf Cat;Loaf Cat;Michipan
 ;;Loaf Cat;\etalk[7]How would you rate this loaf?;\etalk[7]How would you rate this loaf?;\etalk[7]¿Qué calificación le das a este gato?
 ;;;1-3;1-3;1-3
@@ -1832,47 +1840,53 @@ Cat City doesn't have any clothing shops!";
 ;;Loaf Cat;\etalk[7]A perfect score? Holy cow!;\etalk[7]A perfect score? Holy cow!;\etalk[7]¿Puntaje prrrfecto? ¡Miaugnífico!
 ;;;Pet the loaf?;Pet the loaf?;¿Acariciar?
 ;;;You pet the loaf.;You pet the loaf.;Acaricias al gato.
-;;;Mr. Penguin;Mr. Penguin;
-;;Mr. Penguin;\etalk[8]I've waddled a long way, just to get to Cat City.;\etalk[8]I've waddled a long way, just to get to Cat City.;
-;;Mr. Penguin;\etalk[8]I hope it is worth my time!;\etalk[8]I hope it is worth my time!;
-;;;Tiny Person;Tiny Person;
-;;Tiny Person;Hey! Be careful!;Hey! Be careful!;
-;;Tiny Person;I'm already sitting here!;I'm already sitting here!;
-;;;Fox;Fox;
+;;;Mr. Penguin;Mr. Penguin;Sr. Pingüino
+;;Mr. Penguin;\etalk[8]I've waddled a long way, just to get to Cat City.;\etalk[8]I've waddled a long way, just to get to Cat City.;"\etalk[8]He recorrido un largo camino solo para
+llegar a Ciudad Gato."
+;;Mr. Penguin;\etalk[8]I hope it is worth my time!;\etalk[8]I hope it is worth my time!;\etalk[8]¡Espero que valga la pena!
+;;;Tiny Person;Tiny Person;Persona Diminuta
+;;Tiny Person;Hey! Be careful!;Hey! Be careful!;¡Oye! ¡Ten cuidado!
+;;Tiny Person;I'm already sitting here!;I'm already sitting here!;¡Estoy sentado aquí!
+;;;Fox;Fox;Zorro
 ;;Fox;"It's a shame no one ever goes to this cafe, they've
 got everything you could ever ask for!";"It's a shame no one ever goes to this cafe, they've
-got everything you could ever ask for!";
-;;Fox;The best tea, kind staff, clean tables...;The best tea, kind staff, clean tables ...;
+got everything you could ever ask for!";"Es una pena que nadie venga a este café,
+es uno de los mejores en la zona."
+;;Fox;The best tea, kind staff, clean tables...;The best tea, kind staff, clean tables ...;"Un té increíble, personal amable,
+mesas limpias..."
 ;;;Bailey;Bailey;Dobby
-;;Bailey;\etalk[12]I'm visiting the city for the first time!;\etalk[12]I'm visiting the city for the first time!;
+;;Bailey;\etalk[12]I'm visiting the city for the first time!;\etalk[12]I'm visiting the city for the first time!;\etalk[12]¡Estoy visitando la ciudad por primera vez!
 ;;Bailey;"\etalk[12]I've always lived on the farm my parents owned,
 but it's nice to have a change of scenery!";"\etalk[12]I've always lived on the farm my parents owned,
-but it's nice to have a change of scenery!";
+but it's nice to have a change of scenery!";"\etalk[12]Siempre he vivido en la granja de mis padres,
+pero es bonito salir y conocer nuevos lugares."
 ;;;Willow;Willow;Copito
 ;;Willow;\etalk[13]Meeeeeeow!;\etalk[13]Meeeeeeow!;\etalk[13]¡Miaauuu!
-;;Haven;Hi! I see you're also visiting the city?;Hi! I see you're also visiting the city?;
+;;Haven;Hi! I see you're also visiting the city?;Hi! I see you're also visiting the city?;Hey, ¿tú también estás visitando la ciudad?
 ;;Haven;"I just went to the cat cafe, but the pastries
 were out of stock!";"I just went to the cat cafe, but the pastries
-were out of stock!";
+were out of stock!";"Acabo de ir a un café con temática de gatos,
+pero ya no quedaban pasteles."
 ;;Haven;"Can you believe that?\!
 My day is ruined!";"Can you believe that?\!
-My day is ruined!";
+My day is ruined!";"¿Puedes creerlo?
+¡Y yo que quería tanto comer algo ahí!"
 ;;Haven;The only thing that could \c[1]save\c[0] my day, is you!;The only thing that could \c[1]save\c[0] my day, is you!;
 ;;Haven;Do you wanna \c[1]save\c[0]?;Do you wanna \c[1]save\c[0]?;¿Quieres \c[1]guardar\c[0]?
-;;;You'd pick up the lid, but you don't have any arms.;You'd pick up the lid, but you don't have any arms.;
-;;;Should I have some tea?;Should I have some tea?;
-;;;"""Staff only""";"""Staff only""";
-;;;Enter the kitchen?;Enter the kitchen?;
-;;;I should probably get rid of this ladder ...;I should probably get rid of this ladder ...;
-;;;Throw away;Throw away;
-;;;Keep ladder;Keep ladder;
-;;;Waiter;Waiter;
-;;Waiter;\etalk[8]Welcome to our cafe, sir.;\etalk[8]Welcome to our cafe, sir.;\etalk[8]Sea bienvenido a nuestro Catfetín.
+;;;You'd pick up the lid, but you don't have any arms.;You'd pick up the lid, but you don't have any arms.;Si tuvieras brazos, levantarías la tapa.
+;;;Should I have some tea?;Should I have some tea?;¿Debería tomar un poco de té?
+;;;"""Staff only""";"""Staff only""";"""Solo personal"""
+;;;Enter the kitchen?;Enter the kitchen?;¿Entrar a la cocina?
+;;;I should probably get rid of this ladder ...;I should probably get rid of this ladder ...;Tal vez debería deshacerme de esta escalera...
+;;;Throw away;Throw away;Deshacerse de ella
+;;;Keep ladder;Keep ladder;Conservarla
+;;;Waiter;Waiter;Mesero
+;;Waiter;\etalk[8]Welcome to our cafe, sir.;\etalk[8]Welcome to our cafe, sir.;\etalk[8]Bienvenido a nuestro Catfetín.
 ;;;"It seems someone is sitting here.\!
 There are a couple of cards with jokers on them.";"It seems someone is sitting here.\!
 There are a couple of cards with jokers on them.";"Parece que alguien está sentado aquí.\!
 Hay algunas cartas de poker y unos comodines encima."
-;;Waiter;\etalk[10]Welcome to our cafe, sir.;\etalk[10]Welcome to our cafe, sir.;\etalk[10]Sea bienvenido a nuestro Catfetín.
+;;Waiter;\etalk[10]Welcome to our cafe, sir.;\etalk[10]Welcome to our cafe, sir.;\etalk[10]Bienvenido a nuestro Catfetín.
 ;;;Cat;Cat;Gatoempleado
 ;;Cat;\etalk[11]Hello, and welcome to our Cat Cafe!;\etalk[11]Hello, and welcome to our Cat Cafe!;\etalk[11]¡Miau! ¡Bienvenido a nuestro Catfetín!
 ;;Cat;"\etalk[11]I'll have to disappoint you, but we can't
@@ -1882,10 +1896,10 @@ sirviendo té en el Catfetín."
 ;;Cat;"\etalk[11]Unfortunately, the chef is feeling under
 the weather...";"\etalk[11]Unfortunately, the chef is feeling under
 the weather ...";"\etalk[11]Desafortumiadamente, nuestro barista ha tenido
-un accidente que le costó algunas vidas..."
+un accidente que le costó algunas vidas."
 ;;Cat;"\etalk[11]... and we're on the lookout for someone to help
 prepare our dishes for the day.";"\etalk[11]... and we're on the lookout for someone to help
-prepare our dishes for the day.";\etalk[11]Y estamos miauscando un reemplazo.
+prepare our dishes for the day.";\etalk[11]Por eso estamos miauscando un reemplazo.
 ;;;I could try;I could try;Yo podría ayudar
 ;;;Good luck;Good luck;Suerte con eso
 ;;;I want tea;I want tea;Quiero una taza de té
@@ -1907,38 +1921,44 @@ que escuche el ronroneo de un gato."
 ;;Cat;\etalk[11]Have a good day!;\etalk[11]Have a good day!;\etalk[11]Miau, ¡que tenga un buen día!
 ;;Waiter;\etalk[15]Welcome to our cafe, sir.;\etalk[15]Welcome to our cafe, sir.;\etalk[15]Bienvenido a nuestro Catfetín.
 ;;;The cat hisses and scratches at you.;The cat hisses and scratches at you.;El gato te sisea y te araña.
-;;;Cat?;Cat?;
-;;Cat?;\etalk[22]Hello, fellow cat friend!;\etalk[22]Hello, fellow cat friend!;
-;;Cat?;\etalk[22]What a wonderful day to be a cat!;\etalk[22]What a wonderful day to be a cat!;
-;;;Tom;Tom;
+;;;Cat?;Cat?;¿Gato?
+;;Cat?;\etalk[22]Hello, fellow cat friend!;\etalk[22]Hello, fellow cat friend!;\etalk[22]¿Qué tal, amigo gatuno?
+;;Cat?;\etalk[22]What a wonderful day to be a cat!;\etalk[22]What a wonderful day to be a cat!;\etalk[22]¡Qué día más hermoso para ser un gato!
+;;;Tom;Tom;Tom
 ;;Tom;"Do you think they have schools here?
 I’d love to learn alongside the cats!";"Do you think they have schools here?
-I’d love to learn alongside the cats!";
-;;;Construction Worker;Construction Worker;
+I’d love to learn alongside the cats!";"¿Crees que hay escuelas aquí?
+¡Me encantaría tener gatos por compañeros!"
+;;;Construction Worker;Construction Worker;Obrero
 ;;Construction Worker;"It'll take a bit of time and hard work, but it's
 gonna be worth it.";"It'll take a bit of time and hard work, but it's
-gonna be worth it.";
-;;Worm;wamba;wamba;
-;;;Apple;Apple;
+gonna be worth it.";"Va a tomar algo de tiempo y trabajo duro,
+pero vaya que va valer la pena."
+;;Worm;wamba;wamba;wamba
+;;;Apple;Apple;Manzanín
 ;;Apple;"I was supposed to go to the club with my two
 friends, but I've lost me way!";"I was supposed to go to the club with my two
-friends, but I've lost me way!";
-;;;It's a water fountain.;It's a water fountain.;
-;;;Guppy;Guppy;
-;;Guppy;My owner gave me so many cool items...;My owner gave me so many cool items ...;
+friends, but I've lost me way!";"Hoy se suponía que iría al club con mis
+dos amigos, pero me he perdido."
+;;;It's a water fountain.;It's a water fountain.;Es una fuente de agua.
+;;;Guppy;Guppy;Guppy
+;;Guppy;My owner gave me so many cool items...;My owner gave me so many cool items ...;Mi dueño me dio muchos objetos geniales...
 ;;Guppy;"The thing is, I don't know what I'm supposed
 to do with a sacred heart, or a battery...";"The thing is, I don't know what I'm supposed
-to do with a sacred heart, or a battery...";
+to do with a sacred heart, or a battery...";"Lo único malo es que no sé qué se supone que debo
+hacer con un corazón sagrado o una batería..."
 ;;;It's a ladder.;It's a ladder.;Es una escalera.
 ;;;Boy 1;Boy 1;Chico 1
 ;;Boy 1;"You know, this might just be my favorite spot
 in this whole city.";"You know, this might just be my favorite spot
-in this whole city.";
-;;;Boy 2;Boy 2;
-;;Boy 2;Is it because of the flowers?;Is it because of the flowers?;
+in this whole city.";"Sabes, este podría ser fácilmente mi lugar
+favorito de toda la ciudad."
+;;;Boy 2;Boy 2;Chico 2
+;;Boy 2;Is it because of the flowers?;Is it because of the flowers?;¿Es por causa de las flores?
 ;;Boy 1;"That too, but also because I hang out with you
 here all the time!";"That too, but also because I hang out with you
-here all the time!";
+here all the time!";"Bueno, también. Pero sobre todo porque siempre
+pasamos el rato aquí."
 ;;;"The cat watches you, as if it's waiting for
 something to happen.";"The cat watches you, as if it's waiting for
 something to happen.";"El gato te observa, como si esperara que
@@ -1953,39 +1973,40 @@ ocurriera algo."
 ;;Mr. Aero;"\etalk[13]He must have disappeared from existence!\.
 There's no way you'll ever find him now!";"\etalk[13]He must have disappeared from existence!\.
 There's no way you'll ever find him now!";"\etalk[13]¡Debe haberse desvanecido de este mundo!\.
-¡No hay forma de que lo vuelvas a encuentrar!"
+¡No hay forma de que lo encuentres!"
 ;;;Oliver;Oliver;Oliver
 ;;Oliver;"\etalk[14]This one here? I'm just so lucky to live with
 this beautiful lady ...";"\etalk[14]This one here? I'm just so lucky to live with
-this beautiful lady ...";
+this beautiful lady ...";"\etalk[14]¿Te refieres a ella? Tengo tanta suerte de haber
+encontrado a esta hermosa mujer en mi vida..."
 ;;;Molly;Molly;Molly
 ;;Molly;"\etalk[15]I love my amazing husband, he's never left
 my side!";"\etalk[15]I love my amazing husband, he's never left
-my side!";"\etalk[15]Adoro a mi esposo. Él siempre está a
-mi lado."
+my side!";"\etalk[15]Adoro a mi esposo. Él es tan atento y
+cariñoso."
 ;;;Electracat;Electracat;Electracat
 ;;Electracat;Grrrrr ...;Grrrrr ...;Fsssss...
 ;;;It seems aggressive ...;It seems aggressive ...;No parece muy amigable...
-;;;One day, surely!;One day, surely!;
-;;;The baby swan seems to be sleeping.;The baby swan seems to be sleeping.;
-;;;Toast;Toast;
-;;Toast;\etalk[23]You are so cool...;\etalk[23]You are so cool ...;
+;;;One day, surely!;One day, surely!;¡Algún día!
+;;;The baby swan seems to be sleeping.;The baby swan seems to be sleeping.;El bebé cisne parece estar durmiendo.
+;;;Toast;Toast;Toast
+;;Toast;\etalk[23]You are so cool...;\etalk[23]You are so cool ...;\etalk[23]¡Qué cool eres!...
 ;;;"I was confused on why I wasn't allowed to let
 Selene outside.";"I was confused on why I wasn't allowed to let
 Selene outside.";"No sabía muy bien por qué no me dejaban sacar
 a Selene afuera."
 ;;;"Part of me thinks mom was scared she'd get stuck
 again, but I don't know if she cared so much.";"Part of me thinks mom was scared she'd get stuck
-again, but I don't know if she cared so much.";"Tal vez mamá no quería que se quedara atorada de
-nuevo, o tal vez no y había otra razón."
+again, but I don't know if she cared so much.";"Tal vez mamá no quería que se quedara atascada de
+nuevo... o tal vez había otra razón."
 ;;;"Selene would sit by the window, looking at the
 birds.";"Selene would sit by the window, looking at the
 birds.";"Selene se recostaba cerca de la ventana a
 observar a los pájaros."
 ;;;Sometimes the birds would look back at her.;Sometimes the birds would look back at her.;"A veces los pájaros lograban verla a través
-de la ventana."
+del vidrio."
 ;;;I wondered if she felt trapped in this house.;I wondered if she felt trapped in this house.;"¿Se habrá sentido aislada o atrapada en
-esta casa en esos momentos?"
+esta casa?"
 ;;;"The door is locked.\.
 It reads ""STAFF ONLY"".";"The door is locked.\.
 It reads ""STAFF ONLY"".";
@@ -4572,7 +4593,7 @@ ni ninguna experiencia tuya en este mundo."
 ;;;But maybe ...;But maybe ...;Pero talvez...
 ;;;"Maybe he’ll remember the feeling.\!
 The feeling of finally being ready to move on.";"Maybe he’ll remember the feeling.\!
-The feeling of finally being ready to move on.";"Talvez recuerde cómo se siente estar listo
+The feeling of finally being ready to move on.";"Tal vez recuerde cómo se siente estar listo
 para superar el pasado."
 ;;;...\| That was our hope.;...\| That was our hope.;...\| Esperamos que sea así.
 ;;;Do you understand, vessel?;Do you understand, vessel?;¿Has comprendido?
@@ -4792,7 +4813,7 @@ They said I was weird.";"...\| But they rejected me.\!
 They said I was weird.";"...\| Pero me rechazaron.\!
 Dijeron que no se juntaban con chicos raros."
 ;;;Something like “Go away, we don’t want you here.”;Something like “Go away, we don’t want you here.”;"'Lárgate de aquí, rarito'. Esas fueron
-sus palabras exactas."
+sus palabras."
 ;;;"Maybe they didn’t like me because I never talked.\!
 Maybe I just didn’t fit in.";"Maybe they didn’t like me because I never talked.\!
 Maybe I just didn’t fit in.";"Quizá solo desconfiaban de mí...\!
