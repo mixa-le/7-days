@@ -680,8 +680,8 @@ I'm even gonna call myself Panny now!";"\etalk[36]Es más:\. Desde ahora en adel
 apellido será Hador, con hache al principio."
 ;;Bruno;\etalk[37]Mhmm.\. Sure.;\etalk[37]Mhmm.\. Sure.;\etalk[37]¿Y eso? Qué apellido más raro elegiste.
 ;;;Mika;Mika;Mika
-;;Mika;\etalk[9]And a little of this, and some of that ...;\etalk[9]And a little of this, and some of that ...;"\etalk[9]Ashh, por fin terminé sus pestañotas..."
-;;Mika;\etalk[9]Ugh ...\. that doesn't look right ...;\etalk[9]Ugh ...\. that doesn't look right ...;\etalk[9]Ay, no. Espera...
+;;Mika;\etalk[9]And a little of this, and some of that ...;\etalk[9]And a little of this, and some of that ...;"\etalk[9]Ashh, por fin terminé sus ojazos..."
+;;Mika;\etalk[9]Ugh ...\. that doesn't look right ...;\etalk[9]Ugh ...\. that doesn't look right ...;\etalk[9]Ay, no. Espera... ¡Me quedaron chuecos!"
 ;;;What are you doing?;What are you doing?;¿Qué haces?
 ;;Mika;\etalk[9]Oh, I'm just finishing up something I'm working on.;\etalk[9]Oh, I'm just finishing up something I'm working on.;\etalk[9]Ahh, solo trato de terminar esto.
 ;;;What is it?;What is it?;¿Y qué es eso?
@@ -970,8 +970,8 @@ encontrar joyitas como esta."
 ;;Potato;haha toot;haha toot;tururú jajaja
 ;;;"""Yeahhh!
 Society sucks, love hurts, screw everything!""";"""Yeahhh!
-Society sucks, love hurts, screw everything!""";"""Hoy paso el tieeempo. Demoliendo hotelesss.
-Mientras los chicos allá en la esquina..."""
+Society sucks, love hurts, screw everything!""";"""¡Muerte al Estado y su autoridad!
+¿Crees tenerme atado, con tus leyes?"""
 ;;;Insert CD;Insert CD;Insertar CD
 ;;Aria;Hey! What do you think you're doing?;Hey! What do you think you're doing?;¡Hey, tú! ¡¿Qué crees que estás haciendo?!
 ;;Aria;"K-pop? Are you serious?\!
@@ -1066,10 +1066,10 @@ llamado Terabithia..."
 ;;;Xbox Controller;Xbox Controller;Control de Xbox
 ;;;"You can enable Reduced Cutscenes to reduce the
 speed and lights of some cutscenes.";"You can enable Reduced Cutscenes to reduce the
-speed and lights of some cutscenes.";"¿Habilitar Cinemáticas Reducidas para reducir
+speed and lights of some cutscenes.";"¿Activar Cinemáticas Reducidas para disminuir
 la duración y el brillo de algunas escenas?"
-;;;Enable;Enable;Habilitar
-;;;Disable;Disable;Deshabilitar
+;;;Enable;Enable;Activar
+;;;Disable;Disable;Desactivar
 ;;;The air is dry, and sucking the life out of my lungs.;The air is dry, and sucking the life out of my lungs.;"Siento como si me asfixiara cada vez que
 intento inhalar este aire seco."
 ;;;I feel everything at a maximum.;I feel everything at a maximum.;Es como si pudiera sentirlo todo a mi alrededor...
@@ -1103,7 +1103,7 @@ se siente demasiado real para serlo."
 ;;;The basketball is too far away for you to reach.;The basketball is too far away for you to reach.;"La pelota de baloncesto está demasiado lejos
 para que la alcances."
 ;;;A big closet.;A big closet.;Un casillero grande.
-;;Worm;i don't know how i got here ...;i don't know how i got here ...;¿cómo llegue aquí?...
+;;Worm;i don't know how i got here ...;i don't know how i got here ...;¿cómo llegué aquí?...
 ;;;It's an empty cup.;It's an empty cup.;Es una taza vacía.
 ;;;Vinnie;Vinnie;Vinnie
 ;;Vinnie;...\. Why are you looking at me like that?;...\. Why are you looking at me like that?;...\. ¿Qué me miras?
@@ -1152,19 +1152,20 @@ atrapado ahí. Era una tortura."
 ;;;Coach;Coach;Entrenador
 ;;Coach;\etalk[3]Wrong! You're doing it wrong!;\etalk[3]Wrong! You're doing it wrong!;\etalk[3]¡¿No puedes hacerlo BIEN?!
 ;;;Jaxon;Jaxon;Jaxon
-;;Jaxon;This? Yeah, it's a full 5 kg.;This? Yeah, it's a full 5 kg.;
+;;Jaxon;This? Yeah, it's a full 5 kg.;This? Yeah, it's a full 5 kg.;¿Esto? Esto no es nada, pequeñín.
 ;;Jaxon;"You probably think that's impressive already, but 
 last week I managed to do 100 grams extra!";"You probably think that's impressive already, but 
-last week I managed to do 100 grams extra!";
+last week I managed to do 100 grams extra!";"Puedo levantar cien gramos más sin una sola gota
+de sudor."
 ;;The Twins;\etalk[5]Hi! We're the twins!;\etalk[5]Hi! We're the twins!;\etalk[5]¡Hey, bro! ¡Somos los gemelos!
 ;;The Twins;"\etalk[5]You probably noticed that we kinda look like
 each other ...";"\etalk[5]You probably noticed that we kinda look like
-each other ...";"\etalk[5]Seguro notaste que nos parecemos demasiado..."
-;;The Twins;\etalk[5]... and that's because we're twins!;\etalk[5]... and that's because we're twins!;\etalk[5]Obvio, ¡somos gemelos!
+each other ...";\etalk[5]Seguro notaste que nos parecemos mucho...
+;;The Twins;\etalk[5]... and that's because we're twins!;\etalk[5]... and that's because we're twins!;\etalk[5]Pues es obvio... ¡Somos gemelos!
 ;;The Twins;"\etalk[5]Hey,\. you wouldn't happen to know where our
 basketball is?";"\etalk[5]Hey,\. you wouldn't happen to know where our
 basketball is?";"\etalk[5]Hey,\. hace poco perdimos nuestra pelota
-de baloncesto, ¿la has visto?"
+de baloncesto. ¿La has visto?"
 ;;;I don't think so;I don't think so;Creo que no
 ;;The Twins;"\etalk[5]Nuts, it was signed by Tyler 'T-Bolt' Jackson
 himself!";"\etalk[5]Nuts, it was signed by Tyler 'T-Bolt' Jackson
@@ -1176,9 +1177,9 @@ Michael 'The Alien' Wembanyama!"
 janitor take our ball yesterday?";"\etalk[5]...\| Bro, now that I think about it, didn't that
 janitor take our ball yesterday?";"\etalk[5]Momento...\| ¿No fue el conserje quien nos
 confiscó la pelota ayer?"
-;;The Twins;\etalk[5].\..\..\| Oh yeaaah!;\etalk[5].\..\..\| Oh yeaaah!;\etalk[5].\..\..\| ¡Es verdaaa!
+;;The Twins;\etalk[5].\..\..\| Oh yeaaah!;\etalk[5].\..\..\| Oh yeaaah!;\etalk[5].\..\..\| ¡Es verdaad!
 ;;The Twins;\etalk[5]I think the janitor's closet is locked though ...;\etalk[5]I think the janitor's closet is locked though ...;"\etalk[5]Tiene que estar en el cuarto de limpieza.\.
-Pero seguro está con llave."
+Pero seguro está cerrado."
 ;;The Twins;"\etalk[5]If you do happen to get our ball, we'd really
 appreciate it!";"\etalk[5]If you do happen to get our ball, we'd really
 appreciate it!";\etalk[5]Ojalá alguien pudiera entrar y sacarla de ahí.
@@ -1203,57 +1204,64 @@ firmada por Wenby."
 in his closet!";"\etalk[5]The janitor took ours! It's probably
 in his closet!";"\etalk[5]¡El conserje se llevó la nuestra! Debe estar
 en el cuarto de limpieza."
-;;;You threw away the old basketball.;You threw away the old basketball.;Dejaron caer la pelota que les traje.
+;;;You threw away the old basketball.;You threw away the old basketball.;Tiraron la pelota que les traje.
 ;;The Twins;"\etalk[5]The janitor took our ball, so it's probably
 in his closet.";"\etalk[5]The janitor took our ball, so it's probably
 in his closet.";"\etalk[5]El conserje debe haber puesto la nuestra en
 el cuarto de limpieza."
 ;;;I found your ball;I found your ball;Encontré su pelota
-;;;Kai;Kai;
+;;;Kai;Kai;Kai
 ;;Kai;"\etalk[6]I'm so good at soccer it's insane how many
 matches I've won I should join the professionals";"\etalk[6]I'm so good at soccer it's insane how many
-matches I've won I should join the professionals";
-;;;Rob;Rob;
-;;Rob;I\| \{AM\| \{TRYING\| \{MY BEST!;I\| \{AM\| \{TRYING\| \{MY BEST!;
+matches I've won I should join the professionals";"\etalk[6]Dios, ¡qué bueno que soy! Estos regates
+no te los hace ni ""La Pulga""."
+;;;Rob;Rob;Rob
+;;Rob;I\| \{AM\| \{TRYING\| \{MY BEST!;I\| \{AM\| \{TRYING\| \{MY BEST!;¡ESTOY\| \{TRATANDO!
 ;;;Trumpeter;Trumpeter;Trompetista
 ;;Trumpeter;"How could this even happen? I swear I looked
 everywhere.";"How could this even happen? I swear I looked
-everywhere.";
-;;;What's wrong?;What's wrong?;
+everywhere.";"Ahh... No puede ser. Ya he buscado por todos
+lados y nada."
+;;;What's wrong?;What's wrong?;¿Qué pasa?
 ;;Trumpeter;"I've lost my trumpet! I was carrying it to school,
 went to the restroom and couldn't find it anymore!";"I've lost my trumpet! I was carrying it to school,
-went to the restroom and couldn't find it anymore!";
+went to the restroom and couldn't find it anymore!";"Perdí mi trompeta. La había dejado en la puerta
+del baño, pero cuando salí, ya no estaba."
 ;;Trumpeter;"I guess I'll have to order another one, but it's a 
 shame because they're not cheap...";"I guess I'll have to order another one, but it's a 
-shame because they're not cheap ...";
-;;;I could help;I could help;
-;;;That's a shame;That's a shame;
+shame because they're not cheap ...";"Pff, tendré que comprar otra... Lo malo es que
+son muy caras."
+;;;I could help;I could help;La buscaré
+;;;That's a shame;That's a shame;Qué pena
 ;;Trumpeter;"I would really appreciate that, altough I have
 looked in every place and found nothing.";"I would really appreciate that, altough I have
-looked in every place and found nothing.";
-;;Trumpeter;Yes, it really is.;Yes, it really is.;
+looked in every place and found nothing.";"Gracias, pero ya busqué por toda la escuela y
+no está. Alguien la debe haber escondido."
+;;Trumpeter;Yes, it really is.;Yes, it really is.;"Sí... Ahora tendré que venir caminando a la
+escuela para ir ahorrando dinero."
 ;;Trumpeter;"...\| Well, if you do end up finding it, be sure to let
 me know.";"...\| Well, if you do end up finding it, be sure to let
-me know.";
-;;Trumpeter;If you do find it, then be sure to let me know.;If you do find it, then be sure to let me know.;
-;;;I think I found it;I think I found it;
-;;Trumpeter;You have?;You have?;
-;;Trumpeter;Oh my god! I can't believe it, my trumpet!;Oh my God! I can't believe it, my trumpet!;¡Genial! ¡La encontraste!
-;;Trumpeter;Dude, thank you so much! I really thought I'd lost it!;Dude, thank you so much! I really thought I'd lost it!;"Uff. Por un momento pense que tendría que
-comprar otra."
+me know.";"...\| Bueno, si la llegas a ver por ahí, ya sabes dónde
+encontrarme."
+;;Trumpeter;If you do find it, then be sure to let me know.;If you do find it, then be sure to let me know.;Si la encuentras, ya sabes dónde estoy.
+;;;I think I found it;I think I found it;Creo que la encontré
+;;Trumpeter;You have?;You have?;¿En serio?
+;;Trumpeter;Oh my god! I can't believe it, my trumpet!;Oh my God! I can't believe it, my trumpet!;¡Epa, no te lo creo! ¡La encontraste!
+;;Trumpeter;Dude, thank you so much! I really thought I'd lost it!;Dude, thank you so much! I really thought I'd lost it!;"Uff. Por un momento pensé que tendría que
+ahorrar para otra."
 ;;Trumpeter;"Actually, if you have time, do you wanna have
 a lil jam?";"Actually, if you have time, do you wanna have
 a lil jam?";"Hey, ¿qué tal si hacemos algo de música
 ya que estamos por aquí?"
 ;;Trumpeter;"You hop on the keyboard, and I'll play
 something on my trumpet! ";"You hop on the keyboard, and I'll play
-something on my trumpet! ";"¡Tú le das al teclado y yo te acompaño
+something on my trumpet! ";"¡Tú tocas el teclado y yo te acompaño
 con mi trompeta!"
 ;;Trumpeter;"Yeah, that's a great idea!
 Let me know if you're up!";"Yeah, that's a great idea!
 Let me know if you're up!";"Es una buena idea, ¿eh?
-Anímate."
-;;Trumpeter;Hey, is that my trumpet?;Hey, is that my trumpet?;¡Mi trompeta!
+¡Anímate!"
+;;Trumpeter;Hey, is that my trumpet?;Hey, is that my trumpet?;Oye, ¿esa es mi trompeta?
 ;;;Yeah;Yeah;Sí
 ;;Trumpeter;"Hop on the keyboard and we can have a
 jam session!";"Hop on the keyboard and we can have a
@@ -1262,27 +1270,35 @@ jam session!";¿Qué dices? ¿Te animas a tocar el teclado?
 ;;Trumpeter;"Alright, key is in C major.
 Bring it on!";"Alright, key is in C major.
 Bring it on!";"Okay, quiero que toques en do mayor.
-¡Vamos, lucete!"
-;;Trumpeter;That was awesome! Nice job buddy!;That was awesome! Nice job buddy!;¡Bravísimo! ¡Vaya que te luciste ahí, eh!
+¡Dale!"
+;;Trumpeter;That was awesome! Nice job buddy!;That was awesome! Nice job buddy!;¡Estuviste increíble, viejo!
 ;;;"It's a poster of one of my favorite albums as
 a child.";"It's a poster of one of my favorite albums as
-a child.";
-;;;I would listen to it on repeat for hours.;I would listen to it on repeat for hours.;
-;;;It's a stand for sheet music.;It's a stand for sheet music.;
-;;;Gabriel;Gabriel;
-;;Gabriel;Woohoo! Books!;Woohoo! Books!;
-;;Gabriel;I don't even know how to read!;I don't even know how to read!;
+a child.";"Es un póster de uno de mis álbumes favoritos
+de cuando era pequeño."
+;;;I would listen to it on repeat for hours.;I would listen to it on repeat for hours.;Oía y oía su música por horas.
+;;;It's a stand for sheet music.;It's a stand for sheet music.;Es un soporte para partituras.
+;;;Gabriel;Gabriel;Gabriel
+;;Gabriel;Woohoo! Books!;Woohoo! Books!;"""¿Qué es la vida? Un frenesí.\. ¿Qué es la vida?
+Una ilusión, una sombra, una ficción..."""
+;;Gabriel;I don't even know how to read!;I don't even know how to read!;"""...Que toda la vida es sueño,
+y los sueños, sueños son..."""
 ;;Gabriel;"I'm just looking at the words!\.
 They're kinda funny!";"I'm just looking at the words!\.
-They're kinda funny!";
-;;;Pedestrian;Pedestrian;
-;;Pedestrian;Hi, are you here to join the School Book Club?;Hi, are you here to join the School Book Club?;
-;;Pedestrian;Well I'm sorry, but the club is currently full.;Well I'm sorry, but the club is currently full.;
+They're kinda funny!";"Pero si la vida es sueño, y los sueños, sueños
+son... entonces, ¿quiénes somos cuando soñamos?"
+;;;Pedestrian;Pedestrian;Lector
+;;Pedestrian;Hi, are you here to join the School Book Club?;Hi, are you here to join the School Book Club?;"Hey, ¿qué tal? ¿Estás aquí para unirte
+al Club de Lectura Secreto?"
+;;Pedestrian;Well I'm sorry, but the club is currently full.;Well I'm sorry, but the club is currently full.;"Discúlpame, pero ahorita ya tenemos
+suficientes miembros."
 ;;Pedestrian;"You can try again tomorrow.\|
 Or the day after tomorrow.";"You can try again tomorrow.\|
-Or the day after tomorrow.";
-;;Pedestrian;... Or whenever we have space for more.;... Or whenever we have space for more.;
-;;Pedestrian;Good, because the club is already full.;Good, because the club is already full.;
+Or the day after tomorrow.";"Si quieres puedes preguntar de nuevo mañana.
+Tal vez tengamos un espacio libre."
+;;Pedestrian;... Or whenever we have space for more.;... Or whenever we have space for more.;"Ojalá supiera cómo tanta gente se entera
+de nosotros."
+;;Pedestrian;Good, because the club is already full.;Good, because the club is already full.;Uff. Qué bien. Ya tenemos demasiados miembros.
 ;;;She seems to be looking at the bookshelves.;She seems to be looking at the bookshelves.;Parece estar algo distraída.
 ;;;Interrupt;Interrupt;Interrumpir
 ;;;Hazel;Hazel;Hazel
@@ -1295,14 +1311,15 @@ No quería estorbarte. Pasa."
 ;;Hazel;\etalk[5]Huh?;\etalk[5]Huh?;\etalk[5]¿Ah?
 ;;Hazel;"\etalk[5]Oh, thank you ...\|
 I wasn't expecting that. ";"\etalk[5]Oh, thank you ...\|
-I wasn't expecting that. ";"\etalk[5]Ah, gracias. ¿Qué es?"
+I wasn't expecting that. ";\etalk[5]Ah, gracias.\| ¿Qué es?
 ;;Hazel;\etalk[5]...\. Did you write these?;\etalk[5]...\. Did you write these?;"\etalk[5]Ah, son... poesías.\. ¿Tú las escribiste?"
 ;;;Vee did;Vee did;Fue Vee
-;;Hazel;\etalk[5]...\. These are nice.;\etalk[5]...\. These are nice.;\etalk[5]...\. Pues parecem bastante buenas.
+;;Hazel;\etalk[5]...\. These are nice.;\etalk[5]...\. These are nice.;\etalk[5]...\. Pues parecen bastante buenas.
 ;;Hazel;"\etalk[5]I'll have to read these in detail when I have 
 the time.";"\etalk[5]I'll have to read these in detail when I have 
-the time.";"\etalk[5]Las leeré con más calma más tarde."
-;;Hazel;\etalk[5]...\| I didn't know she was into this kinda stuff.;\etalk[5]...\| I didn't know she was into this kinda stuff.;\etalk[5]...\| Oh, no sabía que le gustaba este tipo de cosas.
+the time.";\etalk[5]Las leeré con más calma más tarde.
+;;Hazel;\etalk[5]...\| I didn't know she was into this kinda stuff.;\etalk[5]...\| I didn't know she was into this kinda stuff.;"\etalk[5]...\| Oh, no sabía que le gustaban este tipo
+de cosas."
 ;;Hazel;"\etalk[5]...\| It isn't bad.
 It actually has a bit of charm.";"\etalk[5]...\| It isn't bad.
 It actually has a bit of charm.";"\etalk[5]...\| No están mal.
@@ -1311,72 +1328,89 @@ Tienen cierto encanto."
 I really ...\| appreciate it.";"\etalk[5]Thank you for giving this to me.
 I really ...\| appreciate it.";"\etalk[5]...\| Gracias por dármelas.\|
 Lo digo en serio."
-;;;Librarian;Librarian;
-;;Librarian;\etalk[6]Hi, try to be as quiet as possible please!;\etalk[6]Hi, try to be as quiet as possible please!;
+;;;Librarian;Librarian;Bibliotecaria
+;;Librarian;\etalk[6]Hi, try to be as quiet as possible please!;\etalk[6]Hi, try to be as quiet as possible please!;"\etalk[6]Hola. Procura hablar en voz baja y no
+hagas mucho ruido, ¿sí?"
 ;;;"It's full of books.\.
 Read one?";"It's full of books.\.
-Read one?";
-;;;You grab a book and open a random page.;You grab a book and open a random page.;
-;;;"""Our Memories""";"""Our Memories""";
+Read one?";"Está lleno de libros.\.
+¿Leer alguno?"
+;;;You grab a book and open a random page.;You grab a book and open a random page.;Agarras cualquier libro y empiezas a leer.
+;;;"""Our Memories""";"""Our Memories""";"""Nuestra memoria"""
 ;;;"""Some believe there’s a hidden part of the mind
 that doesn’t think, it only remembers.""";"""Some believe there’s a hidden part of the mind
-that doesn’t think, it only remembers.""";
+that doesn’t think, it only remembers.""";"""Algunos creen que hay una parte de la mente 
+cuya única función es recordar."""
 ;;;"""It holds the moments we can’t face, storing them
 deep beneath the surface.""";"""It holds the moments we can’t face, storing them
-deep beneath the surface.""";
+deep beneath the surface.""";"""Almacena aquellos momentos conflictivos o traumas
+en lo más profundo."""
 ;;;"""It's not really you, but a part that lives
 inside you.""";"""It's not really you, but a part that lives
-inside you.""";
-;;;"""Drugs That Change Us""";"""Drugs That Change Us""";
-;;;"""Some substances shift how we see the world.""";"""Some substances shift how we see the world.""";
+inside you.""";"""Realmente ese no eres 'tú', sino...
+una parte de ti que vive dentro de él."""
+;;;"""Drugs That Change Us""";"""Drugs That Change Us""";"""Las drogas y la percepción de la realidad"""
+;;;"""Some substances shift how we see the world.""";"""Some substances shift how we see the world.""";"""Algunas sustancias alteran nuestra forma de
+ver el mundo e interactuar con él."""
 ;;;"""The shapes change, colors are vibrant, and
 memories come loose from time.""";"""The shapes change, colors are vibrant, and
-memories come loose from time.""";
+memories come loose from time.""";"""Las formas cambian, los colores se vuelven más
+vivos y la realidad se mezcla con los recuerdos."""
 ;;;"""A few say they’ve seen things that shouldn’t exist,
 but felt more real than anything else.""";"""A few say they’ve seen things that shouldn’t exist,
-but felt more real than anything else.""";
+but felt more real than anything else.""";"""Algunos incluso dicen que empiezan a ver cosas que
+no deberían existir en el mundo real."""
 ;;;"""Maybe it’s just another layer we’re not meant
 to see.""";"""Maybe it’s just another layer we’re not meant
-to see.""";
-;;;"""The Darkness Underneath Our Bodies""";"""The Darkness Underneath Our Bodies""";
+to see.""";"""Tal vez sea otra capa de la realidad que no
+se supone que deberíamos ver."""
+;;;"""The Darkness Underneath Our Bodies""";"""The Darkness Underneath Our Bodies""";"""La carga del remordimiento"""
 ;;;"""Regret sinks deeper than most feelings, hiding in
 a place most people never dare to look.""";"""Regret sinks deeper than most feelings, hiding in
-a place most people never dare to look.""";
-;;;"""Some who enter learn to forgive what they find.""";"""Some who enter learn to forgive what they find.""";
+a place most people never dare to look.""";"""El remordimiento es una emoción muy ligada a la
+culpa que habita en nosotros."""
+;;;"""Some who enter learn to forgive what they find.""";"""Some who enter learn to forgive what they find.""";"""Algunos logran aprender a lidiar con él
+a lo largo del camino."""
 ;;;"""Others never come back. The weight pulls hard
 if you’re not ready.""";"""Others never come back. The weight pulls hard
-if you’re not ready.""";
-;;;"""Meow""";"""Meow""";
-;;;"""Meow.\! Meow.\! Meow.\! Meow.\! Meow.\! Meow.""";"""Meow.\! Meow.\! Meow.\! Meow.\! Meow.\! Meow.""";
+if you’re not ready.""";"""Para otros la culpa es tan grande que se pierden en
+el camino y nunca más vuelven a ser ellos mismos."""
+;;;"""Meow""";"""Meow""";"""Miau"""
+;;;"""Meow.\! Meow.\! Meow.\! Meow.\! Meow.\! Meow.""";"""Meow.\! Meow.\! Meow.\! Meow.\! Meow.\! Meow.""";"""Miau.\! Miau.\! Miau.\! Miau\! Miau."""
 ;;;"You flip through the pages and see the only words
 in this book are meow.";"You flip through the pages and see the only words
-in this book are meow.";
-;;;"""Whispers Between Us""";"""Whispers Between Us""";
+in this book are meow.";"Volteas las páginas pero solo encuentras la misma
+palabra una y otra vez: miau."
+;;;"""Whispers Between Us""";"""Whispers Between Us""";"""Susurros entre nosotros"""
 ;;;"""He reached for her hand, but paused, afraid that
 the moment might shatter if he moved too fast.""";"""He reached for her hand, but paused, afraid that
-the moment might shatter if he moved too fast.""";
-;;;"""I don’t know if this will last, he whispered.""";"""I don’t know if this will last, he whispered.""";
-;;;"""Maybe it doesn’t have to, she said softly.""";"""Maybe it doesn’t have to, she said softly.""";
-;;;"""They then kissed.""";"""They then kissed.""";
-;;;"""Emotions: How We Should Understand Them""";"""Emotions: How We Should Understand Them""";
+the moment might shatter if he moved too fast.""";"""Deslizó su mano, esperando sentir el calor de la
+de ella, pero se detuvo, indeciso."""
+;;;"""I don’t know if this will last, he whispered.""";"""I don’t know if this will last, he whispered.""";"""Quisiera que este momento durase
+para siempre —susurró él—."""
+;;;"""Maybe it doesn’t have to, she said softly.""";"""Maybe it doesn’t have to, she said softly.""";"""Yo también —respondió su compañera con suavidad—."""
+;;;"""They then kissed.""";"""They then kissed.""";"""Y juntaron los labios en un ósculo eterno."""
+;;;"""Emotions: How We Should Understand Them""";"""Emotions: How We Should Understand Them""";"""Emociones: Todo lo que sabemos de ellas"""
 ;;;"""Some emotions last so long they stop being
 feelings and start becoming things.""";"""Some emotions last so long they stop being
-feelings and start becoming things.""";
-;;;"""Loneliness is the most stubborn of them.""";"""Loneliness is the most stubborn of them.""";
-;;;"""It learns to wait, to listen, to grow.""";"""It learns to wait, to listen, to grow.""";
-;;;"""How to Become a Millionaire in 7 Days!""";"""How to Become a Millionaire in 7 Days!""";
+feelings and start becoming things.""";"""Algunas emociones duran por tanto tiempo que
+en un momento llegan a materializarse."""
+;;;"""Loneliness is the most stubborn of them.""";"""Loneliness is the most stubborn of them.""";"""La Soledad es una de ellas."""
+;;;"""It learns to wait, to listen, to grow.""";"""It learns to wait, to listen, to grow.""";"""Espera, escucha y crece hasta volverse real."""
+;;;"""How to Become a Millionaire in 7 Days!""";"""How to Become a Millionaire in 7 Days!""";"""¿Cómo volverse millonario en 7 días?"""
 ;;;"""Tired of being poor?
 Just follow these simple steps!""";"""Tired of being poor?
-Just follow these simple steps!""";
-;;;"""Step 1: Have a Million Dollars.""";"""Step 1: Have a Million Dollars.""";
-;;;You decide to stop reading.;You decide to stop reading.;
+Just follow these simple steps!""";"""¿Cansado de ser pobre?
+Siga cuidadosamente los siguientes pasos."""
+;;;"""Step 1: Have a Million Dollars.""";"""Step 1: Have a Million Dollars.""";"""Paso 1: Consiga un millón de dólares."""
+;;;You decide to stop reading.;You decide to stop reading.;Paras de leer.
 ;;;Jeffrey;Jeffrey;Jeffrey
 ;;Jeffrey;\etalk[4]Oh, man ...\| I just can't ...\. move ...\. right now ...;\etalk[4]Oh, man ...\| I just can't ...\. move ...\. right now ...;\etalk[4]Dios...\| no puedo...\| moverme...!
 ;;Jeffrey;\etalk[4]I just need ...\| a break ...;\etalk[4]I just need ...\| a break ...;\etalk[4]Necesito...\| tranquilizarme...
 ;;Jeffrey;\etalk[4]I ...\| oh god ...;\etalk[4]I ...\| oh god ...;\etalk[4]Ay, Dios...\| No pued...
-;;Jeffrey;\etalk[4]My calming tea ...\| I need water ...;\etalk[4]My calming tea ...\| I need water ...;\etalk[4]Mi té relajante...\| ¡Necesito agua...!
+;;Jeffrey;\etalk[4]My calming tea ...\| I need water ...;\etalk[4]My calming tea ...\| I need water ...;\etalk[4]Mi té relajante...\| Necesito algo de agua...
 ;;Jeffrey;\etalk[4]Could you ...\| go to the janitor's closet ...;\etalk[4]Could you ...\| go to the janitor's closet ...;\etalk[4]¿Podrías...\| ir al cuarto de limpieza?
-;;;I'll help;I'll help;Okay, voy
+;;;I'll help;I'll help;Te ayudo
 ;;;I can't right now;I can't right now;No puedo ahora
 ;;Jeffrey;\etalk[4]Here's the ...\. key ...;\etalk[4]Here's the ...\. key ...;\etalk[4]Aquí está...\. la llave...
 ;;Jeffrey;\etalk[4]Come back ...\. later ...;\etalk[4]Come back ...\. later ...;\etalk[4]Vuelve...\. después...
@@ -1392,12 +1426,12 @@ the break, but I think he took a day off.";"\etalk[4]Disculpa la molestia. Usual
 quien me trae el agua, pero creo que hoy no vino."
 ;;Jeffrey;"\etalk[4]I've got these special tea bags that are very
 calming, they help with my high stress levels.";"\etalk[4]I've got these special tea bags that are very
-calming, they help with my high stress levels.";"\etalk[4]Este té que acabo de tomar es antiestrés, 
-y me ayuda mucho a relajarme."
+calming, they help with my high stress levels.";"\etalk[4]Tengo unas bolsitas de té antiestrés.
+Me ayudan a relajarme mucho."
 ;;Jeffrey;"\etalk[4]I ...\| can get you one if you'd like, for your
 troubles.";"\etalk[4]I ...\| can get you one if you'd like, for your
-troubles.";"\etalk[4]Te puedo dar algunas bolsitas para que te hagas
-tu propio té cuando lo necesites."
+troubles.";"\etalk[4]Si quieres, te puedo dar algunas para que te
+prepares tu propio té cuando lo necesites."
 ;;Jeffrey;\etalk[4]Here you go ...;\etalk[4]Here you go ...;\etalk[4]Toma...
 ;;Jeffrey;"\etalk[4]Thanks again, I've been having a lot of problems
 with high stress lately.";"\etalk[4]Thanks again, I've been having a lot of problems
@@ -1417,55 +1451,63 @@ por si no estaba en la escuela."
 freaking out.";"\etalk[4]He usually brings me some boiling water when I'm
 freaking out.";"\etalk[4]Él suele traerme agua caliente para prepararme
 mi té y así calmarme un poco."
-;;;Trixie ;Trixie ;
+;;;Trixie ;Trixie ;Trixie
 ;;Trixie ;"What do I get for trying out new magic spells in
 class? I get detention.";"What do I get for trying out new magic spells in
-class? I get detention.";
-;;Trixie ;This school system is so broken ...;This school system is so broken ...;
-;;;Pembleton ;Pembleton ;
-;;Pembleton ;\etalk[6]Young man, shouldn't you be outside?;\etalk[6]Young man, shouldn't you be outside?;
+class? I get detention.";"Y qué es lo que gano por intentar conjurar un
+hechizo en clase: ser sancionada."
+;;Trixie ;This school system is so broken ...;This school system is so broken ...;Este sistema educativo no funciona...
+;;;Pembleton ;Pembleton ;Pembleton
+;;Pembleton ;\etalk[6]Young man, shouldn't you be outside?;\etalk[6]Young man, shouldn't you be outside?;\etalk[6]¿No debería estar afuera en el patio, joven?
 ;;Pembleton ;"\etalk[6]You should know that sunshine is very good for
 your body!";"\etalk[6]You should know that sunshine is very good for
-your body!";
+your body!";"\etalk[6]La luz solar tiene tantos beneficios para el
+cuerpo."
 ;;;The clock lost it's arms.;The clock lost it's arms.;Le hacen falta sus manecillas.
-;;;A trash can.;A trash can.;
-;;;Mr. Lee;Mr. Lee;
+;;;A trash can.;A trash can.;Un bote de basura.
+;;;Mr. Lee;Mr. Lee;Sr. Lee
 ;;Mr. Lee;"\etalk[4]I wouldn't call myself a ""strict"" teacher, but
 sometimes there are people who cross the line.";"\etalk[4]I wouldn't call myself a ""strict"" teacher, but
-sometimes there are people who cross the line.";
+sometimes there are people who cross the line.";"\etalk[4]No me considero un profesor estricto, pero no
+permito el desorden en mi clase."
 ;;Mr. Lee;"\etalk[4]Like these guys, they deserve to be punished
 for ruining my class!";"\etalk[4]Like these guys, they deserve to be punished
-for ruining my class!";
-;;;Sam;Sam;
+for ruining my class!";"\etalk[4]Así como el que causaron estos alumnos.
+¡Qué falta de respeto la suya!"
+;;;Sam;Sam;Sam
 ;;Sam;"Dude, I still have to wait an entire HOUR
 before I can go home.";"Dude, I still have to wait an entire HOUR
-before I can go home.";
-;;;Lil Johnny;Lil Johnny;
-;;Lil Johnny;\etalk[14]It's really not fair! I didn't even do anything!;\etalk[14]It's really not fair! I didn't even do anything!;
-;;Lil Johnny;\etalk[14]Rob was talking to me, I didn't say anything!;\etalk[14]Rob was talking to me, I didn't say anything!;
-;;;Kyle;Kyle;
+before I can go home.";Aún tengo que quedarme UNA HORA más aquí.
+;;;Lil Johnny;Lil Johnny;Johnny
+;;Lil Johnny;\etalk[14]It's really not fair! I didn't even do anything!;\etalk[14]It's really not fair! I didn't even do anything!;\etalk[14]No es justo. ¡Yo ni siquiera hice nada!
+;;Lil Johnny;\etalk[14]Rob was talking to me, I didn't say anything!;\etalk[14]Rob was talking to me, I didn't say anything!;"\etalk[14]Fue Rob el que comenzó a hablarme en clase,
+pero yo ni le dije nada."
+;;;Kyle;Kyle;Kyle
 ;;Kyle;"I'm not really supposed to be here right now, but
 I don't really like being outside.";"I'm not really supposed to be here right now, but
-I don't really like being outside.";
+I don't really like being outside.";"No debería estar aquí ahora, pero es mucho mejor
+que estar afuera."
 ;;Kyle;"Like, people think I like being a popular kid, but
 I'd rather spend my free time alone.";"Like, people think I like being a popular kid, but
-I'd rather spend my free time alone.";
+I'd rather spend my free time alone.";"Todos piensan que me gusta ser el chico popular,
+pero, en realidad, prefiero estar a solas."
 ;;;hihihi;hihihi;
 ;;Shopper;"hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii";"hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii";
 ;;;"You're now going to the main game.
 To return, talk to the boy again.";"You're now going to the main game.
-To return, talk to the boy again.";
+To return, talk to the boy again.";"Ahora te diriges al juego principal.
+Para volver, habla otra vez con el chico."
 ;;;tbh;tbh;tbh
 ;;tbh;Yippee! Yippee! Yippee! ;Yippee! Yippee! Yippee! ;¡Yuuupiiii!
 ;;;This is tbh's special room.;This is tbh's special room.;Esta es la habitación secreta de tbh.
-;;;Good job on finding tbh's special room.;Good job on finding tbh's special room.;¡Qué bueno que la encontraste!
+;;;Good job on finding tbh's special room.;Good job on finding tbh's special room.;¡Felicidades por encontrarla!
 ;;;It's a signed basketball.;It's a signed basketball.;Es una pelota de baloncesto firmada.
 ;;;Mr. ???;Mr. ???;Sr. ¿?
 ;;Mr. ???;"Alright children, are you all ready to listen
 to this?";"Alright children, are you all ready to listen
-to this?";Okay, ¿están todos listos para el show?
+to this?";Okay, niños. ¿Están todos listos para el show?
 ;;;Everyone;Everyone;Todos
 ;;Everyone;...\| Yeah.;...\| Yeah.;...\| Sí
 ;;Mr. ???;"Let's give it a spin!\.
@@ -1482,36 +1524,42 @@ una de sus clases."
 ;;;It felt so special to me at the time.;It felt so special to me at the time.;Y, sinceramente, me pareció bastante especial.
 ;;;"It's a cheap keyboard.
 I only know how to play one song on it.";"It's a cheap keyboard.
-I only know how to play one song on it.";""
+I only know how to play one song on it.";"Es un teclado simple.
+Solo sé tocar una canción."
 ;;;???;???;¿?
 ;;???;"I think my dad owns the record Mr. ??? is 
 about to put on.";"I think my dad owns the record Mr. ??? is 
-about to put on.";
-;;;It's a flashy electric guitar.;It's a flashy electric guitar.;
-;;;It's a yellow bass.;It's a yellow bass.;
-;;;A small kit.;A small kit.;
-;;???;I can't wait for this day to just end...;I can't wait for this day to just end ...;
-;;???;Do you know what subject we have next?;Do you know what subject we have next?;
+about to put on.";"Creo que la música que Sr. ¿? va a tocar
+es de la época de mi papá."
+;;;It's a flashy electric guitar.;It's a flashy electric guitar.;Es una guitarra eléctrica llamativa.
+;;;It's a yellow bass.;It's a yellow bass.;Es un bajo amarillo.
+;;;A small kit.;A small kit.;Es una batería pequeña.
+;;???;I can't wait for this day to just end...;I can't wait for this day to just end ...;Ya quiero que este día termine...
+;;???;Do you know what subject we have next?;Do you know what subject we have next?;¿Sabes qué curso tenemos después?
 ;;???;"Why do we always have to learn about these
 old albums?";"Why do we always have to learn about these
-old albums?";
-;;???;They're so long and boring!;They're so long and boring!;
+old albums?";"¿Por qué siempre nos obliga a escuhar
+esta música?"
+;;???;They're so long and boring!;They're so long and boring!;¡Son tan aburridas y lentas!
 ;;???;"I think we have math for the next hour...\|
 Wait, no! We have English!";"I think we have math for the next hour...\|
-Wait, no! We have English!";
+Wait, no! We have English!";"Creo que tenemos matemática después...\|
+Ah, ¡no, espera! ¡Tenemos inglés!"
 ;;;You found an MP3 file.;You found an MP3 file.;Encontraste un archivo MP3.
 ;;;You can play this file on your MP3 player.;You can play this file on your MP3 player.;Puedes escucharlo en tu reproductor MP3.
-;;;You don't see a way of playing the file right now ... ;You don't see a way of playing the file right now ... ;Pero no tienes en que escucharlo...
+;;;You don't see a way of playing the file right now ... ;You don't see a way of playing the file right now ... ;Pero no tienes en qué escucharlo...
 ;;;"Later, when I started taking different drugs,
 this experience only felt greater.";"Later, when I started taking different drugs,
-this experience only felt greater.";
+this experience only felt greater.";"Luego, cuando empecé a usar otras drogas,
+esta experiencia se sintió aún mejor."
 ;;;"Listening to music would be my only safe
 place.";"Listening to music would be my only safe
 place.";La música era mi único escape.
-;;???;Come out!;Come out!;
+;;???;Come out!;Come out!;¡Sal de ahí!
 ;;???;"He's such a baby! He can't even stand up
 for himself!";"He's such a baby! He can't even stand up
-for himself!";
+for himself!";"Ay, ¡tiene mello el nene! Ni siquiera
+tiene el valor para defenderse."
 ;;;"There was one day where I got chased by some
 kids.";"There was one day where I got chased by some
 kids.";"Recuerdo que un día, unos chicos estaban
@@ -1524,7 +1572,7 @@ cuánto miedo sentí en aquel momento."
 lograron encontrarme."
 ;;;"They wouldn't leave me alone, no matter how long
 I stayed.";"They wouldn't leave me alone, no matter how long
-I stayed.";"Debo haber estado encerrado ahí por horas."
+I stayed.";Debo haber estado encerrado ahí por horas.
 ;;;I must have been there for hours.;I must have been there for hours.;"Esperando que en algún momento se cansaran
 y se fueran."
 ;;;"I'd silently stood there crying, so they wouldn't
@@ -2114,7 +2162,7 @@ red, hot chili pepper?!";
 ;;;The tuba is bigger than their entire body.;The tuba is bigger than their entire body.;
 ;;Trumpeter;Hey! It's you!;Hey! It's you!;"¡Hey, yo te recuerdo! ¡Eres el chico que encontró mi trompeta!"
 ;;Trumpeter;Could you come up here for a sec?;Could you come up here for a sec?;¿Puedes subir aquí un momento?
-;;Aero;\etalk[13]Aw dang it! You found me!;\etalk[13]Aw dang it! You found me!;\etalk[13]¡Caray! Pense que no ibas a encontrarme aquí.
+;;Aero;\etalk[13]Aw dang it! You found me!;\etalk[13]Aw dang it! You found me!;\etalk[13]¡Caray! Pensé que no ibas a encontrarme aquí.
 ;;Aero;\etalk[13]Wanna play again?;\etalk[13]Wanna play again?;\etalk[13]¿Quieres jugar de nuevo?
 ;;Aero;"\etalk[13]Alright! I'm going to backtrack a bit, you
 won't find me this time!";"\etalk[13]Alright! I'm going to backtrack a bit, you
@@ -2796,7 +2844,7 @@ to be there for me ...";"...\| Sé que tenía buenas intenciones y trataba de
 demostrar que me amaba..."
 ;;;"But I couldn't feel it.\!
 It didn't mean anything to me.";"But I couldn't feel it.\!
-It didn't mean anything to me.";"Pero yo nunca llegue a verlo de esa forma.\!
+It didn't mean anything to me.";"Pero yo nunca llegué a verlo de esa forma.\!
 Esos gestos nunca significaron nada para mí."
 ;;;I couldn't sleep.;I couldn't sleep.;No podía dormir.
 ;;;I was scared of the night.;I was scared of the night.;Le temía a la oscuridad.
@@ -3110,7 +3158,7 @@ juntos, y más aún, de tenerla en mi vida."
 ;;;It's a black jacket.;It's a black jacket.;Es una chaqueta negra.
 ;;Haven;"I was truly happy for a while.
 You brought out something in me.";"I was truly happy for a while.
-You brought out something in me.";"Por un tiempo, llegue a sentirme muy feliz contigo.
+You brought out something in me.";"Por un tiempo, llegué a sentirme muy feliz contigo.
 Descubrí una faceta que no conocía de mí."
 ;;Haven;"That childlike quality, that curiosity...\.
 I don't really know what it was, but it felt new.";"That childlike quality, that curiosity ...\.
