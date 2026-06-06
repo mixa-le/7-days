@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Change;Excluded;Name;Original;en;es-latam
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Change;Excluded;Name;Original;en;esla
 ;;;\etalk[1]I am talking;;
 ;;;\etalk[1]I am talking a lot right now oh yes i am talking;;
 ;;;\etalk[1]Do you agre;;
@@ -138,7 +138,7 @@ Aquí estaré para ti."
 ;;Haven;Hi! How are you feeling?;Hi! How are you feeling?;Y... ¿cómo te sientes hoy?
 ;;;I'm okay;I'm okay;Estoy bien
 ;;;Not so well;Not so well;Algo mal
-;;Haven;I'm glad, anything special planned?;I'm glad, anything special planned?;"Me alegra oir eso... ¿Y qué harás ahora?
+;;Haven;I'm glad, anything special planned?;I'm glad, anything special planned?;"Me alegra oír eso... ¿Y qué harás ahora?
 ¿Quizá algo divertido?"
 ;;Haven;"Sorry to hear that ...\.
 Well, do you have anything fun planned?";"Sorry to hear that ...\.
@@ -995,7 +995,7 @@ jugando."
 ;;John;We have been expecting you.;We have been expecting you.;Hemos estado esperándote.
 ;;;What?;What?;¿Qué?
 ;;John;...\. You're not John, are you?;...\. You're not John, are you?;...\. No eres John, ¿verdad?
-;;John;Most people aren't.;Most people aren't.;La mayoria de la gente no lo es.
+;;John;Most people aren't.;Most people aren't.;La mayoría de la gente no lo es.
 ;;John;... But maybe you could be.;... But maybe you could be.;... Pero tal vez tú podrías.
 ;;John;You just need to prove you can be.;You just need to prove you can be.;Solo necesitas provar que puedes serlo.
 ;;John;What do you think?;What do you think?;¿Qué me dices?
@@ -1046,8 +1046,8 @@ machine out of a DeLorean ...";"Era sobre un chico que volvió en el tiempo
 en un DeLorean..."
 ;;;"I think it was about a kid who was left behind
 during the holidays...";"I think it was about a kid who was left behind
-during the holidays ...";"Era sobre una chica que atraviesa una puerta en
-la pared, creo que se llamaba Caroline..."
+during the holidays ...";"Era sobre un pobre niño que se quedó solo
+en casa..."
 ;;;"I think it was about a superhero who got their
 powers from a radioactive bug bite...";"I think it was about a superhero who got their
 powers from a radioactive bug bite ...";"Era sobre un chico que fue mordido por una
@@ -1157,7 +1157,7 @@ atrapado ahí. Era una tortura."
 last week I managed to do 100 grams extra!";"You probably think that's impressive already, but 
 last week I managed to do 100 grams extra!";"Puedo levantar cien gramos más sin una sola gota
 de sudor."
-;;The Twins;\etalk[5]Hi! We're the twins!;\etalk[5]Hi! We're the twins!;\etalk[5]¡Hey, bro! ¡Somos los gemelos!
+;;The Twins;\etalk[5]Hi! We're the twins!;\etalk[5]Hi! We're the twins!;\etalk[5]¡Hey, bro! ¡Somos Los Gemelos!
 ;;The Twins;"\etalk[5]You probably noticed that we kinda look like
 each other ...";"\etalk[5]You probably noticed that we kinda look like
 each other ...";\etalk[5]Seguro notaste que nos parecemos mucho...
@@ -1529,7 +1529,7 @@ Solo sé tocar una canción."
 ;;;???;???;¿?
 ;;???;"I think my dad owns the record Mr. ??? is 
 about to put on.";"I think my dad owns the record Mr. ??? is 
-about to put on.";"Creo que la música que Sr. ¿? va a tocar
+about to put on.";"Creo que la música que el Sr. ¿? va a tocar
 es de la época de mi papá."
 ;;;It's a flashy electric guitar.;It's a flashy electric guitar.;Es una guitarra eléctrica llamativa.
 ;;;It's a yellow bass.;It's a yellow bass.;Es un bajo amarillo.
@@ -1657,7 +1657,7 @@ hospital.";Ese día, mi mamá me llevó al hospital.
 ;;;"We couldn't afford treating it right away, so
 we didn't do much to fix it.";"We couldn't afford treating it right away, so
 we didn't do much to fix it.";"No fue posible atender bien esa fractura, por
-lo menos en ese momento..."
+lo menos, en ese momento..."
 ;;;Leaving it in a fragile state.;Leaving it in a fragile state.;"De modo que la dejamos así, en ese estado
 frágil."
 ;;???;"I don't get why these gym classes always
@@ -1709,7 +1709,7 @@ en toda mi vida."
 ;;;"No one can take me seriously,\. no matter how
 hard I try.";"No one can take me seriously,\. no matter how
 hard I try.";"Nadie me toma en serio,\. sin importar
-cuanto me esfuerze."
+cuanto me esfuerce."
 ;;;The screen shows a bunch of awful stuff.;The screen shows a bunch of awful stuff.;La pantalla muestra un montón de cosas horribles.
 ;;;He won't acknowledge you.;He won't acknowledge you.;Él no te presta atención.
 ;;;Garbage.;Garbage.;Basura.
@@ -1731,7 +1731,7 @@ atrás de ti el día que nos dejaste."
 ;;Dad;I felt an unexpected emptiness in my body.;I felt an unexpected emptiness in my body.;Sentí un enorme vacío en aquel momento.
 ;;Dad;"Anyways,\. I was thinking about what I'd say to you
 if you would come back.";"Anyways,\. I was thinking about what I'd say to you
-if you would come back.";"¿Sabes?,\. estube pensando por mucho tiempo en lo que
+if you would come back.";"¿Sabes?,\. estuve pensando por mucho tiempo en lo que
 diría el día que volvieras."
 ;;Dad;The truth is, I haven't decided yet.;The truth is, I haven't decided yet.;Pero aún no logro ordenar mis ideas.
 ;;Dad;"It has always been in the back of my mind, but 
@@ -2004,7 +2004,7 @@ nuevo... o tal vez había otra razón."
 birds.";"Selene would sit by the window, looking at the
 birds.";"Selene se recostaba cerca de la ventana a
 observar a los pájaros."
-;;;Sometimes the birds would look back at her.;Sometimes the birds would look back at her.;A veces los pájaros también la obervaban.
+;;;Sometimes the birds would look back at her.;Sometimes the birds would look back at her.;A veces los pájaros también la observaban.
 ;;;I wondered if she felt trapped in this house.;I wondered if she felt trapped in this house.;"¿Se habrá sentido aislada o atrapada en
 esta casa?"
 ;;;"The door is locked.\.
@@ -3655,7 +3655,7 @@ to forget.";Has revivido cada recuerdo que te atormentaba.
 ;;;Not everyone makes it this far, you know.;Not everyone makes it this far, you know.;Muy pocos consiguen llegar hasta aquí.
 ;;;"Most people get lost.\!
 They run away.";"Most people get lost.\!
-They run away.";"La mayoria se pierde en el camino.\!
+They run away.";"La mayoría se pierde en el camino.\!
 O renuncia en el trayecto."
 ;;;It's a miracle that you chose to listen.;It's a miracle that you chose to listen.;Es casi un milagro que hayas decidido escuchar.
 ;;;"You won’t forget what you’ve seen here.\|
@@ -3729,7 +3729,7 @@ lo ayudan a cargar con el peso de vivir."
 ;;;His soul,\. that fire has faded out.;His soul,\. that fire has faded out.;"Aquel fuego que había en su interior...\.
 se ha ido apagando."
 ;;;He’s been rotting away in the safety of his room.;He’s been rotting away in the safety of his room.;"Ha estado encerrado en su habitación todo este
-tiempo... apagandose más y más."
+tiempo... apagándose más y más."
 ;;;...\. I hope you can help him reignite his fire.;...\. I hope you can help him reignite his fire.;"...\. Espero sinceramente que puedas ayudarlo
 a reavivar las llamas de vivir."
 ;;;It's my lighter.;It's my lighter.;Es mi encendedor.
@@ -3838,7 +3838,7 @@ Respira hondo, se encoge... llegó el momento álgido"
 ;;;"Toes untouch the overpass
 Soon he’s water bound";"Toes untouch the overpass
 Soon he’s water bound";"Por fin se despega del borde, flota un instante
-Pronto estará en brazos del mar"
+Pronto será acogido por brazos líquidos"
 ;;;"Eyes locked shut but peek to see
 The view from halfway down";"Eyes locked shut but peek to see
 The view from halfway down";"Sus ojos se asoman a través de los párpados
@@ -4007,7 +4007,7 @@ por fin despierte."
 ;;;He might not change at all.;He might not change at all.;Tal vez él decida que no quiere cambiar.
 ;;;"He might just return to the same life he always
 had.";"He might just return to the same life he always
-had.";Y continue llevando la misma vida de siempre.
+had.";Y continúe llevando la misma vida de siempre.
 ;;;Just swimming in the same old circles.;Just swimming in the same old circles.;Repitiendo los mismos errores.
 ;;;But maybe,\| he’ll be able to breathe a little easier.;But maybe,\| he’ll be able to breathe a little easier.;Pero tal vez,\| solo tal vez..
 ;;;Maybe he'll remember the feeling of moving on.;Maybe he'll remember the feeling of moving on.;"Logré recordar cómo es que se siente querer
@@ -4058,7 +4058,7 @@ after a couple dates.";"Y creo que ella también, ya que comenzamos a
 salir poco tiempo después."
 ;;Haven;"I think their latest album was worse than their
 first one!";"I think their latest album was worse than their
-first one!";"Creo que su álbum no les quedo tan bien
+first one!";"Creo que su álbum no les quedó tan bien
 como el primero."
 ;;Haven;I mean, yeah, the singer did leave ...;I mean, yeah, the singer did leave ...;O sea, sí, ya no tienen a la vocalista principal...
 ;;Haven;"It's still a good album! It's just not the same, 
@@ -4222,16 +4222,20 @@ supposed to do when someone’s lost.";"We just need to look, that’s what you�
 supposed to do when someone’s lost.";Vamos, tenemos que ir a buscarlos.
 ;;;"A little wind, a summer sun
 A river rich and regal";"A little wind, a summer sun
-A river rich and regal";
+A river rich and regal";"Una ventisca, el sol estival
+Un alborotado río, rebosante por el canal"
 ;;;"A flood of fond endorphins
 Brings a calm that knows no equal";"A flood of fond endorphins
-Brings a calm that knows no equal";
+Brings a calm that knows no equal";"Un oasis de endorfinas
+Una paz como ninguna"
 ;;;"You’re flying now
 You see things much more clear than from the ground";"You’re flying now
-You see things much more clear than from the ground";
+You see things much more clear than from the ground";"Ahora estás volando, silencioso
+El mundo se abre ante tus ojos"
 ;;;"It’s all okay, it would be
 Were you not now halfway down";"It’s all okay, it would be
-Were you not now halfway down";
+Were you not now halfway down";"Pero la noche ya está por caer
+Y a ti, nunca más te volverán a ver"
 ;;;They're dead.;They're dead.;Están muertos.
 ;;;No ...;No ...;No...
 ;;;That can't be right ...;That can't be right ...;No, no, no...
@@ -4540,7 +4544,7 @@ solo se hará mayor."
 ;;;I have to look;I have to look;Lo haré
 ;;;I can't handle this anymore;I can't handle this anymore;Ya no puedo más
 ;;;You're ignoring them.; You're ignoring them.;Los ignoras.
-;;;You can't bear the fact of facing the past.;You can't bear the fact of facing the past.;Te rehusas a confrontar el pasado.
+;;;You can't bear the fact of facing the past.;You can't bear the fact of facing the past.;Te rehúsas a enfrentar el pasado.
 ;;;What would you achieve with this?;What would you achieve with this?;¿Qué intentas lograr con esto?
 ;;;"It's not our choice to determine whether you
 will get something out of this.";"It's not our choice to determine whether you
@@ -4647,7 +4651,7 @@ Lo que has aprendido..."
 You can't bring your memories to him.";"When he wakes up, he won’t remember this place.\!
 You can't bring your memories to him.";"Al despertar, no recordará este lugar,
 ni ninguna experiencia tuya en este mundo."
-;;;But maybe ...;But maybe ...;Pero talvez...
+;;;But maybe ...;But maybe ...;Pero tal vez...
 ;;;"Maybe he’ll remember the feeling.\!
 The feeling of finally being ready to move on.";"Maybe he’ll remember the feeling.\!
 The feeling of finally being ready to move on.";"Tal vez recuerde cómo se siente estar listo
@@ -5155,27 +5159,32 @@ Estoy demasiado cansado para eso."
 ;;;Why do you keep pretending?;Why do you keep pretending?;¿Por qué sigues engañándote?
 ;;;Pretending what?;Pretending what?;¿Engañándome?
 ;;;Come look, they'll be inside!;Come look, they'll be inside!;Ven, hay que entrar.
-;;Haven;Took you long enough.;Took you long enough.;
-;;Haven;You sound tired.;You sound tired.;
-;;Haven;I think you're just affraid of telling me.;I think you're just afraid of telling me.;
-;;Haven;I have to say something ...;I have to say something ...;
-;;Haven;Our time together was special.;Our time together was special.;
-;;Haven;It wasn't perfect,\. but I enjoyed it.;It wasn't perfect,\. but I enjoyed it.;
+;;Haven;Took you long enough.;Took you long enough.;Sí que te tomó un buen tiempo, ¿eh? *Jeje*
+;;Haven;You sound tired.;You sound tired.;Te oyes cansado...
+;;Haven;I think you're just affraid of telling me.;I think you're just afraid of telling me.;Creo que solo tienes miedo de decírmelo.
+;;Haven;I have to say something ...;I have to say something ...;Tengo que decirte algo...
+;;Haven;Our time together was special.;Our time together was special.;"El tiempo que pasamos juntos fue
+muy especial para mí."
+;;Haven;It wasn't perfect,\. but I enjoyed it.;It wasn't perfect,\. but I enjoyed it.;"No fue perfecto, es cierto.\.
+Pero lo disfruté mucho."
 ;;Haven;"I don't know what you're currently going
 through, but it doesn't sound easy.";"I don't know what you're currently going
-through, but it doesn't sound easy.";
-;;Haven;I just wanted to wish you the best with everything.;I just wanted to wish you the best with everything.;
-;;Haven;I don't know when we'll see each other again.;I don't know when we'll see each other again.;
-;;Haven;Oh yeah, about the flag from the mountain ...;Oh yeah, about the flag from the mountain ...;
-;;Haven;I brought it with me.;I brought it with me.;
-;;Haven;It’s still in my closet.;It’s still in my closet.;
-;;Haven;Maybe it can make you feel safe throughout this.;Maybe it can make you feel safe throughout this.;
-;;Haven;I’m glad we did this.;I’m glad we did this.;
+through, but it doesn't sound easy.";"No sé por lo que estás pasando ahora,
+pero no parece fácil."
+;;Haven;I just wanted to wish you the best with everything.;I just wanted to wish you the best with everything.;Solo quería desearte buena suerte.
+;;Haven;I don't know when we'll see each other again.;I don't know when we'll see each other again.;No sé cuándo nos volveremos a ver.
+;;Haven;Oh yeah, about the flag from the mountain ...;Oh yeah, about the flag from the mountain ...;Ah sí, sobre aquella bandera de la montaña...
+;;Haven;I brought it with me.;I brought it with me.;La traje conmigo.
+;;Haven;It’s still in my closet.;It’s still in my closet.;Aún está en mi armario.
+;;Haven;Maybe it can make you feel safe throughout this.;Maybe it can make you feel safe throughout this.;Tal vez te ayude a sentirte más seguro.
+;;Haven;I’m glad we did this.;I’m glad we did this.;Me alegra que hayamos hecho esto.
 ;;;"
 [SHOW PICTURES]
 ";"
 [SHOW PICTURES]
-";
+";"
+[MOSTRAR FOTOS]
+"
 ;;;warning.png;warning.png;
 ;;;PRETITLE.png;PRETITLE.png;
 ;;;overlayday3.png;overlayday3.png;
